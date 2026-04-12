@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-11T12:19:26.172214-06:00",
-  "date": "2026-04-11",
+  "generated_at": "2026-04-12T08:11:13.854692-06:00",
+  "date": "2026-04-12",
   "weather": {
-    "headline": "Partly Sunny then Chance Showers And Thunderstorms",
-    "detail": "A chance of rain showers between noon and 2pm, then a chance of showers and thunderstorms. Partly sunny. High near 77, with temperatures falling to around 73 in the afternoon. Southwest wind 5 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 40%.",
-    "tonight": "Chance Rain Showers then Partly Cloudy",
-    "high": 76,
-    "low": 58,
+    "headline": "Sunny",
+    "detail": "Sunny, with a high near 77. Southwest wind 7 to 13 mph, with gusts as high as 21 mph.",
+    "tonight": "Partly Cloudy",
+    "high": 77,
+    "low": 53,
     "source": "https://api.weather.gov/gridpoints/BOU/63,62/forecast"
   },
   "calendar": [],
@@ -20,110 +20,103 @@
     "sports": {
       "Broncos": [
         {
-          "title": "Broncos legend who teased Jaylen Waddle trade now hinting at another move - Predominantly Orange",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlNJY0hXUmI0Zjhmck4tZlA5MjB1MmxYbEFzR3ZjdTFVZjZaT2xVLWpoZVZ0b3NjTGxOZWY3S1NhamtXMGlUenhaSnlqbHJEd0o5cGFZdDhjSllsbnBQU2tJZFBlLTFzekxrRmp6NUY3VTctWjhFSGRkczhHWmlEZUtEdTVKY1gxWDNxc2xwOE54Y2p5RS11NU9ENTgwbzRGT3VxbUphNk5tNmR5WUNuTFdxZDFLM3Q3VHc?oc=5",
-          "source": "Predominantly Orange",
-          "published": "2026-04-11T08:18:42-06:00",
+          "title": "Broncos met with 9 offensive linemen ahead of NFL draft - Broncos Wire",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZE5NVHVRRWkzYVZuNzZQcWFDd3RHQXRCSENNRURDYkVIdDhpWUZnV2xERUZKQjh4dVEydTBlZmtVTjgwLWZmM1hHNDlBWGVQM19TaHJ5clFSV2lwOE1kUWpiMXZKNE9tQ3B6ZjQya2FLaWpUVEU3eWxDb3g2MDlveDZZTWlaZlBzMVJIaFpubnlhdG5yOE1SNVRFZkVhYW42dmp6UGlZLWZHRFFSVkYxRTlzMEYtY0VIemNnWnRjSmRSakw2ZEliVA?oc=5",
+          "source": "Broncos Wire",
+          "published": "2026-04-12T06:01:00-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Ex-Broncos QB Paxton Lynch\u2019s football comeback in Denver ends with season-ending injury - The Denver Post",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjRUY244UU1ZQmxrRjFNbW9SLXU3QWdMU2RtdmhhMHdXb1hTSS1xWDVTTEpmc3lQTEJ5SWFPZXVRNmdSVUdzdGpLNXRMem9MbzdNQmtndDhLSWd5aHk1UUFtdzdETmRNY21vU0V0Q0xaSXYwcnFXNVUzRTZtMWpCbTZjenRHcllBckJV?oc=5",
+          "title": "What\u2019s the Broncos\u2019 vision for Jahdae Barron? How former CU Buffs coordinator Robert Livingston can help - The Denver Post",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVdPc2pJU0NKMGh6TWxjUERJZXFLY29EWmZ5MVBXNFJhSmN3QTBYd1RDc3BNOXBCQVZzZHhZaGZZaXBJc3NjczMyODlnMU5jTGVWQUEyYTBmeEVfZE9vbVVhVUhIWHBGZ3lhbDlnRnFVT1l5ZDl2NWduXzBDNGdDd0ZBOEY?oc=5",
           "source": "The Denver Post",
-          "published": "2026-04-11T06:00:43-06:00",
+          "published": "2026-04-12T06:00:31-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Most Denver fans believe Broncos are the team to beat in the AFC - Mile High Report",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVhtQWVUOUExX2lEZ0h3bHpIV3JhTEhBTE41RVlIenR2Zm9Fb1FXbW9ZUjc4YjZGMGhvMVdtbEk1czV3bktWSmFINndaUXNJblZqb1pEcGVOZHg0Zm5yUWdLX1JhSzhCMTBzcy1FZ0h4UEFEbm5lM1dGZUxrYy1MYTR5cnNoalI5WGktall5MW0tWTdTQ1dBU1NycDdTZ1FoVHRQc3hXNTZKU2huZzdxT0Z1VHJjTjVrV1ZLVUQ0WQ?oc=5",
-          "source": "Mile High Report",
-          "published": "2026-04-11T10:53:13-06:00",
+          "title": "Top 5 NFL draft steals in Denver Broncos history - Colorado Springs Gazette",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeklmYW1HVnZjZVNZMzViSEFrQXcxb0FVVUF1amxCaUZDWk00Sy0tVVpyMTlNbUV4LWVHX1A0d1Vvdjl6V0RjR1puZlRXcEpDS2tXUzZMYnR4MTcxbTB0dHFqZHR3eDVsa29kSVc2d0JLc1pweFdvLWJyeThuZmhuSzBiSnRRZE0?oc=5",
+          "source": "Colorado Springs Gazette",
+          "published": "2026-04-11T17:51:32-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
       "Avalanche": [
         {
-          "title": "A Visit from Vegas - NHL.com",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ncW8tSVlHQXV5YkNMUWJNQUJmT2FzbE11YXRnUVJXSnpYYWI1aGR5aDdaS2dYUDdXZDlzS0QxelpEWDRYRHdqR1dkcVlYMUwzTjREZkhYcWppcEFpc2Vsak5LM0dMUjA?oc=5",
+          "title": "Postgame - Pratt (April 11) - NHL.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RS0szSGZ5UWxsU3RtQXc0OXBWal9zb3JZRUVfMUtHT09nSHhFXzRlYkZuMGV3aWJORFZyOEM1aEdoWjM3QndLSEhZRWNQSjE3V1BUeEE3cXVLc2hCX2o5cEF5WGplV1RqTU0zOERWNnZFWjhPMWJSTG9BZmJ4UQ?oc=5",
           "source": "NHL.com",
-          "published": "2026-04-11T05:05:27-06:00",
+          "published": "2026-04-11T22:00:13-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "NHL Game Preview: Vegas Golden Knights at Colorado Avalanche with Line Combinations 04/11/2026 - Inside The Rink",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjBFeXRsQ0FOQW9lak1SQTgwTVlOZ2RQR2kyRHpRZXR0UVBDeThLLWxmX1QyTC1saHFXNWNyS1VsWV9ZNm4yclB0ZDU5UFV5V2R4RWRkMWlXaVdRMURFcnUxY3lNMFNkNHc5T3dOSGRWdFVvUXFtZTJkbDl5cDd6anY4c3NZLWZiMERpbzNmamgwcUdIOEktR1k3RHpSUUpxNG1ENldZYm1pTWUxMDE2U1l5Z09NTFctcFdLWA?oc=5",
-          "source": "Inside The Rink",
-          "published": "2026-04-11T04:54:55-06:00",
+          "title": "Top college free agent T.J. Hughes to sign with Colorado Avalanche - The Athletic - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjRsUTVaZHFiVGc3MzBxcjQ5aGc5cFA3aHQ1VXJNWTVSaTE5ZkpXWEx2VjN2N0RFQnNDbjB0QlRFTWhseFlIZWN3N0xRcDdSN2JWd2RrTWl0SVg2V2ZjcVZlV3BnQnRONFJOTnFvUGZCTFc4LXFjRGNNSlF3bE0xQk9ZUV9VYVktZlVoZklNbmRBZkJW?oc=5",
+          "source": "The New York Times",
+          "published": "2026-04-11T14:36:28-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "April 11th NHL Power Rankings | Locked on Avalanche Podcast - WWLTV.com",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZ3BVeFFvOTJuYkJSOG1YSHNfcVRIdEJ4aExyek9XTzVtZ29Edm9vVXBldmFjVUxFU2F5ZHp1Z2pUMTRNd0ZVbWhOSXdXNlVUZUlERnctbG5IRHdYMFBNMTQtM0IyLUx1eFF2OUtkMTc1WENYNVE1WENQOVd2bk9jT1d4U19jb0szX0k4aUpFNUkzVVNQaDVKR3FURUdVMXFRZFFVWUNoTDZwSzBVekdzOXZYNmlBY0FCZmpvWkhEbUNOckdOdXF2M3A1cG9NTUlDendFSVNjdjdHNDl1R1RlenFPek1EMVl2bjM4dzdQRXRYTEoyLUJqU2lFeEg?oc=5",
-          "source": "WWLTV.com",
-          "published": "2026-04-11T09:12:00-06:00",
+          "title": "Avalanche Lose to Golden Knights, Jared Bednar Needs to Rest Key Pieces & Latest News and Rumors - Substack",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MWFFpUjNXYWFBWVAyQXJrR2hWeGRZTlJyUERBUzVVeElQMVNvMlFLWV9KVVNub3BtOHBtYXcwMFdvMWRIanFfVC0xa3BNc3NCZEIzVDBmZzFjdFhrYlZjZERIeVZ2OEoyQVBSUXlaQW5tbk5XTTdJMEdodWE?oc=5",
+          "source": "Substack",
+          "published": "2026-04-12T04:33:42-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
       "Nuggets": [
         {
-          "title": "Nuggets Address Nikola Jokic's Availability for Season Finale - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORXozNkk3Z0NFVmY5MHJrak9tMUxRRy0yb2hFb3ZSM092a3NMT2xNVV9udFhpTDhyMzM3WEhpRU1YTFBoNDljal9pWWpGcWZpY0FFVXJWb2d5ZGtUWFhxTmprOHQtQzYwcjJuWkcyT1BhR0xMVWUwalAwNDdUUjRmYmwwMWxoNXh4YURjb1FzMWxrTzAtNTZVTnN5WmhFcF9YUWdzZjl3?oc=5",
+          "title": "Denver Nuggets Make Aaron Gordon Announcement vs Spurs - heavy.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTVhcXJHajZTSER1UUd5M1dGdHB1X0xQaFMxdXhheTFDdldKdXdXN3FTZG1TeXg3S1NKa1JQbHRHUl9ENFFiV3V5eXk1b3RvQVJLcU9SNkFIZXdTdkVTZ2J2N0Zzam5ndmppa1RiTFBPa3RqMERORDNJbDdHMGxtb3RaY0tOUnRF?oc=5",
+          "source": "heavy.com",
+          "published": "2026-04-12T07:32:12-06:00",
+          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+        },
+        {
+          "title": "Projecting Nuggets' Lineup vs. Spurs If Nikola Jokic Plays - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQi12SkVETXF3X29wbGFmWVJsQWpjenBNUzlST1I0Vmw1WGJEUnY2SWx5eDFDNEpDOURyREhkcVhVeEVUa2t0UHdQSUI1ZjBPSTV4VkpXNHV2YXppckk3WkRMT0F3b0Z0N2JhZm1GS3ptdFhoYUFydS1jd1AwV1E2QTFkbWVKbEZmZmZ3aHNrSnJxWUVqdTZ0cFhXWUxyVHozdlU0bTJ6VQ?oc=5",
           "source": "Sports Illustrated",
-          "published": "2026-04-11T07:00:03-06:00",
+          "published": "2026-04-12T07:40:35-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Spurs vs. Nuggets: How to watch the game, who's starting, who's out - San Antonio Express-News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTGt2dG1MYkI0NzhxNWhhY3YyX1EwemVkWDVyOGVVa1NDX3ZlUGxGT0JhZHFrNkdaMmw5eVZKbTlZYnBDSmZ4VWhRQWt6djlHOFdTak9IYUxuc2JNTHBhdUpYSW8xR04wUUQ4OUYwamp2NWg0SVdJbFFUZnJmQWJJS1J3M1FMZXY0dDdseTV5UHhYVU9SVGJULTUydDhJRGdtcXdjb1FBMlJ6c0E?oc=5",
-          "source": "San Antonio Express-News",
-          "published": "2026-04-11T08:06:32-06:00",
-          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-        },
-        {
-          "title": "Massive stakes for Nuggets in regular season finale that go way beyond 65-game rule - Nugg Love",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWoxQ2JnOFBnZWx4bnYyM1NmVGk1elRYQzZtdGNwYkt2Wmt4UkhMSjFpNV9wS1BWVzNpdGJvQS03d1JGeHVnRHZES1lxT2VQbUotdDh4Rno0RXpWaFhvQzFiZVFXRjgxTlgzLWRUdm9TN2ZHZ091RG9ja01WQXZ5QmR1dFNWQUxPWVJ3WEVubEFHVEw2XzV3?oc=5",
-          "source": "Nugg Love",
-          "published": "2026-04-11T10:25:24-06:00",
+          "title": "Game Preview: San Antonio Spurs vs Denver Nuggets - Pounding The Rock",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakVwWTNOSVVIX01tZUJ2TEtRcDhiOFZHckI3b3FTbU9CeE50WWN2a3lfaDdneFBCektzWTdQUm14VnFHNzVXUm1nbUZCamd3R2JQRmhFLUtSX1B0Mk1MVXFzSC14Y3o0UVBlX29tLTNkdGNITUFxbzk1blB0OEpiY0xnUG52WW1MRVVHUkJXZVNZVFFZbEliN3dka1Rncm8yTkYxeXBaanpuQQ?oc=5",
+          "source": "Pounding The Rock",
+          "published": "2026-04-12T01:00:00-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
       "Rockies": [
         {
-          "title": "Ethan Holliday's solo homer - MLB.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2MUl6OGlRYU9TSXR6Tm05U2JuTFFBLWRxa2E5T0I3OFR4R2lJSlRVQ210dUtCNjd0NnBBdjZvMTZ3dXFRSVl3bHhHamhLTy16elBydDhET0RISWNHa0lmeDZkVVNidFYxS29CTS1R?oc=5",
+          "title": "Colorado Rockies at San Diego Padres Game Story, Scores/Highlights - 04/11/2026 - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13VE9ZZGpadUQya2RuX0lkTTR2b3NHaFZIY1BYd2pUa3kwbkNEMkpnNFI3bDlHdlZJUm9LNHdPVnRYYWVCV2JKVmlrRkF0b0JR0gFQQVVfeXFMTXdUT1lkalp1RDJrZG5fSWRNNHZvc0doVkhjUFh3alRreTBuQ0QySmc0UjdsOUd2VklSb0s0d09WdFhhZUJXYkpWaWtGQXRvQlE?oc=5",
           "source": "MLB.com",
-          "published": "2026-04-11T07:58:41-06:00",
+          "published": "2026-04-11T19:08:42-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Saturday Rockpile: The Rockies\u2019 offense needs a monster \u2014 and Charlie Condon might be it - Purple Row",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGlvUnBzaG5iam9UNlRzd214eDN5V0hZUUw4RVgzM19ESWJtek9IcWxHZFZabktNNzVXeERPMkJSLTFsRHNRN1pHeDItYTlzUHhqcG1GVy1YenJfcWhCdHJkR1FxQU9vYmt3UzcxeXlHSmdDZ3FRZDlVOGVlNTRfWWlUWHFCa0ZvRTFmMjhmbTVibVRKZ1lRY0owbDRPdkg2b2Rmckh5bFVoMTNVZFJwejZLeGN1NlU0Z2ZFVlQ2ODc?oc=5",
+          "title": "This Week in Purple: Tonal Whiplash - Purple Row",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVJlcXprTFFUenFJTFY4bTN0bjc1NDNESG9GVVBkYkdlZ3lKNU5nUWQzWkllclY3eUN0ellzWThMQzBZTDJYQ0xRbXhGbldaLVhhb045Qkk5Z1ZwMzNkNWJxUTJDcnZLc092TzRScUY1UmtaVVNRYWRBTl83UElPY0lRSDAxZDZsMmFfUmJ6UGdyUQ?oc=5",
           "source": "Purple Row",
-          "published": "2026-04-11T06:00:00-06:00",
+          "published": "2026-04-12T06:00:00-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Rockies\u2019 Kyle Freeland wears 10 years of pitching at Coors Field with pride - The Denver Post",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHI2cWRycnNIaE54TGR0b3RhdTdrbDIzb1RkUHNxOEtlNEEzUWJsT2RHbTZ0Q3VfMEdWbUxYUzZRTmNEa3pMVkJtNTgtb3NZVFQ2OFlOYzRDeWlyTlYxWGt2aFdlaE1DbVZfSGJBaEFhYjd4aEIzeTdHRFhfeTZzM2lIOGVBWmJwVHEycWp4WUdfLTNEM3YzQ3NB?oc=5",
-          "source": "The Denver Post",
-          "published": "2026-04-11T11:29:08-06:00",
+          "title": "Where to watch Colorado Rockies vs San Diego Padres: TV channel, start time, streaming for Apr. 12 - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa3M1SVNCbV9rTEpyVnQzckZyQWUtc3R6cWlJbG9oV2xNUFQxbjUtb19NT0NqbWlONE5UemN0bFgtZUtZa25ON0JJLV9FWGVEcVhYX3NEYUNNSmw0T0xGSzBZaDRCZGF6ck42Yi0xc1JLbnhwTDN1dTRCY29hemdsOTRTNktndHNNVFdDLVlZdGVEREpybm56X0l6bks0cGh1UXpyZ0RacHZ6S1d1N0xSak9LTXNncUh6UWVHajNjZkRoMUFXandpX1NrZFFEZw?oc=5",
+          "source": "USA Today",
+          "published": "2026-04-12T04:13:00-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ]
     },
     "us_news": [
       {
-        "title": "Exclusive: Iranian source says US has agreed to unfreeze Iranian funds, Washington denies it - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0tYN2FaMjhaN1FlWGJOM25HaUhEOERsaS04VWdHdWEtNmFsMW1peXM4NEpXeUtmX2lLejFaM1lLelpIUUs3VFI0LUdCX09VcFM5WlgtNDBiNW5CM2dGa3BqV1NzeHp3dHA3VFVDTzlELUpsREJPTDktY0poVXhWZUJKUUxNR2dReF9GbVNzVzZuUGNRM21NbTZhS29xREZ2ZHlUWEVHZFlScHdtQjBteHlkV2V5Q0hmMGZUM0dLb1pyV05qWFlr?oc=5",
+        "title": "Trump says US to start blockading the Strait of Hormuz immediately - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3I3U21xU29jUFBkX2loNlFCQ3NsaGhrMHByU2VCTGxuaVowU1JZVEUxNFBhempjenlHRFNOUlpNTml2cXItZGZxMGoyNzlDazhfbmN4d3ItN3otbDBqQkhKeTRwdk9FVTdlRVVJR1VYM1RSeU12MHJJRk1vMVVDRXA1NldxTzRULTJOd3JNZkxNOHJMYXh0OWVCNjU4cmo2?oc=5",
         "source": "Reuters",
-        "published": "2026-04-11T04:39:57-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Designs unveiled for Trump's proposed 250-foot arch in Washington - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT01tOFA2NTY2aG0wQmE1NVo0b3FOWXAzWVpiZlktOGdhZDJHMFF6UDdWQTB2X2xZSW1HS2JOWU1yekVtbEFZTXJyRnNOQkN2VmdIU2hGT3FPa2dPRWlBMzQ1dGZNc0kxMVFFRVlnaERuUXRvSVdYR0hLSDRpeUVUeDRKUWZGUGU0cjVBeGJHMnJaSWxSVTZOVTBTb2tBaGt5?oc=5",
-        "source": "Reuters",
-        "published": "2026-04-10T16:04:00-06:00",
+        "published": "2026-04-12T07:10:36-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
@@ -141,19 +134,33 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Explainer: Why are people talking about the 25th Amendment to the US Constitution? - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVpvOGVOYUI0ZUR0SFNTQkFsVWRYcVNaTmhoaHdqc2xqbnYtNHUweEcxcl9EWVgzRkNOZFFrTWluMHdWU1lZcUVlbFpMWExmY19pLUVUVl84V2NsUmplaXVUNG1Sa1RnMGxVNXlQYzhGQnZUWkNPNWxQQ1pBTWNYYU1zS2JQSkJWMExlWjNrMW9aYXg4UHgtYUxDOHVpdWVlb3lzTUdIdw?oc=5",
+        "title": "Costa Rica receives first group of deported migrants under third-country agreement with US - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFBMVzZEQUFaR21PbXRPQ0JZclpyV2FyYzdZRUZYRnY2NzJ3VjBIN2FmOGNNcXRUZ0FjNXFzeUtvUXU4VzBNOE5GVk1Gc3JJSFM5ZVpQTlB5Wi1sb3NBNFhVakJQVm91eDJBalg2czdFRnctYWVxa0Nvd1JLRFZid2ZpYjBnRVcweWkxZXViUFBfc3MzLUNicFZtRHFXUDJoR19rT0N5cUJtSFFiYVdCYnByVDltNVBtSmFwc2NPcGVkemVQT1E?oc=5",
         "source": "Reuters",
-        "published": "2026-04-10T15:14:00-06:00",
+        "published": "2026-04-11T17:41:43-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Trump vows to blockade Strait of Hormuz after Iran peace talks stumble - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjB6Z0FIdjZ3alpsY0IwMkFGNUdoY0RYQUVqMjJ4TWdfVmFaV0ZtUUJJaV9NUzFwQXlSbnFGMzdSNG15MlB5UG5qZzhqX1JuLUJKZ2hQSTZJQ3owREZmY1cyTVAxbWdiSElUTG4xb25VN25Udm9FOXpuUlRvSlJKVXJlOVhpY2Q4aW82OWppY041RzJPeW9FQ0RkcFd6VEhz?oc=5",
+        "source": "Reuters",
+        "published": "2026-04-11T17:21:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
     "world_news": [
       {
-        "title": "North Korean leader Kim backs China's push for \u2018multipolar world\u2019 in talks with foreign minister - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTRxUTZ3RVNFMGQweWs3UkZZSi00OWh5X0tScTFPZjJDWnRUVV9GazFVTlNkUmNMcjV0Sm9LSmhiZjU4ekZ6aV9oSXEwN1hpUzBVYl9sS0F2aWFWLTB2bjV6ZWltN1htYkJHZktMbXRqMUZhUVlfSVlwSW41dHVRVTRUZEUxZ1FBSS1VQWN1cVd5TThzYTNr?oc=5",
-        "source": "AP News",
-        "published": "2026-04-11T03:10:00-06:00",
+        "title": "Economic shock of Middle East war to cast shadow over IMF, World Bank meetings - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjVjWTRTMHFUV2RHeTIzQVlNcmJicEJZQVhsSVpOOTVhVnY2SmdDeEpON09iSHE3TFg0bi15NE9EQlV6TktBSllHQTd2V2JfRGlBT1Z5UUZnZU44NGxza2hlbmFLNnJKLWRvdTdQSEx5R0Y3M191czA1bERveEFYV1hoR2JPeVNaVC1rT1UzeHFhZW5mc1F0bWl3RzQ2NEF2MjZWV2pEZVBCWDdVSVBUM2hhdzNoTldYc1FzT01HZm9vOFhC?oc=5",
+        "source": "Reuters",
+        "published": "2026-04-12T04:47:56-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Trump vows to blockade Strait of Hormuz after Iran peace talks stumble - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjB6Z0FIdjZ3alpsY0IwMkFGNUdoY0RYQUVqMjJ4TWdfVmFaV0ZtUUJJaV9NUzFwQXlSbnFGMzdSNG15MlB5UG5qZzhqX1JuLUJKZ2hQSTZJQ3owREZmY1cyTVAxbWdiSElUTG4xb25VN25Udm9FOXpuUlRvSlJKVXJlOVhpY2Q4aW82OWppY041RzJPeW9FQ0RkcFd6VEhz?oc=5",
+        "source": "Reuters",
+        "published": "2026-04-11T17:21:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
@@ -164,98 +171,91 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Middle East war to cut growth, deliver cascading impact, World Bank chief says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObW8zc2RJNmt0ZUVldFRlWmctY0sxdEhFVzUyY1dtcndxbFh1emVrdGh6LVptZnVNZVAwdlpqT0NNVDFvWnFyYVFPVEp5NDBYblRQY0hyZjQzb3NjVV9PWUxrRjdMby00VE5NRGE0aTVvUm8xZEk3MjU2RkFJM3hPY2h3NzVKR3JJbzdVS29ORTdBelJReW1nMjBjb2tXSVN6bkdxeGpFaHRnUElCdmlUOFYyTWVodW0wem54anNHWXJBWkVIUHc?oc=5",
+        "title": "Indian singer Asha Bhosle dies aged 92, ending 'extraordinary' journey - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHZyYzNTeXM5amRXaFFtUEdfc0lXTHViakc4SzhJUDA4c05rbV9Id256SnVFempCZnRxeEtkbFdvZXRCU0p5N0dXeEJqYUc0V0VUdFpDWWdxT0JienFxRVJudUxDUEd1OW83QlFSa3EyMGZsM1ZRQjZEQTkyQ08xRGRsR0NHTm1sRmNadXRIODZhaVlaeGZYX3EyT0twNDBNWGRhSXJzVW5hUQ?oc=5",
         "source": "Reuters",
-        "published": "2026-04-10T13:02:00-06:00",
+        "published": "2026-04-12T05:52:42-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Nike probes kit design issue ahead of World Cup - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZDdoYTJaNXEwLUFxU05mc01WblBaelVGZDA3cDdMXzRPRWJxOEdLb1hySTNnbFNLRUkzbGl0UmstSWo5TXlxRXBkY0JEc09meEJ6VV9YNFlCaTJNWHpOeWswUm1HZVV4WXlGMlc1c1UySTBhRU43VEpyTTMzdzBubVBIclpjN055c2lXeVNSOTZNTWJ0TGJnTlV3?oc=5",
+        "title": "Trump says US to start blockading the Strait of Hormuz immediately - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3I3U21xU29jUFBkX2loNlFCQ3NsaGhrMHByU2VCTGxuaVowU1JZVEUxNFBhempjenlHRFNOUlpNTml2cXItZGZxMGoyNzlDazhfbmN4d3ItN3otbDBqQkhKeTRwdk9FVTdlRVVJR1VYM1RSeU12MHJJRk1vMVVDRXA1NldxTzRULTJOd3JNZkxNOHJMYXh0OWVCNjU4cmo2?oc=5",
         "source": "Reuters",
-        "published": "2026-04-10T15:46:31-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "US intelligence indicates China preparing weapons shipment to Iran, CNN reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkZfMzl0azhYUk1mSTY3dHVqcEpoSWhySS1sdVQwZzFySmNXeWZobzlKYnB2dHVGeVNjb1F0RE1pdjVRQjZxblotcW84Wnk0UDdMdGFqNFJ4TFo5ZGZ1NUhsejItN3VXSFlSeWhWUlM5SEhZTVZGN3UyUHlkUnFlM3NSNEh2ZTlaQ3dGNjlRZVFnOUl0UGxiODFrRUVnMmR3Q3N6aEVONWhOV1d6WHlxVWpPV3F5cG1mcTYxVWdnRlk?oc=5",
-        "source": "Reuters",
-        "published": "2026-04-10T22:32:00-06:00",
+        "published": "2026-04-12T07:10:36-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
     "auto_industry": [
       {
-        "title": "Weekly roundup: Ford tariff pressure, Bernie Moreno on industry challenges, broker sales crackdown - CBT News",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRE5xbnYzaUlVLXNIYXdvYmVjRm9KbnBITVZvMEtsLUtlcWt6RUszRmFuMnM5VG1rcy1RZEk0LV9ZZEFuVFo4OWZ6cjlZaEhDbFp5WWJtUHY5VjRKYWtkVC1uN0xGRHVkc0RybzNDSEYxTWo4UkE3R2tqSWVDSzlycko3b2pjdXZvOGM5OXEwaXJoa3RaWFlRYnFFTG04ZHliRlRyTW8yQ0NFc0F4MHRxb2ZkS19COUQ5ZUMwMA?oc=5",
-        "source": "CBT News",
-        "published": "2026-04-11T02:59:51-06:00",
+        "title": "China Auto Market 2026: Foreign Carmakers Shift to Exports Amid Losses - News and Statistics - IndexBox",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOclI4ME9MdmpwMXF4UDcwX0xXQnUwRzVBbUgwbHhETFVOZ2pqNFhFX2hETnZjWnh3YXdCaVIzNVBPSEpEQlRSc3loREJpekZMS214S0VWSXUtN3k2NmxxQlRzWVM1YW1QZzRlSnVTMzJEMnc0TGxydHFTWXl6SDNIdldHMzZ1ZFlYQldYUGRCdm0yallaQ0RPM1pkV1BydHhvdHFBZkp3?oc=5",
+        "source": "IndexBox",
+        "published": "2026-04-12T06:02:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "The loyalty loop is dead: Has the auto industry missed the memo? - Campaign US",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0wzb1NsWDFKenQ4Y1FGUUV5LXdBaDNkbXBObnA0anBzd1VwUXBCRF9haExPOEQ1ZGJ6eXkydGRuM1FRRUdNa09JZTRCaHRNN0h0aFFFT2p0VUN5Yi1LbkVRX1ZHeU1Bai1ibXB5NnBDVEpLVzhTalJadlJLZlBPU3VZZlRTTE5NLTJWZFRCVjZpQQ?oc=5",
-        "source": "Campaign US",
-        "published": "2026-04-10T14:47:33-06:00",
+        "title": "Driving the Future: GCCs at the Core of the Auto Industry\u2019s Reinvention - Autocar Professional",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVER3VWJsQVVnaWhzd1NxZXJuUXVkckZyeEdjQnJNb1ZmUHVUODEtR0s5LUxvcU5Ld1RUd3B1Z1lyaDlEWGRuUHdweHIxSWNvcncyaGQ2c1lPbHF3M0lhQTZoNVdkZDFJTXRtbmhFMWNDUDNwZlNOMDFuUGVxaUhiaU1pcXA1WlZBSEFuYXEwUDJqQ2dfYWpNMUtuQld4VndST3BNdnk2Y09sQWJCYXhIQVdpN0ROaUJQ0gHAAUFVX3lxTE84YzhRalFiZGpfdTFHdTlpQWRhbnpZY2Q5c0VKT0Vva211MTkwZk9jNDhZS3RHTnBBemJGZTl1T1lQTUZHam0tS3JmdC0xVVlwTEtNdXZ3ZGtFcjl6Q3pScWphRWlXRDQwNFBlTjFKczNIOV9rQnd4TmNnclBJS2VCcFNQREV4ZlcwekxNd09wRXNLeUZ2QnVGa3daN1NQQ1JqM0pFWkRhRkFzN0dxbjFPSTFaeEFZZ2lUUGtIMmhKYw?oc=5",
+        "source": "Autocar Professional",
+        "published": "2026-04-12T02:40:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "US auto industry faces at least $35.4 billion in tariff costs - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVVpfOTRpOW1FYTA4aGJNdDd0NlIya3FYVnpIVEdUb2l3X0xCWGJvSXFPdmQwTTU2cW9FM1l3VXhoVTN6dXVRaU01THlzVW1HU0E5NXhnUU9NUUhaUmJhYnhGeE9hTHQzMllCaUhWeXJwUVpOZmtkVVBTajdxU2lod0RGc2U4aDdHQVBzYndCUlBUamZFUENkN19ZT1lYR1I3QThNM283MFZkLWRlQ1ZxcVVBQ1V3ekpjOVZ5azI0eUtsMkd2Q0IyTE1taTZHOUNMR014NTVfaTFoLUV1MFE?oc=5",
+        "title": "Despite tariffs, Mexico\u2019s auto industry showing growth so far this year - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOYk5jNFNKVE10d0poallfTG01R2lmVXZydXhyUXlZT2J3N0JrLTB4OERIWkU5OXYxWU9WSGFmRzVVNXpsdEtzay1GLWZGRkJvTE5FanBQeS1obEd4OUpoXzJlNGZOY2llTkR3eTVmY29jSV83VFh1aWJyTzVaN0VGaml4LUNZeFlLRUdycUJ2TUFCQ3QwQnhNR0IyYXY4MU1qQ0xMM1lYT3JpQ1U1R1lkaUNVcGZ3dmdDYktzQkFqU0t3WUxXUHZGU240RkM3OVBBb2VlaE1hNGNvaGlfUUM1N1ktS0xVOGRqUlR3MUlVdGFkSHQxb1NyN1ozc0RtVEhEY25VWklXcWptMGNVTVhVaGxnTTdYMUhHbEVvTHVRV05semR4SzlrMVBVNWNfXzdRb2VRT21UaENvbEFCeW9rLVJLX1hjbmgwRFp4bklhRVh1dw?oc=5",
         "source": "MSN",
-        "published": "2026-04-10T23:51:32-06:00",
+        "published": "2026-04-11T14:05:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Ford Is Taking Lemons in the World's Largest Auto Market and Making Lemonade - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTE9yLWRhWUtNM25QbFk0OTZyYS02Y2RVdDIzT2JiN0tZREdyNWpaVUxweUdaQ2U3YW9NWUZwN0RwOXZrTEJGbWxBc0o5eHVxQ25INHJIUFhpZmRuc3huX0RydTF5bWVhR1JoMDJ0R21kdGlWT0dNS1huaklQSmtpeDB6bDZjRUhMc1gzUGlxWVlQQlAxTVRJcnptSk9sSkltTGxORElJMm91b2hYY25QZldkWXpuLUFjUlhFaUQ1cFdUX19VUFcwZGUtdUx1QWNuai10ZkozY3Vud3BOTmM1R0RPQk5vOV9qdmlHdWNKc3VhQQ?oc=5",
-        "source": "The Globe and Mail",
-        "published": "2026-04-11T07:57:00-06:00",
+        "title": "Why Britain shouldn't fear the rise of Chinese car imports - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWNmtqbGhOaktKaWNNRVlIUzY5T3ZZWlRGQjlGWG9JRjN5VU5wakROVE9UREhpc3NpeTZNdklXS1ZLRVhJeGVaa3hZWVdsdGxmV1drN1RCb1ZMZw?oc=5",
+        "source": "BBC",
+        "published": "2026-04-11T17:12:58-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Despite tariffs, Mexico\u2019s auto industry showing growth so far this year - WNTZ-TV FOX 48",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEZibHQyM2drR0hJTEpNOEpvWDlONm43SE9lNDZ4SXZXc3RWaU1RLThqNGFCVXZ2U3Q3SV93aXQ3YV94bTUtWGJJNVVlZ0JSbVJHN0hXSGV0TDJ5TWg2ZUU4QnVOWF84TmpoQ2JEanNwa1RFTngybGh3cmRIYzhpSnFtTWc1ZkhhSmdybW54c3ZVaVA1TURGbUliWVNacTM4MjU4N1dBSlRYb3RoRG0wZllaR0d5WkpLZzVz0gHAAUFVX3lxTE5MZktHTHdZZlVTTWNsMUIwSTVHMWRoMmtnVlRVMjRlTWpHZlM0Ukw5V2xMQU5uZTY3RzE3MkxVeXY5UVpDcUQwSVdTLWxPTHh2aDNITjR6NFBFbmVVeC1tVmQ2RENuWVFCTTZ1Q19JMEJWdWdrOVpYR2lDZ2FwOWdxbDBISEVsVThXZWZmYUpDbXhYaXVfM1gzVWFfUWVRY3lNUE95OV9LTVB3M0ktT2xtbmlsUWJ1cTE0Q2JXdGt6Yg?oc=5",
-        "source": "WNTZ-TV FOX 48",
-        "published": "2026-04-10T18:26:00-06:00",
+        "title": "Price competitiveness key to Hyundai Motor's China comeback - The Korea Times",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU0FHOEItdTNWRDhqUDBvc19aaVhXaXJKQllGXzJwZXQ0UTJHcVlKWXJFQW9XS1JVVV9vZ0tjU29aQUNLOUVsNkhQN3ItTWNkN0RjWWN5NlRyLWhqX3NMNmcwdkIzeUFrR2lqdWo4STZ1Tk5JcE9mOGZVV2ZPQ0czSUw0VlNIa1UtSy1Lc1Y3OVVkU3NxZmRQa2xnVFdDY1h5NEIzWGY0TW1YOWxJOWdMOGVZbVBqMVR4VDZv0gG7AUFVX3lxTE5TQUc4Qi11M1ZEOGpQMG9zX1ppWFdpckpCWUZfMnBldDRRMkdxWUpZckVBb1dLUlVVX29nS2NTb1pBQ0s5RWw2SFA3ci1NY2Q3RGNZY3k2VHItaGpfc0w2ZzB2QjN5QWtHaWp1ajhJNnVOTklwT2Y4ZlVXZk9DRzNJTDRWU0hrVS1LLUtzVjc5VWRTc3FmZFBrbGdUV0NjWHk0QjNYZjRNbVg5bEk5Z0w4ZVltUGoxVHhUNm8?oc=5",
+        "source": "The Korea Times",
+        "published": "2026-04-11T23:08:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
     "auto_software": [
       {
+        "title": "Tight inventory pushes used vehicles to three-year highs in Oklahoma - The Oklahoman",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmU3R3BUa3JCNmRBZm96MWlsVWtXN2dlTGliTmItanhlaVk1VF9VdVdIQTF1LVRKOFRvekJsUEVlbDhyVUlkdzZocUN5bWVCLW1DRkxQUVpkS1B3cG9qa2p3WUdDQ2lpdHlEV2JzS2RzNHMydklzQUVaZ1ZkZ3NoaGFGNjYwS2M2a2N3SDNQd0xGM1BVSEdRaU9HTUxDeXdwOVh5amw2Ti02OHdnd3FkZkJ1RVRXeEdIREwxMEhiV29tSXh3SkZCaXhB?oc=5",
+        "source": "The Oklahoman",
+        "published": "2026-04-12T04:04:00-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
         "title": "Cox Auto: Fixed ops revenue is at a record, but easy money is still being left behind - Car Dealership Guy News",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaGN6MmdhbnhaVXlMUG9xcEZqbjBVYnJMWDdLMEp3RjEzcUo1elhCWU9VZ085bFBIbldzZDVyOE9zU05xUHdnZWYtX2dJOWdMQ3dqYlM3M2VzXzJDYXNTR2htcnNzY3NyeXlnNE1ld05NUE5zbnRKT1dnbmQ4QnFIVDE4VWFqaHRMX1FLX2lySThKN3RtNzAwRWtPNTFxV29hZ1lyT0lYTmhPLVBPcWRsR3RrZmZLNWc?oc=5",
         "source": "Car Dealership Guy News",
-        "published": "2026-04-11T04:05:08-06:00",
+        "published": "2026-04-11T15:31:42-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
         "title": "Used car prices hit highest level since summer 2023 - AOL.com",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KcW10WWhIeEpuc0VjVjJOVkxaVjc3RTRPVHo3OXNoQjJhNkNnQWZnRjFaVzRBeFpIRVZ3Q0FQci1DSl8zQ0ZTUjh3dy1SVVhwV0ZLZzh2ekU2cTNlVklTU1dvbFJzTkRwcnZoN2xtVjZ5YVExZ1l4SS1mSQ?oc=5",
         "source": "AOL.com",
-        "published": "2026-04-11T09:52:18-06:00",
+        "published": "2026-04-12T05:14:48-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Buyers fret as the average cost of a new car nears $50K - myMotherLode.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHpJNXFoLVdlN2JKYmIwRkhXSVdYdjdSdTZSUDZEUC15VkRlVUJDaGFWWUl6Y1FvSG9OaGF5YnZ3ZC1TT2trX0ZLQ01yeEV5eU8zVVBYbTJXUDNPWTNCeEI4V3dCNTBibXZ0dUtXTEs3ZHdGQnZFSEJfLWI0cF8yYmZwY1NfeUloV0l0dm5HdGJETnp0T2o1MGFnQWZWT1R5ZGpKTFVuMDVLend1b25xNdIBsAFBVV95cUxQdHpJNXFoLVdlN2JKYmIwRkhXSVdYdjdSdTZSUDZEUC15VkRlVUJDaGFWWUl6Y1FvSG9OaGF5YnZ3ZC1TT2trX0ZLQ01yeEV5eU8zVVBYbTJXUDNPWTNCeEI4V3dCNTBibXZ0dUtXTEs3ZHdGQnZFSEJfLWI0cF8yYmZwY1NfeUloV0l0dm5HdGJETnp0T2o1MGFnQWZWT1R5ZGpKTFVuMDVLend1b25xNQ?oc=5",
-        "source": "myMotherLode.com",
-        "published": "2026-04-10T23:36:54-06:00",
+        "title": "13 new cars under $30K that deliver real value in 2026 - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb05pWnBnbjVnd01NQzhVYzRtNVUtU29ELTV3VmxmTHlJamhva29hVEphS3BMMjlvNXBjbHBsNzRmVzZnNkVxeEktWWV4MUl1YmNRV1JXVXJXdTg2M2Ntai1ESW9MMEpYdlMzYnBnYktjdE9sUkJuWGRLZV9zOVBUamRVNGxUNk5UeUNpRmxON0RVN3pSaS05Um1VUzlZRTB0eVZCdm1tSnI?oc=5",
+        "source": "USA Today",
+        "published": "2026-04-12T03:32:21-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Hanon Systems Supplies EV Cooling Module - thebuzzevnews.com",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxU01uMHp1UFJOLWNHb0daNHRJVmo3YzNrZFNEWk13amNmbFhmcEg5Z0FtVkZYaXNGalg5T2tEZzlROFczcGdZaDg2WDQwaUg4UWE5WHd4RGVSWDNYaGJURjJmU2dIMW5nV1UxSEs0NA?oc=5",
-        "source": "thebuzzevnews.com",
-        "published": "2026-04-11T06:00:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Tesla\u2019s U.S. Sales Tanked In Q1. It Still Gained Market Share - InsideEVs",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qaUZ1ZVpCRTAxRkZCZ3BiNG1pRFN3UFAwOGhPZEh1N1M3d1R2U21FRlpfemlHazFsMzJUQUlIODMwblhWT3h6RDRNbFlabkc5S25iTGxReGhxRXdmVjlBNUE3b1QxenJwZFpmUg?oc=5",
-        "source": "InsideEVs",
-        "published": "2026-04-11T00:02:16-06:00",
+        "title": "Buyers fret as the average cost of a new car nears $50K - abcnews.com",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjRqOWVYcFg4clFVNGsyN0RMRlc2OWFxQkFaRTBCYl9ZNTZjaEZNdGxPMzZ3b0pNR2V0XzZoQW9LaU9paWhOcFRNb3EtQkd0Qy1mT2wyYWU1SXI3T2FPOFZPZDhMV2x4d3BMTjVzQzFZQ0NQMm14MmhCbmNRUURqVEtkSXlHTlR2YkNvZXBpdmZUMDlwcFHSAZsBQVVfeXFMUC11QjFOdmJnNkhsUkpVU3F0UEVXbXlnbXpmdFRQUXlTWlg5aEd2S3FWc1FMMV9zZWY3UmNoWVM5WWQ2UFRxQlBqN21scUdNVUVzdzVzTGxNelBOemd2bXhEajNxTFBJa3d6QkpyWnI1WEExUWRZTjhHVDlDd0JSbkk5WW9MQ0hPNFJCSzJMTTJvWWtzMjlsUkttTk0?oc=5",
+        "source": "abcnews.com",
+        "published": "2026-04-12T04:36:10-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ]
