@@ -1,5 +1,6 @@
 {
-  "generated_at": "2026-04-22T08:58:00.275588-06:00",
+  "status": "ok",
+  "generated_at": "2026-04-22T09:05:31.332011-06:00",
   "date": "2026-04-22",
   "weather": {
     "headline": "Mostly Sunny",
@@ -65,6 +66,13 @@
       ],
       "Avalanche": [
         {
+          "title": "Avs Return to Historic Nassau Coliseum - NHL.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHlKOWFnckZYS0JjNFd3bl8wSml0ckZCaE1TYXZGblZYN3RyZnloenhOb05PaGpEdkh0N3FQemZwVkZDdnZ4cHp0LThhV3hpeEhHTDB0ZVdHLWFadi1wUWp6X0FTNWZsX3JGZ0s2SmFZVmFUSmd4aWxCV1ZCdG5nU3BFa2h0R2RKaGFIc1kyQTVXdlE?oc=5",
+          "source": "NHL.com",
+          "published": "2026-04-22T06:53:12-06:00",
+          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+        },
+        {
           "title": "Kings coach D.J. Smith showered with broken glass during playoff game vs. Avalanche - The Athletic - The New York Times",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTBqcjVjTl9hZzlJaFkyempaeTlWQ3N0ZUpjSktMTEotUE1SOXNKdi1GcEt3R3dubVkyRXd4TVVpeEVmaUNhUzhncGJPaVJoSDMwcmI0WnhEVURWM3E3LVRPb1dkNklRbWh5UkZYV1RhUUN0bjRNcXQ5aTBSRS1fbGlDZHdoQmZWZ3J1bWhwQ0tmTTM2Sm9MTlJDVWZIQ0h4?oc=5",
           "source": "The New York Times",
@@ -76,13 +84,6 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHFISENMRm9ubG91Q0NLaWVpVy1PbUZITzJIc3hNV053WVRpa2NQNFcyN0lYUkFDdzBTMEVFWmNLaTFuSjB6enNWX1ZIQWZMT056U25uUmhHcjl0MWE5VzAtbW9fbUdhdVA5ZXd5aEhCdHRrNDBRLVFIVTB2NHdoTllYaDRWdWlRZV9yeUpSS2lBWlB6Z09vTtIBngFBVV95cUxPWHdmVXNDd1dnMFBzaXhod21DaG5WMG1CcjVvTm80MHE2YVFsVDdiZU9JSG12OTJzVlJYbHVBaEVTazRZNXl4ZHNlaGJiSUZWbUhYMWZubFVVeWxLUlYxbmVDcTVzaUtFVTFNSlB4clIzcy0yaWxKbkxhSFpLN1pMcVRPbVpaamNtOXVMQ0g2WGp4VnJUOW42VlhKMmpFUQ?oc=5",
           "source": "Fox News",
           "published": "2026-04-22T05:40:51-06:00",
-          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-        },
-        {
-          "title": "Roy scores in OT, Avalanche rally past Kings in Game 2 of West 1st Round - NHL.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN09rck4wQUQyQWx6SFYxNHJZQVI5YW9PZXBrYmI2dXpwUXM4a0hCSFBxa3ozZXN0Z0MxVU5CM0s2MmM3c3dqWWZURXZKNU1vZ2UxWUFpeTcxaE4yV3NENjVjT3JfcWc3RTI0ZEtZNHVIcFJHZUFoUWNtSzJ1TFRLVnFJaU9ySjY3Q09rT2lGbTVfUQ?oc=5",
-          "source": "NHL.com",
-          "published": "2026-04-22T02:34:02-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
@@ -237,10 +238,10 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Ford recalls in past year outpaced auto industry combined, study says - The Detroit News",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYUJYTmloSkZuWm91Si1LTWhGdE5hUjZhWWY4dW5ockx4bTZPNHlwRHBmX3paWmFxZlJXeF9wUXVVdWpqN2R2V1hyT3I3cklUVExuak1kM2VSVUNVSFZ3b0VZZDdDLXBxaWJIOFN3NnFTRVNsV0Q4SllucjNpMVZNVVpyR2V3WktNRDFkTWlwR2dFY2I1Mmd3NTdSNzRVa19seDNlalFkRnpIMnNMUUNXYmVWSE5qV3p2WGVldzdjcExNQjVWeEp5cXhFdXBOOVVCZG9lQQ?oc=5",
-        "source": "The Detroit News",
-        "published": "2026-04-21T11:25:00-06:00",
+        "title": "Chinese EV companies could fill Europe\u2019s spare manufacturing capacity - Investment Monitor",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPclZNaUY3OXRRcTNkcUExcDQwWE53Ung5RFNFRWNQT3lTMjNkckxxaXVVS2M2bmdlbU44Z1JYY0lONVpfRXlLampjaGtuNmhLWXpxUGpmT3pFQmF0UW5jWkdvNThFS2RUbTVEMkNMZEhJTGFDR2NjSi1GSVR4X1d1dXNXaXJVLUlhandvZU9SMi1ZRlNzU0F2VGxGTUEtTHZPMXdOUTd2Qk9sZTNNY0FIVw?oc=5",
+        "source": "Investment Monitor",
+        "published": "2026-04-22T06:50:41-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
@@ -281,5 +282,74 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ]
+  },
+  "component_status": {
+    "weather": {
+      "label": "Denver Metro Weather",
+      "status": "ok"
+    },
+    "calendar": {
+      "label": "Today\u2019s Calendar",
+      "status": "ok",
+      "count": 3
+    },
+    "tldr": {
+      "label": "TLDR AI",
+      "status": "ok"
+    },
+    "sports.broncos": {
+      "label": "Denver Sports / Broncos",
+      "status": "ok",
+      "count": 3
+    },
+    "sports.avalanche": {
+      "label": "Denver Sports / Avalanche",
+      "status": "ok",
+      "count": 3
+    },
+    "sports.nuggets": {
+      "label": "Denver Sports / Nuggets",
+      "status": "ok",
+      "count": 3
+    },
+    "sports.rockies": {
+      "label": "Denver Sports / Rockies",
+      "status": "ok",
+      "count": 3
+    },
+    "us_news": {
+      "label": "U.S. News",
+      "status": "ok",
+      "count": 5
+    },
+    "world_news": {
+      "label": "International News",
+      "status": "ok",
+      "count": 5
+    },
+    "auto_industry": {
+      "label": "Auto Industry",
+      "status": "ok",
+      "count": 5
+    },
+    "auto_software": {
+      "label": "Automotive Software",
+      "status": "ok",
+      "count": 5
+    }
+  },
+  "failures": [],
+  "counts": {
+    "calendar": 3,
+    "us_news": 5,
+    "world_news": 5,
+    "auto_industry": 5,
+    "auto_software": 5,
+    "sports": {
+      "Broncos": 3,
+      "Avalanche": 3,
+      "Nuggets": 3,
+      "Rockies": 3
+    }
   }
 }
