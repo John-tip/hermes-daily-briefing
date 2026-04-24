@@ -1,6 +1,6 @@
 {
-  "status": "partial-success",
-  "generated_at": "2026-04-24T09:30:12.132436-06:00",
+  "status": "ok",
+  "generated_at": "2026-04-24T09:31:53.367237-06:00",
   "date": "2026-04-24",
   "news_window_hours": 24,
   "weather": {
@@ -114,7 +114,7 @@
         "title": "Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, source says - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RUTmM1S2o5X3BON3RZa25LVHBPMVFBVkdXRFg4NUhVaTQ5eHhBcTdPdnN4TDBzTnc2VVpNekUweDhXdjY3WjEyb2hhd0FNcHpHeW0ybmc5dVQ1aTVJZ3NRczljSU10SnpPdjhQV1NxdkhYVmx4SU9NczJCdzdfaU5sZkJ0XzlDNUJKc0xZNU9IaXFPV0V1TE1RWTBrd3RsMG9XY3FQTXlPMXNhNEZhQW1YTEtZQzVQT0VF?oc=5",
         "source": "Reuters",
-        "published": "2026-04-24T08:41:28-06:00",
+        "published": "2026-04-23T23:03:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
@@ -228,11 +228,7 @@
     },
     "tldr": {
       "label": "TLDR AI",
-      "status": "error",
-      "error": {
-        "type": "JSONDecodeError",
-        "message": "Expecting value: line 1 column 1 (char 0)"
-      }
+      "status": "empty"
     },
     "sports.broncos": {
       "label": "Denver Sports / Broncos",
@@ -275,17 +271,7 @@
       "count": 1
     }
   },
-  "failures": [
-    {
-      "component": "tldr",
-      "label": "TLDR AI",
-      "status": "error",
-      "error": {
-        "type": "JSONDecodeError",
-        "message": "Expecting value: line 1 column 1 (char 0)"
-      }
-    }
-  ],
+  "failures": [],
   "counts": {
     "calendar": 1,
     "us_news": 5,
