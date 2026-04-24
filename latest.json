@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-24T09:31:53.367237-06:00",
+  "generated_at": "2026-04-24T09:34:24.039821-06:00",
   "date": "2026-04-24",
   "news_window_hours": 24,
   "weather": {
@@ -60,6 +60,13 @@
           "source": "The New York Times",
           "published": "2026-04-24T00:58:41-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+        },
+        {
+          "title": "Avalanche vs. Kings schedule: Dates, times, TV channels, scores for NHL Stanley Cup Playoffs first-round series - sportingnews.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUtvNXI4QU5SY3U2eXp0bWVCYkhwREdoWHlkVUVaaXQzc1dGN3BQWDMwSldzcGR0WkZOaDF5cFVNaE1fZFlqQ3hRNFN5R051LTg1dk5FTTlzeXFJUzgzcGF2bzczUTRHenhiWll4bFhaNXZCV3ZyQkhmSU55cXR1QVFsTkMtbkNNVWl5Ql95emF3cDRseUxESDFUTXU3YTZxTTlqcG5sOTJseS10d0hJR3NESXh0dHB1NDJVRlRiUDdsai1qZWc?oc=5",
+          "source": "sportingnews.com",
+          "published": "2026-04-24T05:29:01-06:00",
+          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
       "Nuggets": [
@@ -71,17 +78,17 @@
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Jaden McDaniels calls Nuggets \u2018all bad defenders\u2019 after Timberwolves rally to win Game 2 - AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalJOY2hvUUNycHJicmwtbm12MG1iaVNJNklyRW5pTFVXdmM0NGZrYzlXTEZGWUJaQnhwUEltYjM1RHBydDNjb2pNbW81RzVNYW1kakoweWItUXZ2cEdYZFd3UG1NQ1l5RVBrZkItVkFrR2JxT3B5dUlmLW1Hclhsbkl3bnRCdlpublo2bksyblZ1cnhnQTVV?oc=5",
-          "source": "AP News",
-          "published": "2026-04-24T07:42:02-06:00",
-          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-        },
-        {
           "title": "Can Nikola Joki\u0107, after his worst-ever NBA playoff game, respond like Nikola Joki\u0107? - The New York Times",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHViRXRXUFlRLXFwVkFNdE14U2tOSXI2b2FLbzN5d05VbmlzcU85UWl1bXY2OVhqS1NSdlk1TFFDSTlnMGxYOVlxb0RLNDJ2SFVobGZUaHVKc3dNMHNVdTVVU3NXYkVoeGVQc01wQVFYWXA5amtrd24tbXlYMDRNNWd1dTM2ZldLX3oyMHpiNVI2N0J6OVdLeHVjVk4xdHBxMmhFeVlBOFMzNWVVaWw5TG44VmJBckNYRkZN?oc=5",
           "source": "The New York Times",
           "published": "2026-04-24T06:55:17-06:00",
+          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+        },
+        {
+          "title": "Timberwolves 113-96 Nuggets (Apr 23, 2026) Game Recap - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CbmFsR3JoeU1VRnFoWGhYTkZXTUpNa2xXQV9LTkNUTHhETW9VSUJkZGR3aEVGVWkwNWNHYmNkVXBrNlVKUlRFbGNsLTNROVFkWU11b1lNVmppZGs?oc=5",
+          "source": "ESPN",
+          "published": "2026-04-23T23:51:40-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
@@ -174,6 +181,13 @@
         "source": "Reuters",
         "published": "2026-04-23T16:03:31-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Exclusive: Trump poised to expand refugee program for white South Africans - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVJsS2FzTXMtNEMzNDVtdlBQODJNaE4ydFktOXN2dGF1R2tCMnZYWUo1MVlfQWtfVnRnQXhTdGt5YkhyNjhUREdtb21RZC1qN0p6MENJcGhiMk9EMF9VU0lFeTR6UVl2cXEtdU41Zk95Nld1MzNfY043WmJkbllzc0dhYl9Ob0JDV0JHLVNBUTZwNlE5VzM0RV9mS1ZSekR3aXphdmlxa0I?oc=5",
+        "source": "Reuters",
+        "published": "2026-04-23T13:28:28-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
     "auto_industry": [
@@ -199,19 +213,54 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "World's largest auto show kicks off in Beijing; event highlights China open for global auto cooperation - Global Times",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15MC1aVWQyOXpuZzA4VFRvR1R1SGhrcVREZTBMcjFGRkVrU3NsX3pzeWtmSWRRblFmVUdDZFg3YmZaeGlTRFlPVldaVGlUWHN5elhvUDUwdnhmMERfcHQ4am1R?oc=5",
-        "source": "Global Times",
-        "published": "2026-04-24T09:19:00-06:00",
+        "title": "At Beijing auto show, Chinese carmakers flaunt new technologies as global competition heats up - ABC News - Breaking News, Latest News and Videos",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNREF4cnFwQVAtQlI3eGI3c3J4aXBTVkV2eDdMMVRuY0lpdUtubDhiR0taX0RRR2dLWWtVVXh5emR4VVRqcDVzUmFjRzNYQkp3c2FXUjcySzdqcEVBSWx4TFRlcTdNdTJleW5LVy1ha2ZEU2twYUx0WGpOTUFyOS1PZ2k2X29lVGhkWnlOTU9zX3VJWnh6NXVCZ1lLQmttUFUxckFjLTc4bDJ4Y19NLXFB0gG0AUFVX3lxTE50UE9KaFJodnRJWTlLV3dNLW9fVVdydU90S2NHQjFpUUkzV0V1NHV4Rk1nUVVNRWJ1T1pzSXhMRFV1QVlLV1hDX2F5aksxMnJMTkJtbW1jLWxORFpwSUY1NjR2X0ZjVWVEdVpSQU9GNmxieXdLWDhDazItY2tmVlp4LWhILVBKdkVrc2JPellKQmxqRUtXMC1wQkZMY0RZYnZ5RExLRm52ZkJRTDVONW9ONXFoaw?oc=5",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "2026-04-24T07:13:42-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Pulling the U.S. Auto Industry Out Of Its Disco Era - Federation of American Scientists",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0cVhOdXZmOUp4OUdYYzloMl84aGhmVnM1YjBMWXNXNGQ5YlVZVktycmMtQWQza29DLXEyRFNVTlBadktmaVVKSy1KYmlKV3dLUjgyTnZnNWxHblcybVQzeUk3NmdVbWhIbVE?oc=5",
+        "source": "Federation of American Scientists",
+        "published": "2026-04-23T11:35:31-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
     "auto_software": [
       {
+        "title": "Rivian announces $350 million investment from Cox Automotive - Rivian Newsroom - Rivian",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1dtSllyamFJRndmREFVSi0yOG03R2ZudU1XU3BhVXBtbmZZRVlUMGZvRUQzUjJGeU13cE10Smw4VWowZExaeWpUTk9NUlE2TG94YlU0RlJ6dXR0ZTI1bU5aaDZyMVlvVUdMdWotTTg4TExGVzZ1VjBsSGdOZXNhY2pySl9oT3FlYVNtWVQ2bV90amJNNXBzY3hqbzRIRHBKcmlxZ0FqWlhFRHlpMnUyNndTVEJOaGc1anAxemJpYzJXMHUwUlFOS2s1SQ?oc=5",
+        "source": "Rivian",
+        "published": "2026-04-23T21:31:28-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
         "title": "Cox Automotive acquires Israeli startup Fullpath for hundreds of millions in AI push - CTech",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aYURhOW1DSVQ5U1dSUldyUmtjRGwxQ1pIWk9VMHR2WF9ZUG1zYk1KU0JtaDhhby1kazVzMDBTVjFTZ2NuMmVEd3RyUnRXa0pMdWozNUYweU5GTkdtZTJRSjVRUXlsSFpJ?oc=5",
         "source": "CTech",
         "published": "2026-04-23T10:57:00-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "5 stories shaping Canadian auto this week include Chinese Evs, Genesis hybrids, more - Automotive News",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlRDV3NzdHNnTVJ4UkVHNDF1TU5OdUcxQnpZS2NoZzhCTFMwMHRHQzdmV0ZQZWNqbG44MFk0Ulo3MkZyamhzNDdCSllKUldsTTRFOGJkdVVnbDhPdDB0N05jUE1Dd3cwWk9ZWkFuWUl0NmhMRi1zY3JhakpEekl4eWRzRQ?oc=5",
+        "source": "Automotive News",
+        "published": "2026-04-24T09:00:00-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "The Iran war sent fuel prices soaring. It\u2019s giving EV sales a boost. - AJC.com",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRm1KbG05NUJEeXdCY0ZQWVBBNEp6Wk5SeU1JaDk1WjFzX0FQZFRtSHctOXFBeUNxbjc1azE4dzhhNVpmUHo4OFFWZ0NaVE80cFNmVDBnMXBqU3otMDhXQzhhTEVRVU9ucDN0aDlNOEh0cklESTlOYVVaSm9wcGJidDNIM3JMNE9fZkpad2E3TzlaMWQxSjFpUmVVbkZDNGJZ?oc=5",
+        "source": "AJC.com",
+        "published": "2026-04-24T08:32:27-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Cox Enjoys Billion Dollar Growth Using The Auto Channel Business Plan - The Auto Channel",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQUFaNjItWWxyR3lZTEw0LU54ZGQxbnRfcXBPQ1VLSTNpaS1oOFotYUd6aW5QLWNKbTNkNTNxLUMycEh2RS1zTGhIbVVlVUhWMVJoZ1QzQWYtMkdWVzZ3NzU2RnZmdmxkY2p6YkVMVXBxWWlyOV8wTGtjN0RRMEhKM3hmZVQyUUt1MU9SeHdpLTEzUGI2V1R3d1BvYk1TaFdSYUhhNWRzYU1KdmhKVmVqdENVUVk0U1ZpdGlsYVd3UUhQcUlH?oc=5",
+        "source": "The Auto Channel",
+        "published": "2026-04-23T18:08:16-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ]
@@ -233,61 +282,89 @@
     "sports.broncos": {
       "label": "Denver Sports / Broncos",
       "status": "ok",
+      "candidate_count": 12,
+      "target_count": 3,
       "count": 3
     },
     "sports.avalanche": {
       "label": "Denver Sports / Avalanche",
       "status": "ok",
-      "count": 2
+      "candidate_count": 12,
+      "target_count": 3,
+      "count": 3
     },
     "sports.nuggets": {
       "label": "Denver Sports / Nuggets",
       "status": "ok",
+      "candidate_count": 12,
+      "target_count": 3,
       "count": 3
     },
     "sports.rockies": {
       "label": "Denver Sports / Rockies",
       "status": "ok",
+      "candidate_count": 12,
+      "target_count": 3,
       "count": 3
     },
     "us_news": {
       "label": "U.S. News",
       "status": "ok",
+      "candidate_count": 20,
+      "target_count": 5,
       "count": 5
     },
     "world_news": {
       "label": "International News",
       "status": "ok",
-      "count": 4
+      "candidate_count": 20,
+      "target_count": 5,
+      "count": 5
     },
     "auto_industry": {
       "label": "Auto Industry",
       "status": "ok",
-      "count": 4
+      "candidate_count": 20,
+      "target_count": 5,
+      "count": 5
     },
     "auto_software": {
       "label": "Automotive Software",
       "status": "ok",
-      "count": 1
+      "candidate_count": 20,
+      "target_count": 5,
+      "count": 5
     }
   },
   "failures": [],
   "counts": {
     "calendar": 1,
     "us_news": 5,
-    "world_news": 4,
-    "auto_industry": 4,
-    "auto_software": 1,
+    "world_news": 5,
+    "auto_industry": 5,
+    "auto_software": 5,
     "sports": {
       "Broncos": 3,
-      "Avalanche": 2,
+      "Avalanche": 3,
       "Nuggets": 3,
       "Rockies": 3
     }
   },
   "deduplication": {
-    "duplicate_count": 7,
+    "duplicate_count": 23,
     "dropped": [
+      {
+        "section": "sports.Broncos",
+        "title": "NFL Draft 2026 best available players for Denver Broncos: Mike Washington, Jacob Rodriguez - The New York Times",
+        "source": "The New York Times",
+        "duplicate_of": {
+          "section": "sports.Broncos",
+          "title": "Best available players for the Broncos going into Day 2 of the NFL Draft - Mile High Report",
+          "source": "Mile High Report"
+        },
+        "reason": "summary-overlap",
+        "score": 0.6
+      },
       {
         "section": "sports.Avalanche",
         "title": "PHOTOS: Colorado Avalanche vs. Los Angeles Kings in Game 3 of NHL Stanley Cup Playoffs first-round series - The Denver Post",
@@ -299,6 +376,126 @@
         },
         "reason": "summary-overlap",
         "score": 0.45
+      },
+      {
+        "section": "sports.Avalanche",
+        "title": "Adaptable Avalanche take 2-0 series lead to LA as Kings smother Colorado\u2019s high-powered attack - AP News",
+        "source": "AP News",
+        "duplicate_of": {
+          "section": "sports.Avalanche",
+          "title": "Avalanche vs. Kings Game 3: Key takeaways as Colorado takes commanding 3-0 series lead - The New York Times",
+          "source": "The New York Times"
+        },
+        "reason": "summary-overlap",
+        "score": 0.48
+      },
+      {
+        "section": "sports.Avalanche",
+        "title": "How to live stream Avalanche vs Kings: NHL Playoffs, TV channel - Yahoo Sports",
+        "source": "Yahoo Sports",
+        "duplicate_of": {
+          "section": "sports.Avalanche",
+          "title": "Avalanche vs. Kings schedule: Dates, times, TV channels, scores for NHL Stanley Cup Playoffs first-round series - sportingnews.com",
+          "source": "sportingnews.com"
+        },
+        "reason": "summary-overlap",
+        "score": 0.6
+      },
+      {
+        "section": "sports.Avalanche",
+        "title": "Game 3 RECAP: Kings 2, Avalanche 4 - NHL.com",
+        "source": "NHL.com",
+        "duplicate_of": {
+          "section": "sports.Avalanche",
+          "title": "Avalanche win Game 3, on verge of sweep against Kings in West 1st Round - NHL.com",
+          "source": "NHL.com"
+        },
+        "reason": "summary-overlap",
+        "score": 0.526
+      },
+      {
+        "section": "sports.Avalanche",
+        "title": "Lehkonen's Shorthanded Goal the Difference as Avalanche Defeats Kings 4-2 in Game Three, Takes 3-0 Series Lead - NHL.com",
+        "source": "NHL.com",
+        "duplicate_of": {
+          "section": "sports.Avalanche",
+          "title": "Avalanche vs. Kings Game 3: Key takeaways as Colorado takes commanding 3-0 series lead - The New York Times",
+          "source": "The New York Times"
+        },
+        "reason": "summary-overlap",
+        "score": 0.6
+      },
+      {
+        "section": "sports.Avalanche",
+        "title": "3 Things to Watch: Avalanche at Kings, Game 3 of Western Conference 1st Round - NHL.com",
+        "source": "NHL.com",
+        "duplicate_of": {
+          "section": "sports.Avalanche",
+          "title": "Avalanche win Game 3, on verge of sweep against Kings in West 1st Round - NHL.com",
+          "source": "NHL.com"
+        },
+        "reason": "summary-overlap",
+        "score": 0.632
+      },
+      {
+        "section": "sports.Nuggets",
+        "title": "Denver Nuggets @ Minnesota Timberwolves: Live game updates, stats, play-by-play - Yahoo Sports",
+        "source": "Yahoo Sports",
+        "duplicate_of": {
+          "section": "sports.Nuggets",
+          "title": "Nikola Jokic falters, Denver Nuggets blown out in Game 3 loss to Timberwolves - Mile High Sports",
+          "source": "Mile High Sports"
+        },
+        "reason": "summary-overlap",
+        "score": 0.526
+      },
+      {
+        "section": "sports.Nuggets",
+        "title": "Timberwolves take a 2-1 lead on the Nuggets with a dominant defensive effort in a 113-96 Game 3 win - NBC Sports",
+        "source": "NBC Sports",
+        "duplicate_of": {
+          "section": "sports.Nuggets",
+          "title": "Timberwolves 113-96 Nuggets (Apr 23, 2026) Game Recap - ESPN",
+          "source": "ESPN"
+        },
+        "reason": "summary-overlap",
+        "score": 0.5
+      },
+      {
+        "section": "sports.Nuggets",
+        "title": "Five Takeaways From Nuggets' Game 3 Blowout Loss to Timberwolves - Sports Illustrated",
+        "source": "Sports Illustrated",
+        "duplicate_of": {
+          "section": "sports.Nuggets",
+          "title": "Nikola Jokic falters, Denver Nuggets blown out in Game 3 loss to Timberwolves - Mile High Sports",
+          "source": "Mile High Sports"
+        },
+        "reason": "summary-overlap",
+        "score": 0.579
+      },
+      {
+        "section": "sports.Nuggets",
+        "title": "Timberwolves back up talk, blast Nuggets without Aaron Gordon in Game 3 of NBA Playoffs series - The Denver Post",
+        "source": "The Denver Post",
+        "duplicate_of": {
+          "section": "sports.Nuggets",
+          "title": "Minnesota Timberwolves vs Denver Nuggets odds for NBA playoffs Game 4 - The Arizona Republic",
+          "source": "The Arizona Republic"
+        },
+        "reason": "summary-overlap",
+        "score": 0.5
+      },
+      {
+        "section": "sports.Rockies",
+        "title": "Where to watch Colorado Rockies vs New York Mets: TV channel, start time, streaming for Apr. 24 - MSN",
+        "source": "MSN",
+        "duplicate_of": {
+          "section": "sports.Rockies",
+          "title": "Where to watch Colorado Rockies vs New York Mets: TV channel, start time, streaming for Apr. 24 - USA Today",
+          "source": "USA Today"
+        },
+        "reason": "title",
+        "score": 1.0
       },
       {
         "section": "world_news",
@@ -313,6 +510,18 @@
         "score": 0.75
       },
       {
+        "section": "world_news",
+        "title": "Iran seizes vessel in Strait of Hormuz, defying US naval superiority - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Iran seizes vessel in Strait of Hormuz, defying US naval superiority - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
         "section": "auto_industry",
         "title": "China's auto industry races to embed AI in line with Beijing mandate - Yahoo Finance UK",
         "source": "Yahoo Finance UK",
@@ -323,6 +532,54 @@
         },
         "reason": "summary-overlap",
         "score": 0.765
+      },
+      {
+        "section": "auto_industry",
+        "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - AOL.com",
+        "source": "AOL.com",
+        "duplicate_of": {
+          "section": "auto_industry",
+          "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "title",
+        "score": 1.0
+      },
+      {
+        "section": "auto_industry",
+        "title": "China's auto industry races to embed AI in line with Beijing mandate - marketscreener.com",
+        "source": "marketscreener.com",
+        "duplicate_of": {
+          "section": "auto_industry",
+          "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "summary-overlap",
+        "score": 0.765
+      },
+      {
+        "section": "auto_industry",
+        "title": "China's auto industry races to embed AI in line with Beijing mandate - TradingView",
+        "source": "TradingView",
+        "duplicate_of": {
+          "section": "auto_industry",
+          "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "summary-overlap",
+        "score": 0.765
+      },
+      {
+        "section": "auto_industry",
+        "title": "China\u2019s Auto Industry Accelerates AI Push Under Beijing\u2019s Strategic Mandate - Arise News",
+        "source": "Arise News",
+        "duplicate_of": {
+          "section": "auto_industry",
+          "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "summary-overlap",
+        "score": 0.579
       },
       {
         "section": "auto_software",
@@ -371,6 +628,51 @@
         },
         "reason": "summary-overlap",
         "score": 0.45
+      }
+    ]
+  },
+  "curation": {
+    "trimmed_count": 73,
+    "trimmed": [
+      {
+        "section": "sports.Broncos",
+        "target_count": 3,
+        "trimmed_count": 8
+      },
+      {
+        "section": "sports.Avalanche",
+        "target_count": 3,
+        "trimmed_count": 3
+      },
+      {
+        "section": "sports.Nuggets",
+        "target_count": 3,
+        "trimmed_count": 5
+      },
+      {
+        "section": "sports.Rockies",
+        "target_count": 3,
+        "trimmed_count": 8
+      },
+      {
+        "section": "us_news",
+        "target_count": 5,
+        "trimmed_count": 15
+      },
+      {
+        "section": "world_news",
+        "target_count": 5,
+        "trimmed_count": 13
+      },
+      {
+        "section": "auto_industry",
+        "target_count": 5,
+        "trimmed_count": 10
+      },
+      {
+        "section": "auto_software",
+        "target_count": 5,
+        "trimmed_count": 11
       }
     ]
   }
