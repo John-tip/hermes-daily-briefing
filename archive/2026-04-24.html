@@ -5,36 +5,34 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Daily Briefing – Friday, April 24, 2026</title>
   <style>
-    :root { --bg:#f5f7fb; --card:#ffffff; --ink:#142033; --muted:#61718a; --line:#dbe3ef; --accent:#1f6feb; --accent2:#0ea5a4; --shadow:0 10px 30px rgba(20,32,51,.08); }
+    :root { --bg:#070707; --card:#121212; --card2:#181818; --ink:#f5f5f5; --muted:#b9b9b9; --line:#2a2a2a; --accent:#ef4444; --accent2:#ffffff; --danger:#7f1d1d; --shadow:0 18px 40px rgba(0,0,0,.42); }
     * { box-sizing:border-box; }
-    body { margin:0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; background:var(--bg); color:var(--ink); line-height:1.55; }
-    .wrap { max-width: 1120px; margin:0 auto; padding:32px 18px 64px; }
-    .hero { background:linear-gradient(135deg, #10233f, #1f6feb 62%, #20b7b5); color:white; border-radius:24px; padding:28px; box-shadow:var(--shadow); }
-    .hero h1 { margin:0 0 8px; font-size: clamp(28px, 4vw, 44px); }
-    .hero p { margin:8px 0 0; color:rgba(255,255,255,.9); max-width:860px; }
-    .meta-line { margin-top:12px; font-size:14px; color:rgba(255,255,255,.82); }
-    .grid { display:grid; grid-template-columns:repeat(12, 1fr); gap:18px; margin-top:22px; }
-    .section { grid-column:span 12; background:var(--card); border:1px solid var(--line); border-radius:22px; padding:22px; box-shadow:var(--shadow); }
-    .half { grid-column:span 6; }
-    .third { grid-column:span 4; }
-    @media (max-width: 960px) { .half,.third { grid-column:span 12; } }
-    h2 { margin:0 0 14px; font-size:24px; }
-    h3 { margin:0 0 6px; font-size:18px; }
-    a { color:var(--accent); text-decoration:none; }
-    a:hover { text-decoration:underline; }
+    body { margin:0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; background:radial-gradient(circle at top left, rgba(239,68,68,.14), transparent 32%), var(--bg); color:var(--ink); line-height:1.55; }
+    .wrap { max-width: 980px; margin:0 auto; padding:28px 16px 56px; }
+    .hero { background:linear-gradient(135deg, #050505, #151515 58%, #3b0b0b); color:var(--ink); border:1px solid #3a1a1a; border-radius:22px; padding:26px; box-shadow:var(--shadow); }
+    .hero h1 { margin:0 0 8px; font-size: clamp(28px, 4vw, 44px); letter-spacing:-.03em; }
+    .hero p { margin:8px 0 0; color:var(--muted); max-width:860px; }
+    .meta-line { margin-top:12px; font-size:14px; color:#d7d7d7; }
+    .grid { display:flex; flex-direction:column; gap:18px; margin-top:22px; }
+    .section { width:100%; background:var(--card); border:1px solid var(--line); border-radius:20px; padding:22px; box-shadow:var(--shadow); }
+    .half,.third { width:100%; }
+    h2 { margin:0 0 14px; font-size:24px; color:var(--ink); }
+    h3 { margin:0 0 6px; font-size:18px; color:var(--ink); }
+    a { color:var(--accent2); text-decoration:underline; text-decoration-color:rgba(239,68,68,.7); text-underline-offset:3px; }
+    a:hover { color:var(--accent); }
     .lead { color:var(--muted); margin:0 0 16px; }
-    .pill { display:inline-block; padding:6px 10px; border-radius:999px; background:#e9f2ff; color:#11499d; font-size:13px; font-weight:600; margin:2px 8px 0 0; }
+    .pill { display:inline-block; padding:6px 10px; border-radius:999px; background:#2a0f0f; color:#fecaca; border:1px solid #5f1d1d; font-size:13px; font-weight:700; margin:2px 8px 0 0; }
     .item { padding:14px 0; border-top:1px solid var(--line); }
     .item:first-child { border-top:none; padding-top:0; }
-    .item p { margin:8px 0 0; color:#2c3d55; }
+    .item p { margin:8px 0 0; color:#dddddd; }
     .meta { color:var(--muted); font-size:13px; }
     .subsection { margin-top:18px; padding-top:8px; border-top:1px dashed var(--line); }
     .subsection:first-of-type { margin-top:0; border-top:none; padding-top:0; }
-    .issue-section { background:#fff7ed; border-color:#fed7aa; }
+    .issue-section { background:#1f1010; border-color:#7f1d1d; }
     .weather-box { display:grid; grid-template-columns: 1.2fr .8fr; gap:18px; }
     @media (max-width: 760px) { .weather-box { grid-template-columns:1fr; } }
-    .temp-card { background:#f0f7ff; border:1px solid #cfe1ff; border-radius:18px; padding:18px; }
-    .temp-big { font-size:42px; font-weight:800; margin:0; }
+    .temp-card { background:var(--card2); border:1px solid #3a1a1a; border-radius:18px; padding:18px; }
+    .temp-big { font-size:42px; font-weight:800; margin:0; color:#ffffff; }
     .empty { color:var(--muted); margin:6px 0 0; }
     .footer { color:var(--muted); text-align:center; margin-top:26px; font-size:14px; }
   </style>
@@ -43,8 +41,8 @@
   <div class="wrap">
     <header class="hero">
       <h1>Daily Briefing</h1>
-      <p>Your morning snapshot for Denver weather, sports, major news, auto industry coverage, today’s calendar, and the latest TLDR AI newsletter link.</p>
-      <div class="meta-line">Generated 2026-04-24 08:10 AM MDT</div>
+      <p>Your morning snapshot for Denver weather, sports, major news, auto industry coverage, today’s calendar, and the latest TLDR AI newsletter link. News sections include only items published in the last 24 hours.</p>
+      <div class="meta-line">Generated 2026-04-24 08:48 AM MDT</div>
     </header>
 
     <div class="grid">
@@ -72,29 +70,18 @@
       </section>
 
       <section class="section third">
-        <h2>TLDR AI</h2>
-        
-        <article class="item">
-          <h3><a href="https://a.tldrnewsletter.com/web-version?ep=1&amp;lc=b655089e-27e7-11f1-b010-8f615317ba80&amp;p=7018eb02-3fcf-11f1-9317-11254792d9bb&amp;pt=campaign&amp;t=1777037820&amp;s=0ead638565291997ef5d008cf1559c7908ae0f1051618498f57b45f2f8c36bfd" target="_blank" rel="noopener noreferrer">GPT-5.5 release 🚀, Anthropic $1T valuation 💰, DeepSeek v4</a></h3>
-          <div class="meta">Latest TLDR AI web version</div>
-          <p>Open the exact web-view version from your email newsletter.</p>
-        </article>
-        
-      </section>
-
-      <section class="section third">
         <h2>U.S. News</h2>
         
     <article class="item">
-      <h3><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXR3dmhBMG5oTUpGRVRpSzFsdGRLNFBDMkFhd1lXWFF1b3MtNGpTTTFObHM4T1AyYlVPRmpnMldXaWJCN2VqbkdNLV94TWx0NWwtSkRNYjduOVBSeng4WVE4ZWF2OWtjcHVlSTBkWjlWM0JqbU1tWFllU1hocHZrX3ZJZDJSaTZQaDBSeklnTUh6TElfb2MyZklwYXhFRDlrY3dQRkNqVkx1eTduWW9CZm9aaXhOZ2pUcGt6TFF3?oc=5" target="_blank" rel="noopener noreferrer">India says trade talks with U.S. remain constructive after Washington visit - Reuters</a></h3>
-      <div class="meta">Reuters · Thu 1:50 PM</div>
+      <h3><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RUTmM1S2o5X3BON3RZa25LVHBPMVFBVkdXRFg4NUhVaTQ5eHhBcTdPdnN4TDBzTnc2VVpNekUweDhXdjY3WjEyb2hhd0FNcHpHeW0ybmc5dVQ1aTVJZ3NRczljSU10SnpPdjhQV1NxdkhYVmx4SU9NczJCdzdfaU5sZkJ0XzlDNUJKc0xZNU9IaXFPV0V1TE1RWTBrd3RsMG9XY3FQTXlPMXNhNEZhQW1YTEtZQzVQT0VF?oc=5" target="_blank" rel="noopener noreferrer">Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, source says - Reuters</a></h3>
+      <div class="meta">Reuters · Thu 11:03 PM</div>
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     
 
     <article class="item">
-      <h3><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnpNOVBIV2pyZjNCd1lNdTlINmtvbWFHTV95NDh6U1pyOXZ1bWlDZzgydUtJS3FsWjBpNmowRjJ6ZkEtb3FsUXRfSzJaWVRFcHQ4WEtFUHlYMlpvdmctRHZaXy1fY25USE15NVR2M0gxd2pZcHd5ZlVNdW1kVXhma2RJRHo0cWhKemtsTV9iQmswbVhmd3F4aTM2dlFzdlgzMnhoMVh1VUJfdXVKdXVMM1RTMHpZLUh2?oc=5" target="_blank" rel="noopener noreferrer">Iran&#x27;s foreign minister to head to Islamabad, venue of US talks - Reuters</a></h3>
-      <div class="meta">Reuters · Thu 10:06 PM</div>
+      <h3><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXR3dmhBMG5oTUpGRVRpSzFsdGRLNFBDMkFhd1lXWFF1b3MtNGpTTTFObHM4T1AyYlVPRmpnMldXaWJCN2VqbkdNLV94TWx0NWwtSkRNYjduOVBSeng4WVE4ZWF2OWtjcHVlSTBkWjlWM0JqbU1tWFllU1hocHZrX3ZJZDJSaTZQaDBSeklnTUh6TElfb2MyZklwYXhFRDlrY3dQRkNqVkx1eTduWW9CZm9aaXhOZ2pUcGt6TFF3?oc=5" target="_blank" rel="noopener noreferrer">India says trade talks with U.S. remain constructive after Washington visit - Reuters</a></h3>
+      <div class="meta">Reuters · Thu 1:50 PM</div>
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     
@@ -107,15 +94,15 @@
     
 
     <article class="item">
-      <h3><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RUTmM1S2o5X3BON3RZa25LVHBPMVFBVkdXRFg4NUhVaTQ5eHhBcTdPdnN4TDBzTnc2VVpNekUweDhXdjY3WjEyb2hhd0FNcHpHeW0ybmc5dVQ1aTVJZ3NRczljSU10SnpPdjhQV1NxdkhYVmx4SU9NczJCdzdfaU5sZkJ0XzlDNUJKc0xZNU9IaXFPV0V1TE1RWTBrd3RsMG9XY3FQTXlPMXNhNEZhQW1YTEtZQzVQT0VF?oc=5" target="_blank" rel="noopener noreferrer">Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, source says - Reuters</a></h3>
-      <div class="meta">Reuters · Fri 6:41 AM</div>
+      <h3><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWdOQ05wVHlqWHF1SF9XWWRlVkxHVXJWMl9mU19kSERGNUJOQnEyMW5BSjdZbVRyel9oVTZVdUdJWlVtRHVEcXRfaTNLeUdGTHpoSi1reWNjODl1TU9OcGhJcUFla1hGYmc4QXo2M1FJZ3NHaXJfZm1MSkpjQ2U3UV9TaV9LNlR6bElMdTN5VTJfMVFrSnI4bERRTzduWVJEQWNlVzVUWmRwaDU1UHBBNWFoZGN0R01nYjdid1FB?oc=5" target="_blank" rel="noopener noreferrer">King Charles on US mission to bolster UK&#x27;s special relationship with &#x27;royalist&#x27; Trump - Reuters</a></h3>
+      <div class="meta">Reuters · Thu 1:45 PM</div>
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     
 
     <article class="item">
-      <h3><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWdOQ05wVHlqWHF1SF9XWWRlVkxHVXJWMl9mU19kSERGNUJOQnEyMW5BSjdZbVRyel9oVTZVdUdJWlVtRHVEcXRfaTNLeUdGTHpoSi1reWNjODl1TU9OcGhJcUFla1hGYmc4QXo2M1FJZ3NHaXJfZm1MSkpjQ2U3UV9TaV9LNlR6bElMdTN5VTJfMVFrSnI4bERRTzduWVJEQWNlVzVUWmRwaDU1UHBBNWFoZGN0R01nYjdid1FB?oc=5" target="_blank" rel="noopener noreferrer">King Charles on US mission to bolster UK&#x27;s special relationship with &#x27;royalist&#x27; Trump - Reuters</a></h3>
-      <div class="meta">Reuters · Thu 1:45 PM</div>
+      <h3><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0VtT3dsZ2dJRzZwRWI4Ym5xajM2TGlMNnAtYTJvZ1ZsS2l3TzZkQlVoRnZYaTVPVkNxNWVsYUZRempoN2duUW5zUmFJYjdadjNlUW9Ra0Z2SzFWV2hFNTlrR1JFMlZXR2prVkJOU3hDRHl0c1NkLUpXOE8zVzdXQVF0UzNHYnFoZjZxTXVpQUFaMmFkeWpSNjM4ME1TWnNCNzRfOWt1ZmVXdw?oc=5" target="_blank" rel="noopener noreferrer">US states where marijuana is legal - Reuters</a></h3>
+      <div class="meta">Reuters · Thu 9:58 AM</div>
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     
@@ -185,8 +172,8 @@
     
 
     <article class="item">
-      <h3><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWWRSNTVIbVhUcGFaZU9hSGxmVEMtUExjcjVHNDhXNEYtTm5panlCRzBVQXNidC1WUVFUUzhUejNnZ2k4ZS1iRnYtNDU2eVdTcmx2d0FRZFZLeFc3MzJSM1Y3RGp4ZUpud05NdTk3ZUpHU1lCcGZfUm4wUll6Zi1yNG05al9PYlRPUUJUbWNwb29aSzh3ZktiSmlvamp2V01KMnVrUm5fU1JOSEtBZloyMnI3MXFIbUtrTG5WVmR2V2lXN05PaW1uRXNSSWNabFpybll3OUM4NUpybXdTTHU3NUVZcGFyZw?oc=5" target="_blank" rel="noopener noreferrer">Chinese EV makers take centre stage at world&#x27;s biggest auto show - hpenews.com</a></h3>
-      <div class="meta">hpenews.com · Fri 2:15 AM</div>
+      <h3><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSG5jTl85MlVJQThTSzNyalFhY1A5OC0yYVVHX2pfSVF3NzI1Rzk4TXp4VFM3WGo5QlIxOHFjdy1FcGF3aTZfalFFYW9aeU5MQS1SRjZJeUhUNE9UY3QzUTJGbWs1U29adm5xc3o1WDZ6VkxzaFN5Y3BydW5jQjVVa0pmbG84d2Zx?oc=5" target="_blank" rel="noopener noreferrer">China&#x27;s auto industry races to embed AI in line with Beijing mandate - Yahoo Finance UK</a></h3>
+      <div class="meta">Yahoo Finance UK · Fri 12:11 AM</div>
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     
@@ -202,6 +189,13 @@
       <section class="section half">
         <h2>Automotive Software</h2>
         
+    <article class="item">
+      <h3><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1dtSllyamFJRndmREFVSi0yOG03R2ZudU1XU3BhVXBtbmZZRVlUMGZvRUQzUjJGeU13cE10Smw4VWowZExaeWpUTk9NUlE2TG94YlU0RlJ6dXR0ZTI1bU5aaDZyMVlvVUdMdWotTTg4TExGVzZ1VjBsSGdOZXNhY2pySl9oT3FlYVNtWVQ2bV90amJNNXBzY3hqbzRIRHBKcmlxZ0FqWlhFRHlpMnUyNndTVEJOaGc1anAxemJpYzJXMHUwUlFOS2s1SQ?oc=5" target="_blank" rel="noopener noreferrer">Rivian announces $350 million investment from Cox Automotive - Rivian Newsroom - Rivian</a></h3>
+      <div class="meta">Rivian · Thu 9:31 PM</div>
+      <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
+    </article>
+    
+
     <article class="item">
       <h3><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aYURhOW1DSVQ5U1dSUldyUmtjRGwxQ1pIWk9VMHR2WF9ZUG1zYk1KU0JtaDhhby1kazVzMDBTVjFTZ2NuMmVEd3RyUnRXa0pMdWozNUYweU5GTkdtZTJRSjVRUXlsSFpJ?oc=5" target="_blank" rel="noopener noreferrer">Cox Automotive acquires Israeli startup Fullpath for hundreds of millions in AI push - CTech</a></h3>
       <div class="meta">CTech · Thu 10:57 AM</div>
@@ -229,22 +223,15 @@
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     
-
-    <article class="item">
-      <h3><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNWG9kbEtXSDM2VXJLTUdWU2x4aGU5V1VxQXFjdmRNOHpsem5UbGNoZ1BaLUlQcjN6TS13OUtLNTRrRWRnNmZnSHMtN0NLdERqNVN3TWU3Z24xOFRiSVV1ZW5rUi1pejRYdG50MXpUdXpvZWhCYzNlOXFDNFZMRVZsbTJhT0tqY3dkd21vR3FuVGh3VllsWC1JSzBnTTlHYXNnYXRyMy1ZNk9BYWNfTTk5YlkyLTFmanhTV1k4RVlJVQ?oc=5" target="_blank" rel="noopener noreferrer">Cox Automotive to acquire Fullpath, expand AI capabilities for dealers - Auto Finance News</a></h3>
-      <div class="meta">Auto Finance News · Thu 4:32 PM</div>
-      <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
-    </article>
-    
       </section>
 
       <section class="section">
         <h2>Denver Sports</h2>
-        <p class="lead">Coverage is broken out by team and limited to items published in roughly the last 24 hours.</p>
+        <p class="lead">Coverage is broken out by team and limited to items published in the last 24 hours.</p>
         <section class="subsection"><h3>Broncos</h3>
     <article class="item">
-      <h3><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGNHQzZBdURoUXhrUnBZSTZLVG1JUlBzWXhrdWNYV1U0SlR4eC02eUY3YlhJUVBSSnlZdTI4RXJ5cFlGalpZWmNvYjhndlUwSnFSUk54aGRyUkpoWWRDNlg3SUdtZl9VaGw0UF90X3puNmNOXzU0NkRmbUpPLWxuWXlsaWRQcEVWTUdrNkFWYUxZMW92c2R0enpBbDRXN2wtNEVLSEtsRTlib0pWbFZ3OF9IOHU3dVJIdVl2MmdkSEx4U3c?oc=5" target="_blank" rel="noopener noreferrer">Updated Broncos mock draft for Day 2 (and 3) of the NFL draft - Broncos Wire</a></h3>
-      <div class="meta">Broncos Wire · Fri 6:30 AM</div>
+      <h3><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGpPZ0tXWFQ5SXpMV1IwODNRZjljcl9vclJfNmpCUXk4SXpuRkF5dmE2YVZVR1hTMEJaWHNFeFkzRWtPcXdyWmdfZzJ5TW5NY0xzdXpyZC1aNHVPLV9qRUZBMk0zVjlFa3hyOTc0bVF2WVZyekJSX0lUZG1LWDBYbUxkZVFOTGVuQ3NhR0NwSmZxVjVxUll4YkViLS0zWjQwcDU3Y2VOYi1FLXpaeEtrRUl6TFRWQlMxbVh3cjIxX1k?oc=5" target="_blank" rel="noopener noreferrer">NFL mock draft roundup: Broncos predictions for Day 2 - Broncos Wire</a></h3>
+      <div class="meta">Broncos Wire · Fri 8:01 AM</div>
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     
@@ -270,18 +257,25 @@
     
 
     <article class="item">
-      <h3><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQQlFFX2g1WjFocjY1V3d2eDNCRzBXWnBfNG1Fb0FrZGpqaGFiSXk5ZkYwQW43WFp3YTRBNU80bVI1UVMydUxyUWhPdmpLX3FKSFpLams0RWV1X21HcUU4Y0hoNkpfTkQ5dkJoZDZlemN2d1ZWeGIwVXJfUnV1cm5ROEFTdUxXVnNzWkE?oc=5" target="_blank" rel="noopener noreferrer">Adaptable Avalanche take 2-0 series lead to LA as Kings smother Colorado’s high-powered attack - AP News</a></h3>
-      <div class="meta">AP News · Thu 7:57 PM</div>
+      <h3><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0ZZTWh5c25mS253VWJOb3pwb0l5TTBRX0I2ZVlxQUk1V3hCWmR3N2lPb29sOFhNYWxyMG1UbEt2ekNLM0VtSzRmM3BiODBjbmt6YjRhR0dvNXhMMllqa09NSGNJc1VpVFFoOGZGOVJqa3RHNmI1UWo0bTk4Sl80anhPX1NERVRTdzJXWHF5SDB4WEp1TEFGZ3Roc09BUTBMUFN6ZW5nUUFOOTIwbnphRw?oc=5" target="_blank" rel="noopener noreferrer">Avalanche vs. Kings Game 3: Key takeaways as Colorado takes commanding 3-0 series lead - The New York Times</a></h3>
+      <div class="meta">The New York Times · Fri 12:58 AM</div>
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     
 
     <article class="item">
-      <h3><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0ZZTWh5c25mS253VWJOb3pwb0l5TTBRX0I2ZVlxQUk1V3hCWmR3N2lPb29sOFhNYWxyMG1UbEt2ekNLM0VtSzRmM3BiODBjbmt6YjRhR0dvNXhMMllqa09NSGNJc1VpVFFoOGZGOVJqa3RHNmI1UWo0bTk4Sl80anhPX1NERVRTdzJXWHF5SDB4WEp1TEFGZ3Roc09BUTBMUFN6ZW5nUUFOOTIwbnphRw?oc=5" target="_blank" rel="noopener noreferrer">Avalanche vs. Kings Game 3: Key takeaways as Colorado takes commanding 3-0 series lead - The New York Times</a></h3>
-      <div class="meta">The New York Times · Fri 12:58 AM</div>
+      <h3><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQQlFFX2g1WjFocjY1V3d2eDNCRzBXWnBfNG1Fb0FrZGpqaGFiSXk5ZkYwQW43WFp3YTRBNU80bVI1UVMydUxyUWhPdmpLX3FKSFpLams0RWV1X21HcUU4Y0hoNkpfTkQ5dkJoZDZlemN2d1ZWeGIwVXJfUnV1cm5ROEFTdUxXVnNzWkE?oc=5" target="_blank" rel="noopener noreferrer">Adaptable Avalanche take 2-0 series lead to LA as Kings smother Colorado’s high-powered attack - AP News</a></h3>
+      <div class="meta">AP News · Thu 7:57 PM</div>
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     </section><section class="subsection"><h3>Nuggets</h3>
+    <article class="item">
+      <h3><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQalJOY2hvUUNycHJicmwtbm12MG1iaVNJNklyRW5pTFVXdmM0NGZrYzlXTEZGWUJaQnhwUEltYjM1RHBydDNjb2pNbW81RzVNYW1kakoweWItUXZ2cEdYZFd3UG1NQ1l5RVBrZkItVkFrR2JxT3B5dUlmLW1Hclhsbkl3bnRCdlpublo2bksyblZ1cnhnQTVV?oc=5" target="_blank" rel="noopener noreferrer">Jaden McDaniels calls Nuggets ‘all bad defenders’ after Timberwolves rally to win Game 2 - AP News</a></h3>
+      <div class="meta">AP News · Fri 7:42 AM</div>
+      <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
+    </article>
+    
+
     <article class="item">
       <h3><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHViRXRXUFlRLXFwVkFNdE14U2tOSXI2b2FLbzN5d05VbmlzcU85UWl1bXY2OVhqS1NSdlk1TFFDSTlnMGxYOVlxb0RLNDJ2SFVobGZUaHVKc3dNMHNVdTVVU3NXYkVoeGVQc01wQVFYWXA5amtrd24tbXlYMDRNNWd1dTM2ZldLX3oyMHpiNVI2N0J6OVdLeHVjVk4xdHBxMmhFeVlBOFMzNWVVaWw5TG44VmJBckNYRkZN?oc=5" target="_blank" rel="noopener noreferrer">Can Nikola Jokić, after his worst-ever NBA playoff game, respond like Nikola Jokić? - The New York Times</a></h3>
       <div class="meta">The New York Times · Fri 6:55 AM</div>
@@ -292,13 +286,6 @@
     <article class="item">
       <h3><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CbmFsR3JoeU1VRnFoWGhYTkZXTUpNa2xXQV9LTkNUTHhETW9VSUJkZGR3aEVGVWkwNWNHYmNkVXBrNlVKUlRFbGNsLTNROVFkWU11b1lNVmppZGs?oc=5" target="_blank" rel="noopener noreferrer">Timberwolves 113-96 Nuggets (Apr 23, 2026) Game Recap - ESPN</a></h3>
       <div class="meta">ESPN · Thu 11:51 PM</div>
-      <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
-    </article>
-    
-
-    <article class="item">
-      <h3><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXVuQTlOYTJBSk9GeGMwTTdNazdZbWdXQTl3emxQNklQaUFsNW1vbFRFbTNwTEpIY1Z2WGJYLUpzd09XWjJWTDJvNkxnZG5xWjdPNS02LVEzWkZQNldMakdIaW1qaUF6ZUZGb3lqN21rSTdTMXRLRFRZRFBZS2JFVGo1aHI?oc=5" target="_blank" rel="noopener noreferrer">Denver Nuggets @ Minnesota Timberwolves: Live game updates, stats, play-by-play - Yahoo Sports</a></h3>
-      <div class="meta">Yahoo Sports · Fri 4:23 AM</div>
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     </section><section class="subsection"><h3>Rockies</h3>
@@ -322,6 +309,17 @@
       <p>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.</p>
     </article>
     </section>
+      </section>
+
+      <section class="section third">
+        <h2>TLDR AI</h2>
+        
+        <article class="item">
+          <h3><a href="https://a.tldrnewsletter.com/web-version?ep=1&amp;lc=b655089e-27e7-11f1-b010-8f615317ba80&amp;p=7018eb02-3fcf-11f1-9317-11254792d9bb&amp;pt=campaign&amp;t=1777037820&amp;s=0ead638565291997ef5d008cf1559c7908ae0f1051618498f57b45f2f8c36bfd" target="_blank" rel="noopener noreferrer">GPT-5.5 release 🚀, Anthropic $1T valuation 💰, DeepSeek v4</a></h3>
+          <div class="meta">Latest TLDR AI web version</div>
+          <p>Open the exact web-view version from your email newsletter.</p>
+        </article>
+        
       </section>
     </div>
 

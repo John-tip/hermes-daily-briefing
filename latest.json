@@ -1,7 +1,8 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-24T08:10:30.976312-06:00",
+  "generated_at": "2026-04-24T08:48:30.958824-06:00",
   "date": "2026-04-24",
+  "news_window_hours": 24,
   "weather": {
     "headline": "Sunny",
     "detail": "Sunny, with a high near 73. South southwest wind 6 to 14 mph, with gusts as high as 23 mph.",
@@ -29,10 +30,10 @@
     "sports": {
       "Broncos": [
         {
-          "title": "Updated Broncos mock draft for Day 2 (and 3) of the NFL draft - Broncos Wire",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGNHQzZBdURoUXhrUnBZSTZLVG1JUlBzWXhrdWNYV1U0SlR4eC02eUY3YlhJUVBSSnlZdTI4RXJ5cFlGalpZWmNvYjhndlUwSnFSUk54aGRyUkpoWWRDNlg3SUdtZl9VaGw0UF90X3puNmNOXzU0NkRmbUpPLWxuWXlsaWRQcEVWTUdrNkFWYUxZMW92c2R0enpBbDRXN2wtNEVLSEtsRTlib0pWbFZ3OF9IOHU3dVJIdVl2MmdkSEx4U3c?oc=5",
+          "title": "NFL mock draft roundup: Broncos predictions for Day 2 - Broncos Wire",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGpPZ0tXWFQ5SXpMV1IwODNRZjljcl9vclJfNmpCUXk4SXpuRkF5dmE2YVZVR1hTMEJaWHNFeFkzRWtPcXdyWmdfZzJ5TW5NY0xzdXpyZC1aNHVPLV9qRUZBMk0zVjlFa3hyOTc0bVF2WVZyekJSX0lUZG1LWDBYbUxkZVFOTGVuQ3NhR0NwSmZxVjVxUll4YkViLS0zWjQwcDU3Y2VOYi1FLXpaeEtrRUl6TFRWQlMxbVh3cjIxX1k?oc=5",
           "source": "Broncos Wire",
-          "published": "2026-04-24T06:30:00-06:00",
+          "published": "2026-04-24T08:01:00-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
@@ -59,21 +60,28 @@
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Adaptable Avalanche take 2-0 series lead to LA as Kings smother Colorado\u2019s high-powered attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQlFFX2g1WjFocjY1V3d2eDNCRzBXWnBfNG1Fb0FrZGpqaGFiSXk5ZkYwQW43WFp3YTRBNU80bVI1UVMydUxyUWhPdmpLX3FKSFpLams0RWV1X21HcUU4Y0hoNkpfTkQ5dkJoZDZlemN2d1ZWeGIwVXJfUnV1cm5ROEFTdUxXVnNzWkE?oc=5",
-          "source": "AP News",
-          "published": "2026-04-23T19:57:40-06:00",
-          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-        },
-        {
           "title": "Avalanche vs. Kings Game 3: Key takeaways as Colorado takes commanding 3-0 series lead - The New York Times",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0ZZTWh5c25mS253VWJOb3pwb0l5TTBRX0I2ZVlxQUk1V3hCWmR3N2lPb29sOFhNYWxyMG1UbEt2ekNLM0VtSzRmM3BiODBjbmt6YjRhR0dvNXhMMllqa09NSGNJc1VpVFFoOGZGOVJqa3RHNmI1UWo0bTk4Sl80anhPX1NERVRTdzJXWHF5SDB4WEp1TEFGZ3Roc09BUTBMUFN6ZW5nUUFOOTIwbnphRw?oc=5",
           "source": "The New York Times",
           "published": "2026-04-24T00:58:41-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+        },
+        {
+          "title": "Adaptable Avalanche take 2-0 series lead to LA as Kings smother Colorado\u2019s high-powered attack - AP News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQlFFX2g1WjFocjY1V3d2eDNCRzBXWnBfNG1Fb0FrZGpqaGFiSXk5ZkYwQW43WFp3YTRBNU80bVI1UVMydUxyUWhPdmpLX3FKSFpLams0RWV1X21HcUU4Y0hoNkpfTkQ5dkJoZDZlemN2d1ZWeGIwVXJfUnV1cm5ROEFTdUxXVnNzWkE?oc=5",
+          "source": "AP News",
+          "published": "2026-04-23T19:57:40-06:00",
+          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
       "Nuggets": [
+        {
+          "title": "Jaden McDaniels calls Nuggets \u2018all bad defenders\u2019 after Timberwolves rally to win Game 2 - AP News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalJOY2hvUUNycHJicmwtbm12MG1iaVNJNklyRW5pTFVXdmM0NGZrYzlXTEZGWUJaQnhwUEltYjM1RHBydDNjb2pNbW81RzVNYW1kakoweWItUXZ2cEdYZFd3UG1NQ1l5RVBrZkItVkFrR2JxT3B5dUlmLW1Hclhsbkl3bnRCdlpublo2bksyblZ1cnhnQTVV?oc=5",
+          "source": "AP News",
+          "published": "2026-04-24T07:42:02-06:00",
+          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+        },
         {
           "title": "Can Nikola Joki\u0107, after his worst-ever NBA playoff game, respond like Nikola Joki\u0107? - The New York Times",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHViRXRXUFlRLXFwVkFNdE14U2tOSXI2b2FLbzN5d05VbmlzcU85UWl1bXY2OVhqS1NSdlk1TFFDSTlnMGxYOVlxb0RLNDJ2SFVobGZUaHVKc3dNMHNVdTVVU3NXYkVoeGVQc01wQVFYWXA5amtrd24tbXlYMDRNNWd1dTM2ZldLX3oyMHpiNVI2N0J6OVdLeHVjVk4xdHBxMmhFeVlBOFMzNWVVaWw5TG44VmJBckNYRkZN?oc=5",
@@ -86,13 +94,6 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CbmFsR3JoeU1VRnFoWGhYTkZXTUpNa2xXQV9LTkNUTHhETW9VSUJkZGR3aEVGVWkwNWNHYmNkVXBrNlVKUlRFbGNsLTNROVFkWU11b1lNVmppZGs?oc=5",
           "source": "ESPN",
           "published": "2026-04-23T23:51:40-06:00",
-          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-        },
-        {
-          "title": "Denver Nuggets @ Minnesota Timberwolves: Live game updates, stats, play-by-play - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXVuQTlOYTJBSk9GeGMwTTdNazdZbWdXQTl3emxQNklQaUFsNW1vbFRFbTNwTEpIY1Z2WGJYLUpzd09XWjJWTDJvNkxnZG5xWjdPNS02LVEzWkZQNldMakdIaW1qaUF6ZUZGb3lqN21rSTdTMXRLRFRZRFBZS2JFVGo1aHI?oc=5",
-          "source": "Yahoo Sports",
-          "published": "2026-04-24T04:23:37-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
@@ -122,17 +123,17 @@
     },
     "us_news": [
       {
+        "title": "Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, source says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RUTmM1S2o5X3BON3RZa25LVHBPMVFBVkdXRFg4NUhVaTQ5eHhBcTdPdnN4TDBzTnc2VVpNekUweDhXdjY3WjEyb2hhd0FNcHpHeW0ybmc5dVQ1aTVJZ3NRczljSU10SnpPdjhQV1NxdkhYVmx4SU9NczJCdzdfaU5sZkJ0XzlDNUJKc0xZNU9IaXFPV0V1TE1RWTBrd3RsMG9XY3FQTXlPMXNhNEZhQW1YTEtZQzVQT0VF?oc=5",
+        "source": "Reuters",
+        "published": "2026-04-23T23:03:00-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
         "title": "India says trade talks with U.S. remain constructive after Washington visit - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXR3dmhBMG5oTUpGRVRpSzFsdGRLNFBDMkFhd1lXWFF1b3MtNGpTTTFObHM4T1AyYlVPRmpnMldXaWJCN2VqbkdNLV94TWx0NWwtSkRNYjduOVBSeng4WVE4ZWF2OWtjcHVlSTBkWjlWM0JqbU1tWFllU1hocHZrX3ZJZDJSaTZQaDBSeklnTUh6TElfb2MyZklwYXhFRDlrY3dQRkNqVkx1eTduWW9CZm9aaXhOZ2pUcGt6TFF3?oc=5",
         "source": "Reuters",
         "published": "2026-04-23T13:50:19-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Iran's foreign minister to head to Islamabad, venue of US talks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnpNOVBIV2pyZjNCd1lNdTlINmtvbWFHTV95NDh6U1pyOXZ1bWlDZzgydUtJS3FsWjBpNmowRjJ6ZkEtb3FsUXRfSzJaWVRFcHQ4WEtFUHlYMlpvdmctRHZaXy1fY25USE15NVR2M0gxd2pZcHd5ZlVNdW1kVXhma2RJRHo0cWhKemtsTV9iQmswbVhmd3F4aTM2dlFzdlgzMnhoMVh1VUJfdXVKdXVMM1RTMHpZLUh2?oc=5",
-        "source": "Reuters",
-        "published": "2026-04-23T22:06:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
@@ -143,17 +144,17 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, source says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RUTmM1S2o5X3BON3RZa25LVHBPMVFBVkdXRFg4NUhVaTQ5eHhBcTdPdnN4TDBzTnc2VVpNekUweDhXdjY3WjEyb2hhd0FNcHpHeW0ybmc5dVQ1aTVJZ3NRczljSU10SnpPdjhQV1NxdkhYVmx4SU9NczJCdzdfaU5sZkJ0XzlDNUJKc0xZNU9IaXFPV0V1TE1RWTBrd3RsMG9XY3FQTXlPMXNhNEZhQW1YTEtZQzVQT0VF?oc=5",
-        "source": "Reuters",
-        "published": "2026-04-24T06:41:38-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
         "title": "King Charles on US mission to bolster UK's special relationship with 'royalist' Trump - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWdOQ05wVHlqWHF1SF9XWWRlVkxHVXJWMl9mU19kSERGNUJOQnEyMW5BSjdZbVRyel9oVTZVdUdJWlVtRHVEcXRfaTNLeUdGTHpoSi1reWNjODl1TU9OcGhJcUFla1hGYmc4QXo2M1FJZ3NHaXJfZm1MSkpjQ2U3UV9TaV9LNlR6bElMdTN5VTJfMVFrSnI4bERRTzduWVJEQWNlVzVUWmRwaDU1UHBBNWFoZGN0R01nYjdid1FB?oc=5",
         "source": "Reuters",
         "published": "2026-04-23T13:45:01-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "US states where marijuana is legal - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0VtT3dsZ2dJRzZwRWI4Ym5xajM2TGlMNnAtYTJvZ1ZsS2l3TzZkQlVoRnZYaTVPVkNxNWVsYUZRempoN2duUW5zUmFJYjdadjNlUW9Ra0Z2SzFWV2hFNTlrR1JFMlZXR2prVkJOU3hDRHl0c1NkLUpXOE8zVzdXQVF0UzNHYnFoZjZxTXVpQUFaMmFkeWpSNjM4ME1TWnNCNzRfOWt1ZmVXdw?oc=5",
+        "source": "Reuters",
+        "published": "2026-04-23T09:58:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
@@ -217,10 +218,10 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Chinese EV makers take centre stage at world's biggest auto show - hpenews.com",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWWRSNTVIbVhUcGFaZU9hSGxmVEMtUExjcjVHNDhXNEYtTm5panlCRzBVQXNidC1WUVFUUzhUejNnZ2k4ZS1iRnYtNDU2eVdTcmx2d0FRZFZLeFc3MzJSM1Y3RGp4ZUpud05NdTk3ZUpHU1lCcGZfUm4wUll6Zi1yNG05al9PYlRPUUJUbWNwb29aSzh3ZktiSmlvamp2V01KMnVrUm5fU1JOSEtBZloyMnI3MXFIbUtrTG5WVmR2V2lXN05PaW1uRXNSSWNabFpybll3OUM4NUpybXdTTHU3NUVZcGFyZw?oc=5",
-        "source": "hpenews.com",
-        "published": "2026-04-24T02:15:58-06:00",
+        "title": "China's auto industry races to embed AI in line with Beijing mandate - Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSG5jTl85MlVJQThTSzNyalFhY1A5OC0yYVVHX2pfSVF3NzI1Rzk4TXp4VFM3WGo5QlIxOHFjdy1FcGF3aTZfalFFYW9aeU5MQS1SRjZJeUhUNE9UY3QzUTJGbWs1U29adm5xc3o1WDZ6VkxzaFN5Y3BydW5jQjVVa0pmbG84d2Zx?oc=5",
+        "source": "Yahoo Finance UK",
+        "published": "2026-04-24T00:11:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
@@ -232,6 +233,13 @@
       }
     ],
     "auto_software": [
+      {
+        "title": "Rivian announces $350 million investment from Cox Automotive - Rivian Newsroom - Rivian",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1dtSllyamFJRndmREFVSi0yOG03R2ZudU1XU3BhVXBtbmZZRVlUMGZvRUQzUjJGeU13cE10Smw4VWowZExaeWpUTk9NUlE2TG94YlU0RlJ6dXR0ZTI1bU5aaDZyMVlvVUdMdWotTTg4TExGVzZ1VjBsSGdOZXNhY2pySl9oT3FlYVNtWVQ2bV90amJNNXBzY3hqbzRIRHBKcmlxZ0FqWlhFRHlpMnUyNndTVEJOaGc1anAxemJpYzJXMHUwUlFOS2s1SQ?oc=5",
+        "source": "Rivian",
+        "published": "2026-04-23T21:31:28-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
       {
         "title": "Cox Automotive acquires Israeli startup Fullpath for hundreds of millions in AI push - CTech",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aYURhOW1DSVQ5U1dSUldyUmtjRGwxQ1pIWk9VMHR2WF9ZUG1zYk1KU0JtaDhhby1kazVzMDBTVjFTZ2NuMmVEd3RyUnRXa0pMdWozNUYweU5GTkdtZTJRSjVRUXlsSFpJ?oc=5",
@@ -258,13 +266,6 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3pFWkZzLVRFSjFRLTBsaDRUeXlkc1hvQ3NuUW1wb3YzZUZHWjgwRG5KMENvX0djd0RsTjlQQ05WbFBBOVZxQl80UXY3djNyOUp6X3ljeXVKckdwN0F2RlhYMGZudnhaOTJzRTRHeVlpczBYZGxHRTRXbUlSTV9XUnpIVWhRQmt5YUZFZA?oc=5",
         "source": "Automotive News",
         "published": "2026-04-23T09:28:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Cox Automotive to acquire Fullpath, expand AI capabilities for dealers - Auto Finance News",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWG9kbEtXSDM2VXJLTUdWU2x4aGU5V1VxQXFjdmRNOHpsem5UbGNoZ1BaLUlQcjN6TS13OUtLNTRrRWRnNmZnSHMtN0NLdERqNVN3TWU3Z24xOFRiSVV1ZW5rUi1pejRYdG50MXpUdXpvZWhCYzNlOXFDNFZMRVZsbTJhT0tqY3dkd21vR3FuVGh3VllsWC1JSzBnTTlHYXNnYXRyMy1ZNk9BYWNfTTk5YlkyLTFmanhTV1k4RVlJVQ?oc=5",
-        "source": "Auto Finance News",
-        "published": "2026-04-23T16:32:56-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ]
