@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-24T08:48:30.958824-06:00",
+  "generated_at": "2026-04-24T09:27:22.133044-06:00",
   "date": "2026-04-24",
   "news_window_hours": 24,
   "weather": {
@@ -8,7 +8,7 @@
     "detail": "Sunny, with a high near 73. South southwest wind 6 to 14 mph, with gusts as high as 23 mph.",
     "tonight": "Partly Cloudy",
     "high": 73,
-    "low": 48,
+    "low": 51,
     "source": "https://api.weather.gov/gridpoints/BOU/63,62/forecast"
   },
   "calendar": [
@@ -65,16 +65,16 @@
           "source": "The New York Times",
           "published": "2026-04-24T00:58:41-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-        },
-        {
-          "title": "Adaptable Avalanche take 2-0 series lead to LA as Kings smother Colorado\u2019s high-powered attack - AP News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQlFFX2g1WjFocjY1V3d2eDNCRzBXWnBfNG1Fb0FrZGpqaGFiSXk5ZkYwQW43WFp3YTRBNU80bVI1UVMydUxyUWhPdmpLX3FKSFpLams0RWV1X21HcUU4Y0hoNkpfTkQ5dkJoZDZlemN2d1ZWeGIwVXJfUnV1cm5ROEFTdUxXVnNzWkE?oc=5",
-          "source": "AP News",
-          "published": "2026-04-23T19:57:40-06:00",
-          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
       "Nuggets": [
+        {
+          "title": "Nikola Jokic falters, Denver Nuggets blown out in Game 3 loss to Timberwolves - Mile High Sports",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkRGN0FxRmdjRHJtM3pKWDFFdUhYeFVVUlRCSGxQNnE3MENyQ3VUeTVzMW5mNUU0aUFoSXk4TnhhSjVCQ0ROTzlXWXExUFJCVGpmdXItYlNRYV9ldmlHM2k3NF9BS0FFQThXWG5VMGZza2hZNHYyeUhKYVNJdHZIYmhCekFJSUY0Wi1TSVlZUzhNUFZiN2N3X0IzWTNPTG9FdTZLd1UyZ0c3aEhsMzBscNIBtgFBVV95cUxQOHBZdmlHcnJ3aGlTNW5tOUJJcTA1WWxmdWJVQ1Q4YmpTSVJ0Z1B2VWsyMU1MSzg4MHRLOHd2TThobVg5ZUlJSk1ZT2lwTEh2cDBrWHhiT3lxR1JuUngzSHRvMVI0anpHWmZTZWdpYmR3V045NWdYRnJiOHFsZDVUNDJzazZNWlFWZjVJMi1kME02azU0c2JONV9qVTJSTVVyQWxQMzNMS2dVdDhXYUg5bW5nU3ZYZw?oc=5",
+          "source": "Mile High Sports",
+          "published": "2026-04-24T03:12:48-06:00",
+          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+        },
         {
           "title": "Jaden McDaniels calls Nuggets \u2018all bad defenders\u2019 after Timberwolves rally to win Game 2 - AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalJOY2hvUUNycHJicmwtbm12MG1iaVNJNklyRW5pTFVXdmM0NGZrYzlXTEZGWUJaQnhwUEltYjM1RHBydDNjb2pNbW81RzVNYW1kakoweWItUXZ2cEdYZFd3UG1NQ1l5RVBrZkItVkFrR2JxT3B5dUlmLW1Hclhsbkl3bnRCdlpublo2bksyblZ1cnhnQTVV?oc=5",
@@ -87,13 +87,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHViRXRXUFlRLXFwVkFNdE14U2tOSXI2b2FLbzN5d05VbmlzcU85UWl1bXY2OVhqS1NSdlk1TFFDSTlnMGxYOVlxb0RLNDJ2SFVobGZUaHVKc3dNMHNVdTVVU3NXYkVoeGVQc01wQVFYWXA5amtrd24tbXlYMDRNNWd1dTM2ZldLX3oyMHpiNVI2N0J6OVdLeHVjVk4xdHBxMmhFeVlBOFMzNWVVaWw5TG44VmJBckNYRkZN?oc=5",
           "source": "The New York Times",
           "published": "2026-04-24T06:55:17-06:00",
-          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-        },
-        {
-          "title": "Timberwolves 113-96 Nuggets (Apr 23, 2026) Game Recap - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CbmFsR3JoeU1VRnFoWGhYTkZXTUpNa2xXQV9LTkNUTHhETW9VSUJkZGR3aEVGVWkwNWNHYmNkVXBrNlVKUlRFbGNsLTNROVFkWU11b1lNVmppZGs?oc=5",
-          "source": "ESPN",
-          "published": "2026-04-23T23:51:40-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
@@ -126,7 +119,14 @@
         "title": "Exclusive: Pentagon email floats suspending Spain from NATO, other steps over Iran rift, source says - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RUTmM1S2o5X3BON3RZa25LVHBPMVFBVkdXRFg4NUhVaTQ5eHhBcTdPdnN4TDBzTnc2VVpNekUweDhXdjY3WjEyb2hhd0FNcHpHeW0ybmc5dVQ1aTVJZ3NRczljSU10SnpPdjhQV1NxdkhYVmx4SU9NczJCdzdfaU5sZkJ0XzlDNUJKc0xZNU9IaXFPV0V1TE1RWTBrd3RsMG9XY3FQTXlPMXNhNEZhQW1YTEtZQzVQT0VF?oc=5",
         "source": "Reuters",
-        "published": "2026-04-23T23:03:00-06:00",
+        "published": "2026-04-24T08:41:28-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Iran's foreign minister to head to Islamabad, venue of US talks - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnpNOVBIV2pyZjNCd1lNdTlINmtvbWFHTV95NDh6U1pyOXZ1bWlDZzgydUtJS3FsWjBpNmowRjJ6ZkEtb3FsUXRfSzJaWVRFcHQ4WEtFUHlYMlpvdmctRHZaXy1fY25USE15NVR2M0gxd2pZcHd5ZlVNdW1kVXhma2RJRHo0cWhKemtsTV9iQmswbVhmd3F4aTM2dlFzdlgzMnhoMVh1VUJfdXVKdXVMM1RTMHpZLUh2?oc=5",
+        "source": "Reuters",
+        "published": "2026-04-23T22:06:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
@@ -134,13 +134,6 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXR3dmhBMG5oTUpGRVRpSzFsdGRLNFBDMkFhd1lXWFF1b3MtNGpTTTFObHM4T1AyYlVPRmpnMldXaWJCN2VqbkdNLV94TWx0NWwtSkRNYjduOVBSeng4WVE4ZWF2OWtjcHVlSTBkWjlWM0JqbU1tWFllU1hocHZrX3ZJZDJSaTZQaDBSeklnTUh6TElfb2MyZklwYXhFRDlrY3dQRkNqVkx1eTduWW9CZm9aaXhOZ2pUcGt6TFF3?oc=5",
         "source": "Reuters",
         "published": "2026-04-23T13:50:19-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "US, EU to sign preliminary partnership deal on critical minerals on Friday - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2hWelZ4OFZlV0xKdTlZMzFKR1I1a0dYYnlpREVnM0tOYS1fUXNQYjFtcENmLVltNkY1YTJNdDA4U0pCcWVTSmV1ZS1ZcDd5bUx3Y0g2MGI3aEd1TGFFT1dRMjJQTUFVTE1BLU5tZDJ1UHJyY05IeFBtYU1MRG43cDd4WUxwZ0xyTVY0YnJ3N2o2c0xaWFZHUGZXZndZYmpuQTZ3b1FyT08ycXBzdUUxcXN3?oc=5",
-        "source": "Reuters",
-        "published": "2026-04-23T20:02:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
@@ -159,13 +152,6 @@
       }
     ],
     "world_news": [
-      {
-        "title": "World stocks, oil on edge as US-Iran deadlock weighs - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGFfSlR2bzRVYUJjekt5UlU3ZFlaLWc1aXI2SXFmMEhaUWhuYVFEN0hFNC00QzlOZ0d3eGFqUEt5RGcxS2JLVTZsVFNKZUlxM0Ytd05mRVBTdy1Fc3E1MUNSeGZOOWNaWlh1WS1sYS1MN3pwX0ZJWVlyRXZBbXlBWEV4eEZVcUMzWnRFWA?oc=5",
-        "source": "Reuters",
-        "published": "2026-04-23T20:36:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
       {
         "title": "Italy dismisses replacing Iran at the World Cup after suggestion by Trump official - AP News",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWng4VVcxSjZ3aS1WekI3YzdGY2YtWnZJUFBCT3hDSVhsN0I3M1ZDdDJkOWhwVzNxcVZxVHAzbjZqblc1UFloRkk0RlBiWEpTVXVzQWlDVkR2Rmc2Q21aUzhVQXdKTmxxUUZxNEZSUm1xRmNja2lFMFZrekU3ZFUzTTJacDJQZU0?oc=5",
@@ -188,26 +174,26 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Human rights groups issue US travel advisory ahead of World Cup - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPak11eDBSd1J5bnRocVV4b05FRVlHbFNoT2pzWUVtNjgxcTVtSV82SENZOEJoZklkYmRKdlBhekJWckdOWXFidUJQcC14OEpFZ1ZsdlFselpDaVJpR1YwSUoxX1dOUjVJcTJ0a3NYR0Q2M1NybS1LblNoOVE3S3FlYW1FNHNZVFZXbHdVZ0xWbjlFYU1zMWtrTnZubC1wRHF4SXJ0eTVjMEtBend0Uzk1SXBxaw?oc=5",
+        "title": "Exclusive: SpaceX warns that inquiries into sexually abusive AI imagery may hurt market access - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd2hNRklBclVfQkdZdkhPNi1OU0QxLXFmaV9ycU5VM3o5Y3dXWUZNRnFISWtPX3NPYzQ0aC1Qdks1bVhSLWVSOTRrVzJhT0o2M3VFUFJWUm0waldZVU5TZkVNRzhCXzUyNy1fWWxoaUI3eGY2M3JFUnZ3YnR3ZjdiTG91NHhKLTVoTXVPN2R3SWdCYURRUXRDc0JQdnVseW1PRlpObFdSd2dVb3NTRmZiMDdncFZoZ3pZMmc?oc=5",
         "source": "Reuters",
-        "published": "2026-04-23T15:30:56-06:00",
+        "published": "2026-04-23T16:03:31-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
     "auto_industry": [
       {
-        "title": "Global auto industry faces split EV demand and supply chain strain - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOckIyWmxYVTJRRUVXWnN3bGpMMWtQRC1BOEhvWExaNmdjMHdleTYyNUtEYncxQndaSUR6VWpvb3doS3pCNGp5QzRwRUM1cUYwTThUdl9ZcmE1TVc1UkNuY1U5ZmVBRk1PLUlmOUtSdjhha3R1V0JlNmhtbGl2bFVHUDBwaHVDRkpBc0NaekZRdHBaUHNkZTVmWl9PbDl5R3FhbGQ3UXdNMTNDX2d0dnJWSjFYcnhQT1pOWFlhZ09JTEc5WFRER3ExdlBKOHJqdDZm?oc=5",
-        "source": "MSN",
-        "published": "2026-04-24T05:14:45-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
         "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - Reuters",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXdkaHV2WV8wRTFDNmN1amVieWpwZFNyT3cySlBoZkFKbkZacXJBVDgxalJHR29KSk9yZXJYWHhtdzVRbEliN0lOV19abi1fWHd3QjVRcnJRQUpWdjcwSHFIV3VlSHYtOW16MGJvYzJzUVBfbEF3SjNTR3QyVHRUZGM1WlNCNDVMZjFqcXAzM2lzQ1RGNWh1R0Y1UkN5bVg4bmxiNkNGaW5NeXJ6Z0dkQjEwTDY2d2c?oc=5",
         "source": "Reuters",
         "published": "2026-04-24T00:11:00-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Global auto industry faces split EV demand and supply chain strain - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOckIyWmxYVTJRRUVXWnN3bGpMMWtQRC1BOEhvWExaNmdjMHdleTYyNUtEYncxQndaSUR6VWpvb3doS3pCNGp5QzRwRUM1cUYwTThUdl9ZcmE1TVc1UkNuY1U5ZmVBRk1PLUlmOUtSdjhha3R1V0JlNmhtbGl2bFVHUDBwaHVDRkpBc0NaekZRdHBaUHNkZTVmWl9PbDl5R3FhbGQ3UXdNMTNDX2d0dnJWSjFYcnhQT1pOWFlhZ09JTEc5WFRER3ExdlBKOHJqdDZm?oc=5",
+        "source": "MSN",
+        "published": "2026-04-24T05:14:45-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
@@ -218,17 +204,10 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "China's auto industry races to embed AI in line with Beijing mandate - Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSG5jTl85MlVJQThTSzNyalFhY1A5OC0yYVVHX2pfSVF3NzI1Rzk4TXp4VFM3WGo5QlIxOHFjdy1FcGF3aTZfalFFYW9aeU5MQS1SRjZJeUhUNE9UY3QzUTJGbWs1U29adm5xc3o1WDZ6VkxzaFN5Y3BydW5jQjVVa0pmbG84d2Zx?oc=5",
-        "source": "Yahoo Finance UK",
-        "published": "2026-04-24T00:11:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Pulling the U.S. Auto Industry Out Of Its Disco Era - Federation of American Scientists",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0cVhOdXZmOUp4OUdYYzloMl84aGhmVnM1YjBMWXNXNGQ5YlVZVktycmMtQWQza29DLXEyRFNVTlBadktmaVVKSy1KYmlKV3dLUjgyTnZnNWxHblcybVQzeUk3NmdVbWhIbVE?oc=5",
-        "source": "Federation of American Scientists",
-        "published": "2026-04-23T11:35:31-06:00",
+        "title": "World's largest auto show kicks off in Beijing; event highlights China open for global auto cooperation - Global Times",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15MC1aVWQyOXpuZzA4VFRvR1R1SGhrcVREZTBMcjFGRkVrU3NsX3pzeWtmSWRRblFmVUdDZFg3YmZaeGlTRFlPVldaVGlUWHN5elhvUDUwdnhmMERfcHQ4am1R?oc=5",
+        "source": "Global Times",
+        "published": "2026-04-24T09:19:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
@@ -248,24 +227,17 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Cox Automotive to acquire data-cleansing CDP Fullpath - Car Dealership Guy News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFN0Si00WDlXUXBfQzVrYURreFFWaW1tRlJfTUo4djgwa2Q3dkVtbUE4UHY3ZlNRRzZuZDdDbzFIZnViUDFZWklHYzVQMXJXNDRBS0VqOXNoZ0syMk5OcXd3U1N0OENVZTNqbEpaNWYtRVhDV0tkOWppTVM5SkdZbVN6WEdCSW8zamNIUHJWdXo0THUxUWpxVVJxdHUtdw?oc=5",
-        "source": "Car Dealership Guy News",
-        "published": "2026-04-23T09:01:47-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Cox Automotive to Acquire Fullpath, Bringing AI-Native Data and Marketing Infrastructure to the Industry's Largest Dealer Network - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORTZpWEFITmxXMi1SMlNmMkhrV2xRWVZZTndXbUM2bGFMOWJXbGhhXzEtUTdDUl9pdGtNbVktMlAzeXZZRDFULWU2VVRmV3MzMWo5TEd4elRiRFlwRkh2SlZhNnY4d0ZkeVUtcnB6X3kxNGUxcTZOY09iTVF2ZUUtSXNvM2lhdUEtc2VUNkZ0NnNLUUN4YXpzN2JTUkQySU1lWXdxaWdRRENSQkNYc280bjZrYjVFSV9JbXo2NTdJMFVDT1JZMFlLMDRXSTAyaWM5WFN2Q3ZpWFQwWWZUZUhlZXNubFZkRUVReDByVnViRThfRXdNQWlJZlBvakFlZ05vMUkzS0ZQd1IwWmpGbk9tYw?oc=5",
-        "source": "PR Newswire",
-        "published": "2026-04-23T09:00:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
         "title": "Cox Automotive buys AI vendor Fullpath, fills product gaps - Automotive News",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3pFWkZzLVRFSjFRLTBsaDRUeXlkc1hvQ3NuUW1wb3YzZUZHWjgwRG5KMENvX0djd0RsTjlQQ05WbFBBOVZxQl80UXY3djNyOUp6X3ljeXVKckdwN0F2RlhYMGZudnhaOTJzRTRHeVlpczBYZGxHRTRXbUlSTV9XUnpIVWhRQmt5YUZFZA?oc=5",
         "source": "Automotive News",
         "published": "2026-04-23T09:28:00-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Jerusalem-based auto-tech company Fullpath set for $500M sale to Cox Automotive - ynetnews",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzQmF6RERZX1I2MDRRTVdqT0tZbklGNmhIbnFKcDA5X3RYOHlrdV9ZVkdIT0RaS05VN1ljY2tITndwYWxLUERfTE91VE9kYnRHN0ZGU0VBZ2tWblU1Rlp4SHlINDhSN0dmeGdlbw?oc=5",
+        "source": "ynetnews",
+        "published": "2026-04-23T12:53:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ]
@@ -292,7 +264,7 @@
     "sports.avalanche": {
       "label": "Denver Sports / Avalanche",
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "sports.nuggets": {
       "label": "Denver Sports / Nuggets",
@@ -312,31 +284,84 @@
     "world_news": {
       "label": "International News",
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "auto_industry": {
       "label": "Auto Industry",
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "auto_software": {
       "label": "Automotive Software",
       "status": "ok",
-      "count": 5
+      "count": 4
     }
   },
   "failures": [],
   "counts": {
     "calendar": 1,
     "us_news": 5,
-    "world_news": 5,
-    "auto_industry": 5,
-    "auto_software": 5,
+    "world_news": 4,
+    "auto_industry": 4,
+    "auto_software": 4,
     "sports": {
       "Broncos": 3,
-      "Avalanche": 3,
+      "Avalanche": 2,
       "Nuggets": 3,
       "Rockies": 3
     }
+  },
+  "deduplication": {
+    "duplicate_count": 4,
+    "dropped": [
+      {
+        "section": "sports.Avalanche",
+        "title": "PHOTOS: Colorado Avalanche vs. Los Angeles Kings in Game 3 of NHL Stanley Cup Playoffs first-round series - The Denver Post",
+        "source": "The Denver Post",
+        "duplicate_of": {
+          "section": "sports.Avalanche",
+          "title": "Avalanche win Game 3, on verge of sweep against Kings in West 1st Round - NHL.com",
+          "source": "NHL.com"
+        },
+        "reason": "summary-overlap",
+        "score": 0.45
+      },
+      {
+        "section": "world_news",
+        "title": "Human rights groups issue US travel advisory ahead of World Cup - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "world_news",
+          "title": "Amnesty International and rights groups issue a World Cup travel advisory for the US - AP News",
+          "source": "AP News"
+        },
+        "reason": "summary-overlap",
+        "score": 0.75
+      },
+      {
+        "section": "auto_industry",
+        "title": "China's auto industry races to embed AI in line with Beijing mandate - Yahoo Finance UK",
+        "source": "Yahoo Finance UK",
+        "duplicate_of": {
+          "section": "auto_industry",
+          "title": "After call from Beijing, China's auto industry races to embed AI in just about everything - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "summary-overlap",
+        "score": 0.765
+      },
+      {
+        "section": "auto_software",
+        "title": "Cox Automotive to acquire Fullpath, expand AI capabilities for dealers - Auto Finance News",
+        "source": "Auto Finance News",
+        "duplicate_of": {
+          "section": "auto_software",
+          "title": "Cox Automotive acquires Israeli startup Fullpath for hundreds of millions in AI push - CTech",
+          "source": "CTech"
+        },
+        "reason": "summary-overlap",
+        "score": 0.579
+      }
+    ]
   }
 }
