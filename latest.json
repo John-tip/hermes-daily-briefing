@@ -1,6 +1,6 @@
 {
-  "status": "ok",
-  "generated_at": "2026-04-24T09:27:22.133044-06:00",
+  "status": "partial-success",
+  "generated_at": "2026-04-24T09:29:40.208994-06:00",
   "date": "2026-04-24",
   "news_window_hours": 24,
   "weather": {
@@ -20,12 +20,7 @@
       "location": "https://dealerslink.zoom.us/j/88580158953?pwd=K285K1dramJURjdmR3BxYmFHOHlRdz09"
     }
   ],
-  "tldr": {
-    "subject": "GPT-5.5 release \ud83d\ude80, Anthropic $1T valuation \ud83d\udcb0, DeepSeek v4",
-    "date": "Fri, 24 Apr 2026 13:37:00 +0000",
-    "url": "https://a.tldrnewsletter.com/web-version?ep=1&lc=b655089e-27e7-11f1-b010-8f615317ba80&p=7018eb02-3fcf-11f1-9317-11254792d9bb&pt=campaign&t=1777037820&s=0ead638565291997ef5d008cf1559c7908ae0f1051618498f57b45f2f8c36bfd",
-    "message_id": "19dbfb545b4f2a47"
-  },
+  "tldr": null,
   "sections": {
     "sports": {
       "Broncos": [
@@ -213,31 +208,10 @@
     ],
     "auto_software": [
       {
-        "title": "Rivian announces $350 million investment from Cox Automotive - Rivian Newsroom - Rivian",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1dtSllyamFJRndmREFVSi0yOG03R2ZudU1XU3BhVXBtbmZZRVlUMGZvRUQzUjJGeU13cE10Smw4VWowZExaeWpUTk9NUlE2TG94YlU0RlJ6dXR0ZTI1bU5aaDZyMVlvVUdMdWotTTg4TExGVzZ1VjBsSGdOZXNhY2pySl9oT3FlYVNtWVQ2bV90amJNNXBzY3hqbzRIRHBKcmlxZ0FqWlhFRHlpMnUyNndTVEJOaGc1anAxemJpYzJXMHUwUlFOS2s1SQ?oc=5",
-        "source": "Rivian",
-        "published": "2026-04-23T21:31:28-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
         "title": "Cox Automotive acquires Israeli startup Fullpath for hundreds of millions in AI push - CTech",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aYURhOW1DSVQ5U1dSUldyUmtjRGwxQ1pIWk9VMHR2WF9ZUG1zYk1KU0JtaDhhby1kazVzMDBTVjFTZ2NuMmVEd3RyUnRXa0pMdWozNUYweU5GTkdtZTJRSjVRUXlsSFpJ?oc=5",
         "source": "CTech",
         "published": "2026-04-23T10:57:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Cox Automotive buys AI vendor Fullpath, fills product gaps - Automotive News",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3pFWkZzLVRFSjFRLTBsaDRUeXlkc1hvQ3NuUW1wb3YzZUZHWjgwRG5KMENvX0djd0RsTjlQQ05WbFBBOVZxQl80UXY3djNyOUp6X3ljeXVKckdwN0F2RlhYMGZudnhaOTJzRTRHeVlpczBYZGxHRTRXbUlSTV9XUnpIVWhRQmt5YUZFZA?oc=5",
-        "source": "Automotive News",
-        "published": "2026-04-23T09:28:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Jerusalem-based auto-tech company Fullpath set for $500M sale to Cox Automotive - ynetnews",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzQmF6RERZX1I2MDRRTVdqT0tZbklGNmhIbnFKcDA5X3RYOHlrdV9ZVkdIT0RaS05VN1ljY2tITndwYWxLUERfTE91VE9kYnRHN0ZGU0VBZ2tWblU1Rlp4SHlINDhSN0dmeGdlbw?oc=5",
-        "source": "ynetnews",
-        "published": "2026-04-23T12:53:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ]
@@ -254,7 +228,11 @@
     },
     "tldr": {
       "label": "TLDR AI",
-      "status": "ok"
+      "status": "error",
+      "error": {
+        "type": "JSONDecodeError",
+        "message": "Expecting value: line 1 column 1 (char 0)"
+      }
     },
     "sports.broncos": {
       "label": "Denver Sports / Broncos",
@@ -294,16 +272,26 @@
     "auto_software": {
       "label": "Automotive Software",
       "status": "ok",
-      "count": 4
+      "count": 1
     }
   },
-  "failures": [],
+  "failures": [
+    {
+      "component": "tldr",
+      "label": "TLDR AI",
+      "status": "error",
+      "error": {
+        "type": "JSONDecodeError",
+        "message": "Expecting value: line 1 column 1 (char 0)"
+      }
+    }
+  ],
   "counts": {
     "calendar": 1,
     "us_news": 5,
     "world_news": 4,
     "auto_industry": 4,
-    "auto_software": 4,
+    "auto_software": 1,
     "sports": {
       "Broncos": 3,
       "Avalanche": 2,
@@ -312,7 +300,7 @@
     }
   },
   "deduplication": {
-    "duplicate_count": 4,
+    "duplicate_count": 7,
     "dropped": [
       {
         "section": "sports.Avalanche",
@@ -361,6 +349,42 @@
         },
         "reason": "summary-overlap",
         "score": 0.579
+      },
+      {
+        "section": "auto_software",
+        "title": "Jerusalem-based auto-tech company Fullpath set for $500M sale to Cox Automotive - ynetnews",
+        "source": "ynetnews",
+        "duplicate_of": {
+          "section": "auto_software",
+          "title": "Cox Automotive acquires Israeli startup Fullpath for hundreds of millions in AI push - CTech",
+          "source": "CTech"
+        },
+        "reason": "same-event-phrases",
+        "score": 0.375
+      },
+      {
+        "section": "auto_software",
+        "title": "Cox Automotive to acquire Fullpath to expand AI-driven marketing, data capabilities - CBT News",
+        "source": "CBT News",
+        "duplicate_of": {
+          "section": "auto_software",
+          "title": "Cox Automotive acquires Israeli startup Fullpath for hundreds of millions in AI push - CTech",
+          "source": "CTech"
+        },
+        "reason": "summary-overlap",
+        "score": 0.524
+      },
+      {
+        "section": "auto_software",
+        "title": "Cox Automotive to Acquire Fullpath, Bringing AI-Native Data and Marketing Infrastructure to the Industry's Largest Dealer Network - Cox E...",
+        "source": "Cox Enterprises",
+        "duplicate_of": {
+          "section": "auto_software",
+          "title": "Cox Automotive acquires Israeli startup Fullpath for hundreds of millions in AI push - CTech",
+          "source": "CTech"
+        },
+        "reason": "summary-overlap",
+        "score": 0.45
       }
     ]
   }
