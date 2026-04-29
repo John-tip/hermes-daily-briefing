@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-29T07:53:05.620362-06:00",
+  "generated_at": "2026-04-29T07:54:52.996276-06:00",
   "date": "2026-04-29",
   "news_window_hours": 24,
   "weather": {
@@ -34,13 +34,7 @@
     "message_id": "19dd975536564e79",
     "query": "from:(tldr@tldrnewsletter.com OR dan@tldrnewsletter.com OR hey@tldrnewsletter.com) newer_than:1d"
   },
-  "tldr_crypto": {
-    "subject": "AWS + OpenAI \ud83e\udd1d, Claude creative tools \ud83e\uddd1\u200d\ud83c\udfa8, Nemotro Nano Omni \ud83e\udd16",
-    "date": "Wed, 29 Apr 2026 13:37:17 +0000",
-    "url": "https://a.tldrnewsletter.com/web-version?ep=1&lc=b655089e-27e7-11f1-b010-8f615317ba80&p=f3adf0f4-43c9-11f1-973e-af89a1123bc2&pt=campaign&t=1777469837&s=56510eeab957d38550b49b0e33a6b838d3438f18ace8d0610abf429f03c9e8f2",
-    "message_id": "19dd975536564e79",
-    "query": "from:(crypto@tldrnewsletter.com OR tldr@tldrnewsletter.com OR dan@tldrnewsletter.com OR hey@tldrnewsletter.com) newer_than:2d"
-  },
+  "tldr_crypto": null,
   "sections": {
     "sports": {
       "Broncos": [
@@ -301,7 +295,7 @@
     },
     "tldr_crypto": {
       "label": "TLDR Crypto",
-      "status": "ok"
+      "status": "empty"
     },
     "sports.broncos": {
       "label": "Denver Sports / Broncos",
