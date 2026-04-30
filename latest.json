@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-04-30T15:47:05.204973-06:00",
+  "generated_at": "2026-04-30T15:48:56.833723-06:00",
   "date": "2026-04-30",
   "news_window_hours": 24,
   "weather": {
@@ -27,7 +27,13 @@
       "location": ""
     }
   ],
-  "tldr": null,
+  "tldr": {
+    "subject": "Apple AI photos \ud83d\udcf1, Elon's Mars bonus \ud83d\udcb0, Cursor SDK \ud83e\uddd1\u200d\ud83d\udcbb",
+    "date": "Thu, 30 Apr 2026 10:23:32 +0000",
+    "url": "https://a.tldrnewsletter.com/web-version?ep=1&lc=1c59b2f6-43d2-11f1-93d5-cf85187bd815&p=0353eb6a-4462-11f1-9f9f-f787867ecd52&pt=campaign&t=1777544611&s=fb0a6ec142b6602d56a0184ea827c7b6fd9cb8e0d0be5920bc33e32849bd8de6",
+    "message_id": "19dddea4a9cfabce",
+    "query": "from:(tldr@tldrnewsletter.com OR dan@tldrnewsletter.com OR hey@tldrnewsletter.com) newer_than:1d"
+  },
   "tldr_crypto": {
     "subject": "HOOD vs HYPE \ud83e\udd4a, Stablecoin Remittance Problem \ud83e\udd14, Pump.fun Token Burn \ud83d\udd25",
     "date": "Thu, 30 Apr 2026 12:03:56 +0000",
@@ -291,7 +297,7 @@
     },
     "tldr": {
       "label": "TLDR AI",
-      "status": "empty"
+      "status": "ok"
     },
     "tldr_crypto": {
       "label": "TLDR Crypto",
