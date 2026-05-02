@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-05-02T08:10:12.461535-06:00",
+  "generated_at": "2026-05-02T08:32:34.770963-06:00",
   "date": "2026-05-02",
   "news_window_hours": 24,
   "weather": {
@@ -8,7 +8,7 @@
     "detail": "Sunny, with a high near 72. South wind around 6 mph.",
     "tonight": "Mostly Clear",
     "high": 72,
-    "low": 41,
+    "low": 46,
     "source": "https://api.weather.gov/gridpoints/BOU/63,62/forecast"
   },
   "calendar": [
@@ -102,17 +102,17 @@
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "In Albuquerque, production is not proof - Purple Row",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOE91XzhRZEVtbjF4Y1ZnZGtzekR1eGF6UzA1SkRnc1NfM1Y3UTRyZXNOQ0pURGJsejZ0ZExVR2packRFWFY0b2syc2hsOHh2c2NYc3NtQ01tVnpoempVTDNOQnp2NnBlWWhLOWJ3cDF1Z19SQXZCRWo3TnJSOGxZXzk4QmFmR1RRNW9ma21BSFpXZ1kyQkRz?oc=5",
-          "source": "Purple Row",
-          "published": "2026-05-02T06:00:00-06:00",
+          "title": "Where to watch Atlanta Braves vs Colorado Rockies: TV channel, start time, streaming for May 1 - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEJ2MnduVUlHU2NVVFZrYlhKWGRxaDVHckhtLV9HelAyNTNxUUl0V0tHTWZUZFItS1JkUmNFSTdSaEZxbm5GZkZtSmswYnlDbUVLX1A5OGVEeXdkbHJYcXAtR01qbTdWcHJVd0prYjBHTmM1VmNqbG1fTHFyNDdydnZvaVAzZmpzMmdCbFJJT1lBdXc3R1QxMWJZTkRkc0pJTVJ6YXhfbnlMQmhGcEctQlh3U01WNFE2WE14c1luaHJNOVRKU3haaFgzVHZWOHZyUGp6V1pBWQ?oc=5",
+          "source": "MSN",
+          "published": "2026-05-02T08:04:49-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Braves vs. Rockies (May 2, 2026) Live Score - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qazVZSGdEaGx2S21pcGpRM1kwU3BHN0k1UTRWZlBHbkx0Q0ZwYzFBYUhOUGlvMU9pWE9hcm9vYVJGUi1hRk9UR050eEF4M04wOXU0Y1I2LUFINS1Qel9fM0NWZVdhQzJCOGE2Z1ZnMUw?oc=5",
+          "title": "Braves 8-6 Rockies (2 May, 2026) Game Stats - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pS29ERjNlZE9tNDZFVU5tRk5vb0VpWjdSdGpQQ3FMS3FHSWwzdVB6TEZ1Z0F2b3pYVmZIa0dxWk1sQ1dPMkctZUhiV3BZUkpnQTVMNlpTOHlwV21IT3pzSURn?oc=5",
           "source": "ESPN",
-          "published": "2026-05-02T04:59:56-06:00",
+          "published": "2026-05-01T18:45:05-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ]
@@ -207,13 +207,6 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Ransomware attacks on auto industry rise, the security steps you need to take now - CBT News",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHOUk3bkh5TUxSdFVwTDIwODd6MTk4dFBIU0Y0REp4R0FaUGVZWl9EeUM2NmxJbFZxX25SNTdYbDc3VzFQSjdkZlQtR0Q5UWQ4eV9yWllWcWFSc0dtVGNLTTR3MEpJNUJZdFRYSXQwaHYtS3M?oc=5",
-        "source": "CBT News",
-        "published": "2026-05-01T11:38:13-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
         "title": "Cox Automotive to Acquire Fullpath, Bringing AI-Native Data and Marketing Infrastructure to the Industry's Largest Dealer Network - Cox Automotive Inc.",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaDJjM25YVlNfMFJackd1R3pfdDlGRXplaVQwaGhQZXZ1TGtiMG80elhCR2hDXy14THRPVElXcGVVdkYzZjAwSWYxdEtkcURCSmpDWEtfTjA2Nm0xV1RhUW1jc2J6OVFrREZCNTY4WDFWbll6M215SGtxQldqZF9lUVdwaFpGalF2RERGXzRvd1hkdkU5YmlhazY0VUM1dXVmd3pCNE5tbTJHa0syNzJUak90LVVUNFdrOGJWUUcxbXE1RDBuTFh2enRHSGtNWmRWRnlrbGtmdUxCVExFMUNqUW5OZ1ZWY2pubVF0Q0pkeHhMeGNhWWRn?oc=5",
         "source": "Cox Automotive Inc.",
@@ -221,50 +214,21 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "China's auto industry races to embed AI in just about everything - AOL.com",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11X0hDeXROUzRodnRBTjgwa3hGZDlJQXBNWVRxcml3Q0pWdGNBY3ktSlBkbmlXUUlxUmFmZjJEVEszTjZfOEJNNXBoT0J6aERkVW1aNVdySWYtcEtYeUNLWnpLbmNieXYzRXQydnoxTHFna1U0cnZIRi1Mb1Y?oc=5",
-        "source": "AOL.com",
-        "published": "2026-05-02T05:23:36-06:00",
+        "title": "Iran Auto Output Drops Sharply as War Disrupts Supply Chains - Financial Tribune",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iWmNTaUt6Y2Q4bnJiSWlkRzVKRURMMWVObWFnZzdNbGpmRS0tb3E5R2d5d0VNTWhKNUdPT2NYZkNBUlV4RHRDaDQxLU1WNjlZc1E?oc=5",
+        "source": "Financial Tribune",
+        "published": "2026-05-02T08:14:07-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Ransomware attacks on auto industry rise, the security steps you need to take now - CBT News",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHOUk3bkh5TUxSdFVwTDIwODd6MTk4dFBIU0Y0REp4R0FaUGVZWl9EeUM2NmxJbFZxX25SNTdYbDc3VzFQSjdkZlQtR0Q5UWQ4eV9yWllWcWFSc0dtVGNLTTR3MEpJNUJZdFRYSXQwaHYtS3M?oc=5",
+        "source": "CBT News",
+        "published": "2026-05-01T11:38:13-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
-    "auto_software": [
-      {
-        "title": "Is Tesla's pivot to robotics coming at the cost of its car business? - USA Today",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmJxZGdKTFJYTzlBM1l5VGdsc2p5d3VOTXlIbmE5WHpQWGVrWFpJWlJHMUFNWjRiZ2Q1VGFaTnljajlsUEtDWDZ3Ujd3eU9wT19NQ2hiTFZjLXI5WFdGRWxRdTJsOGJxazZPMWQxX2FkbzNma0RObXRKVDl4UWFaRnF5UFhuR3d4aHBHc0pZMGl4YWdRa280UzZzQW80WV96dVhOSWFB?oc=5",
-        "source": "USA Today",
-        "published": "2026-05-02T05:32:59-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Used car prices hit highest level since summer 2023 - MSN",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGQxY1FiLWFBa08wdFRVUmg0R1ByNFV3czFhdllhd3p2a1UzUWZXWko5dFFKTzBjYjUyX1hpUWdQZ3phZmJPWG1mU2cwUEItT2IzVHBkcVl5MmRMR01YVXY2WE9sQ2dtQWItUW0zRTd3SmQyMGw2b1hxRVRKMGtCRFZQemhSd0xiNWtLSVlYUXZYN0o1ZEdsWVZLY3JZaVNVRTBF?oc=5",
-        "source": "MSN",
-        "published": "2026-05-01T21:16:53-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Trump threatens 25% tariff on EU cars and trucks - The Black Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFV1Qk8xQVA5dUNFc213UW9RVlljS21oSWZTRUhCRGY3WVVwUFRhSHVzTzd0Q1ExRkdVeHV6S1VLbENmc3MtUlFIVWdXR2NteWE3dURTT05OVUo3RnVRTXR5eW9YNGNiMFRBLTZEbGZmNTBHeWdDZU9pbXh0U2hDZ2ZYQU5uX2tsa0Z2MXNSamhlOThpbkRj?oc=5",
-        "source": "The Black Chronicle",
-        "published": "2026-05-01T21:39:01-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "What EV Slowdown? Used Electric Car Sales Hit A Record High In March - InsideEVs",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91ZkpUM1B3RzNpZjF4V3Y2T05BN2ZTR0ktelpXLUVXcXNTb1VEeExuNTNsZDA2TFRMR3dGM3VMblQ4LVNvUzNVXzczMExCTXNVclF2RlBrSEpWd3NtNmhGUF9fTHI5NHo0dXYzRDJjTEJEODVFV1Q5Vg?oc=5",
-        "source": "InsideEVs",
-        "published": "2026-05-01T15:33:38-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Trump threatens new EU auto taxes that could drive up prices - The Center Square",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGtteGIwbVhzNEJxWk5YQnh1dWJLYWNNUWtKSjhYbm1VM2lVUldSNzJRWTVYY2ZFaUVNNFktYmRNSVQ0cC1PMWtaQ01jYklxNGc1RDlFVEVNZUVzZzdXYm1WN2EwWDRicFZZOEhXZDBhbzZFMVowMFRoWUtvalU1VHFONUh2S251U1FMSnRKRmM4MjJZRjhuMHlB0gGaAUFVX3lxTE10a214YjBtWHM0QnFaTlhCeHV1YkthY01Ra0pKOFhubVUzaVVSV1I3MlFZNVhjZkVpRU00WS1iZE1JVDRwLU8xa1pDTWNiSXE0ZzVEOUVURU1lRXNnN1dibVY3YTBYNGJwVlk4SFdkMGFvNkUxWjAwVGhZS29qVTVUcU41SHZLbnVTUUxKdEpGYzgyMllGOG4weUE?oc=5",
-        "source": "The Center Square",
-        "published": "2026-05-01T13:22:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      }
-    ]
+    "auto_software": []
   },
   "component_status": {
     "weather": {
@@ -334,11 +298,11 @@
       "count": 5
     },
     "auto_software": {
-      "label": "Automotive Software",
+      "label": "Automotive SaaS / Dealer Software",
       "status": "ok",
-      "candidate_count": 18,
+      "candidate_count": 1,
       "target_count": 5,
-      "count": 5
+      "count": 0
     }
   },
   "failures": [],
@@ -347,7 +311,7 @@
     "us_news": 5,
     "world_news": 5,
     "auto_industry": 5,
-    "auto_software": 5,
+    "auto_software": 0,
     "sports": {
       "Broncos": 3,
       "Avalanche": 3,
@@ -356,7 +320,7 @@
     }
   },
   "deduplication": {
-    "duplicate_count": 19,
+    "duplicate_count": 13,
     "dropped": [
       {
         "section": "sports.Broncos",
@@ -420,15 +384,15 @@
       },
       {
         "section": "sports.Rockies",
-        "title": "Braves 8-6 Rockies (2 May, 2026) Game Stats - ESPN",
-        "source": "ESPN",
+        "title": "Where to watch Atlanta Braves vs Colorado Rockies: TV channel, start time, streaming for May 2 - USA Today",
+        "source": "USA Today",
         "duplicate_of": {
           "section": "sports.Rockies",
-          "title": "Braves vs. Rockies (May 2, 2026) Live Score - ESPN",
-          "source": "ESPN"
+          "title": "Where to watch Atlanta Braves vs Colorado Rockies: TV channel, start time, streaming for May 1 - MSN",
+          "source": "MSN"
         },
-        "reason": "summary-overlap",
-        "score": 0.75
+        "reason": "near-title",
+        "score": 0.882
       },
       {
         "section": "sports.Rockies",
@@ -480,11 +444,11 @@
       },
       {
         "section": "world_news",
-        "title": "US Treasury warns shippers not to pay Hormuz tolls, even in form of charity - Reuters",
+        "title": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies - Reuters",
         "source": "Reuters",
         "duplicate_of": {
           "section": "us_news",
-          "title": "US Treasury warns shippers not to pay Hormuz tolls, even in form of charity - Reuters",
+          "title": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies - Reuters",
           "source": "Reuters"
         },
         "reason": "url",
@@ -513,83 +477,11 @@
         },
         "reason": "url",
         "score": 1.0
-      },
-      {
-        "section": "auto_software",
-        "title": "Long Island car buyers to face 25% higher Trump tariff on European cars - Newsday",
-        "source": "Newsday",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Trump says he will raise tariff on autos from European Union to 25% - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "summary-overlap",
-        "score": 0.526
-      },
-      {
-        "section": "auto_software",
-        "title": "Toyota, Honda, Hyundai, Kia, Subaru, Mazda sales decline again as market resettles from pre-tariff boost - Automotive News",
-        "source": "Automotive News",
-        "duplicate_of": {
-          "section": "auto_industry",
-          "title": "Toyota, Honda, Hyundai, Kia, Subaru, Mazda sales decline again as market resettles from pre-tariff boost - Automotive News",
-          "source": "Automotive News"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "auto_software",
-        "title": "5 stories shaping Canadian auto this week include used EV value, GM investment, more - Automotive News",
-        "source": "Automotive News",
-        "duplicate_of": {
-          "section": "auto_industry",
-          "title": "5 stories shaping Canadian auto this week include used EV value, GM investment, more - Automotive News",
-          "source": "Automotive News"
-        },
-        "reason": "title",
-        "score": 1.0
-      },
-      {
-        "section": "auto_software",
-        "title": "The EV graveyard: All the electric cars axed by automakers this year - Business Insider",
-        "source": "Business Insider",
-        "duplicate_of": {
-          "section": "auto_software",
-          "title": "The EV graveyard: All the electric cars axed by automakers this year - Business Insider Africa",
-          "source": "Business Insider Africa"
-        },
-        "reason": "title",
-        "score": 1.0
-      },
-      {
-        "section": "auto_software",
-        "title": "US Hits EU Cars With 25% Tariffs, Sparking Trade Fears - Whalesbook",
-        "source": "Whalesbook",
-        "duplicate_of": {
-          "section": "auto_software",
-          "title": "Trump threatens 25% tariff on EU cars and trucks - The Black Chronicle",
-          "source": "The Black Chronicle"
-        },
-        "reason": "summary-overlap",
-        "score": 0.588
-      },
-      {
-        "section": "auto_software",
-        "title": "Sales of used electric vehicles on the rise in Minnesota amid gas price hikes - CBS News",
-        "source": "CBS News",
-        "duplicate_of": {
-          "section": "auto_software",
-          "title": "What EV Slowdown? Used Electric Car Sales Hit A Record High In March - InsideEVs",
-          "source": "InsideEVs"
-        },
-        "reason": "same-event-phrases",
-        "score": 0.409
       }
     ]
   },
   "curation": {
-    "trimmed_count": 75,
+    "trimmed_count": 69,
     "trimmed": [
       {
         "section": "sports.Broncos",
@@ -625,11 +517,6 @@
         "section": "auto_industry",
         "target_count": 5,
         "trimmed_count": 14
-      },
-      {
-        "section": "auto_software",
-        "target_count": 5,
-        "trimmed_count": 6
       }
     ]
   }
