@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-05-02T08:32:34.770963-06:00",
+  "generated_at": "2026-05-02T08:34:26.872177-06:00",
   "date": "2026-05-02",
   "news_window_hours": 24,
   "weather": {
@@ -228,7 +228,43 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
-    "auto_software": []
+    "auto_software": [
+      {
+        "title": "The EV graveyard: All the electric cars axed by automakers this year - Business Insider Africa",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONms3Z01iMVRUWTBnWWZ4RFR3RmNSNHVvd05XYkE1VmMtY3VrZkx4YUIzdEZ1TTZXaWhVWmtvNWxkN19QRzdpQkxqbUllSGUxT08zNWU2N0hjSXFjV1NuVGR4TV8xZy1mamxud1ItdUlBRVlrcEFjbk9zZWpqb1FRSm9UZkwzTmdQMmw4bVRZQnhaNXBUR3dPbkFDVjU0SUc5UlJXUXlUVXFRZm9LSVZHM1JzSm9uaVN1SVp1UVFCcDdCeXc?oc=5",
+        "source": "Business Insider Africa",
+        "published": "2026-05-01T13:34:39-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Tekion adds another new partner with integration of DAS Technology\u2019s customer experience platform - Auto Remarketing",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSWtjendIX1VMUTVBbWk5eXcxaFFWaFIxUTF5Nkt0NkJudGNvbnhhcHIzVUZNM1paSW5kUm9va2RoRzRFcThJS2dSWHVWTF9OR05LVjd2WjZ0WExfckR1azJYSEVCSXVWWUk5R19aWjcyaENDdXpiSmtKY205TVZNMlZXSXo1WGJnTEdIelJhU05aLXNtY3BNR1BMY1Z5RTlrcGxfMEdOQW0zX1E0X0Jta1pjVEhLRi1KUEprUFlYeXhGbnpENGpEQkZsQUxCWW1xSVQtbW1abGlfVHM?oc=5",
+        "source": "Auto Remarketing",
+        "published": "2026-05-01T14:02:10-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "AI tools in dealerships create new attack vectors for cybercriminals - Automotive News",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YZFZyRzdrczZhdnRfdzVQWWFHWElsYjFUOEVad1RNYzBLRmJOaW9PcHBQQjdMYVBURHpXN0RvRFcyMy02azJSTWpBMUdUTWI5X2NyQkMxYU5SdWQ5LXR3MEowSkdkX2QtbGpKdnZSbUdqZjg?oc=5",
+        "source": "Automotive News",
+        "published": "2026-05-01T10:00:00-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "A single customer file allows dealers to easily integrate AI vendors in DealerBuilt DMS - Auto Remarketing",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzlPVnM3SWVvT0xjS2ZoYWxSYjAyZmc2WGxQdmxRTmZlQ3ZGc21BcWtTY2tnT3hfR29FVGk4bXBVLVhyT0VIb01CbzVaVnZHOUVURGJmWUc2RHZKbXVSVW1RSGd0ZGMxQnBrampOeG1Fc2VMeTdFdnM5S0RnQzlzcl9UZ2dRbF9aNGFoZVhYX1F1RXE3WmVmSzl3WU5za1ExTTZMWFR1cFBLOTVEaXI0dXNIenpVQnBJbEZDZGU1aEVjMEpueDM0SVp3?oc=5",
+        "source": "Auto Remarketing",
+        "published": "2026-05-01T14:26:50-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "AutoCanada Inc Sector Trends Guide TSX Smallcap Index Market Watchers - Kalkine Media",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaVgtSjdpdGtzS2tVUTM5Q3d3ZkRvTmM1QUM2S3o2Q1JzMTQ2bC1VOVRqdlpnUUlBbEdUOTlUWFZtM1JxS3JIV0xsWHVPUE9RRnFGZUdON25yYVAyRE45ck4ySVZOX0lmUUJ2czhtVjNlb2s5Umcyd19zb3l6V3JfUmhfSHZ5TUx2QUZ2cU9fSHNRZ3g0VmxvR0g0alhDbzB1Mmc4TXhaVFB4QmFEUm5SaWJtc2c?oc=5",
+        "source": "Kalkine Media",
+        "published": "2026-05-01T12:45:00-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      }
+    ]
   },
   "component_status": {
     "weather": {
@@ -253,56 +289,85 @@
       "status": "ok",
       "candidate_count": 12,
       "target_count": 3,
-      "count": 3
+      "count": 3,
+      "queries": [
+        "\"Denver Broncos\" when:1d"
+      ]
     },
     "sports.avalanche": {
       "label": "Denver Sports / Avalanche",
       "status": "ok",
       "candidate_count": 12,
       "target_count": 3,
-      "count": 3
+      "count": 3,
+      "queries": [
+        "\"Colorado Avalanche\" OR \"Avalanche\" NHL when:1d"
+      ]
     },
     "sports.nuggets": {
       "label": "Denver Sports / Nuggets",
       "status": "ok",
       "candidate_count": 12,
       "target_count": 3,
-      "count": 3
+      "count": 3,
+      "queries": [
+        "\"Denver Nuggets\" when:1d"
+      ]
     },
     "sports.rockies": {
       "label": "Denver Sports / Rockies",
       "status": "ok",
       "candidate_count": 12,
       "target_count": 3,
-      "count": 3
+      "count": 3,
+      "queries": [
+        "\"Colorado Rockies\" when:1d"
+      ]
     },
     "us_news": {
       "label": "U.S. News",
       "status": "ok",
       "candidate_count": 20,
       "target_count": 5,
-      "count": 5
+      "count": 5,
+      "queries": [
+        "(site:reuters.com OR site:apnews.com) (US OR United States OR Washington) when:1d"
+      ]
     },
     "world_news": {
       "label": "International News",
       "status": "ok",
       "candidate_count": 20,
       "target_count": 5,
-      "count": 5
+      "count": 5,
+      "queries": [
+        "(site:reuters.com OR site:apnews.com) (world OR international) when:1d"
+      ]
     },
     "auto_industry": {
       "label": "Auto Industry",
       "status": "ok",
       "candidate_count": 20,
       "target_count": 5,
-      "count": 5
+      "count": 5,
+      "queries": [
+        "(auto industry OR automotive industry OR automaker OR EV) when:1d"
+      ]
     },
     "auto_software": {
       "label": "Automotive SaaS / Dealer Software",
       "status": "ok",
-      "candidate_count": 1,
+      "candidate_count": 8,
       "target_count": 5,
-      "count": 0
+      "count": 5,
+      "queries": [
+        "vAuto OR DealersLink OR \"Cox Automotive\" when:1d",
+        "\"CDK Global\" OR Tekion OR DealerSocket OR Dealertrack when:1d",
+        "\"dealer management system\" OR DMS dealership software when:1d",
+        "\"dealership software\" OR \"automotive retail SaaS\" when:1d",
+        "\"digital retailing\" dealership automotive when:1d",
+        "\"inventory management\" dealership automotive software when:1d"
+      ]
     }
   },
   "failures": [],
@@ -311,7 +376,7 @@
     "us_news": 5,
     "world_news": 5,
     "auto_industry": 5,
-    "auto_software": 0,
+    "auto_software": 5,
     "sports": {
       "Broncos": 3,
       "Avalanche": 3,
@@ -320,7 +385,7 @@
     }
   },
   "deduplication": {
-    "duplicate_count": 13,
+    "duplicate_count": 15,
     "dropped": [
       {
         "section": "sports.Broncos",
@@ -474,6 +539,30 @@
           "section": "auto_industry",
           "title": "Cox Automotive to Acquire Fullpath, Bringing AI-Native Data and Marketing Infrastructure to the Industry's Largest Dealer Network - Cox A...",
           "source": "Cox Automotive Inc."
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "auto_software",
+        "title": "Long Island car buyers to face 25% higher Trump tariff on European cars - Newsday",
+        "source": "Newsday",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Trump says he will raise tariff on autos from European Union to 25% - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "summary-overlap",
+        "score": 0.526
+      },
+      {
+        "section": "auto_software",
+        "title": "Toyota, Honda, Hyundai, Kia, Subaru, Mazda sales decline again as market resettles from pre-tariff boost - Automotive News",
+        "source": "Automotive News",
+        "duplicate_of": {
+          "section": "auto_industry",
+          "title": "Toyota, Honda, Hyundai, Kia, Subaru, Mazda sales decline again as market resettles from pre-tariff boost - Automotive News",
+          "source": "Automotive News"
         },
         "reason": "url",
         "score": 1.0
