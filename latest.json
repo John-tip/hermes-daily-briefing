@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-05-13T08:10:29.180987-06:00",
+  "generated_at": "2026-05-13T08:16:03.231824-06:00",
   "date": "2026-05-13",
   "news_window_hours": 24,
   "weather": {
@@ -210,10 +210,10 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Alibaba quarterly revenue rises on cloud demand, e-commerce growth - Reuters",
+        "title": "Alibaba reports continued profit squeeze from spending on AI and instant retail - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHdTNC1VWW5IV0h3VUM0ekNxekFGWkNUV1lwbWtRdDljZ1RCb3UzWVBXVUw4Y3RDbXdVX0JTXzFwV2hnbXdUcXZ1YjNieWV4NTkybTJ5a2gxblROMzVuc3ZveVpTdWVuOG9PWHJOM0M1NEIxXzQzSlhobk42NVBnSXJoMllTRVVSaEJKcEk3Q0otc3FLWkd6Y1R1SV80WE5fVm8yWHNpTm56Zw?oc=5",
         "source": "Reuters",
-        "published": "2026-05-13T03:43:12-06:00",
+        "published": "2026-05-13T05:15:09-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
@@ -247,17 +247,17 @@
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
+        "title": "12.1 million recalls later, America\u2019s auto industry has a serious problem - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQT0ljY2pGUG5LRFBLN3lHQTVhLXRRdDNHZERuVkI3eFFxZjZhU1NReEJIT2J3dVlnQWFadzNFX0RIaVJmdUN5U0k1RFhzd0lYSTJRSkg5LXdTOVo4TGJYTnVxTDZ1RE53X3F6WHEyeThUZXFuYk1BemFJMlBmLU8zRjJIY0pzbFhBYXpGMTY3SmlROGdGODZ4bTZ1ZUxzbm1na1hlSS1GWlhSQlFCQ0dYeHQ0clVNT1N4cW53eUhWLXpQc203MDBjU0dxSldwVlppWnhDMDRGOU96NHBRSzZ0UFROMzdLTC1PaUZWMTF5RWhlX0lPQlo0Z3JDdG51QQ?oc=5",
+        "source": "MSN",
+        "published": "2026-05-12T22:32:37-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
         "title": "Lifting Restrictions on Chinese Cars Could Devastate U.S. Auto Industry | Opinion - Detroit Regional Chamber",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGdCRUhRQ2ZaamNaclNwanFoR0pvdkdaQUc4TTJlVXUtSzFDTEdHYW1zd09ycWhoUll6cm5pZjFKYkFhSWktalNNcl9vd1R5V2ZKTlBoOXdKbjhRckpVdUdjMjdTWDdoMDI4WW0yUENNMnBWRUQyUkh2U1Q0eDJua2F6RVFLZG5COElobUlwMWlJMEt5NWhxRkNpcnRYdWFvVHZWeF9pOEtCcmpxRHRR?oc=5",
         "source": "Detroit Regional Chamber",
         "published": "2026-05-12T13:06:12-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Trump-Xi summit raises a terrifying prospect for America and Europe: Chinese cars - Politico",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzE0dUpHb3NWMWJiMzVrTkpjVXlKTkZzQjdLcEx3SGxhSXl0Z3FwV2w1RldRTS1LSTR2LWtUSFRSV18waHQ5YkNtOV8wbXE3VVpZTVNvb2U0ekxDdjBrUjVheTh5a1B3aXcwSE1XTnhpamhSZS10ZHl1Q0c1cDlPNGlQTEtacnJPdGl5Vi1EVHBXMk1KWlE?oc=5",
-        "source": "Politico",
-        "published": "2026-05-13T03:00:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
@@ -362,7 +362,7 @@
     "auto_software": {
       "label": "Automotive SaaS / Dealer Software",
       "status": "ok",
-      "candidate_count": 12,
+      "candidate_count": 13,
       "target_count": 5,
       "count": 1,
       "queries": [
@@ -373,7 +373,7 @@
         "\"digital retailing\" dealership automotive when:1d",
         "\"inventory management\" dealership automotive software when:1d"
       ],
-      "relevance_filtered_count": 10
+      "relevance_filtered_count": 11
     }
   },
   "failures": [],
@@ -391,7 +391,7 @@
     }
   },
   "deduplication": {
-    "duplicate_count": 16,
+    "duplicate_count": 15,
     "dropped": [
       {
         "section": "sports.Broncos",
@@ -421,18 +421,6 @@
         "section": "sports.Avalanche",
         "title": "Wild vs Avalanche Prediction, Picks & Odds for Today's NHL Playoffs Game 5 - Yahoo Sports",
         "source": "Yahoo Sports",
-        "duplicate_of": {
-          "section": "sports.Avalanche",
-          "title": "Wild vs. Avalanche Game 5 NHL picks: Colorado shouldn't pass up chance to finish West semifinal on home ice - CBS Sports",
-          "source": "CBS Sports"
-        },
-        "reason": "summary-overlap",
-        "score": 0.6
-      },
-      {
-        "section": "sports.Avalanche",
-        "title": "Avalanche vs. Wild: Live updates for NHL playoffs game 4 - MSN",
-        "source": "MSN",
         "duplicate_of": {
           "section": "sports.Avalanche",
           "title": "Wild vs. Avalanche Game 5 NHL picks: Colorado shouldn't pass up chance to finish West semifinal on home ice - CBS Sports",
@@ -588,7 +576,7 @@
     ]
   },
   "curation": {
-    "trimmed_count": 66,
+    "trimmed_count": 67,
     "trimmed": [
       {
         "section": "sports.Broncos",
@@ -598,7 +586,7 @@
       {
         "section": "sports.Avalanche",
         "target_count": 3,
-        "trimmed_count": 5
+        "trimmed_count": 6
       },
       {
         "section": "sports.Nuggets",
@@ -626,5 +614,74 @@
         "trimmed_count": 13
       }
     ]
+  },
+  "expanded": {
+    "accountability": {
+      "title": "Hard Accountability / Open Loops",
+      "items": [
+        {
+          "label": "Health first",
+          "action": "Renal scan is on today\u2019s calendar. Be hydrated before the appointment and do not let meetings crowd it out."
+        },
+        {
+          "label": "No stale-loop hiding",
+          "action": "Open loops remain visible until explicitly closed: health appointment, DealersLink execution leverage, AI workflow buildout, and daily follow-through."
+        },
+        {
+          "label": "One measurable work output",
+          "action": "Before noon, define one concrete deliverable that improves sales, inventory/pricing visibility, or your AI operating system. Ship or schedule the next action."
+        }
+      ]
+    },
+    "ai_fluency_drill": {
+      "concept": "Tool-calling agents",
+      "why_it_matters": "A useful business agent is not just a chatbot. It can choose tools, read source data, take bounded actions, and report evidence. This is the bridge from AI answers to repeatable workflows.",
+      "practical_example": "A sales-ops agent could read CRM notes, inventory/pricing data, and recent dealer activity, then draft the next-best outreach plan while clearly separating facts from recommendations.",
+      "tiny_try": "Write one workflow as: trigger \u2192 data sources \u2192 allowed tools \u2192 forbidden actions \u2192 human approval point \u2192 success metric."
+    },
+    "business_opportunity_lens": {
+      "title": "Business Opportunity Lens",
+      "items": [
+        {
+          "label": "DealersLink / auto retail SaaS",
+          "signal": "UFOFLEET Acquires FleetMaster From Cox Automotive To Accelerate AI\u2011Driven Fleet Modernization - Pulse 2.0",
+          "application": "Translate vendor/product movement into a question: what dealer task is still manual, slow, or poorly measured, and can DealersLink make that workflow simpler?"
+        },
+        {
+          "label": "Sales leverage",
+          "signal": "Opus 4.7 Fast \u26a1, Qwen Image 2.0 \ud83d\uddbc\ufe0f, serverless GPUs \u2728\u00a0\u00a0",
+          "application": "Convert model/tooling news into better rep behavior: account research, objection prep, follow-up sequencing, CRM hygiene, and manager coaching loops."
+        },
+        {
+          "label": "Future AI business",
+          "signal": "US war in Iran has cost $29 billion so far, Pentagon says - Reuters",
+          "application": "Favor narrow, paid workflow wedges: a recurring report, an agent that saves a team 30 minutes daily, or an integration that turns messy inbox/CRM data into decisions."
+        },
+        {
+          "label": "Crypto / AI intersection",
+          "signal": "Clarity Act Latest Draft \ud83d\udcdc, The Anatomy of Credit \ud83d\udcb3, Alpenglow live for testing \ud83e\uddea",
+          "application": "Only pursue if it creates real business utility: payments, identity, auditability, data rights, or agent-to-agent transaction rails. Ignore low-signal speculation."
+        }
+      ]
+    },
+    "ai_agents_radar": {
+      "title": "AI / Agents Practical Radar",
+      "items": [
+        "Practical business use cases: prioritize automations that reduce CRM/admin drag or improve sales follow-through.",
+        "Agent tooling / MCP: watch for connectors that safely expose Gmail, Calendar, CRM, docs, and inventory systems to agents with audit trails.",
+        "Coding agents: use them for prototypes, internal tools, data cleanup scripts, and workflow dashboards; require review before production changes.",
+        "Sales / CRM automation: highest-value wedge is evidence-based next action, not generic email generation.",
+        "Model releases, startups, and tutorials: test against a real workflow benchmark. If it cannot save time or improve quality this week, park it."
+      ]
+    },
+    "process_improvement_radar": {
+      "title": "Process-Improvement Radar",
+      "items": [
+        "Personal workflow: keep one trusted open-loop list. Review it daily and close, delegate, schedule, or deliberately defer each item.",
+        "DealersLink workflow: look for handoffs where data is retyped, copied from email, or explained repeatedly in meetings.",
+        "Sales process: standardize pre-call prep and post-call follow-up into reusable prompts/checklists tied to CRM fields.",
+        "AI operating system: every useful prompt should become a named workflow with inputs, outputs, and a quality bar."
+      ]
+    }
   }
 }
