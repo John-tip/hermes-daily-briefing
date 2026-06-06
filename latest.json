@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "generated_at": "2026-06-05T08:10:04.276904-06:00",
-  "date": "2026-06-05",
+  "generated_at": "2026-06-06T08:10:24.313179-06:00",
+  "date": "2026-06-06",
   "news_window_hours": 24,
   "weather": {
-    "headline": "Sunny",
-    "detail": "Sunny, with a high near 90. East wind 3 to 8 mph.",
-    "tonight": "Partly Cloudy",
-    "high": 89,
-    "low": 63,
+    "headline": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+    "detail": "A slight chance of showers and thunderstorms after 3pm. Mostly sunny. High near 95, with temperatures falling to around 90 in the afternoon. South southeast wind 2 to 13 mph, with gusts as high as 22 mph. Chance of precipitation is 20%.",
+    "tonight": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
+    "high": 94,
+    "low": 65,
     "source": "https://api.weather.gov/gridpoints/BOU/63,62/forecast"
   },
   "calendar": [],
@@ -18,214 +18,221 @@
     "sports": {
       "Broncos": [
         {
-          "title": "Courtland Sutton calls Broncos OC Davis Webb a \u201cmad scientist\u201d - Mile High Report",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNnZ3ZWtrUnpJa3VOSFdlb2JhRy1pRURHOG1UMlNBcElwWEtMa3h2clY1UjJxaVhPX0xWaTFYdDZTZU9QcHFtSGpLa2p4Szd1S0M3QURiN2toc3FsbmJkbWhzMXRsb0ZHR1BIekM5Um05aThWbGxfc3haXzRNdmQ2aDZQdC1mV0VVOVhVbDB5UDhOWUszTHVkOVZtM1hQZzZuc1gtOWQzVmtDaElaYXJsMS1LYjV4S3oyUm9ZY3hn?oc=5",
+          "title": "Broncos\u2019 $84.75 Million Trade Predicted to \u2018Do More Harm Than Good\u2019 - heavy.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmFSNDNPSmJpOHd0ckNqN203Q21pa09CSlRobVNDd1Nxb1NwSnRoV3k1YUhqcFhVR0ItQ2w2Wm96OXAycmlWUnNTNEVTaWlNaDl0eGpBeTZwT05STXRhSWpjTHlOb2ZpcVdEZlpad1J1TEJ2QW1YdXRYcHVORXNkMXBWQXQtc0lBek9F?oc=5",
+          "source": "heavy.com",
+          "published": "2026-06-06T05:38:45-06:00",
+          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+        },
+        {
+          "title": "Denver Broncos won\u2019t hold joint practices this preseason - Mile High Report",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSlQxZl9GLWZoS0R0SFhaa1AtN0tvU1FQRk9KTUdBdl9EMW5va0VFYjJKTVg3OXBhOVlsUXU3NkQ5UlVSSnM2TE1VVnFXeVdiSW90Rk9xOHMzWDBKcUlHUVJFTzNxN3JBRGNjdTdpNkhudE9oRldjc1lTdXpsTFZJRmF1RXJtaWdiYk1NTDlEYk9WcXYzc0YtVDJBVURxTWs?oc=5",
           "source": "Mile High Report",
-          "published": "2026-06-05T04:00:00-06:00",
+          "published": "2026-06-06T04:00:00-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "DNVR Broncos Podcast: Inside Jaylen Waddle\u2019s first practices with the Denver Broncos - DNVR",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWtna1J4TVhET2FoR01HZDRXampnTjVLQzdKcHlrVk9KbW9qQjhscUZ3WWgyci1hLTZ2QlJGMDhlcVg0ZVFkOXRvSXloNGFJVjBkdUZTejhIVVlSR1lUSEM1NkxKa1U3V20wVHNjZWhjbFR3SGwwMFFVSldXclBHd0N5VEhvUFZQR2J0cnNPOWJMeWtqb2JoUXBfaDFzQmhfbkJ6bFVR?oc=5",
-          "source": "DNVR",
-          "published": "2026-06-04T22:31:42-06:00",
-          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-        },
-        {
-          "title": "Denver Broncos roster review: OLB Dasan McCullough - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDVjc1lLeE9vRVUzb2Y0dFg2VjlKY3dRUkI2bVN3SnZSaHRhUWtRRG51UGVGUENDRG9la25MVnotN0tPOEw2UWFKQXhFb29qRXg0aWhoTjlHVV96WWpXYUt5eUF5ZmVrdkVrVjM2OWpuRlA3d1VCQm5xMWdzLWhWNHZmY0pvU05H?oc=5",
-          "source": "Yahoo Sports",
-          "published": "2026-06-05T06:00:00-06:00",
+          "title": "Alex Singleton chimes in on Broncos\u2019 amazing continuity - Broncos Wire",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVzdJdW9XS2RQRlFObUN1S01rdnhMaDJkZmhfb19oWUF0UHlMdDBYTVF6d0JmeXJnMmg0VGlpMGpxOFBzZEFpbnZfUVJZMDBKNU1pYWdzZWVDdmFWTTJjcjN6a0xBbUctVEw5bkE2bG4zOWFWZkJfZ0l2Y3hreWMtNUFDSTA0UHVlT2liUG9DTUhmZ3luSjlsOXpQMk5SZUFPbEdLVTNXdkVSc1VlVXBzQ21sUXRLX09ZQkZjelpSZ1Q5TTlGdGZDRENR?oc=5",
+          "source": "Broncos Wire",
+          "published": "2026-06-06T06:01:00-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
       "Avalanche": [
         {
-          "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQXBRaklDcnpNaEJIdTFHTkhvYzU4TlBHUEpyTV93bElFbE1ibmRxUW54X2owOTYxdlJxcmI2akZMb2p2bVAyWU13djFYcEpqcE82QzFGNmF1QkZqMEF3d3ZnaUhTZjNMS0x2TFJ5dUlPZElNTHM1UTRmR0k2dGlTX01kWUxVSk9zSHpvTWNJT3lNa0dHUmFqdkZsb3hNNEpWZjdORklFM0FjbTY5dFlfTU44cS1xdTNSM0VFQW9XX1pVNHBU?oc=5",
-          "source": "ESPN",
-          "published": "2026-06-05T05:00:00-06:00",
+          "title": "Colorado Avalanche 1 - Vegas Golden Knights 2: Final score, results, recap, box score, stats - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdVlfdDkybi0tMkU3c29ZSmtWcEhNdTFwUHlzZms0bkJMbUJiUjVzeldXOVY5WkpkN0RXREdJWE9OOUh0bnAzMkZJSmJkRjltQ2FMSl9OVU1ONXh6SGRPM0lkMWVWRXB3SE9RNlMxTElidldqdDFWekdsN1pLUXRNbDJrWl96bk0?oc=5",
+          "source": "Yahoo Sports",
+          "published": "2026-06-06T03:48:16-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Avalanche Vs. Jets | NHL Highlights | March 26, 2026 Ethiopian Emperor Artefacts Return (c49NFQQAsE) - Mshale",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RMktETE1sNnJFUlM5RGp1TVE4SkdOVHc0M2g4elZOc3dfS0tEQjh5Yk5XbHZwd0hFbFZqU19KQ2Nuc1gxUS1LOGNzWG9RbUotLTR2U3BESUdQRnc?oc=5",
-          "source": "Mshale",
-          "published": "2026-06-05T06:02:11-06:00",
+          "title": "Deen's Daily: Rob Blake Almost Joined Avalanche Front Office; Wild Lose Key Forward; Where Larkin Could Land - Colorado Hockey Now",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzQtZmRGdmF0eVMzdHM0QVBZTW5QaXh1UzNUUUVPYzBpSWlwd2JGYWR6Ti12a01WcjhYYlBEeGRuWllwY1BXUTVmbWhUOGZKSHZkWVdNZlpqS0hjSEdJTHpXQWRnM2JHaWhTNEY0U2VwU1o4ajRyamdfSjdSTHNCNmFsSkoxRXpoVkk3MEFNWFdqNnhEWEtGVW1MLWQzcndSRjZsMUZPU1FJWmFTQXFGTS1sQ2Y3VEpMRVBMNFNYNlltNVNmVC1nWDBhT2gtNmNn?oc=5",
+          "source": "Colorado Hockey Now",
+          "published": "2026-06-06T07:03:23-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Greatest need for Joe Sakic to address with the Colorado Avalanche | NHL Insider - Colorado Springs Gazette",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDk0Tm9hYUdrQUNVeVZ5NVRyR21GUGFmaVVrdTdvaGFJV2dOaXFjbmtDaXpsckY0QXVQT2VsRGxVREJ4Vm15bnlyOFF1M1phZ0NoNzNFMV9zRXhQaU9FMXpUYUhUOThZRDQxc1Z2dGdpdXBGUk9mSUNCWWtHa1VDWjM5R21HNVprM1ZneVIyeG90aXhlLTd2V0N3T3U5SDcyVHdBMUliT1NUWmFHbmV3?oc=5",
-          "source": "Colorado Springs Gazette",
-          "published": "2026-06-04T13:10:58-06:00",
+          "title": "Avs Power Past Canucks - NHL.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LNWFNRTlqa3d1SUh6QkR6Z1JOQlE3Q29ZcXJMeHhjLVNjY2lWbFlOT21Eb05qaWZHb3ZENkVGT1p6RFplS296OVg0MXhGWTdhXzliRGc2SzhvRVlIMHpMVTAzOE9BbGdfcmVTRFpybEZfbmxEU0E?oc=5",
+          "source": "NHL.com",
+          "published": "2026-06-05T14:37:08-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
       "Nuggets": [
         {
-          "title": "Denver Nuggets play in final ABA game | May 13, 1976 | Colorado's Top 150 Sports Moments - Denver Gazette",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1Fta3dHVVNYTmtkcW5VVGpJQmE5bEtBOG14c2trdkU2Q2dMMlJWUFh0MlhDZTRxMGlPbm05dzdkNGtfWjRqYmNlY09NLS1zbVh1VnYzMXM2YUxhT2NMSWM3SHRkWVlDaWdONzMyQ2ZnQ0tSWnM5MjFVYTFXZXQxU3ZwNnJtVlF2UTFYSXFTek1DSmtBNGw5YkdaRWEybVZxakJNWV85V3RacUZhMnY0TXJ2UHhwRkZUbEF1QWpjeWNjUQ?oc=5",
-          "source": "Denver Gazette",
-          "published": "2026-06-05T07:03:33-06:00",
+          "title": "The NBA Finals show the Nuggets were never really in the conversation - Denver Sports 104.3 The Fan",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFZoa3R0a3huRTh1dlRvc29rbHBHX2hPTkVZMHhhNUEyNUFtTDhUWlZtaWZsNXU0aEpFZklQdDh0ekpSdEcxRWRiVzhGZXdnNjNKZUZ4eFJHMnBQeDktdTdDcDd1dmNKLW1CT3QtcW50QUR6eXVHa091NExPbUFTSlhRNl95NmxNMjhHWEdWYUpIbHdDTWowblp3SGdoQlVEWF9hSldCdjhhcl8xOU9pNnEyQQ?oc=5",
+          "source": "Denver Sports 104.3 The Fan",
+          "published": "2026-06-06T07:47:58-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Nuggets aren\u2019t trading for Giannis Antetokounmpo. But hypothetically, how would that work? | Mailbag - The Denver Post",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVZqY2pNNzh5UGMwa0hueE51aVEwQjRUQVJEbFdPaWJzVTVibGZKTGZTMEZjWGRwdGVBbV9rRldULWdnb0pIaEtHeTU0RUxBQUo4TnRlNG9IVUpBTzk0LUkzQnFiYmRLNVZKaW10d2lUVzNPSEZSNnZrYnQ2RDl0dUR5QUlwY3h2MldHQnFVZTFVVWxYSXVPR0FIM1k?oc=5",
-          "source": "The Denver Post",
-          "published": "2026-06-05T05:00:58-06:00",
-          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-        },
-        {
-          "title": "Nuggets' Peyton Watson Contract Might Not Be as Big as Expected - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOEJLaXphZFYxcXYtMmtzdjZaWVNsMjJaRUY0ODVNbXFvTWVtaExwV1dDS3lDd3JiTVM3blRjM3BsOFJFYUNtRWFxWE5rb1dyU1BkUHpSLWtFX2JaTFY4SEZ6NkQ4TllwVHliYlpnekVPcmtrbE85QzVsbmtIOVNpbTZlZ0xhZ1VuWjQ1cUo5TFFLb3ZsNl9GT1JRSDlJZTA?oc=5",
+          "title": "How the Nuggets Should Build Their Roster Around Nikola Jokic - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX090MS1aZWpyUnRpSGZFcEtiZVFCeWMyb2FnT1FlbjY5UG5qc0xZVUhBZUF5cXRqX3FDTzNGTUw4cXhsS0g1Yk1LaDdtd3I3YWsxMkQxZjFyOGYyaGcySENSdW02SXlhbTBETjU0SU5vbE9IVFU0SklNZGRpVFFnaGF4UWcwajg1R2QybDcwMUt6aWIyZVJRRg?oc=5",
           "source": "Sports Illustrated",
-          "published": "2026-06-04T13:00:01-06:00",
+          "published": "2026-06-06T07:00:00-06:00",
+          "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+        },
+        {
+          "title": "Nuggets may lose Peyton Watson by pinching pennies at the wrong time - Nugg Love",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc2doQmw5ZUNBTjdvcEJ0UTZib21jd2VUTHBsbHZGVkZmbXpfXzJ6OEozZ00wVi03aXhUOFZSaTMyaW9JdmNiQ0hiZ3lBTXhmNjM5MXF1M0o0NndkNndxcUFIMDdMYWpvbHJRZjNpeGZoQzJKb3ZNLXI0VVFZZXNHQnVJOFR5ODh1b2c?oc=5",
+          "source": "Nugg Love",
+          "published": "2026-06-06T05:30:00-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ],
       "Rockies": [
         {
-          "title": "Brewers vs. Rockies (Jun 5, 2026) Live Score - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4X2FKUmQzendYdXVpcUxaVW5ESzIxOGxzemluTVNKa3NUQmI3cGc5VE05RDVxajJORTJ1Qm5FR01hVVZMdEhpa0lScEs4QThBTWRUZ3NrRFlwRi1XdFpqOXNOcG9zbFNsS09reVFGLUh4QQ?oc=5",
-          "source": "ESPN",
-          "published": "2026-06-05T06:25:13-06:00",
+          "title": "Milwaukee Brewers at Colorado Rockies Game Story, Scores/Highlights - 06/05/2026 - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aNGgyOFpxazlVaTMxNkM2TWlHZVY2UDVtemFjRDl1RDV6R2JVbGZBOUpNRk8yNm5Ia3pvREs3TWdxV3NlejNES19lUTVjLVIy0gFQQVVfeXFMT1o0aDI4WnFrOVVpMzE2QzZNaUdlVjZQNW16YWNEOXVENXpHYlVsZkE5Sk1GTzI2bkhrem9ESzdNZ3FXc2V6M0RLX2VRNWMtUjI?oc=5",
+          "source": "MLB.com",
+          "published": "2026-06-05T19:33:53-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Friday Rockpile: Troy Johnston\u2019s .320 batting average is significant for Rockies - Purple Row",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3hVY2thUG81blo0Q2l6YVoxUmxpQXJwZ1VhcDRqQ1VxREFHMTlxU0VzX1I5LWJOanp6MVpHNDhveVJfX1hieHZybmh5LVd1aEpXcVZqd3p4aDZzZmxLTGd3RWh4SDlkd2xZdjE4aGYtXzlRRDhGdmlOZFRHNWJkYVpHR2FjamlZb2RjZm11Smp5a0pYdnRqSi1pb2V4d2xKV3IxV3IyejZxWnoteXBwR3NJOS0?oc=5",
+          "title": "Zac Veen, the Rockies, and what happens when hope and timeline diverge - Purple Row",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWJoN283MU8xc2JOZVFVN2ZfYVo4RVloUVkzRTdQelN0WGJUTEQ4YzNZNlFkY1VQYmx6MWpYY0JqTVNHMGlYQ0J3TDhhX3RPMDEyZU9nQlRDWnBjYkVVVFlvM0VITi1teUJpbDN3R1A4TmNrZ0trdnVYU2thS0Exd1lkRmktY2JOUEswczQ3NEcwNWl0N29adFdKbTMzOUR2cEgya0xvdEtBc19Hb2JDdUx3MmxPb2kxcnU4WGtsWQ?oc=5",
           "source": "Purple Row",
-          "published": "2026-06-05T06:00:00-06:00",
+          "published": "2026-06-06T06:00:00-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         },
         {
-          "title": "Rockies building momentum ahead of series opener vs. Brewers - Field Level Media",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNE1WbF9qV3luVDE2ZnM0R2RzYXhnY055eTFoQWZmYXROVXYta3E5a0lubnZGNGRua0hqcXU5U2Ytb3ZtRjZ6MzlqeFNBWkIzRDZ1ZTctWnFCOHlRdWZxQ3Ywc3cySGNXY1VWcURQaV9xQWQ4SEJFenlhQmZXVWxPRTgxVnk5Z1VSVzEwTmlUa0pRdnh5WFgw?oc=5",
-          "source": "Field Level Media",
-          "published": "2026-06-05T07:35:50-06:00",
+          "title": "Brewers vs. Rockies (Jun 5, 2026) Live Score - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwRDY3MFRtS2NvRWNqX3pDVlIxWURmYlFLX3lTekQ5Q2dCMnFiTHJRLXJMYmp3ZjAxTWtwTnRYMTNHV2xrMmZmT0dsSFlyMndMSm5jV3FyYzJRQWpK?oc=5",
+          "source": "ESPN",
+          "published": "2026-06-05T21:50:30-06:00",
           "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
         }
       ]
     },
     "us_news": [
       {
-        "title": "US Supreme Court backs FCC in clash with wireless carriers over fines - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQUJ2Y1VPZDlraEFBV2k1b0hLdnJ6a0hVRV80Vzh4YU5MQnpJM29IMW1na3dBczdpbUhBVDkxV3RBUGNTT2VnZzcwb2M1bUtUbUk0cklELUs1YXBWc0s3Um9kVnVvUURkVEFibEFid3hMSDVWNDA0TGNfc1oxZnozQXJEY2JwdHpDM0hYV19VWUNjUV9XTjlHR24zV09hYUEzWklaV05Cdml5aEJaazdrTnZKTnVwLTQ4VmMzbEw4VklqeXBqQzRoRVln?oc=5",
+        "title": "Exclusive: US states preparing lawsuit to block Paramount's acquisition of Warner Bros, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcC1pRHRKWUl1RVFGaVZUMGx3Uy1yeEd4ZUllTXpxTEc1amVEZ29USy1uZlYyX3lvMnVNMFFLQ2pfQ3JlQzItLXRjbmdOMUsta0tESm5SSjdMUGhrM0VKNk9wQllpUWk4TFVodndQZmJtaGY4dC12NGlabWdqVDlnZF9iQWpKdi1qRTRZellyMkNhUjRaci1wOFhqUmRVX19OdUV4cW80WWl4RkphR3llNjVZbm8?oc=5",
         "source": "Reuters",
-        "published": "2026-06-04T08:19:00-06:00",
+        "published": "2026-06-05T11:29:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "US Postal Service not expected to run out of cash next year, official says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXlTRHpyek9FREgteDQxR09xdGRyazJ4Y1h3R3dwZ2hOeVpoaThPTXlFSGRfU0F2aHRYWWtHdVZZc0p5QzR3enM3VjNrUy1mTk5tZE5HMjVIakliazZKeDhJNzhYYTJtZkI3QkpuNFlvZ3RUVjdrWUJwRG4wbERHZmdRQVJxSEp1ckhRS1FnQWFXcVN4WTBRVG9CRnZvS21YZHRjTHNQOVpqZnNQUXByX3Jn?oc=5",
+        "title": "Screwworm border closure fuels beef boom in Mexico, gloom in Texas - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdE5LM1VqUi0yQjIyc1ZaajRpcV9vak5BWkh6LUMzVHFmRUFtMHNubEJTRkh1OTlOWk5KS3FqNFZvOW90OERycHE5WVN5cXFIbVo5bVp5QkttYU1jRUJkRm1tYXQ4dXVWQkhwLTlQU1MxRHVrSlY3elAxM0VHb3RXOExtNGxIYW44a0xCcUtNMTdhRW9mdGJnQlpvMXpfQkZFdUZyWUdrTUZZQkRNQnNz?oc=5",
         "source": "Reuters",
-        "published": "2026-06-04T08:55:43-06:00",
+        "published": "2026-06-06T05:50:44-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Trump to build Lincoln Memorial promenade as part of Washington revamp - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2ZKWnlBdmlIdDJCS3lqNDhYMkxRNGpvcW5TVk9qSlBRTU05eElWRnRXamZzS19jZFdweTdCUk9BcXBQRzgxcUxDbWtxellaNVRRb3VYZGd0WFNVRnpadjVreUFCVEwzX2FHRl9YelZmTnFwbTdab3FjOHE3THdsMThrQ0lSbU5sM1JOUGd5QlI4dUFZLWUxejc2bF9wcnFxWmIwRg?oc=5",
+        "title": "US worker rights agency nixes Biden-era enforcement plan, will focus on DEI - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0hiSHU4QS05S0Y3RXBWYkxrc3RoZU5VTnhfOGhuS0UwX01mS0JiOGk4YjJjeEJSVUh1a1Q4NUM0dnN6dnN1UDhnSjFLa1A1QVJiTGYtZVVJcUN6QnBaLUhNbGZLSTd3X3RJQlBOWnRmSzZoZlNsMUJhODB0OW95ZVhaaGhna0p3aGM1RTZ1d2lkUmhST1ZMOXRjTi1JVEZpUEM1b0RDclF6OXd5bXlqaEE4enRrSWZidmJvempfTnRKQQ?oc=5",
         "source": "Reuters",
-        "published": "2026-06-04T13:56:00-06:00",
+        "published": "2026-06-05T12:32:04-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Hezbollah rejects ceasefire plan declared in Washington, Israel keeps up strikes - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0tZZnRwemFBYWROV0xINzJVYVdzUjFuOXVvZTBCbktuTnM2T01kYnozQmFBSVJIak1GdG5vNzdPNV9sdUVuSDZBTGFWbTlTa2FWRzBzNEhTYUJucmtwRjdIU05HWm9fWFlwVmpLT1M4QnoxeHlSc2htYWVsTTlxTXJ6b0ZDU05RdEFZZ2pyUW9VTjVGd1A3akFzZVNTa0JYYlljVzlVaUVrOGxpeWlVbk1zUi1KdG5ITXRyOVJoRTVnclVCZ0lnUnRJeWU?oc=5",
+        "title": "Iran using Lebanon as bargaining chip in US talks, Lebanese president says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOek1MOVV2M1JkZzJlN2h5aGFPaWJvQ2hQRHVELU5pQXhCUkoxRERqMi0wLUwwdFlRQ2lOeDF2ZUlFT0Y4QlpCVEEtczVRZ1lRRTZVNk5NQUR3SzRPdEtUUkxmekxET2FmNGdTU3pmZ1JZYXY2NW1hdDAyT1BZR1FvbHRQT3p5SGRVc2tvMnBfblFHcmYzaGhSbFlodkp1aUQ1cG9XYjZvV1pJeTBfUHFIbnZ1dnZkWXZzM2ttdFdR?oc=5",
         "source": "Reuters",
-        "published": "2026-06-04T08:23:19-06:00",
+        "published": "2026-06-05T10:23:03-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "US will uphold tariff caps in deals with EU, Japan and others, Trump's trade chief says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWdGYXZfZkdvVnhwdWM2VGR4MDFONWUzM2w4YXJhSWticnFfR2VYZ204bHhYRkd3VjVRbVpCMXQ5U3JyWGpSSHM3cWplQlFWRFFyeGFJOV9UekpOVlFjeWFrSjU0YVdSclM0UHRIalZ4QXlYaEliYWhRdmtYMHlZRG9Ba1dnZFNYREdaSTVzMEdfM0ZOS2hDLTdiMk1EZXk3M05TdXRWOFowZmcweURjeFFlQnNXX2VDTVE?oc=5",
+        "title": "Iran World Cup players get US visas, official says, some staff waiting - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZU5Fb3BhUml4d0p4bk9yZjhvdUoydElaSjV4c3BvNUZHOURqVU82RENQd0FXak8teXBBcElyRzVrTjBHMWl6NGdiME1UdjVBbFFqMHBYWVo2bWNYMW15aUNLdnk5QmkzX1dLajNoTmJnQ1pjS3lzS1pVZnBNVWc0anBGa09MNDl4TG1yTDQ4RlFhNTRneTVwRHh1cXBjU01Xd09DWk03a2VuelpOTHo2WGNvWmYzdVNEYkMzNDFWdjl0Nmc?oc=5",
         "source": "Reuters",
-        "published": "2026-06-04T15:53:10-06:00",
+        "published": "2026-06-05T11:23:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
     "world_news": [
       {
+        "title": "NASA reverses evacuation alert order for astronauts aboard space station - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUkJVVmxNaGExUnhzRi1qczlUNFBOV1BtaDVkcEFNTnJ0U1V5UnhVYU9nekNXSWZ1UVRjQzNJWWRsV1MtbjRyejdYbnlod0xEd21PWXJaLTdPd0RjN3dMTEkxdDk1Nzl0aDVFbUQ5NDI1TVk4Q0kyMDZVVGExdHNBdF94Y1RuLUV6a2RPQkhZT1djT3lmeEdrSlMtdWdhLXZVZElmekREamlNb2NPajE1NUhpTTBrajloM2c?oc=5",
+        "source": "Reuters",
+        "published": "2026-06-05T13:10:19-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Protests in Mexico City capitalize on World Cup celebrations to pressure government - AP News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFFBUmNlU3JlSkNqVzduYnRSUmRfTVRDcERQWXlFcjh1M3VsTGxueWpWcG5wQWg2NjRXWnVnY2U1S1FSVVItYXFKNm5QOHdXUjZnODJkZGduTENZXzJNNXlqUzBYeGZMc09wVlFlSkZ4NGlFZmhkWGxVbE85NVN4WTNZdVN2VFZPal9xa3ZFZjkwZHk0Z1VJNnA4R0JSbmQ2TGF3UmE4elo4QU02SWk5bUduRG5iZnY0NFlUSkxB?oc=5",
+        "source": "AP News",
+        "published": "2026-06-05T15:19:00-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "Second Texas screwworm case confirmed as outbreak fears grow - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOblFxdFc0MEJ5OVd2VXZpQm5MMEhRQzlwS2lWb042ZGx0SFRTb1o3NnZnRjU5STNPR3ZpMk9tQi03MXVjbFBOSWlSeEVLQ0NDWkZLek9ZWGVNVjV5YzVVWmpaNUdWYlZfSlFDYjd3VlRzcVdDZTZ0UVdyWEc0alFVZEtGOVd6Z25fSENsLWdUV3FIR2lsR1Fxd0RFYm5iSEhGbVNyM3NDMl9yWXN2QVhhWWVhZUlmRmpxZmZuRWdLbGF0R1F1UUkzOUdR?oc=5",
+        "source": "Reuters",
+        "published": "2026-06-05T17:55:00-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
         "title": "Bosnia\u2019s World Cup pursuit begins at a home-away-from home in the American Midwest - AP News",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSi1mVGRROVRyT1V5Rjk2a1BndGlzbzFQRkhMcDlQRml6RkY5Y3dXY2RuRzQ2amVyV1JvOFNvU1JYYW9jSl9nVlI5ZFlnXzE3dU5wbjF1bW5vY2FDLUJmdFdCNUQ4VUxUTTUxRm5aMVZmbG5mMXF1Nzl6QjhzZmZpQVp5Mmw1M3p4bTk5TGVn?oc=5",
         "source": "AP News",
-        "published": "2026-06-05T01:56:00-06:00",
+        "published": "2026-06-05T17:42:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "What to know about the New World screwworm fly and its reappearance in the US - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmNPeUVkeGtsdEh5MlFEbzY2T3VkY1psLVhqUVYwN0xTOGxMazFqTFh5UjBDUnl0UGJDRkxHNkt1WnN2clNGT3l6UEdKMGEwQ2FRS1ZtVkw1R3F6MVFTR21DVmg5eC1WclRpdDlTUmdEdWY5NEsyc2RxNXNKZHhyX2pvcmI3ZlBSemNrbVlMajZCX3pfUmFaOUZmVVhDb2x4amJ2cHRpSQ?oc=5",
+        "title": "Stadium workers near Los Angeles vote to authorize a strike days before the World Cup begins - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUs0OVNsbUZIdHhzYm5mMW54X0hHUDdSYzc1MExnYWxTTWZ6dWRLd2FiQ0dXUzhWQllLdEZzSDA4b05ma2ZxR0JlSk5jSTJubXlDRGdBQlNZR1EyQS1ZWHFfNmo5Q08tamlPS3JHWjZORGQxLVIzdGFRWXZlcnpxM3lSZDJxV3RkSENVRzZpR0l3dXpEOEF3VTFreDUyNTU2c01SYnlsYw?oc=5",
         "source": "AP News",
-        "published": "2026-06-04T21:05:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHM4ZE51WFBGY1U4WVNVRGRQMFd0ZF9wNjB0eDlSV2F0M0xubC02QmZYd0lFYjM4cHBjVVBaUE1ZcWRJVERydjRxRDBZNllNc21YMlFQWXJTSEgteENkVXF3ZC1DNHpocGRTSGc2dWVnZ2RVUDhWQnlLV2F4bTJ5OEJHMTlVQWtkUmxHVUdXS3o1UQ?oc=5",
-        "source": "Reuters",
-        "published": "2026-06-04T13:24:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "Leftist Sanchez gains traction ahead of Peru runoff vote, Ipsos poll shows - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVVvUUVYbnhMTzg3MWhOdmFjX2xrNk90d1FoWVdkUkZ0TzVjcVh5WHIzMmNIUy1SdF9HTGRrV3gySENxZjdUQkFJQ3hzc2pqdkhxWWZWZ3NHT0hJRFQ0WDB3UzlJeE54bk0telhnMXRaSVROTmlLOEFmVUZjMWxVTWppZU0wN1pFb2U3c2RyYTZybElSR01kNW81cl84M1NsZnlMNjZGM1lCckNJY3hEeXNDSVVxdzd3YUxiZ1V3?oc=5",
-        "source": "Reuters",
-        "published": "2026-06-04T18:57:00-06:00",
-        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
-      },
-      {
-        "title": "World shares mostly decline, with South Korea\u2019s Kospi down more than 5% - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdnlVVzdGVS1peHBLMWJFckctN3N3anRtOWVfYXYwRXB1azdYRmF1WUhnbXNEWWdFMnZhYjBnbl9VcGVpT2dwSVRhOThQRzJMTzRJM2VBOWc1bEx1YmhKX3gtMjRWWUtwcmNZNmhZQ2c5aGhvSE5sY2w5ZEdac21Zb2l0X1UxYUpVMUUxRmRESmgyZ0U?oc=5",
-        "source": "AP News",
-        "published": "2026-06-05T03:14:00-06:00",
+        "published": "2026-06-05T20:28:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
     "auto_industry": [
       {
-        "title": "Trump meets with auto industry over right-to-repair debate - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWEzdndXczhQWU1VbnpuclFWbFc2QkFIRVp0OERvTEdLdVpYRGZHNmVVS2RITHlUeVE4TzZMekN6dnE1eENTbXI2c3ZUWU5GcHdWWWZiYVl6aHVSaU5Id0FxVnpFc3lfWTMyUmJkT2lyYnYtenZxMWRBVkJQeUVtQW9NcWVwblhncTFtWUhtdzlpR2I2dUNHbTM2WWduVjhTWU1QS093aDFGcjlhNFVQM3dTbmY?oc=5",
-        "source": "Reuters",
-        "published": "2026-06-04T17:58:07-06:00",
+        "title": "Americans Are Keeping Their Cars Longer Than Ever\u2014and Remaking the Auto Industry - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1hzOTZqRmJVRnNRUTNRRDB2QWZWcWsyVjB1T1BsOEZBUV8zSlVadFg1TnVQRC13NXBZRWJqOHBBd1FsbXFORDBNXzdiVERQXy04UmJSN25PNTVWM3VTQVhBR2J3Z2o0Nk1LdnBrLWhaMkxTY1lwX3pIWjA0dUQta3J1Y3VTZmlJVTlQYXJjU1lrdTdxOERpaEtNSlQyU0ZpOEc3Q3ZKMVVNckFqdHBIbFYzYXBPYVRoNWZRelJjN005UQ?oc=5",
+        "source": "WSJ",
+        "published": "2026-06-05T20:00:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Will high gas prices change the auto industry again? - The Detroit News",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc1VyYnRlNnNMRUVZdWt6NmpCQmdPQkpianV5SW5KQWttSUh0Wm1pZXpjSFRUbWp1Y3JqcUZwQ3lSREVUNVJqNzVYMzY3ZDlscms4aVNfaEtielVvV2dyTXFCUkNIajlwZ2ZPQ2xFbVA2Ukt3cnk4cjhKdmF0REdGQWlNUG41N1BPWEdWZlpPT3ZmTWhWQjMwV1BEMXowbmFLZGFmVXZsSFBZZUxPb2FrQmU2WGgtWEFUMFFmYUt6eThrR2FsNmRNYlVrNUo3czZXdWlxYVBhRGs?oc=5",
-        "source": "The Detroit News",
-        "published": "2026-06-04T22:02:00-06:00",
+        "title": "Chinese EVs may hit U.S. within a few years, one way or another - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWlmOFlfVXdrY3F3aEwwaHBadUdsQ25BZVdVek1MTGZlTUFNUUZrU1NJSUtjazVEYzl2aWxDT3NNb3FFMG02bUpUaUZWMGpRWkIwMHBaZWI4MjJnNi1xRG12RThjLXZYdmVsV2UydGpMeW1LRkJ0cmZVUHM2MXRXMjd30gGHAUFVX3lxTE1VWWxFSW0welZvbWhRU09xQVlnbU1LSGsyX2haTlgyaVRPWGg4ZEpVVGxpM0VXMFZNWkIyN3JfaEJrcFJuOUwtOUxJbzdJYTd2c0lOcjk5MkNWQ0d6dm9meDJtcGp4NzZDY0RtaEp2OGtOWTE1Qk9MWFJPWGFkS0xPNURvV3Racw?oc=5",
+        "source": "CNBC",
+        "published": "2026-06-06T07:35:07-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "In HelloNation, Auto Industry Experts David Mantz and David Mantz Jr. Examine Choosing the Right Mechanic in Southington, Connecticut - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObmlUY1dnd1JPY1FFN20xRkZUVDB5eGprV3plUW1XS2tVdWk5UzZUdkJMdnNaYURFZTRkZG81dkh1eXN5UkxUdmdIbnpuR1BXU2FEcjZZQjNyWE5CcDVjWnZFVkVlTXh3NzRIcnc4MC1lbUNrTzlaRURic0YtYU1XSGVvUk16TDJZYWFxZVEzUjJZX005SlcyaUVpNEdrN2R4X1RKbklsY3g2Z01MaklVTG1XZHpEVXNkS3RqdlJjbmtaTEdLUnZZMGVMT0ZJRFhyZER5eDRQT0pvR0hrRFBUVW83SzNHZ0htUnpBVE40THZmTXNZSVZudXkwWVo0SGRDTm5Sdmx6R3UwSkdBNmFLSzVZMF8?oc=5",
-        "source": "PR Newswire",
-        "published": "2026-06-05T07:52:00-06:00",
+        "title": "Will high gas prices change the auto industry again? - Times West Virginian",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWjdKV1FDeU5EbVdiS2s5bkdHUHZjaHdkdWtXREZwWlRXbEhXUUR4clRmQ0ZNSkxpSjBhM2h0cDNTSXJET01BTFFyaHBWcXFWbEtvZWxPZVIwbEh2UVEyRkp0NVN3Nm5ORVUtRGQ2WlY4WDdfQU10T1hvRmxscnVNcW44MG1lM1lhMGN0Ym9fcFlMZUw4cjhJVkpYa04wdl9lM2R3ajVJSzZPM3FyV1pheUxQLWx2LUQxQ3RuM2xtWHpLRDdaM0E2WHdHSU90SVZKMGdMRGF3?oc=5",
+        "source": "Times West Virginian",
+        "published": "2026-06-06T04:00:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Japan takes a different road to a cleaner car industry - East Asia Forum",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUhmUUZsQmJLamJUczc4Q2dSYkFlRkRmTXJPOUNhcF9vNU9tSWhDc05jRlI0cXlOYXRJQ05uZ3hLS1U4X0QteTBsanZmcFdIWHU3N2dCZ2NUYXRIUkpnTm81Mk9laDA2RHpDWUJGbnNzenpmRW9nU2x2T1VBTjhkdUE1MTFNWHNPZkpXa3l3d1FyeTBBQ2tN?oc=5",
-        "source": "East Asia Forum",
-        "published": "2026-06-04T18:00:00-06:00",
+        "title": "Automotive Industry News, Self-Driving Cars And EV Stocks To Watch - Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXZqbG10WUxlNUg2dGNUY19pNFVMTlloQ3FzQlhxNktxanRZaU5VZnZ0cGVPS29IdGlMVGxJZmJOYVZNSWpaNHJPMDl0REVTcjdac0l6QTkwNGFnOHBMS0lqR2d1WHNNemlsb0pzSHlnMExNdHkxM3BKTkhmZGhkeXNURVBSUmdnZzV6TEZwLUhuZFBWSVdNb2Z3?oc=5",
+        "source": "Investor's Business Daily",
+        "published": "2026-06-05T09:58:00-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       },
       {
-        "title": "Let\u2019s not pour cold water on the EU car industry\u2019s EV momentum - transportenvironment.org",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVBFdUtGMVFaYlBudWFPcHlYTF9qWXBTT2xRQXpxRExELUJCZUZYSFBYa1BfTVVXbmZoeWJ2d2pJalJaZ0lJWmt2TTJ1RmdrLVpfUEFYTkJTck5tMnlZanVzRlVmRFdzSFZUMEtPM3ZTaGpzNDYzdUkyYVZPXzhvVWlpSXcybDdrQUw4RjA2a3J1QV8wZWRyRjZ3cGVfQnlGWk1GV001ZkxldkFv?oc=5",
-        "source": "transportenvironment.org",
-        "published": "2026-06-04T15:26:16-06:00",
+        "title": "Cars + Trucks - Fox News",
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51YjloN2l5YU5XZEU5SUYxNDhtVmRNMHI3WngwUXBvVVppaFV5Ym1sXzVEZzBpTFhjM2NfRWduRUF5QQ?oc=5",
+        "source": "Fox News",
+        "published": "2026-06-05T22:03:33-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ],
     "auto_software": [
       {
-        "title": "Digital Retailing in Automotive Market is Going to Boom | Major Giants Carvana, TrueCar, Tekion - openPR.com",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3VIWWJwUmc2eEdzUkFlNUdfeHFLMFMtS1B3R2NQR3NubmFOd011bzdTUVhVSEZ1Q19BWkJfMVRVWXZWTV9Pa1REVmgzVGpQYVJDZ3M5eC00TDRmcEptdm9vWkRqSk1yZU1SV2ZqWUpuRExaZHhqVmd2SWlERk85RlNCVHFZZTRSZU1LTnowNzdoQzFGZzgxSlhnbWNtdw?oc=5",
-        "source": "openPR.com",
-        "published": "2026-06-04T23:00:32-06:00",
+        "title": "Dealers Are Reportedly Stashing New Inventory Off-Lot \u2014 Here's What That Actually Means for Buyers - Yahoo Autos",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaE1seW1Sc0d4a0dXV0VJTFJIcU5iZ3ZGcHJuSXllNlIwUVF4cjVUd210U1BCOXQwelk1QlpmN05sRVBNZnBfZWFnOTAwdTN0eEVjeUY4MGhhc2VlRXNrejUxRzVDZU04a1hldk9rczNSNkhkNnRsV0E4cmVOZTAtblcydU0zWHltdktTLTVKM05vNXppSjE0NFViMFdEbzNkRktEek5qR0JON1BSUzZzZWtXOA?oc=5",
+        "source": "Yahoo Autos",
+        "published": "2026-06-05T16:33:41-06:00",
+        "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+      },
+      {
+        "title": "AI, Connected Platforms, and Hybrid Intelligence Are Reshaping Automotive Retail: Sandeep Jain of CDK India Explains How - Analytics Insight",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLU56d1lPUnhhYWp1MnJFNlA1QWhSbW5kQTRJT3F5U3oxRk0zcmZEQjJwNWozYjZ2WlRIX2xJRXRYV3UwM0M4VktuVVRpcHQ5cG1vUnlwN3lyblBLN09abE1LQzJDcEJRRi1uVzJZZE9EZS1CczNtRmVLWmtORFVrajlXejVrREtCNUZwTWlDWjFmZXFaVkhCX2xQX0N6SHF4ejZOSFFqd1UxZGZxRXdnRTlnNHJ0NkRheGVac2tOcGF4SHZSd1dTYWVoWUtjTFp5b3hEVWZhQUV5ZjR4RXh0WmpCZ1RxRmpyZlVJMzJkNNIB_AFBVV95cUxNNHpvYmxKdXlEUkt0cVVTelIxOXI4eE1TUk5lSmV6M2pXZzF6c3lSbVRiSHVYZ2pZeU1WOEtDV3BWOVlsanRENUZEVU8tWGR3Z1NURnRROERMb1ZMWDFLbEJXWmVDZ2RIVmtPZmVhdXljczIzUll3X1hzeEVBeTFXZnJnV0RrdHFWYWJpNE9WN3JNZkItOXh6V1hNSE42TWtrOU5acGxnN3hYRG0xS0d4cklVcGd2TVNtbDVPRWJuck5TUjZUSjhQYlk5eXVqWlVvOFY3MDdzWXF6UEtXUUJyMGJ1T19QTlJSY2N6NVNJVXNFamt3RWVROUl1a2Q?oc=5",
+        "source": "Analytics Insight",
+        "published": "2026-06-05T08:11:30-06:00",
         "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
       }
     ]
@@ -323,9 +330,9 @@
     "auto_software": {
       "label": "Automotive SaaS / Dealer Software",
       "status": "ok",
-      "candidate_count": 10,
+      "candidate_count": 7,
       "target_count": 5,
-      "count": 1,
+      "count": 2,
       "queries": [
         "vAuto OR DealersLink OR \"Cox Automotive\" when:1d",
         "\"CDK Global\" OR Tekion OR DealerSocket OR Dealertrack when:1d",
@@ -334,7 +341,7 @@
         "\"digital retailing\" dealership automotive when:1d",
         "\"inventory management\" dealership automotive software when:1d"
       ],
-      "relevance_filtered_count": 8
+      "relevance_filtered_count": 5
     }
   },
   "failures": [],
@@ -343,7 +350,7 @@
     "us_news": 5,
     "world_news": 5,
     "auto_industry": 5,
-    "auto_software": 1,
+    "auto_software": 2,
     "sports": {
       "Broncos": 3,
       "Avalanche": 3,
@@ -352,123 +359,99 @@
     }
   },
   "deduplication": {
-    "duplicate_count": 16,
+    "duplicate_count": 9,
     "dropped": [
       {
-        "section": "sports.Avalanche",
-        "title": "Stanley Cup playoffs 2026: Bracket, schedule, scores, news - ESPN",
+        "section": "sports.Broncos",
+        "title": "Broncos player, girlfriend arrested on domestic violence charges - KUSA.com",
+        "source": "KUSA.com",
+        "duplicate_of": {
+          "section": "sports.Broncos",
+          "title": "Broncos' Jonathon Cooper, LB's girlfriend reportedly arrested on suspicion of misdemeanor domestic violence, criminal mischief - Yahoo Sp...",
+          "source": "Yahoo Sports"
+        },
+        "reason": "summary-overlap",
+        "score": 0.643
+      },
+      {
+        "section": "sports.Broncos",
+        "title": "Broncos OLB Jonathon Cooper and girlfriend arrested on domestic-violence charges - The Denver Post",
+        "source": "The Denver Post",
+        "duplicate_of": {
+          "section": "sports.Broncos",
+          "title": "Broncos' Jonathon Cooper, LB's girlfriend reportedly arrested on suspicion of misdemeanor domestic violence, criminal mischief - Yahoo Sp...",
+          "source": "Yahoo Sports"
+        },
+        "reason": "summary-overlap",
+        "score": 0.7
+      },
+      {
+        "section": "sports.Broncos",
+        "title": "Broncos LB Jonathon Cooper arrested on domestic violence charges - ESPN",
         "source": "ESPN",
         "duplicate_of": {
-          "section": "sports.Avalanche",
-          "title": "Stanley Cup playoffs daily: Previews, stats, schedule, bracket - ESPN",
-          "source": "ESPN"
+          "section": "sports.Broncos",
+          "title": "Broncos' Jonathon Cooper, LB's girlfriend reportedly arrested on suspicion of misdemeanor domestic violence, criminal mischief - Yahoo Sp...",
+          "source": "Yahoo Sports"
         },
         "reason": "summary-overlap",
-        "score": 0.733
+        "score": 0.771
+      },
+      {
+        "section": "sports.Broncos",
+        "title": "Broncos linebacker Jonathon Cooper arrested on domestic violence charges - Colorado Springs Gazette",
+        "source": "Colorado Springs Gazette",
+        "duplicate_of": {
+          "section": "sports.Broncos",
+          "title": "Broncos' Jonathon Cooper, LB's girlfriend reportedly arrested on suspicion of misdemeanor domestic violence, criminal mischief - Yahoo Sp...",
+          "source": "Yahoo Sports"
+        },
+        "reason": "summary-overlap",
+        "score": 0.675
       },
       {
         "section": "sports.Avalanche",
-        "title": "NHL Highlights | Avalanche Vs. Kings - March 2, 2026 Sant\u00e9 (CgJ7E2Y1aO) - Mshale",
-        "source": "Mshale",
+        "title": "Colorado Avalanche at Vegas Golden Knights - NHL Game Summary - May 24, 2026 - USA Today",
+        "source": "USA Today",
         "duplicate_of": {
           "section": "sports.Avalanche",
-          "title": "Avalanche Vs. Jets | NHL Highlights | March 26, 2026 Ethiopian Emperor Artefacts Return (c49NFQQAsE) - Mshale",
-          "source": "Mshale"
+          "title": "Colorado Avalanche 1 - Vegas Golden Knights 2: Final score, results, recap, box score, stats - Yahoo Sports",
+          "source": "Yahoo Sports"
         },
         "reason": "summary-overlap",
-        "score": 0.5
+        "score": 0.44
       },
       {
         "section": "sports.Rockies",
-        "title": "Milwaukee Brewers vs. Colorado Rockies - Boxscore - Live Score - June 07, 2026 - FOX Sports",
-        "source": "FOX Sports",
-        "duplicate_of": {
-          "section": "sports.Rockies",
-          "title": "Brewers vs. Rockies (Jun 5, 2026) Live Score - ESPN",
-          "source": "ESPN"
-        },
-        "reason": "summary-overlap",
-        "score": 0.6
-      },
-      {
-        "section": "sports.Rockies",
-        "title": "Series Preview: Milwaukee Brewers @ Colorado Rockies - Brew Crew Ball",
+        "title": "Game Discussion: Milwaukee Brewers (37-23) @ Colorado Rockies (24-39) - Brew Crew Ball",
         "source": "Brew Crew Ball",
         "duplicate_of": {
           "section": "sports.Rockies",
-          "title": "Where to watch Milwaukee Brewers vs Colorado Rockies: TV channel, start time, streaming for June 5 - USA Today",
-          "source": "USA Today"
+          "title": "Milwaukee Brewers at Colorado Rockies Game Story, Scores/Highlights - 06/05/2026 - MLB.com",
+          "source": "MLB.com"
         },
         "reason": "summary-overlap",
-        "score": 0.6
+        "score": 0.524
       },
       {
         "section": "sports.Rockies",
-        "title": "How to Watch Brewers vs. Rockies: Streaming & TV on June 5 - Fox Sports 1070",
-        "source": "Fox Sports 1070",
+        "title": "Brewers score 8 late runs, stun Rockies 9-7 in wild 10-inning victory - FOX6 News Milwaukee",
+        "source": "FOX6 News Milwaukee",
         "duplicate_of": {
           "section": "sports.Rockies",
-          "title": "Where to watch Milwaukee Brewers vs Colorado Rockies: TV channel, start time, streaming for June 5 - USA Today",
-          "source": "USA Today"
+          "title": "Brewers 9, Rockies 7 (10): Craziest game of the year goes Milwaukee's way - Milwaukee Journal Sentinel",
+          "source": "Milwaukee Journal Sentinel"
         },
         "reason": "summary-overlap",
-        "score": 0.9
-      },
-      {
-        "section": "sports.Rockies",
-        "title": "Brewers vs. Rockies (Jun 5, 2026) Pregame - ESPN",
-        "source": "ESPN",
-        "duplicate_of": {
-          "section": "sports.Rockies",
-          "title": "Brewers vs. Rockies (Jun 5, 2026) Live Score - ESPN",
-          "source": "ESPN"
-        },
-        "reason": "summary-overlap",
-        "score": 0.846
-      },
-      {
-        "section": "us_news",
-        "title": "US Supreme Court backs SEC in fight over 'disgorgement' power - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "US Supreme Court backs FCC in clash with wireless carriers over fines - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "same-event-phrases",
-        "score": 0.5
-      },
-      {
-        "section": "us_news",
-        "title": "US Supreme Court backs generic drugmaker in 'skinny label' patent case - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "US Supreme Court backs FCC in clash with wireless carriers over fines - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "same-event-phrases",
-        "score": 0.45
+        "score": 0.44
       },
       {
         "section": "world_news",
-        "title": "FIFA prohibits fans from bringing refillable water bottles into World Cup stadiums - AP News",
-        "source": "AP News",
-        "duplicate_of": {
-          "section": "world_news",
-          "title": "FIFA bans vuvuzelas from World Cup stadiums - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "summary-overlap",
-        "score": 0.6
-      },
-      {
-        "section": "world_news",
-        "title": "US posts another month of strong job gains in May; unemployment rate steady at 4.3% - Reuters",
+        "title": "Iran World Cup players get US visas, official says, some staff waiting - Reuters",
         "source": "Reuters",
         "duplicate_of": {
           "section": "us_news",
-          "title": "US posts another month of strong job gains in May; unemployment rate steady at 4.3% - Reuters",
+          "title": "Iran World Cup players get US visas, official says, some staff waiting - Reuters",
           "source": "Reuters"
         },
         "reason": "url",
@@ -476,72 +459,12 @@
       },
       {
         "section": "world_news",
-        "title": "France brush off Ivory Coast loss, call it timely World Cup reminder - Reuters",
+        "title": "Russia's Sechin says US companies benefit from Strait of Hormuz closure - Reuters",
         "source": "Reuters",
         "duplicate_of": {
-          "section": "world_news",
-          "title": "France stunned by Ivory Coast in World Cup warmup, Spain held by Iraq - AP News",
-          "source": "AP News"
-        },
-        "reason": "summary-overlap",
-        "score": 0.5
-      },
-      {
-        "section": "auto_industry",
-        "title": "Trump meets with auto industry over right-to-repair debate, ETAuto - ET Auto",
-        "source": "ET Auto",
-        "duplicate_of": {
-          "section": "auto_industry",
-          "title": "Trump meets with auto industry over right-to-repair debate - Reuters",
+          "section": "us_news",
+          "title": "Russia's Sechin says US companies benefit from Strait of Hormuz closure - Reuters",
           "source": "Reuters"
-        },
-        "reason": "near-title",
-        "score": 0.929
-      },
-      {
-        "section": "auto_industry",
-        "title": "Trump meets with auto industry over right-to-repair debate - TradingView",
-        "source": "TradingView",
-        "duplicate_of": {
-          "section": "auto_industry",
-          "title": "Trump meets with auto industry over right-to-repair debate - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "title",
-        "score": 1.0
-      },
-      {
-        "section": "auto_industry",
-        "title": "Trump meets with auto industry over right-to-repair debate - AOL.com",
-        "source": "AOL.com",
-        "duplicate_of": {
-          "section": "auto_industry",
-          "title": "Trump meets with auto industry over right-to-repair debate - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "title",
-        "score": 1.0
-      },
-      {
-        "section": "auto_industry",
-        "title": "Trump met with representatives from the automotive industry regarding the 'right to repair' controversy. - \u5bcc\u9014\u725b\u725b",
-        "source": "\u5bcc\u9014\u725b\u725b",
-        "duplicate_of": {
-          "section": "auto_industry",
-          "title": "Trump meets with auto industry over right-to-repair debate - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "summary-overlap",
-        "score": 0.556
-      },
-      {
-        "section": "auto_software",
-        "title": "Coming Soon: Cox Automotive Mid-Year Review 2026 - Cox Automotive Inc.",
-        "source": "Cox Automotive Inc.",
-        "duplicate_of": {
-          "section": "auto_industry",
-          "title": "Coming Soon: Cox Automotive Mid-Year Review 2026 - Cox Automotive Inc.",
-          "source": "Cox Automotive Inc."
         },
         "reason": "url",
         "score": 1.0
@@ -549,17 +472,17 @@
     ]
   },
   "curation": {
-    "trimmed_count": 66,
+    "trimmed_count": 72,
     "trimmed": [
       {
         "section": "sports.Broncos",
         "target_count": 3,
-        "trimmed_count": 9
+        "trimmed_count": 5
       },
       {
         "section": "sports.Avalanche",
         "target_count": 3,
-        "trimmed_count": 7
+        "trimmed_count": 8
       },
       {
         "section": "sports.Nuggets",
@@ -569,22 +492,22 @@
       {
         "section": "sports.Rockies",
         "target_count": 3,
-        "trimmed_count": 5
+        "trimmed_count": 7
       },
       {
         "section": "us_news",
         "target_count": 5,
-        "trimmed_count": 13
+        "trimmed_count": 15
       },
       {
         "section": "world_news",
         "target_count": 5,
-        "trimmed_count": 12
+        "trimmed_count": 13
       },
       {
         "section": "auto_industry",
         "target_count": 5,
-        "trimmed_count": 11
+        "trimmed_count": 15
       }
     ]
   },
@@ -617,7 +540,7 @@
       "items": [
         {
           "label": "DealersLink / auto retail SaaS",
-          "signal": "Digital Retailing in Automotive Market is Going to Boom | Major Giants Carvana, TrueCar, Tekion - openPR.com",
+          "signal": "Dealers Are Reportedly Stashing New Inventory Off-Lot \u2014 Here's What That Actually Means for Buyers - Yahoo Autos",
           "application": "Translate vendor/product movement into a question: what dealer task is still manual, slow, or poorly measured, and can DealersLink make that workflow simpler?"
         },
         {
@@ -627,7 +550,7 @@
         },
         {
           "label": "Future AI business",
-          "signal": "US Supreme Court backs FCC in clash with wireless carriers over fines - Reuters",
+          "signal": "Exclusive: US states preparing lawsuit to block Paramount's acquisition of Warner Bros, sources say - Reuters",
           "application": "Favor narrow, paid workflow wedges: a recurring report, an agent that saves a team 30 minutes daily, or an integration that turns messy inbox/CRM data into decisions."
         },
         {
