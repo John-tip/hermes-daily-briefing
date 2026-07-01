@@ -1,12 +1,12 @@
 {
   "status": "ok",
-  "generated_at": "2026-06-30T08:10:25.057810-06:00",
-  "date": "2026-06-30",
+  "generated_at": "2026-07-01T08:10:37.528674-06:00",
+  "date": "2026-07-01",
   "news_window_hours": 24,
   "weather": {
-    "headline": "Patchy Smoke then Mostly Sunny",
-    "detail": "Patchy smoke before 8am. Mostly sunny. High near 92, with temperatures falling to around 90 in the afternoon. South wind 5 to 15 mph, with gusts as high as 23 mph.",
-    "tonight": "Areas Of Smoke",
+    "headline": "Patchy Smoke",
+    "detail": "Patchy smoke between 10am and 4pm, then patchy smoke and a slight chance of showers and thunderstorms. Sunny. High near 92, with temperatures falling to around 89 in the afternoon. Southeast wind 5 to 10 mph, with gusts as high as 16 mph. Chance of precipitation is 20%.",
+    "tonight": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
     "high": 91,
     "low": 64,
     "source": "https://api.weather.gov/gridpoints/BOU/63,62/forecast"
@@ -18,229 +18,222 @@
     "sports": {
       "Broncos": [
         {
-          "title": "Who are the Top 5 running backs in Denver Broncos history? - Mile High Report",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2Y3OUNxRmdmUWR4YXUzVmxxWmhqZFl2NjZ4allCdDBlNTZnTFVYMVF0b0toLUEyMEtQRXNDUFdoSDJrQ1BqOGVmWlMzNXBZRUV1SzFkRUh5VmZQWU8tTkRrWDBWMGhjZ293Vk9meXFaQi1Md0J1WXBuSFQ0WHI1d1o1c0hwbGc1TU9qV1FncFFtZU5rYjV1a21SWXhSdWNueTlwN3F3?oc=5",
+          "title": "Who are the Top 5 tight ends in Denver Broncos history? - Mile High Report",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3ZsLWhTZU0xVUYwcnNyUUk1N3FJYW9ZWmYxZW5VR0dENTBJdWJQck9BbkZsWUR1SE1yN0FSU29FX0l6NHJ2cWlRWXFuTWhSdjZYZldiR2NLWmE4SDRRWWNjNE9RWmpXTC0zOTFkV2ZreXFKSDdrUlBnUGMxSlUtZ21FNFNRanBobFAwS1pSWHd4SlkzcUd0N2R5WHpjTGN4ckE?oc=5",
           "source": "Mile High Report",
-          "published": "2026-06-30T07:00:00-06:00",
-          "summary": "Who are the Top 5 running backs in Denver Broncos history? &nbsp;&nbsp; Mile High Report"
+          "published": "2026-07-01T07:00:00-06:00",
+          "summary": "Who are the Top 5 tight ends in Denver Broncos history? &nbsp;&nbsp; Mile High Report"
         },
         {
-          "title": "Top Broncos of 2026 | No. 16: Ben Powers | Dependability Matters - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeGgza20wRkJLUTdwZUVFUlM2NXQ2ekZ0am1lVzM5eHdxWFBQeUZQUHFEYVd0TDN3ZkN0VEF0WkNZMHRKZnYzMk1sYVQ3TUJVblFxUXFyR2h5SWNEN1ZYSXF4R0NlMlRxMmhiV3ZzS1VMaXZMNWxzLVg3alNMUzhYLTNYTDZjNkRRZkpqdG9DNE43ZDNROVE?oc=5",
-          "source": "Sports Illustrated",
-          "published": "2026-06-30T07:00:05-06:00",
-          "summary": "Top Broncos of 2026 | No. 16: Ben Powers | Dependability Matters &nbsp;&nbsp; Sports Illustrated"
+          "title": "The Denver Broncos\u2019 pass rush looks to continue dominating in 2026 - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORG44YXY1cnhTWFNIeGhjMmV0UVRjUW56RVkzekFncmFRM3QyNl9TT0NCLW01X0Z3b1NZakRkcXduQVVtM1kyWDhtYlVFUGpiUmpUclRmN3RQUkdhTEJrbHNQOWRQVnJhMi1xVDNJRUJsT3d2WlMtclpfcXJKWGpjZW1OM1RIdw?oc=5",
+          "source": "Yahoo Sports",
+          "published": "2026-07-01T04:00:00-06:00",
+          "summary": "The Denver Broncos\u2019 pass rush looks to continue dominating in 2026 &nbsp;&nbsp; Yahoo Sports"
         },
         {
-          "title": "Broncos roster: OL Mike McGlinchey (No. 69) remains key leader on offense - Broncos Wire",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHRSM054cEhGUXF0NTF4WnVkdXloRVY0WTJYMFY0bXJwVExpdUxsNkNzNHlQMHBYQ1FYSTV3VkJyNzI0SU1LTXZwaXM5Z3E1Wmx0blRxaU1ZWVYtS1dwOVFuN1pKVnQ4NG96MEk3T012ZlJ0NFZDc0VLUWdybGZQWGRpS1NrYUFOSlJtUU81eDF4RTlWUV95eE5TR28xdWN0dDNOd3BHMnBFaGc1SXZ6VFBLZjZ3QmR1aWpYR2k3dlk?oc=5",
-          "source": "Broncos Wire",
-          "published": "2026-06-30T06:01:00-06:00",
-          "summary": "Broncos roster: OL Mike McGlinchey (No. 69) remains key leader on offense &nbsp;&nbsp; Broncos Wire"
+          "title": "Denver Broncos 2026 Training Camp Powered by Ford dates announced - Denver Broncos",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMld2TXdKNFFTOFRNMDJCZEo4VFh5SmYxNmtma2Z1Yk5rZXZJQUwyZ3NIZVFzWW9EMHNIMF9XSm40WnhKQ0lsUGh2MV9Rcnh1dmhuc1AycVhLSkpaT2xfamZSa19ZNWV2b3JTZFRPOGtRVEtmY193YnlGc0RKNnA0RzJINmZuOWpxXzJ1QUZ1cHFIOGl4QzBlYVhsUV9nNFNvWGc?oc=5",
+          "source": "Denver Broncos",
+          "published": "2026-06-30T10:04:03-06:00",
+          "summary": "Denver Broncos 2026 Training Camp Powered by Ford dates announced &nbsp;&nbsp; Denver Broncos"
         }
       ],
       "Avalanche": [
         {
-          "title": "Avalanche sign Taylor Makar to two-year contract - MSN",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcHQwNk1vRG5fbnRWYzkwSDJCRXdyV1VjdWgzWTR5OUNBQTVjZkZkbm9YLXlpT2I1YVhCRXpFVzRId1pzX09QX1I3a2lGZ0RiY1htMjZuOTVwYzdDTl95dFVUazNiWTl0TXBDb09RMXlwR1U4cU4xQnFqZmZ4UUU1TTFabnpESTJ5elJGb0VZTHhrWDE5SnF6T2xfVXc0QQ?oc=5",
-          "source": "MSN",
-          "published": "2026-06-29T14:32:27-06:00",
-          "summary": "Avalanche sign Taylor Makar to two-year contract &nbsp;&nbsp; MSN"
+          "title": "Avalanche Reunion Watch: Could Jonathan Drouin Return to Denver? - The Hockey News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNnU2TTNsSGczUVpWM0o3NkJlODFILXJKQmZzbUREbXVyZG9BVk9LUnRsMTVKc0laeTc1STlkcHo5SnBKbEhpejQzTVJpalNwU18wZW5PNzF6MjczUVNzcVBFQnNuWGdnQ3FQZ0hOXzdXMWhFdVZMNjYwSk4wY2Q1TUR3VHV3RkpWUnlmaGJ2eVprTzhJc2ZEX01PX3dpeWN5aldTaEUtYWxzRzlEbHNxdjhsTllneV9tUFh2bk14SnM?oc=5",
+          "source": "The Hockey News",
+          "published": "2026-07-01T00:33:05-06:00",
+          "summary": "Avalanche Reunion Watch: Could Jonathan Drouin Return to Denver? &nbsp;&nbsp; The Hockey News"
         },
         {
-          "title": "Avalanche make good use of cap space by shoring up blue line - MSN",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQUVRVDlvODl1OUQ2OWdMRUJ0OEZZVmJhbXUtcXk1eWtBNjkwVFpQUXFJa0ZQQ3g1V1lKSHBQbllmR2x5S3hza3dGUTRmRzY2RUZoSEl2b2txeFRDTUh3NXlvb1k4QzB3ajluRlBoXzJUYnYyelZlbzZRRFdaU29xMkcxVk9KX0Z2Z21yRnJRZTAwTzVXOGdfZlU5ei1ibGlHN1pHZ0M3ckNLNlEzNXlTM3NxNGJOR0dPR1JGVDY2R1hPb19hRVA1eVotSnd6ZG93d0ZwSHJoQU9zaVNsVU5FTElfVlJfazZZWmdBcVVFdw?oc=5",
-          "source": "MSN",
-          "published": "2026-06-30T04:01:43-06:00",
-          "summary": "Avalanche make good use of cap space by shoring up blue line &nbsp;&nbsp; MSN"
+          "title": "Deen's Daily: Free Agency Is Here!; Who Avs Could Target; Panthers Make Interesting Goaltending Decision - Colorado Hockey Now",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUzlkOHBOTnB2eGVwYXZaUDRncGtrbHRjV2dpMlBGQUtVWllrLXdRY2NyTmRkWlJxQ2tnTTRublVZUXc4QXo4cTI3bkEtcmdVUWNXNkpETFhZZTZvWkpvWnFxTnoxRUFGcVBTZDlmMlBBZzNPZi10QlFLU1FTelBLNXNQZWtPeGVqMmtEUHQxNjlVV2d0SDlTTExCTmVPaEcxZVdvbW1rZXdKSHMta1FmZHBCX0dHdG9fM1g0RXlvRnhfcFJGSmJSbkdn?oc=5",
+          "source": "Colorado Hockey Now",
+          "published": "2026-07-01T05:38:58-06:00",
+          "summary": "Deen's Daily: Free Agency Is Here!; Who Avs Could Target; Panthers Make Interesting Goaltending Decision &nbsp;&nbsp; Colorado Hockey Now"
         },
         {
-          "title": "Blackhawks trade veteran forward to Senators for draft pick - MSN",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc2ZDQ29FM2x5S3ZpUzI3ZjNFeEVPMVdQQk4tcHgxQ3pWX3RYenhkVXVfZy1iaW02Tm13MWt1ZUprbXdZQnpIclRBSk01ek9LRDRKbEZkU0xGelhBMzQtMmN0Y3RkUnFBc1BZOHlpM2NnVmY2ajlLeDc4NEI3ZGdUWFFjNXVldGVrLUNmcjZJUTNQaTNDaUtJMzRfUWFidE9pdXYtQ0JJUERVNzJ4MW8zalRVb1B1aXA4ZS1Ramg4X3NJZDltVFdET01tMFJFX09iemlTR2xPQXBubjBTMFhiQktwNFNaN2JQTXVwY1Z0cw?oc=5",
-          "source": "MSN",
-          "published": "2026-06-29T19:17:05-06:00",
-          "summary": "Blackhawks trade veteran forward to Senators for draft pick &nbsp;&nbsp; MSN"
+          "title": "How much for Cale Makar, Artturi Lehkonen? Predicting Avalanche contracts as NHL salary cap surges. - The Denver Post",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZVVTNHRmVVk5aS1hM1JxS2ZXODVjdWZqR2NSQTRYRE9EXzBPcWp6eGxNZzBROFhyZ2VhNTRJUnZzVjY4THpCRFZNWWZaWjJNMDdnRUlMNWJYeGpMQUJpOWN4ckF5b3lVeF8zd3ZaSlJELWdXVHNYeGowcnA2UFBxcjJEOWI1a3JsVGVJSW1wZ1p1dw?oc=5",
+          "source": "The Denver Post",
+          "published": "2026-06-30T16:43:50-06:00",
+          "summary": "How much for Cale Makar, Artturi Lehkonen? Predicting Avalanche contracts as NHL salary cap surges. &nbsp;&nbsp; The Denver Post"
         }
       ],
       "Nuggets": [
         {
-          "title": "Top 25 Free Agency and Trade Targets for Denver Nuggets - Mile High Sports",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmJyS2ZoWXpDLWhhZUFoNGdJZEpHXzJyLUtqSVphM1NuRUs3bFpXV2tWTEZ5QXZMQTFWbDIyS2hmeTFVWkNpckNUTVVwNC1hdHJLT0kxcWRMM21zdGYzRjNxclF6WW5lX0VSdDJGUVNiX2pIM1FWQUZycVJQajNzbEg2Wm5rSmlCWFN4em1kaUZ6RjdqNV9lbFBlbnJ1aXhNbjBwamFNUEhVR0wwa3JEVm5XVl9Cc3E1dW9vYXlYdFrSAcYBQVVfeXFMTlFSLUVBLWtEMVEzdGFGWkt0ZWVKOHRHTlU0d0E1WXNvSjN4cjBXMGZCcnM5MTU5MmlsbVAzQ1VFOVhQS1p4akFBUHpRSGdlN0FsMWs3RnRnY3NMTEhkb2tzQmFvczhGbWUzUGc5dGhqV1luaHg4WHphYU01VllLLVN0dndNLUdyaXhpQ3hYT0FSYy1RZS02dE1ROU0xSGVRUXdSRmVXOWhPN1NLM21oZTU5XzRVWld1bE55cGl6WUc1d2txRlJB?oc=5",
-          "source": "Mile High Sports",
-          "published": "2026-06-30T00:40:06-06:00",
-          "summary": "Top 25 Free Agency and Trade Targets for Denver Nuggets &nbsp;&nbsp; Mile High Sports"
+          "title": "Tim Hardaway Jr. leaving Nuggets, signing with Heat in NBA free agency - The Denver Post",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcmk3SXBCenk4ODFXUW8wUGlob0I0M2Fic0hrdm92V0NFQVBMUXNVWkk2Tnh2RkRTQmpSYVFqZDRRYzQtNEtwWW95SnFqUEotMlZEcGd1RGd1a2xQaDRDQzVFUC1FMEo5RHpfWVltUlJsbEdPTU01SXNOUkhzUWhWdk5tOEpHeDVkUXNF?oc=5",
+          "source": "The Denver Post",
+          "published": "2026-06-30T17:03:02-06:00",
+          "summary": "Tim Hardaway Jr. leaving Nuggets, signing with Heat in NBA free agency &nbsp;&nbsp; The Denver Post"
         },
         {
-          "title": "Nuggets make unexpected roster move and create a larger hole - Nugg Love",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejVJaThycXFPbThzcHFibTFQMXZwVmx6V3pUYXR3M3Z0VHNKWGpjaTA4ZjJGRDdpdW53T2FNSlI5a3JCMDcyY2hYQlBUTW1YQjdKdmV2VnBjaXkyR25oYll2UDR2ekhTNmR3eFVWMC1DblN5b0FpRlRCV20tNlNibA?oc=5",
-          "source": "Nugg Love",
-          "published": "2026-06-30T07:15:00-06:00",
-          "summary": "Nuggets make unexpected roster move and create a larger hole &nbsp;&nbsp; Nugg Love"
+          "title": "Emirates NBA Cup 2026 groups announced - NBA.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LV1pBbGxYX2daQWc3YXZVZHRWSDZtdlE5M0pCX3c3WUtDWDljb2JQWXdNcXhQUlhTQlI3cjFRTENXVVBYRTBrSlZ6QXhfTnpmb2ZkZnM0a1YxMTdpRkJMRzJCd3JueFFUYzVtZXJMWk8?oc=5",
+          "source": "NBA.com",
+          "published": "2026-06-30T23:24:52-06:00",
+          "summary": "Emirates NBA Cup 2026 groups announced &nbsp;&nbsp; NBA.com"
         },
         {
-          "title": "Nuggets Have One Team Emerging as Threat to Sign Peyton Watson - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzRUeGFlUWF0WTltWDhZM0FxX3VfSnZBWVdKYU5Ja3dzXzVHYzVfMXRiR0xGQWcwd3Y2cVVsYVFfQWFWdjE0emRUOVljcUd1UFFOempzZXdRSnlsMnhkZjdmbW9MbVNkY1dGdFV3MkZvNTBZNTZQQ3V4bEU0ZmEyQ2dnN0QxY0Jqb0o0YVEzX0IyOHVfVFRMUkN1Mjhrb2M?oc=5",
+          "title": "3 Free Agent Shooters Nuggets Can Target With Tim Hardaway Jr. Gone - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGJjUXJDaGJJTENocXR3alJOdlJjd1VxMC1ydlo5ZzZaeTJRYXdseUxpWW9pcDAzX3c1NVFpTlg3VW90MWZFMEJId1dEcV9uZ3gzNXlGNmc3elNXY1RjTTFVaVI0ejFNd18zUWUxdUxVcEw5NFpheUoxNVhmYV9GTzZSbkd4NnJnakpjWjZVQkxEaGM1YXRWOGtGQ3REZ3QzQ3JxWg?oc=5",
           "source": "Sports Illustrated",
-          "published": "2026-06-30T07:00:02-06:00",
-          "summary": "Nuggets Have One Team Emerging as Threat to Sign Peyton Watson &nbsp;&nbsp; Sports Illustrated"
+          "published": "2026-06-30T17:05:56-06:00",
+          "summary": "3 Free Agent Shooters Nuggets Can Target With Tim Hardaway Jr. Gone &nbsp;&nbsp; Sports Illustrated"
         }
       ],
       "Rockies": [
         {
-          "title": "Strike overturned after ABS challenge - MLB.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWY4N2RKRU5ZUG5Tdk5UUmxpa2FjeFJUNXBWLUpHclM5UE9zOFpwRGRNU3hsUjFnUUdPRVZJWmVXTTlpMUdWd1BiYXAtMXhUWlM4empiVGt0ODFyNE9aYkhIQTR4Wi1CV2dTblVxdUFnSU1LVzZXZUZ4NWxRVWVZN0RkbFp0czN2NmxuX2t1OEc?oc=5",
+          "title": "Miami Marlins at Colorado Rockies Game Story, Scores/Highlights - 06/30/2026 - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRHJNbDhuaTBfTkdfcndxREFTSlF1SWtiU21jOGVCRTI2cW1fNTdWelJSX0ZlVVBNSGxfQU1ZcDA5bUo3WEhSVFVvZWZCcktaa1JOcGhlWU45SFplYkx5d3BrbldDemlkbUhRTWJseXZpSndiYjRFVExPSFlnZnFyUkZVVEhkWFRSSW1kVkJVc25ESGYzaGVYYzd6QzBBQXlkYmFQdnRJTTdWa204TUQxT2hRTE5xUlRnWFRvclhQSmJTYUJjN3lTMTQ5NGlkZTB6M1ZhRUNTaEJGUUhIcl9GMk5EUW15bVZkSzVnODNHamZnbGlfNGJ0bEU1dTBnS2PSAf8BQVVfeXFMUERyTWw4bmkwX05HX3J3cURBU0pRdUlrYlNtYzhlQkUyNnFtXzU3VnpSUl9GZVVQTUhsX0FNWXAwOW1KN1hIUlRVb2VmQnJLWmtSTnBoZVlOOUhaZWJMeXdwa25XQ3ppZG1IUU1ibHl2aUp3YmI0RVRMT0hZZ2ZxclJGVVRIZFhUUkltZFZCVXNuREhmM2hlWGM3ekMwQUF5ZGJhUHZ0SU03VmttOE1EMU9oUUxOcVJUZ1hUb3JYUEpiU2FCYzd5UzE0OTRpZGUwejNWYUVDU2hCRlFISHJfRjJORFFteW1WZEs1ZzgzR2pmZ2xpXzRidGxFNXUwZ0tj?oc=5",
           "source": "MLB.com",
-          "published": "2026-06-30T02:59:50-06:00",
-          "summary": "Strike overturned after ABS challenge &nbsp;&nbsp; MLB.com"
+          "published": "2026-06-30T22:30:00-06:00",
+          "summary": "Miami Marlins at Colorado Rockies Game Story, Scores/Highlights - 06/30/2026 &nbsp;&nbsp; MLB.com"
         },
         {
-          "title": "Rockpile: Sorry, St. Louis, but Tarps Off happened at Coors Field first \u2014 and the fans and players love it - Purple Row",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS0wzVHNQX3hhczhJT2o0Y1lOanI5Z25NOTljN0pZQUpxTWhGd3VtcGR2WkQxZVI4cWxTV3k3T2Z0NV9UNDZ4eWRQZUZtX2NVd2J1OFVVTEdiLWtrMmh2THpjLVl6ZUpxRGpzU2VpVUd0OEdyMWxnaUcxN0VJaUVJZXo4ZmpBd0I3TGZBMFZmZEk5V0hHTlFWTzZpUVVBSEZfb1JRNmh2SXdoWTZSV3ROZk1iNkFvNTVpTGdfbUtTU19lUDRZLVRlZU1zSXRQdFJMVEpzbA?oc=5",
+          "title": "Wednesday Rockpile: The Rockies have revived that late-game \u201cLoDo Magic\u201d - Purple Row",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnhNNGZSYmZRcV9hV3dJOEtsbHZqRWUxN01ya0JFWEtwbmtmOGFOdTQwMEw2YThVNHNiUzJTTFhIbDBjbEdyalRvb0ZDTmZkb3J5WWYwZEdEUDh0V3hRUW92T2tiU2NWNFprdVJqaThYSjVQcTZaSmhUUlVrR2tmV0Q0ZEtiUmU5OHFQYkhrQ3FaY2h0YTV2MUQtbnJjTk9vdEZidE8zbw?oc=5",
           "source": "Purple Row",
-          "published": "2026-06-30T06:00:00-06:00",
-          "summary": "Rockpile: Sorry, St. Louis, but Tarps Off happened at Coors Field first \u2014 and the fans and players love it &nbsp;&nbsp; Purple Row"
+          "published": "2026-07-01T06:00:00-06:00",
+          "summary": "Wednesday Rockpile: The Rockies have revived that late-game \u201cLoDo Magic\u201d &nbsp;&nbsp; Purple Row"
         },
         {
-          "title": "Colorado Rockies vs. Miami Marlins OVERFLOW THREAD - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOUZnaHlLMk5FTlFJRXdNWjhMcGVqYTZyaHU1TU5IVW9xd0xrUUNHcmdFcFduUlljSHdSZ1ZVN2hSVHlLWUozNmNIQkNoampwMS1icXV1R0Z6MmJzZ0xieWlfR0ZJRkZUVU1YNkt1bnNjWWtmZjVzVzFRNGxNY3ItQkV4SFptYU4xOHc?oc=5",
-          "source": "Yahoo Sports",
-          "published": "2026-06-29T20:53:39-06:00",
-          "summary": "Colorado Rockies vs. Miami Marlins OVERFLOW THREAD &nbsp;&nbsp; Yahoo Sports"
+          "title": "Where to watch Miami Marlins vs Colorado Rockies: TV channel, start time, streaming for July 1 - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT216bTRGR3dyamxtN0tZcTFNZ1pUa3ZPOHItcmJBVXMwSURTb0plcGZUZGVMTUo3Wk14RURsWFVGZHloT1E5SUUzMmkwY2M2bnhCZHdOcHo3dWdXdHM1NUVkb1NmaEFlOUxlbk9hRlZzWHcxVUgwQnJRSjNSQXR0WkN0Nmxqd3pWQVREM3RySTVKQ2VZaUxLS09wREQtaWpoY0c2RDBHanp5UHU4emhxWmZrZXh2SnBUTUhjNzdfSTZJRk5yd3BNZXp4MA?oc=5",
+          "source": "USA Today",
+          "published": "2026-07-01T04:16:00-06:00",
+          "summary": "Where to watch Miami Marlins vs Colorado Rockies: TV channel, start time, streaming for July 1 &nbsp;&nbsp; USA Today"
         }
       ]
     },
     "us_news": [
       {
-        "title": "Supreme Court rejects Trump bid to fire Fed's Cook but expands presidential powers - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb1JHcW4zcGozWE9wcl9IM2FnczFEbHBaRVVvdDRhQm9DTXVEOVJYaVJoS3hIakhvQjE1RWNRU182N3FNRmNMbkJhZFQtbXI1Zlh1M1M5R054QnNid1ZNdmFKbnVjX1h2M2xNR0M3eXJGM29pNVR6Zkh2R0IyU2ZpNDZ0OXJFVFJ3dnd4c3NZVGc1bnhuaWJtM2hLVVlWUVQtZDM1UFAxd1dqUQ?oc=5",
+        "title": "Meta loses bid to dismiss US states' claims that Facebook, Instagram addict children - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTW1oX1plcXNSQ1ZoOXBJanVnUlhSbjZ3WEcwQ1NrUHUyMDFZa1ZzR2o0VERfX1JYdjdkRXIzVmVSMEthblRwOFJqRGZfalA5bE1Yd0QxeGxfNGltaGZJdnhYeHo1M1NkM0xsamRuY0xVWkk0VGxfZnhna083enVoQkhzdWlhdEZhZXRNVUNPQ0djaDhPSDg5YnVDZmx6YkZxVGtVaU0wNHluMUVSaFREejBMOU4zbVRzMWtuNHVCRWJETHJ4ZWRIWEdlRUI?oc=5",
         "source": "Reuters",
-        "published": "2026-06-29T12:19:00-06:00",
-        "summary": "Supreme Court rejects Trump bid to fire Fed's Cook but expands presidential powers &nbsp;&nbsp; Reuters"
+        "published": "2026-06-30T14:23:17-06:00",
+        "summary": "Meta loses bid to dismiss US states' claims that Facebook, Instagram addict children &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "US Supreme Court to issue final rulings of term on Tuesday - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTZuOTRJZmlGUXpkdUZ0dnhFZUJMQVhtdkt0YjU2RFNGNzR5MkREMm05QkZoQk1YQkpjVG5zQURSc1VWdTFvZHJROTk5NXZoUU1YcnBjSTVLNjVGOUgxSXhXNEp0MWFiNDVvdnlvNkVtcHFHLTN0NU9zTU5tVmc3RFE5REtuMExQdUVwSmxYRmN5MDNBX2c?oc=5",
+        "title": "Supreme Court rejects Trump bid to restrict birthright citizenship - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXJhY1U3XzlmQnZIUjVrZmtYcXlEMEtZUlJRSmtyVFVUblpWSzV0N3JqcWpvWUxXVE5TSmQ4QmxqcHNHOGlDMkQ3ZlFUWW43bDVMckRJZ0VwaWFFZS1ySHBhX2lEOWVuZ1ZPTWNTMlZvZjV6YkNabXZGQUxZcENjTmxiUUxyVFJFRm80X2NxSkNnVG56b3BncGg2clVVMWZ4aGFCOGxNdXduYldIVVcw?oc=5",
         "source": "Reuters",
-        "published": "2026-06-29T09:11:18-06:00",
-        "summary": "US Supreme Court to issue final rulings of term on Tuesday &nbsp;&nbsp; Reuters"
+        "published": "2026-06-30T12:14:55-06:00",
+        "summary": "Supreme Court rejects Trump bid to restrict birthright citizenship &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "US DOJ, states reach agreement with egg producers on price manipulation investigation - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmVxMXp3UWJCV2o1SWNHajc5QlFDSkxtU2VMMlNwUDJMT2gtNG0wZzR2MUk1cm1ELTRWSFRqWXJ0cDRhUFZJZEJwR2FtdjhCdWRSSTlMX1Jub3ZjMWVMakQyWFhacjR6dVpFWkc3OXp2SlRmT2swdnpZejU5VTRkZndvZkV6MVhQWWsxNl9nVlZTZ0lQamk4UzdQSHlkVWdqMnhTb19FUGZ3em9tY1RkejY1b21HSmYtYmk5Zg?oc=5",
-        "source": "Reuters",
-        "published": "2026-06-30T03:42:40-06:00",
-        "summary": "US DOJ, states reach agreement with egg producers on price manipulation investigation &nbsp;&nbsp; Reuters"
+        "title": "After helping the US win the Cold War, the all-you-can-eat buffet is fading. Thanks, COVID - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEJ1Q0dZWEhkQkJfNWVndUgyQmNBZ0VRMzVSXzQtaUNBQU1yMjBONl9EV2VDejF4ZWtsekJHakhQNTZKVm1sOVJPWUdCRlNQVUx0dFp5MEpEWXdjT2g3V1FHVjZNUFFJVjcxelFkVnhxSmp1Tk1DbkoydnFCUkZwVXJfVkFXVXlUcWFBazBMRlJ4cEtlbkVF?oc=5",
+        "source": "AP News",
+        "published": "2026-06-30T11:56:00-06:00",
+        "summary": "After helping the US win the Cold War, the all-you-can-eat buffet is fading. Thanks, COVID &nbsp;&nbsp; AP News"
       },
       {
-        "title": "US Supreme Court orders lower court to reconsider 'geofence' warrant case - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjI2bXVTY2J5eWtGeVQza2pPdFRLLXg5UHhaelVHa2VUdmd0SDVheWlUaG9XRzNkMGwweUJ5eEsxRmctaXAzblg5YzBRWDhaSDZBeEpGSzZZQWVNZTdERnlTbnZ0VFlLeXVpaTB2d29yS2MxWmtBeC1pcHppbU9xalQ1XzJ6QnZDLTJTQ1dudTZnUkxnV2JQbVNZX2JQLUM1aFRsbXVPQmJtZnhEUGg0?oc=5",
+        "title": "US imposes sanctions on Mexicans, entities tied to Mexican fuel smuggling network - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHR1dDFpRUx1dlFzQlhtZThDNTA4dFloTzItLVRnREFobEJSbEpxYWJTOFdNaGNKWkpZY2lHdDBSVnhzVmkzb1NCcldSY1RWbE5jX01KNkpTeG8wb00yNVJFT3lCVDJsYVlnVkpYcWVFTlVHM2VjSXlSenlMNDY4SVhGRDNJZU14c2dEbW5leE1nTjdmdldIbGR4RFA3WXQ3NURZbHQzSnp6RmJUZ3hlYkpuZU9EMWc?oc=5",
         "source": "Reuters",
-        "published": "2026-06-29T08:18:42-06:00",
-        "summary": "US Supreme Court orders lower court to reconsider 'geofence' warrant case &nbsp;&nbsp; Reuters"
+        "published": "2026-06-30T18:32:00-06:00",
+        "summary": "US imposes sanctions on Mexicans, entities tied to Mexican fuel smuggling network &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "EXCLUSIVE: Turkey says NATO adjusting to security landscape, US not withdrawing - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFVFQjUtRlBWem5wdDBTbFUtMldwaF9NXzIyWXMwS0JkU0JBVXpTSTRjaElia1dLYTRpOG15X3g0a3gxWnZwbjJZQmxvNE9tZVN3SUZ4OTQzOGloOWdrTEFXZmZnSTF0MVFwT0gzTjZfUjJBdnE1R0VCRUV0NGRrN3VBRU5pcldkTFlrTU9sc2lOQ01VUllnZTNVWjRvSVdubFRxWmEwb05oRVNiSXlkUEx2eFBKUkR4dEZlQTV0bHl3LU9WbEE?oc=5",
+        "title": "Cuba`s top diplomat says talks with the United States showing \"no progress\" - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzJsZm85VWY3NERCbDhuNTBjVDN1OUsyMFZ4Mk9ScmNhY3ZGaDJ5YlUyVjBtc1lNVXNSdkZVdk1ocVJrMzhCRlhVaGNEU0UxaWdtX2lRdXpqUDQxdEtvVlB3bjJITEh6bURHQlRZYkZmNzlCbUQ0Z0JDdUhNMFA2UEQ5NEdaaDhOQkNMQkVRdVlnMHM1dk15R3VPVDJzWUE2R2tqLVRaR2E3XzJwelRIWGc3NFZVSmxLM1hMM252aDA?oc=5",
         "source": "Reuters",
-        "published": "2026-06-30T05:14:27-06:00",
-        "summary": "EXCLUSIVE: Turkey says NATO adjusting to security landscape, US not withdrawing &nbsp;&nbsp; Reuters"
+        "published": "2026-06-30T13:45:21-06:00",
+        "summary": "Cuba`s top diplomat says talks with the United States showing \"no progress\" &nbsp;&nbsp; Reuters"
       }
     ],
     "world_news": [
       {
-        "title": "False hope and schadenfreude: Familiar feelings for Germany after another World Cup flop - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0pkcVgtSzJPbDQ4MVNpM1FhX0IzVGQ2VWlIenVIX2UwcEJYdXB1SHhaWVQtb1hXOE9tZ2Q4UHpfVmZESHRXV3hyWUJfVEtsWXBNcU5TWXlvVW9ILWg5UXBqTjBmc2lNb1J2WTNHQzNqNzRaRWo2clNWMVhUQ3lvc2xUWUlmeEJJSV9uU2g5MlQtZ1FSUURIUg?oc=5",
-        "source": "AP News",
-        "published": "2026-06-30T04:51:00-06:00",
-        "summary": "False hope and schadenfreude: Familiar feelings for Germany after another World Cup flop &nbsp;&nbsp; AP News"
-      },
-      {
-        "title": "Soccer fans clash with police in The Hague after Morocco stuns the Netherlands at the World Cup - AP News",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNnpycGdIZEtwLXNVNWhlTndXdnZCT2hFWDJZZC1lYlp2RzB1ZktUY2Z2RUNjZmdyaEpMTzV5V0ZPbmtwNi13SkljX1J6VGVQTzI0UzVMVGUzZFB0T2JIc1MtQ0lrUHB6dEFuLVQydWFOcjUyRTFaeWo2RTM4djcxSUdqN0F5MzlkOUl6WUxJNVpWYVZKNERUOTNHN2pCdnhpNm1ZdnE0RXNlYmZURHAydg?oc=5",
-        "source": "AP News",
-        "published": "2026-06-30T01:52:00-06:00",
-        "summary": "Soccer fans clash with police in The Hague after Morocco stuns the Netherlands at the World Cup &nbsp;&nbsp; AP News"
-      },
-      {
-        "title": "Saibari's shootout winner sends Morocco past the Netherlands, earliest World Cup exit for the Dutch - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOF8wdk5UMmR1MGNFTGVCVjlOXzgtdVIxU0w1dE85dHdnM2RNQ0FSSGlUdXlmYzcwMU5rWHJHS0pIVjlRQjdDQkZHUUMxN0ZxUEx4TDZLcXJQUXJ1MWNzdlMwT2JHdXFjTjBIb09pajdMNXh3R2s0V2UwU0lKVFcwcVVxcERnTGRTQkxoV0tRLWV2MUdkQnFXZnRBdw?oc=5",
-        "source": "AP News",
-        "published": "2026-06-30T00:47:00-06:00",
-        "summary": "Saibari's shootout winner sends Morocco past the Netherlands, earliest World Cup exit for the Dutch &nbsp;&nbsp; AP News"
-      },
-      {
-        "title": "Morocco advance after penalty shootout win over Netherlands in Monterrey thriller - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOEFRR3U1THl0VW5kSkc3QWhKbW50TW9Cc2xmd2prSVJkdUFnbUZ2TmF2R1NIaGRJczBCb2xTM3M4U2xwRlJvQlJENm13cVM3bjhENEFoaUc1bUtQRXhnczJJenBtRVZ5emoxMXV0Q1lnYzhHRlZXdmU4bDVHcTUxSWxkTjBlbHdOQ1I3MVVRdC11YTVGNmRTQnRWalNrckVFRXBUVlpqU0NJbXoyNVR5VDcwRXFRM1p6SWhJ?oc=5",
+        "title": "Three people die in Mexico World Cup celebrations as fans crowd streets - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONHRuWjl1VEhoVC1qTllkS0RUSERFbEJCbG9ydkQ0NTF4WG5jSXEzU2J2WkdRb0JUZkNER2loa2FRbmpuNEtRSXo5eVd4dXdlamE0VzBrQmI2TGo3TG9Ud3JfRy0zQThKcmxrUUJ1a3VCMENmMTJKZW1CSHBISHgzSXUzVXJkTVgzMzBtd21taHhGQzJkZC1ZYXRJd2xvVllvcElpS2NEaVBUZTYwdXRVWlVpQQ?oc=5",
         "source": "Reuters",
-        "published": "2026-06-29T22:00:00-06:00",
-        "summary": "Morocco advance after penalty shootout win over Netherlands in Monterrey thriller &nbsp;&nbsp; Reuters"
+        "published": "2026-07-01T06:03:47-06:00",
+        "summary": "Three people die in Mexico World Cup celebrations as fans crowd streets &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Paraguay declares national holiday after team shock Germany at World Cup - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV2tiODlLLUVNcjRqaUJqMVBkMkRIRlpSZDhPRUZiNzZ5X2w3S2Jqc3p4ZjRBM2hyeHZnYVRvNERKdS1kQTRpd2JpS0JZbzNoaHhKSE5wTFVZSFg1WkFVWHZqZzhWWjFHVFJ5enVZZjRaTG9qOTZVMXZFdHFKWUlqVFktWXFwMkNnZzdsSEp6eTdITmxIZDdDUUN4MWFrTGNtLWNHaHlfa3k1NmxlTjVKb0VBUTJZQUt3bTVn?oc=5",
+        "title": "Mexico fans use a homophobic chant during the World Cup match against Ecuador - AP News",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZnoyOGFMQmhjeUxXbl9VaXBuVEc3WC05S2pwTm83LXF4N0NSNkNpNmJxOWE3STF5QVo4cXI1eWhiUWpqeHlHT19lbGxjN3d3SFNseDUwSE9YTnBoU1RqUU5GaXIyaU1teVFHcXl0T2pEMGhCdXdjS00wRHVKTDVNekNZbDk2bDR3OFFBeXJVQ254eHc?oc=5",
+        "source": "AP News",
+        "published": "2026-06-30T20:35:00-06:00",
+        "summary": "Mexico fans use a homophobic chant during the World Cup match against Ecuador &nbsp;&nbsp; AP News"
+      },
+      {
+        "title": "Beccacece bids farewell as Ecuador coach after World Cup exit - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEVyWlRONE90Z3pkREhsamh1MXAzTVpfY2otRmNwUmlxdDg4bE9HYlJmWnRIZTY0aEZ1MEF5ckxKQXJSenhEbTd2akVZQUxTcUZXT1pfckhoc1p0ZW9sMFpoLUtNZVhjNzZ5TklSQkQ2THNjOUpGcV9kSEVVOEl5dEQ0NkZmYTVXZXA5U2J0WVZJbWN4MzNJZDJaajhpRU9RVzFNT3R2djlzdUc4?oc=5",
         "source": "Reuters",
-        "published": "2026-06-30T02:58:04-06:00",
-        "summary": "Paraguay declares national holiday after team shock Germany at World Cup &nbsp;&nbsp; Reuters"
+        "published": "2026-07-01T01:11:46-06:00",
+        "summary": "Beccacece bids farewell as Ecuador coach after World Cup exit &nbsp;&nbsp; Reuters"
+      },
+      {
+        "title": "Mexico ends a 40-year knockout drought, beats Ecuador 2-0 to reach the round of 16 - AP News",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWJNR2NWYjI2NmVIdmVzQi1yMGdtYmFEV2k4ZTBsX1lRaFdHWDNFbllsdll4dHlFMmlfWUlsQXJpYTE2eFZENEhLaHFXQk9pc2NoRHEwQmp4MlljQ0Exa3JTRFl5Y3lEOHVFN0g3TmFUZzNNWnk4X1B3NUFEdXltYnlWUTQwZm1zN3RObg?oc=5",
+        "source": "AP News",
+        "published": "2026-07-01T00:11:00-06:00",
+        "summary": "Mexico ends a 40-year knockout drought, beats Ecuador 2-0 to reach the round of 16 &nbsp;&nbsp; AP News"
+      },
+      {
+        "title": "Mexico v Ecuador World Cup last-32 match to kick off one hour late - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdF9WNlVNTGpLVl96dmhGM0xzWURqWGZPU0ZfQjY5dGwtZHB5bVVlRlBzWEl5LUl5ZGphbXhMeFA2YzNiSnhqSG40QklJVGpTWVE5RzNEc0RtQmRIS2ZvU1V2SlNHeWNVSmVDT0lYdlU4QllVVkVhOTJCQXZlbk42WHF3bjlEM2JCQUQ3bUM1aXdnazBnald4d2d6WVdrSlMwU3ZHS3ZWNGlpSVFK?oc=5",
+        "source": "Reuters",
+        "published": "2026-06-30T18:29:00-06:00",
+        "summary": "Mexico v Ecuador World Cup last-32 match to kick off one hour late &nbsp;&nbsp; Reuters"
       }
     ],
     "auto_industry": [
       {
-        "title": "Tesla Stock Falls After Big Gains as Auto Industry Wrestles With Copper Prices - Barron's",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ldC0zS3pFM2xwSjlmOHYwNzdQZ19XVnFVd1ktZ0VhWDBIRWVVX245UnExQm5iY2Z3WXRjR3J4V3dRU0hCc1o3c3NIQ2R0aXRpT21xaERPZnk4NkNqenhGUUVfdHB3bmZQWmlSdUo3d2RWMkYzRFNRRW5leWM?oc=5",
-        "source": "Barron's",
-        "published": "2026-06-30T05:41:00-06:00",
-        "summary": "Tesla Stock Falls After Big Gains as Auto Industry Wrestles With Copper Prices &nbsp;&nbsp; Barron's"
+        "title": "U.S. auto industry faces more uncertainty without extension of USMCA trade deal - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43WTZzaDl2X1l1bFlmX19LRm9fbVFNdUhkQkd4QzRJQWE5aU1LM3BUcHE1S1d3dTBRcGwwNHcwZ1dLSlNzSjBpVnlKTHVSc3VMckpScHhOVEtLZjczck41WndBS1FXa2Flc0Nr0gFwQVVfeXFMUEJsa1p0LVFobi1kaXhrYmFHMDJCeEJHWE1Vc2pBZDRtZDFMSGVXTXFCemZKZkRrcHFRR1dkdnpLSEhJdUNPNWtTeHBNcFdrZXFFRnJPdnA3cjU0eVFScURFb09zX0hTdFVjYkZqWmVVNg?oc=5",
+        "source": "CNBC",
+        "published": "2026-07-01T06:30:01-06:00",
+        "summary": "U.S. auto industry faces more uncertainty without extension of USMCA trade deal &nbsp;&nbsp; CNBC"
       },
       {
-        "title": "Vehicle Affordability in America: The Car Is Not the Villain - Cox Automotive Inc.",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3NsODZydTBnc0ZESGNlVmtJRWhHdWVUdU83QXJ1VVRwcTVPV1VFekZobFhHU3hiYTRodHRoMUJidkkzSTlWMEc3bXNjR3dNdUE4dVVSX2ZIOW9va2w2VG0yQWtPOXExU3NNTlk3Qzl1MWgwV0liem1rOWptTmdsSTBSbXlMTlhJc1E0Q1o2UmdWcTIyUTI3aHdtdjQ?oc=5",
-        "source": "Cox Automotive Inc.",
-        "published": "2026-06-30T08:00:23-06:00",
-        "summary": "Vehicle Affordability in America: The Car Is Not the Villain &nbsp;&nbsp; Cox Automotive Inc."
+        "title": "A shift from the auto industry to military drones - Plastics News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONF9oYUxmb2tOWFdXY090T1Y3b2hrODNnRHVUUGpiQzVPWTRNY0hwbllkelhTMHNyY2k4R1ZpLUtSQTJlazd2Ylg0UFFYcnM1dHdrXzBlZjlsX3VjOGRJek53R3g1TGJRVHFfd2tZVC1fNzVYUXV3MzFRZVNfUzNyREJHTlFuTTIxSFFLVDBQRGVlbnJlV0MwT3FKWU8?oc=5",
+        "source": "Plastics News",
+        "published": "2026-07-01T05:34:00-06:00",
+        "summary": "A shift from the auto industry to military drones &nbsp;&nbsp; Plastics News"
       },
       {
-        "title": "USMCA talks formally begin July 1 as Trump administration seeks stricter auto content rules - Automotive News",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhVFB4REhUMk5LX0YySlpMeUdBUUd3MktsbXFibGhQejl0WHhGZjZQemYtODd1d2RWel8xcUR5YzZhZk5kcy1ZdnNDZDJucmtLcmcxUmlsWE5lLUliZmpBUWpDa21vcUtHTW9Pc2M0TEpFcEtfaDA5Xw?oc=5",
-        "source": "Automotive News",
-        "published": "2026-06-30T04:00:00-06:00",
-        "summary": "USMCA talks formally begin July 1 as Trump administration seeks stricter auto content rules &nbsp;&nbsp; Automotive News"
+        "title": "Las Vegas Grand Prix recognizes woman breaking auto industry barriers - KSNV",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVTRQYmRtU1pCZG1rWkVteHRUbFpKQWRialpHNkFTUkM5aldiTXJHRnc1c0FOWlJicVJSV0IyWkNNeTFlVWVYY0hTdEtIdlVFbEdCQ2tBSlFpc19MTHNtZGNaSXljVkYzbXVRcXVpUjEzWG50RS0wbjhtMmY3UlF2R2dVZEd1VEJZYnJ1VjN0VzZKSHV2d1BydWVlZHhqQkxaUGdCNFk4UzJiVG9OemFTcUJQcTZweTZQcWNvLXpsRkdCbk1ETkE5U2loNEFTbFZDSTZQY2s1M1MxMVFZQWZvZ3VxVnpLdXh1b184?oc=5",
+        "source": "KSNV",
+        "published": "2026-07-01T08:05:30-06:00",
+        "summary": "Las Vegas Grand Prix recognizes woman breaking auto industry barriers &nbsp;&nbsp; KSNV"
       },
       {
-        "title": "Automotive Industry News, Self-Driving Cars And EV Stocks To Watch - Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXZqbG10WUxlNUg2dGNUY19pNFVMTlloQ3FzQlhxNktxanRZaU5VZnZ0cGVPS29IdGlMVGxJZmJOYVZNSWpaNHJPMDl0REVTcjdac0l6QTkwNGFnOHBMS0lqR2d1WHNNemlsb0pzSHlnMExNdHkxM3BKTkhmZGhkeXNURVBSUmdnZzV6TEZwLUhuZFBWSVdNb2Z3?oc=5",
-        "source": "Investor's Business Daily",
-        "published": "2026-06-29T10:55:00-06:00",
-        "summary": "Automotive Industry News, Self-Driving Cars And EV Stocks To Watch &nbsp;&nbsp; Investor's Business Daily"
+        "title": "China's BYD nears decision on second European plant, adviser says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeDlicWVMOUlhdm5pSE03bGdzemhmX1NNVlBVazA0YnlrMkh6T0ZiaENmM1UtYWd2aXNQMktwWnU3eFVJa0RwM1lKRVR6NWtwSC15MjIyMnV5djB4bjBSbEZxcy12SklaYUFpUVFMN1ctWnJNR0tKd0dPSVgwNFZadmRJLVI4X002a1J2MTY2aTZoREI1OVdiUVY4SFpkS2Z0c2duOElSbkdRcl9EN0d1S0tVZWtVS2VxTEd1UWlGX3ZDNkl2bTJKWGYwY25NZw?oc=5",
+        "source": "Reuters",
+        "published": "2026-07-01T04:58:44-06:00",
+        "summary": "China's BYD nears decision on second European plant, adviser says &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "China's EV Companies Aren't Just Making Great Cars. They're Making Money - InsideEVs",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KWF8yTTBfNEdBdjk5VmFsSXQyenpzV2xKZjVNakNHbWxNUjF6MXY1VFZJb3hLQnNueXNrbGVWZncyXzBON3h4TTByUGJYMWs5M1ZVZURnN2dOUVJzMVEwTmpUV1NrOVl6NTY3ZEoxSEoxUU11ejJiSGYzaXA?oc=5",
-        "source": "InsideEVs",
-        "published": "2026-06-30T00:53:58-06:00",
-        "summary": "China's EV Companies Aren't Just Making Great Cars. They're Making Money &nbsp;&nbsp; InsideEVs"
+        "title": "Hyundai\u2019s Tucson recall hints at broader auto industry challenges - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZTlLZEtqT09FX09tc3dYRTNqSmxjRnp0QUdGOGpkWjBqMVVsMTNjazdfOXdBbWlQWm9KTndBYm5WTnpCVVMzUlJoQTQxdkRkeHh4RUVqUDJzWEwydEtYV2xMNmtWYU5vdzM4NnlyQUw2RTZuWkNFdk5nOFFEckF5c2E1VE5HNzlCWFA2UWFHRm5TMjRQVG9nRFB0UXE1aElhekdIQkEwMWVXZXM5QlotR2FWeXVPazBn?oc=5",
+        "source": "USA Today",
+        "published": "2026-07-01T04:31:00-06:00",
+        "summary": "Hyundai\u2019s Tucson recall hints at broader auto industry challenges &nbsp;&nbsp; USA Today"
       }
     ],
     "auto_software": [
       {
-        "title": "Vehicle Repair, Insurance Costs Outpace Vehicle Prices as Inflation Driver, Cox Automotive Finds - Autobody News",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMnBRREh4b01jS3VRaUlDbldQNjVZbmFtaVdqSWU3bnFCaU9XazZ5ZnBkTjVqS05mQlg5TFR2VzE1b1MxYmtDRVFQT3dCZjZSZjhJMFhWWEpEZGQ3N3VTVThwYlo3cktkTEpYUC1WN2JqSkU0c0xndFIyRGZZbzYtZEl4M1d6Z1FQSHBWYTdXOEJPUlZlMEgtLWluNG9VbVFXNDlBalNJY2M3UElrbWNhRHI3ZHF1bHpKcmR3NTJmeGVqenQyRlVB?oc=5",
-        "source": "Autobody News",
-        "published": "2026-06-29T13:34:46-06:00",
-        "summary": "Vehicle Repair, Insurance Costs Outpace Vehicle Prices as Inflation Driver, Cox Automotive Finds &nbsp;&nbsp; Autobody News"
+        "title": "Cox Automotive Says Added Content, Not Sticker Price, Drives Vehicle Affordability Debate - CollisionWeek",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczZOQkpLcVl4REVJRHByM00wZ2dJdFB0QlNNd2RJeDhUdmlnUkhUaWhwYURQdHhrcXprejlpWUlaMFJrdElvX1Z2TklBeUFfbWQ3RnFHdndNYy13eEtRcUFaNE9Ickc4elQwcGNsajg0ck1BVDJuNFZ1eWNkQm9TeDhFbnJHYkh6NlUyam9IMzVTT0NEdHV5c3JMLXB5NnA5TTluNjA2c3J3Yl84VXR3ZmFsb0hDeC14WDhKQ3J3MXlTemM?oc=5",
+        "source": "CollisionWeek",
+        "published": "2026-06-30T10:15:40-06:00",
+        "summary": "Cox Automotive Says Added Content, Not Sticker Price, Drives Vehicle Affordability Debate &nbsp;&nbsp; CollisionWeek"
       },
       {
-        "title": "Auto Market Weekly Summary - Cox Automotive Inc.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xZEs5dGVrLV9PMUZGYXV6LVVQVEdscmFSczNpRzlyRFdQMHI3WHFQT2EtWGlwU3lBbXFwR3d4dk81dURSTmxTNld2SU96UkR4UnhTS0JtUHlDYXNxcTJtcUNjWFBQLVpaOXh3Qkk5bHpJTWRhczQ1Mm95OWY?oc=5",
-        "source": "Cox Automotive Inc.",
-        "published": "2026-06-29T09:29:51-06:00",
-        "summary": "Auto Market Weekly Summary &nbsp;&nbsp; Cox Automotive Inc."
-      },
-      {
-        "title": "ASN Software Unveils Unified AI-Powered Platform Connecting Auto Dealers, RV Dealers, Finance Companies, Flooring Companies, and Service Shops - 24-7 Press Release Newswire",
-        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOejVlSFpBZXBNYndoWDdVMGlQTFp2NkxpdGl5WEhRLVlfaEtkTVpPRkE4WlBDaVBkcVZ5M0FkZElCdHV1bXpnV1lXQkNiQWhtWFRDcFQwdHpBZlBiZjZMOW0yQzFDcjlhVTlZeXlRNGRLNG5aZkd6ZWJyRWMtWXVYM3ZsUTRqaXlZbmhfMm5JalZNcFVjRURZME5mMkZZT21VMGdBdTRIQnBNb2dkdzRfUWlTcFc3UGZ5NVIxUzhIMmtTUXdWeTdEMlh0LU83Q1BBU1FvMlN3QkRuWm42TkxUZTNKWFNpSkVoSWpYbEdkZmRGT0llanFodFJBdFFnbkVOQ1l2STR3UlFDQWszekdCXzhHR0t4ajJVMEdPSw?oc=5",
-        "source": "24-7 Press Release Newswire",
-        "published": "2026-06-30T01:03:12-06:00",
-        "summary": "ASN Software Unveils Unified AI-Powered Platform Connecting Auto Dealers, RV Dealers, Finance Companies, Flooring Companies, and Service Shops &nbsp;&nbsp; 24-7 Press Release Newswire"
+        "title": "Financial Unease Hits Car Buyers in June - CDK Global",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5US1JaMGFBVGgwYVpjTl91WWtCbkJhQXQ2ekZoeGNyWHJKVkNaYnVvel9Tak9aREdBYy1BMVFYcVNGdTBTZ2M0cGkxalpRbGtsVXpIN2ZyQUxUVlB1S2I2b0pRQ2pGdDFKdkRUM0ZYNDBZbzBud0FfODFyakk?oc=5",
+        "source": "CDK Global",
+        "published": "2026-07-01T07:31:21-06:00",
+        "summary": "Financial Unease Hits Car Buyers in June &nbsp;&nbsp; CDK Global"
       }
     ]
   },
@@ -277,7 +270,7 @@
     "sports.avalanche": {
       "label": "Denver Sports / Avalanche",
       "status": "ok",
-      "candidate_count": 5,
+      "candidate_count": 12,
       "target_count": 3,
       "count": 3,
       "queries": [
@@ -339,7 +332,7 @@
       "status": "ok",
       "candidate_count": 10,
       "target_count": 5,
-      "count": 3,
+      "count": 2,
       "queries": [
         "vAuto OR DealersLink OR \"Cox Automotive\" when:1d",
         "\"CDK Global\" OR Tekion OR DealerSocket OR Dealertrack when:1d",
@@ -348,7 +341,7 @@
         "\"digital retailing\" dealership automotive when:1d",
         "\"inventory management\" dealership automotive software when:1d"
       ],
-      "relevance_filtered_count": 6
+      "relevance_filtered_count": 8
     }
   },
   "failures": [],
@@ -357,7 +350,7 @@
     "us_news": 5,
     "world_news": 5,
     "auto_industry": 5,
-    "auto_software": 3,
+    "auto_software": 2,
     "sports": {
       "Broncos": 3,
       "Avalanche": 3,
@@ -366,48 +359,96 @@
     }
   },
   "deduplication": {
-    "duplicate_count": 3,
+    "duplicate_count": 7,
     "dropped": [
       {
-        "section": "sports.Rockies",
-        "title": "Miami Marlins at Colorado Rockies Preview - 06/30/2026 - MLB.com",
-        "source": "MLB.com",
+        "section": "sports.Avalanche",
+        "title": "Former Avalanche Stanley Cup Champion Goalie Now On The Outside Looking In With Kings - The Hockey News",
+        "source": "The Hockey News",
         "duplicate_of": {
-          "section": "sports.Rockies",
-          "title": "Miami Marlins at Colorado Rockies Game Story, Scores/Highlights - 06/29/2026 - MLB.com",
-          "source": "MLB.com"
+          "section": "sports.Avalanche",
+          "title": "Former Avalanche Stanley Cup Champion Goalie Now On The Outside Looking In With Kings - Yahoo Sports",
+          "source": "Yahoo Sports"
+        },
+        "reason": "title",
+        "score": 1.0
+      },
+      {
+        "section": "sports.Nuggets",
+        "title": "Denver Nuggets Get Final NBA Free Agency Decision From Tim Hardaway Jr. - heavy.com",
+        "source": "heavy.com",
+        "duplicate_of": {
+          "section": "sports.Nuggets",
+          "title": "Tim Hardaway Jr. leaving Nuggets, signing with Heat in NBA free agency - The Denver Post",
+          "source": "The Denver Post"
         },
         "reason": "summary-overlap",
-        "score": 0.675
+        "score": 0.6
+      },
+      {
+        "section": "sports.Rockies",
+        "title": "Miami Marlins vs. Colorado Rockies: Game Highlights - ESPN",
+        "source": "ESPN",
+        "duplicate_of": {
+          "section": "sports.Rockies",
+          "title": "Miami Marlins at Colorado Rockies Game Story, Scores/Highlights - 06/30/2026 - MLB.com",
+          "source": "MLB.com"
+        },
+        "reason": "near-title",
+        "score": 0.9
       },
       {
         "section": "us_news",
-        "title": "Supreme Court backs Trump's FTC firing, expands presidential power - Reuters",
+        "title": "Supreme Court spurns Trump on birthright citizenship, allows transgender sports bans - Reuters",
         "source": "Reuters",
         "duplicate_of": {
           "section": "us_news",
-          "title": "Supreme Court rejects Trump bid to fire Fed's Cook but expands presidential powers - Reuters",
+          "title": "Supreme Court rejects Trump bid to restrict birthright citizenship - Reuters",
           "source": "Reuters"
         },
-        "reason": "same-event",
-        "score": 0.5
+        "reason": "summary-overlap",
+        "score": 0.562
       },
       {
-        "section": "auto_software",
-        "title": "Vehicle Affordability in America: The Car Is Not the Villain - Cox Automotive Inc.",
-        "source": "Cox Automotive Inc.",
+        "section": "world_news",
+        "title": "Trump reports over $1.4 billion in income from crypto ventures - Reuters",
+        "source": "Reuters",
         "duplicate_of": {
-          "section": "auto_industry",
-          "title": "Vehicle Affordability in America: The Car Is Not the Villain - Cox Automotive Inc.",
-          "source": "Cox Automotive Inc."
+          "section": "us_news",
+          "title": "Trump reports over $1.4 billion in income from crypto ventures - Reuters",
+          "source": "Reuters"
         },
         "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "auto_industry",
+        "title": "BYD said to near decision on second European plant - Automotive News",
+        "source": "Automotive News",
+        "duplicate_of": {
+          "section": "auto_industry",
+          "title": "China's BYD nears decision on second European plant, adviser says - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "summary-overlap",
+        "score": 0.75
+      },
+      {
+        "section": "auto_industry",
+        "title": "China's BYD nears decision on second European plant, says adviser - ET Auto",
+        "source": "ET Auto",
+        "duplicate_of": {
+          "section": "auto_industry",
+          "title": "China's BYD nears decision on second European plant, adviser says - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "title",
         "score": 1.0
       }
     ]
   },
   "curation": {
-    "trimmed_count": 72,
+    "trimmed_count": 74,
     "trimmed": [
       {
         "section": "sports.Broncos",
@@ -417,12 +458,12 @@
       {
         "section": "sports.Avalanche",
         "target_count": 3,
-        "trimmed_count": 2
+        "trimmed_count": 8
       },
       {
         "section": "sports.Nuggets",
         "target_count": 3,
-        "trimmed_count": 9
+        "trimmed_count": 8
       },
       {
         "section": "sports.Rockies",
@@ -437,12 +478,12 @@
       {
         "section": "world_news",
         "target_count": 5,
-        "trimmed_count": 15
+        "trimmed_count": 14
       },
       {
         "section": "auto_industry",
         "target_count": 5,
-        "trimmed_count": 15
+        "trimmed_count": 13
       }
     ]
   },
@@ -475,7 +516,7 @@
       "items": [
         {
           "label": "DealersLink / auto retail SaaS",
-          "signal": "Vehicle Repair, Insurance Costs Outpace Vehicle Prices as Inflation Driver, Cox Automotive Finds - Autobody News",
+          "signal": "Cox Automotive Says Added Content, Not Sticker Price, Drives Vehicle Affordability Debate - CollisionWeek",
           "application": "Translate vendor/product movement into a question: what dealer task is still manual, slow, or poorly measured, and can DealersLink make that workflow simpler?"
         },
         {
@@ -485,7 +526,7 @@
         },
         {
           "label": "Future AI business",
-          "signal": "Supreme Court rejects Trump bid to fire Fed's Cook but expands presidential powers - Reuters",
+          "signal": "Meta loses bid to dismiss US states' claims that Facebook, Instagram addict children - Reuters",
           "application": "Favor narrow, paid workflow wedges: a recurring report, an agent that saves a team 30 minutes daily, or an integration that turns messy inbox/CRM data into decisions."
         },
         {
