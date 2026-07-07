@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "generated_at": "2026-07-06T08:11:03.586814-06:00",
-  "date": "2026-07-06",
+  "generated_at": "2026-07-07T08:11:05.485411-06:00",
+  "date": "2026-07-07",
   "news_window_hours": 24,
   "weather": {
-    "headline": "Patchy Smoke",
-    "detail": "Patchy smoke before 3pm, then patchy smoke and a slight chance of rain showers. Mostly sunny. High near 96, with temperatures falling to around 93 in the afternoon. Southeast wind 2 to 8 mph. Chance of precipitation is 20%.",
-    "tonight": "Patchy Smoke then Partly Cloudy",
-    "high": 95,
-    "low": 67,
+    "headline": "Mostly Sunny then Patchy Smoke",
+    "detail": "Patchy smoke and a slight chance of showers and thunderstorms between 1pm and 2pm, then patchy smoke and a chance of showers and thunderstorms. Mostly sunny. High near 95, with temperatures falling to around 90 in the afternoon. West southwest wind 2 to 12 mph, with gusts as high as 18 mph. Chance of precipitation is 30%.",
+    "tonight": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
+    "high": 94,
+    "low": 71,
     "source": "https://api.weather.gov/gridpoints/BOU/63,62/forecast"
   },
   "calendar": [],
@@ -18,243 +18,215 @@
     "sports": {
       "Broncos": [
         {
-          "title": "The golden age of Denver Broncos running backs - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2Y0MEdqV3hJeU8zcnQ5NXB5VGJ5clVURmdlNW94UmZwRjhrWTd2N3lVb0NES0ZrMkRLWlVIdm9vR3BiSEozZGNPcEJYTDlUdUVkbG1WQU9DXzdncTFlN0hYTWFFNm8yaDhrcHhMYVBjbkxYQ0tFZ1NCck1zYWxob0tQeVVETXNfR3c?oc=5",
+          "title": "Sean Payton's second chance: Inside the Denver Broncos' Super Bowl quest - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTV0blNseUI3ZmptOVNmMVZHNjlkd2ZrRVNIYVpLT1Vxd1RlbFI1ajBPTkdlOHVrSzVzYjV2aVA4dTRXX0RRWlR2dHJnclVoYjVfWGpoaTNGbVJkNjJ0ZWlqbXlBWDREZTB0LWdaSDdNWUtRRnl2UjVjenU5aU9VWmxFTGc0Y2xYXzdrYW1mcy05bjR4SWF5Tw?oc=5",
+          "source": "ESPN",
+          "published": "2026-07-07T04:31:00-06:00",
+          "summary": "Sean Payton's second chance: Inside the Denver Broncos' Super Bowl quest &nbsp;&nbsp; ESPN"
+        },
+        {
+          "title": "ESPN\u2019s Seth Wickersham details two weeks embedded with Denver Broncos coach Sean Payton during NFL playoffs - ESPN Press Room",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR0tMQVVsR0diWTZ5RE45REw0REoxX1J1S0VKZ2VoOGI0OUlXQzdJa3AyeWF1OVp3Yy12WjRaLTBQU29mTnFaLWRzQUNqSUN1R19VaFl6RlBGWmNlbE1fWkMydEE4RmVvLXQtV0Z5cEItTlRkVEJDcXY4WDBOV2dHbVQxNFp0djlmVXFxSVBJd1h5eV82V3dXZWdIczZPdk5Qdm1VLVdYVTlVSG1mX3NONF9ka0VQZm9IMm1weFR4Z291MEwtZjhrUkJJSVBwYUZ5YUd1Z0FDS0ZtdHUwX3podjVmZ3NPN3g0UEotVmhxNmxXdkxIanc?oc=5",
+          "source": "ESPN Press Room",
+          "published": "2026-07-07T05:10:02-06:00",
+          "summary": "ESPN\u2019s Seth Wickersham details two weeks embedded with Denver Broncos coach Sean Payton during NFL playoffs &nbsp;&nbsp; ESPN Press Room"
+        },
+        {
+          "title": "Who are the Top 5 edge rushers in Denver Broncos history? - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82RTJTdFRrdlhUQ01hV1NSMWpuSXZ0MEJXb1p1dTh5MzNLVC16SGFzRWZ5Ulpfa3FTNTFCT1VNUDY0NGxnTkhNTFZnVGtwQjdLQ2lSQ1ZGem95QVB6YkhQcnNhLXMtbzNFZ2ZZd252MUYtQmV2THhmUmpOdlNKcU0?oc=5",
           "source": "Yahoo Sports",
-          "published": "2026-07-06T03:00:00-06:00",
-          "summary": "The golden age of Denver Broncos running backs &nbsp;&nbsp; Yahoo Sports"
-        },
-        {
-          "title": "Denver Broncos 2026 schedule - Broncos Wire",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakNsT0h0bjRjWjVVcEFuZlZWSk9tNS1aQXhjbUZFVUVoVTdFalY1N1UwMy14T3ltdHR5NS1jbi1TQ3ZyY3lSbXlwN2dfdGpzdmJWZlJxYWhGZ0Nwalp4RmFrYThqZ01LZmtYZDdiWDRfMEIzN0szMEFvbDM3NWpocjhoNDVQOVpUaUE3cV9rNFNDS1IyLWJfNk5nM3FiV2lEM2pVZjZUTzRib0FQaFdwSmFGcFpaNkMx?oc=5",
-          "source": "Broncos Wire",
-          "published": "2026-07-06T07:30:00-06:00",
-          "summary": "Denver Broncos 2026 schedule &nbsp;&nbsp; Broncos Wire"
-        },
-        {
-          "title": "Who are the Top 5 defensive linemen in Denver Broncos history? - Mile High Report",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDcwZEpuckQwcHpWOUpKMW9HMXVMVEVlWF9lNDZ3b2RXcjU5YjE3UWtjSG9taWFtdnVvcG9CU0JFUkxrekI1bzdNUXRZY0RsWFNrdkE4Ukc4TzEwVU92YXN6TzBMbVNiMWhmQU9SMmo4dW9JaEdqOE8tSmxUYTFYWl8waUF3UVdRTG9TS0tQcFBnMDFwblBwUHRZUTZkOWFLR1E1SGxnOGNSRXc?oc=5",
-          "source": "Mile High Report",
-          "published": "2026-07-06T07:00:00-06:00",
-          "summary": "Who are the Top 5 defensive linemen in Denver Broncos history? &nbsp;&nbsp; Mile High Report"
+          "published": "2026-07-07T07:00:00-06:00",
+          "summary": "Who are the Top 5 edge rushers in Denver Broncos history? &nbsp;&nbsp; Yahoo Sports"
         }
       ],
       "Avalanche": [
         {
-          "title": "Christian Wolanin signs with Colorado Avalanche - Grand Forks Herald",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRlB3b1pvT2x2TlNUWkd1MDJPNVJkdERUOC15d1JuNjBzenY0eWxjWWpkRVlnUnBHOGFtdG02dkRTQ2dUWXZrRUo1SUd6UXpaby1KQmQzN0tHRG0wclpoZVpENDkyLVU0aVlHUzNIQ2ZLSTNrbmhCVVVZUllJM2pUMWVxdTN2UWJtdjRBdWhEQ1JLeENQYzdGajVOUDltQ00?oc=5",
-          "source": "Grand Forks Herald",
-          "published": "2026-07-06T06:38:52-06:00",
-          "summary": "Christian Wolanin signs with Colorado Avalanche &nbsp;&nbsp; Grand Forks Herald"
-        },
-        {
-          "title": "Weekly Cupcakes: Wolanin joins the Avalanche organization - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRVNTYThXNWlCQmVUTmpIV0pNcUVIQjB2MFJRcDRaajRQMDY0WjRXaVpHUm1Pd2tRbFprNXlFRmpZSzdCcFZVbDNVd3VHZG8yWC1kTkVfbUUyUUxsUThLVjlPSThkeWhrM19tX0w4NkFsRzlEZ3pvT3FrMjJYM2l5LUxDZVppWTlCZ1dSREdCWXp0dw?oc=5",
-          "source": "Yahoo Sports",
-          "published": "2026-07-06T06:00:00-06:00",
-          "summary": "Weekly Cupcakes: Wolanin joins the Avalanche organization &nbsp;&nbsp; Yahoo Sports"
-        },
-        {
-          "title": "Avalanche Signs Wolanin - NHL.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EODZpaUtLVUdQODhDek16N25DUHJRdllnQmFHZWdtTHBFMUpxcHlDRW8xZ2h6T0xidUZEUmhSNGlZWk50cm5ZbkhPRmlRekhHRVR0RWJSS1lsNXhlYllfOVF3Ym5jTjBJb1E?oc=5",
+          "title": "Avs Can't Finish In Carolina - NHL.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUhCeUhLUXJsX0xWWlpmTzFLY0o1ZUZpVGtoUkU3N3p6N3RIUzd1aUZXdlAtQkthS1QyM1U2c0Y0SjJ4X25fSTlRN1gxTWFzYWRYQU50VUVEQU1Qa2ZHcHZ6d24tRXZLSDlnTlVieTNvMDdfWEZyMXRMbmRwdXZEMFA5c0phdGxqSTVLVQ?oc=5",
           "source": "NHL.com",
-          "published": "2026-07-05T11:00:25-06:00",
-          "summary": "Avalanche Signs Wolanin &nbsp;&nbsp; NHL.com"
+          "published": "2026-07-07T01:41:15-06:00",
+          "summary": "Avs Can't Finish In Carolina &nbsp;&nbsp; NHL.com"
+        },
+        {
+          "title": "Christian Wolanin signs with Colorado Avalanche - Wahpeton Daily News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOano2YWxkS0ZSVC1vWlNoTWRwX3J0cjdzQU5DS2ZkOTM5RmV4Rl9RM2x5Q2JPS1V0NG85QjFtRWYydDZVeU1helNJVm10VTNNUVRqR25XMEozWjR6N1Zjb2x0TmJaX3NFVTBHM3FPSDdEOXlUUTFqd3FOWVl2TXhWS3pGWXRqa3VxQ0wwRmphcUM3aDBDTkMxc0xoUWFTWVE1?oc=5",
+          "source": "Wahpeton Daily News",
+          "published": "2026-07-06T12:54:46-06:00",
+          "summary": "Christian Wolanin signs with Colorado Avalanche &nbsp;&nbsp; Wahpeton Daily News"
+        },
+        {
+          "title": "Connor Hellebuyck To Colorado Avalanche? Why The Rumor Doesn\u2019t Match Reality - The Hockey News",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTWEwV2p6ZE93M2tRYmdDUFgxUTNLWWZpZkJlT1E4aFJyM3d2QVQzeUV1U0REXzJOYXQ2NnNXX0NvUXN5bnM0TXBxZHRSZHpBX1NTVlFPWG9OcEdVWDdnZjFtTmQ0M2tlY3NMaERGYjhUN3FUQ0NfOWVGVDN4MlhOS3lmb2c2NVZJNUY3YWZ0bHc5d3pEWFA1VzRaTWxJSVhPclh5VUMwWmZlNnpVa3JDNTB5N2lJNlRtVGRUcWMwZzlTaVE?oc=5",
+          "source": "The Hockey News",
+          "published": "2026-07-06T11:59:48-06:00",
+          "summary": "Connor Hellebuyck To Colorado Avalanche? Why The Rumor Doesn\u2019t Match Reality &nbsp;&nbsp; The Hockey News"
         }
       ],
       "Nuggets": [
         {
-          "title": "Nuggets plan to match offers for Peyton Watson, but open to sign-and-trade: Sources - The Athletic - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2FrT0trT0RyWkhJd1JoZ2hpdXdacXphaHlldEVHeE13dXNmaW4zT3N3Ym9qdlJGMmNLMmdTSkpPSWMycV9YbDJDZEpMekR1SXhLNlJaMzNrUmVwdFFYaklLTnZpUjdncVhZSmJQbUFObnhmaDlQekZZTWlEcnhJdGFYeWJKblNFeGowVTRLc3AyazBkQjVRTE5EZlVmYnFDc0F3NzBvdGRNVUZG?oc=5",
+          "title": "Summer league practice underway for Denver Nuggets - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR0oteXFEUzdHREE5a1FScTROV2hhLUxNZVdBdE8zNmx4NWJMVDFoVlpzMW1Ud0hoZlFqMUZEak1sc1lyMlI1U0lTeHVzcXltWDBkSmFHNHhuWmJUX0pxRG83TGZRMUhvVlJRcDEtN2g0U3UtYk5GU0wtOXR5MS1aSUJTQnhJV2pWaUVfbnF2bU9pajRv?oc=5",
+          "source": "CBS News",
+          "published": "2026-07-06T18:21:00-06:00",
+          "summary": "Summer league practice underway for Denver Nuggets &nbsp;&nbsp; CBS News"
+        },
+        {
+          "title": "Jokic opts to wait on Nuggets extension until next summer - ESPN",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSHQ3eFdMX21UVTdsUTNpVTZNWTJRWWhPMFhXV2tESXUya2JKV2tDb1oxUm5oUVV2NzNHY2RMcU9PcGNaamRrVVhHUlNDYlZWSTEzUDl6UzRJSzlIRVJmb085Qml6c1pCeUJuXzR1MkdQaWRiajJkekVNT3hVMGl5NHYyVGxZOEFOV2szYmk5S05PWk5j?oc=5",
+          "source": "ESPN",
+          "published": "2026-07-06T15:46:00-06:00",
+          "summary": "Jokic opts to wait on Nuggets extension until next summer &nbsp;&nbsp; ESPN"
+        },
+        {
+          "title": "Nikola Joki\u0107 explains decision to delay new contract with Nuggets - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR205R2VZWmNPRUd1MWNmTEJnN2pvby00MlRTUHFYdU5LcHpBYjNpODMtcUVYXzJXaWE5NV9rdFNmR0FlWnpYTlk4dzhGMkJvRW5BWTVIZXlObjFOZHZNcHY2blJWN3ZXWXhnbmhtdEUxeDNSNUNOSjM1Z18xbzlXQ1dkZVVHMEJNcV9lM3JpcHpib2RVTmQw?oc=5",
           "source": "The New York Times",
-          "published": "2026-07-05T19:06:47-06:00",
-          "summary": "Nuggets plan to match offers for Peyton Watson, but open to sign-and-trade: Sources - The Athletic &nbsp;&nbsp; The New York Times"
-        },
-        {
-          "title": "The next steps for Denver Nuggets as Free Agency wears on - Mile High Sports",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3owMnhDTDZnLVFxMXExcUlrRC1QTDVQemxIOHJmcHBfZ2VseWF5LXhoM2xRTHo3c25yRXRPYl9FWEZLbC1MTjZvSExLTVlVQS1tREtWMkxMcktGQ2NJTUs2ZVowSy10dFdoWlZVY25LU0JfMDJGeC1oYUZsVU9JTjM4c2pwNTZsUmtYdzVjWjdkSzdGSjZOQ0pJN3dVSU9jZ1FfMm1SYndfaHZsTWh2bVR3c2fSAboBQVVfeXFMUGhyRy00dXEzMXlLLTlYeUlCd3lwVU1VNGM0ajZyLXN0ZDcxQnR0eGtmZ1ZYSTVhVDNPQ1hpLWZDc1ItZFdGc0ZfX3RLc0pybnlBbExJa1ZPcmRmZVNZRThOTnhuZTFJRkN1X2NuX2FfbEw5WHc3SGpiNWVaMGtLTkhkbVJpUHVfZjA4bks2Q1JWZmQ5UEpyTmk4d0UwNHktXzZRbldNN3AwMTZLbEwtNlBPX2s3OE40RFJB?oc=5",
-          "source": "Mile High Sports",
-          "published": "2026-07-06T01:15:10-06:00",
-          "summary": "The next steps for Denver Nuggets as Free Agency wears on &nbsp;&nbsp; Mile High Sports"
-        },
-        {
-          "title": "Denver Nuggets vs Oklahoma City Thunder Jul 14, 2026 Game Summary - NBA.com",
-          "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxNc2N6T1lwWU1qX3Q1QTJtdTlKb2xUZlNkSW1HWVcwY0pJanl4bHBTNExSSkttY3FLa2t1MWZXQVRZOFpzMEc0alNTWk1LeFp2T19GVDJYMC1OVXZJMVRvaFNvV0tCdUc0LUd3ZHVhWUVNOUh5Q1lJanZSSHBFWDlFeFpSMFNObEU5WXhiVmwtTWpRc0V0S19TQ29BZUdXYlYyZDY5UjhKRkczZjR5WVlycEFhTmkxUGNzUVVCVzVBd3lxMXRUUnVvY3F5Yzh6bk9KZGNZVkxyV1dtSEQ1eW9lZDN0YTJPLXZmSVVnWFM5ZTZBcVc1bmw2Vy1lR2MwcGh3Vm4yNmYyWURiLTRsM3ZHVVV1Qzg4bGR2SmdPQTNfVVdmSkdwaUlXVFNLa2N6eHNmQkdocTdWMmZmQUlwYnFuZEdOOE80bWh6OGFPWkpEN0xLZ3BwOHY3Wk5YMGRIRk9wSEw4ZEZYRnp5RHZtSThxbG0zSERzZjZZVTR6MWRIcjN3MXUxWlhwRG1xcEIzdGppWl9lWWVmTzZJUlRuQzV4UUNLMkw3RjN1RnQ2dEhZcEo1eGw1Q0dYZGF5aTNrVTJ1bDNjVGhBcGtEMjNRUW5pYm5CVjFfV3k1TlJaV2VNLVpJckRHaXhfWno1MTdVYzVadXJZS2xtU1RvMUstcE1vdXRxQUVVSWU4YmQzbjdrTUNKQU9EczBMcUphVVVvMkFpNUE2eFVjb3BWUUdyZW9LLUp5UQ?oc=5",
-          "source": "NBA.com",
-          "published": "2026-07-06T03:47:49-06:00",
-          "summary": "Denver Nuggets vs Oklahoma City Thunder Jul 14, 2026 Game Summary &nbsp;&nbsp; NBA.com"
+          "published": "2026-07-06T15:36:40-06:00",
+          "summary": "Nikola Joki\u0107 explains decision to delay new contract with Nuggets &nbsp;&nbsp; The New York Times"
         }
       ],
       "Rockies": [
         {
-          "title": "Monday Rockpile: Paul DePodesta provides a Rockies mid-season progress report - Purple Row",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXVGWkJpRGk2QnZQOVpQU0VVMExBeVowUHp6a2ZNaXdnSV8xclNDTTR5N3NHclRkamJaeTFJb0UxSDh3eDNLMmN1VHlxX25XWTZIdWRmM3NKU3lZTjNmUVg2LXFzZ1hCb0xZcmVpcWZoMmdISUZkVzRpS2pBVWVXYmlRc1hfMVRMRGNEbVU0bGtLT2x4cVhDU0JoS3RLaUNiS1hTNmZwNXEtSl9fMUNGQ1lkd1o?oc=5",
+          "title": "Colorado Rockies at Los Angeles Dodgers Game Story, Scores/Highlights - 07/06/2026 - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56Q1VaeXhzZWNmWkYyUHU0b1FZbVJ5aGhJM0JrV3o1Q1BoVHM3aUtlempwRFdrU25Mcnl4SV85MTNvbkpLQ3VkRlZrcEowRnFm0gFQQVVfeXFMTnpDVVp5eHNlY2ZaRjJQdTRvUVltUnloaEkzQmtXejVDUGhUczdpS2V6anBEV2tTbkxyeXhJXzkxM29uSktDdWRGVmtwSjBGcWY?oc=5",
+          "source": "MLB.com",
+          "published": "2026-07-06T21:03:14-06:00",
+          "summary": "Colorado Rockies at Los Angeles Dodgers Game Story, Scores/Highlights - 07/06/2026 &nbsp;&nbsp; MLB.com"
+        },
+        {
+          "title": "Tuesday Rockpile: TJ Shook reflects on his MLB debut - Purple Row",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY05uLU96U3JTUWxJQzZHNjZlajhRUU1uU1g1TWdFVXZWZWg0cVc0RUZNLTdiUkR6STZySlViS1dFYkNFaGZHdk9NUWhzRWRPS1lobGVBZnVCYi1Ud1lMV3RMZmZwQVItbzVsQUNxa0MtMjU1R3BGZEw5UUlhVWRXX3E1ZnVXRGdfd2k0TVdJcHlMTnQxaEo0cjA2TXJHbGN0YUhnWUlzSjQ?oc=5",
           "source": "Purple Row",
-          "published": "2026-07-06T06:00:00-06:00",
-          "summary": "Monday Rockpile: Paul DePodesta provides a Rockies mid-season progress report &nbsp;&nbsp; Purple Row"
+          "published": "2026-07-07T06:00:00-06:00",
+          "summary": "Tuesday Rockpile: TJ Shook reflects on his MLB debut &nbsp;&nbsp; Purple Row"
         },
         {
-          "title": "Context Matters for the Colorado Rockies: Why Last Season\u2019s Ceiling Must Become This Season\u2019s Floor - DNVR",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2FyaU42MFdiS3V6TmpIUWI1RWMtaVpvV3lNYlphVk9kVEVkUlZUM2NlX01sb1ZIMXdyaWRIak5vRWFrWHd6UjJXQ3FadjJHc0k2eEc0bG41NlRfcDQ5VGo2OERaN2NXOHhmSzB4NXNmeTFSdk4zZE81QkhOUUhpa1BvZndUMVJ1djRlS3BlTTlLS2lYTGpvUEtWXzNJVkNyMHR0QWE1NFBlRDRlZzdZd1FZYkhrQmgyOXVfTWhacWNvbTA?oc=5",
-          "source": "DNVR",
-          "published": "2026-07-05T16:57:15-06:00",
-          "summary": "Context Matters for the Colorado Rockies: Why Last Season\u2019s Ceiling Must Become This Season\u2019s Floor &nbsp;&nbsp; DNVR"
-        },
-        {
-          "title": "Where to watch Colorado Rockies vs Los Angeles Dodgers: TV channel, start time, streaming for July 6 - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMlA5UEdEdVRMbHIzTlZaRFBYRS1meDkwTEpHdUlDQVotcUQwQlhudWcxSm5Fa2ljaXk3Ym96OTVWZkdrSENLMXIxMGtlUmJwRnNsOVlyUGFwOXRkT2NRemY4bXo1SFktM1dkczZJLUNvVlBndGo2QWdPYTRSTmU4ZEFrY0hrbnlWSkVQSHFtNFZ0amczSU1RMUVvYzd2bDBQTTByNW9LZkQ4eE5YMFpsY1M4NUJHeFZuMEY1dVEzSk5ndDFqT0pEQ004VmsyVDNBZkh3?oc=5",
+          "title": "Where to watch Colorado Rockies vs Los Angeles Dodgers: TV channel, start time, streaming for July 7 - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa1lhZmxEY01mbG1xWXRaVzlrcEFfUUpEU19nZ0RicWlBcDE3dFBLQXFxS2lCRHBaU0JfVmN6cVA0ZkQzMEVWcG1aM0gxdnVsTUJDaVFpZy01aHNncUxKWU1ubFh5T0NSV3YwYjFwZjJEdkdaZWMtMDZUWGhuNjdJUjBQQzdZNkhHcUo0QXhVMTJrVHQ3Vks0MmNBR1lZVFBMLUJXWElJTFBuSHpSYXRtSHpyQV93QldzNFZrd0pNckFtcFd3Mzlqemx3YS1hclRiVnc0?oc=5",
           "source": "USA Today",
-          "published": "2026-07-06T04:15:00-06:00",
-          "summary": "Where to watch Colorado Rockies vs Los Angeles Dodgers: TV channel, start time, streaming for July 6 &nbsp;&nbsp; USA Today"
+          "published": "2026-07-07T04:17:00-06:00",
+          "summary": "Where to watch Colorado Rockies vs Los Angeles Dodgers: TV channel, start time, streaming for July 7 &nbsp;&nbsp; USA Today"
         }
       ]
     },
     "us_news": [
       {
-        "title": "Trump intervention causes World Cup storm as FIFA clears US striker Balogun to face Belgium - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDZpdVMzaWc5LVM4cEp5V0dFWlZCeUlhMEFLUDJxaE1rTmFkdGM1TVNUdDNsSXBPVlUwNDdqM3VMLXY2RDR2aUdIcG9DNlpBRm03LXc2WGdZemtqRWVPSDhUWGNEZ0F6Z2NLYzF2UEphU1I2SUtKaWIwT2lGMEY2V1N4czExb3VBVWxObThYQktFMU0xeWxvaWp3Vm5MSmU2Yk42czk4Z0k1MXVVSGpYNnJ5cWdJRUg0T1BhYnBjZGJaUQ?oc=5",
+        "title": "Meta says US states are seeking $1.4 trillion in penalties in August youth safety trial - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ1lScjFMNFhZdU5wUmpZZzJ3QmppVTg5RWVUOG02OU8wVmhCUW1WTDNvWTZJTlZfYkRqb3dsQUNjMUZJMWxQZXhHNkg2cHBLOUtWZlJUQTZaZnFSZjZlMUVVN3ZtNlRBVHJIT3RLSk5ub3pBRlVOQXZ4Q3I5SFNYTjc4amZ0Z1Zvc1FybXE5WUtpdmFPZVhCU0xqNlZ1dnVDOV95dnZhOVZTV2tMU0k4aUNRSmk2UThwSVpLNjUwclZRZw?oc=5",
         "source": "Reuters",
-        "published": "2026-07-05T23:16:00-06:00",
-        "summary": "Trump intervention causes World Cup storm as FIFA clears US striker Balogun to face Belgium &nbsp;&nbsp; Reuters"
+        "published": "2026-07-06T21:38:00-06:00",
+        "summary": "Meta says US states are seeking $1.4 trillion in penalties in August youth safety trial &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Reaction to FIFA suspending Balogun red-card ban after Trump intervention - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVZhVm9lN3RRNDNpdDUtZVZscXlycl9zaUxtQS0yTFZ0TkNISVhPeXIwV2FvZ2NXMnVrWVhWWVVkWWx6YmRla3k0Y1ZnOHFUTjdoX1NnWFViZnJyYnpNeW5IQ0ZYMlM4UU84Tk1JNnZuc1BpWEZMN2FkaXJFdEFzMW9QWGVsRVl0Vi1kNVVNMlRPMkRNZFZQeWtqLS12RHJJWlhsQ1ZwYWh1MW9UNVVDMXRHUzRjSmc?oc=5",
-        "source": "Reuters",
-        "published": "2026-07-06T07:15:30-06:00",
-        "summary": "Reaction to FIFA suspending Balogun red-card ban after Trump intervention &nbsp;&nbsp; Reuters"
+        "title": "Belgium beats US 4-1 to reach World Cup quarterfinals, taking advantage of defensive lapses - AP News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU2YxakZTeHVQdkZEblU3blNYLWdLMDV4RGZIQ0pITFdxWl80UUVXOWlRYk0zUlhqOF9UaHl4d0ZBZzJ1T1B3VFdFLWdMMGpZb1otWW45dlJraE9HZ2U0UEFEWnlmRmpxeW05ZnByckpQaGRrdEdJb2EwVmhzQzVDTGFQdUVobV9mZGZWLWlqV3p0RVAxOEtBVGFvRmNvdw?oc=5",
+        "source": "AP News",
+        "published": "2026-07-07T04:48:00-06:00",
+        "summary": "Belgium beats US 4-1 to reach World Cup quarterfinals, taking advantage of defensive lapses &nbsp;&nbsp; AP News"
       },
       {
-        "title": "Trump called FIFA head to seek review of US player red card: source - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb092RGpvVkF6UFJWU1puRFduRS1DN0ptYjg0THp2a3ptVGZBTmhvUEhhTXUxdFBYbVNodDdobUFpZWRTSU1TYXZLWm91MDNUWW1SczV5eVNIWGYwNUxwTTBUSjNsX2lQaklTRk5uQ1pXV2Y4ZXNva2U5STA5bklxbGRuU0s0aWhtQ1dWM1NzbTJWejg4Z0t1V0xOZ3Y0bzRIaXBEQWhYS3VWV0RTX0cw?oc=5",
+        "title": "'Accidental American' Balogun at crossroads of US, soccer politics at World Cup - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmwyVnM5ZFdfOXM4LTA0VTlReUtkRjg4X0prcU5neFYyU00wWmh2OHhRcWJxb0NQcGxSWTBsMjlEeXFlamdNTHlLWEJnNHVpc3BMdHVpQjRKQ0dRWVJRMmpiNHh3eXEyQ2k2TGpPMFY4TzNNdC1pYkxSMG0zbjlOTWdVaGltMTFubjAyRlFYdHNWcXZRanM1alc2aVFKTUR0dWZhaVBLd2RkU0VmWHl4WEs2QVFTX3RQ?oc=5",
         "source": "Reuters",
-        "published": "2026-07-05T15:18:52-06:00",
-        "summary": "Trump called FIFA head to seek review of US player red card: source &nbsp;&nbsp; Reuters"
+        "published": "2026-07-06T12:13:00-06:00",
+        "summary": "'Accidental American' Balogun at crossroads of US, soccer politics at World Cup &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "White supremacists' July 4 march counts as free speech in 'messy democracy,' Interior Secretary Burgum says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVduR29oRWlpY1JwaHNmbU5ybzUxWmhIRWlDZXpoaUJZemtrZU1seTlPNlFZNDljalYzWHRsem5fTjNRc002NmhZWV8yN0RFYzM5V1ZEM3VWZ3lIZWZUQUFaSVVwdnpHVWlIU3Fwd3lGV2p0QndLcllLN0UzNHNESGNsd2xudV9zNk9zazdZZV9oRmQ3anpMalJNbVpYdF8wQTVLYmFreHdpZHYweFFzemFHam00Uy1pYWFJMg?oc=5",
+        "title": "Belgium end US World Cup dreams with 4-1 rout amid Balogun row - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRERhdU5ZVmJQUjhoLWxsX3lGaUQ0dFBrY2RvSF9iaTRfZGgtV2FBeDFMVlhCVVpkSWRJQ09TSWozM21jRUY3M0lkNXJsUUh5elVrU3Fpem5nR0Y5ZE5ZeVM4NzE4NnpvamFpb0MzU0g1eUdUSzlWbW43VzB5bHhWT0dCTW44ZktoWTRhUFMtNXB1Vk9QZGtHeVpPYjhwMzVueVRHODRYYm00NVdfYkcwTW1mWXdKNUs1M1pMbUFGQW9ranlBblE?oc=5",
         "source": "Reuters",
-        "published": "2026-07-05T12:34:09-06:00",
-        "summary": "White supremacists' July 4 march counts as free speech in 'messy democracy,' Interior Secretary Burgum says &nbsp;&nbsp; Reuters"
+        "published": "2026-07-06T20:10:00-06:00",
+        "summary": "Belgium end US World Cup dreams with 4-1 rout amid Balogun row &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "What is Article 27 of FIFA's Disciplinary Code that allows red-carded Balogun to play? - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTJFOHBqUnRRZDZLeG9abmtOV0cyR1Vub0F4aERxVUxUUlNVNVNEekVtNjVBMzBhOUxMWjRHZWRQV19pQ2QtSjJmMHd2UUFBUWh6U2lvMFpZNENmWnhEVkRQRGdIS014OWcwdHpFQTlLSnNsZkRrVnFIMHBqdldQT3J4Tno5djFyWG1JRWgwQjdwa2w2ZWQtRDMwWHpMUXhHbUlmTUFjaVRWWXR4VDM3QUJocGtPUFZmeXEweWExbmQ2VktEeF9R?oc=5",
+        "title": "FIFA rejects Belgium challenge over US striker Balogun's eligibility for World Cup clash - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2JoVkZsTGpuTGlVaVlLSFlEb0NNTDVWdlhBZGNBUEYwWkcybUZWTU00VUJmWHFHaFRQZUdhaUM0WWxpN0wwS2pxZUpaUXBiSnYwTzd2azd1czQ4eXJVUTB5TG1JT2VLYWZRN2E5dzdyU0dBeHdnM0Fub2FVcG9YYWhGeXpici1uMUFha0RzSUx6V2tOTl95UDIxN0c0aF9LTTRUVkJJSHJ3ZUVmLXF0bEltbUZFRFptMXNrczdleVJJSWc?oc=5",
         "source": "Reuters",
-        "published": "2026-07-05T20:20:51-06:00",
-        "summary": "What is Article 27 of FIFA's Disciplinary Code that allows red-carded Balogun to play? &nbsp;&nbsp; Reuters"
+        "published": "2026-07-06T11:21:56-06:00",
+        "summary": "FIFA rejects Belgium challenge over US striker Balogun's eligibility for World Cup clash &nbsp;&nbsp; Reuters"
       }
     ],
     "world_news": [
       {
-        "title": "Historic World Cup furor at \u2018incomprehensible\u2019 FIFA decision to let U.S. forward Balogun play - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemRWMFFjZTN0VDdnREhzdl83SmhTNEt6RDN6Z0dmZGhjWjgyVFBSMDhPaTlRczdpRkdMeENlZUF2c3pnd2ExNXB5Vlpwd3h0aFA4NGNnRC1HbU12c0gtMTVhYTV4WEZsalhwT1JpU1ZHOW1tcFJva1NUOUxSb0RXQWVZYWlpeUNsZTg5RE1pMEhXcl9odHRB?oc=5",
+        "title": "A disappointing World Cup for Christian Pulisic as US star is scoreless and hobbled by injuries - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTm0wUGJ0WnVsbG5YRkNkRHZEOXoyWVBfTk5fZ2gwNldUbkxQdGloVUl3T1k3V2Q3UWlsLU1sZUhSTnpkakYzTVM3SGUtcGtRUlpnOFJhazNTSVdTUlRmbDROaGJ5QmNmYzB4eklOSExXY2tDT2s4TzExSWJlX3NHOUcyRWlLX01sZ0hzN1dSTkZ4LV9xLTd5Qmd6aGNuSktq?oc=5",
         "source": "AP News",
-        "published": "2026-07-06T07:48:00-06:00",
-        "summary": "Historic World Cup furor at \u2018incomprehensible\u2019 FIFA decision to let U.S. forward Balogun play &nbsp;&nbsp; AP News"
+        "published": "2026-07-06T23:20:00-06:00",
+        "summary": "A disappointing World Cup for Christian Pulisic as US star is scoreless and hobbled by injuries &nbsp;&nbsp; AP News"
       },
       {
-        "title": "Racist commentary about Black players comes under scrutiny at World Cup - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVdtQzdXZy1zRndYcDd1MFpyQVFoVm5RR015Qlo5MFVkZHhNWmp0cE9aZjRjTWl0QUxhbDM0bmxJRS1KNHFfLWlYMTZCNndFdlJzaEdsTTBpQVZDZk44UU41UjlhdEhYNGlwZnJNdVQtdEpoMFIwNWZZVmtGa0IzS3VSckcyVnRDblNwQXRvNnN4NUVwNHpOUFMtSTR2TVdFWmZBeXVxZFlyM3FxcmdzYmphRzU3S1FfYXc?oc=5",
+        "title": "For all his records, Ronaldo could not crack the World Cup - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHdneUZ0NWlnWHZSSHl6RkhjcXFXV1pKNzZzb21iZ0ZkSEpIYTB6OVlpWnVBSnh2VVRBUDA4R0NLX05rV01aVEpTdG9TOXg5MEZGR2FOVUkwbEtoeW1pNVFFcURrb0ZtT2p2Sk8zWUJyV0FSUFhDUWdlQUxpTkNaZ3g2NndfWElsQnZxNlpyOUE0dFlzQWJ0VWlVWnZnTmZh?oc=5",
         "source": "Reuters",
-        "published": "2026-07-06T02:17:44-06:00",
-        "summary": "Racist commentary about Black players comes under scrutiny at World Cup &nbsp;&nbsp; Reuters"
+        "published": "2026-07-06T17:09:43-06:00",
+        "summary": "For all his records, Ronaldo could not crack the World Cup &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Ten-man England hang on to beat battling Mexico 3-2 in last-16 thriller - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONDQ1TktiZTl4LVZ3cElzV0xfb2JKak9TZmpsZy1abzN5NHJSSUZWT2o1cXBxbk9iaVV6MWlXRDFPZGtFdVVmbF9GRXNFTDZtcUhoRlR3V2Vmd0QxcU1YWmhCRDRoNUVjdFgteHgtdURyQU0xRGxCSTRKanllS0hnMWhYLVZoVkRkeWxnRlJlMmpJRTRUeGtpLU5qc1pUN2tNN2ppdlZDaWVLbGM?oc=5",
+        "title": "Egypt coach\u2019s Palestine appeal thrusts World Cup back into political spotlight - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGdsMDV0UGhnMnJzNTAxbU1tV0VQZmtlcFhhMkttZFZhVzBwRjBCY1BpUC1VU1NjekV5cGJ4NWhKWFdSQ0pUVGtsRlRqa0RLcWx6cURXSHFwaU10Sm1CUU9UT0pmbUY5Y2tKZ2RpVnZlWkRnTGc2ZzVfb0VoTmtYVERzUkVQYU11WUlMSDFncEJQWHRXT3h1S2xKR1piR3A4Z3pNdkVJVkYwazgzSHFmN3VfaTA1Y2NNZ2YzMF94LURRZGpfRVE?oc=5",
         "source": "Reuters",
-        "published": "2026-07-05T21:27:00-06:00",
-        "summary": "Ten-man England hang on to beat battling Mexico 3-2 in last-16 thriller &nbsp;&nbsp; Reuters"
+        "published": "2026-07-06T17:17:41-06:00",
+        "summary": "Egypt coach\u2019s Palestine appeal thrusts World Cup back into political spotlight &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Brazil tries to come to terms with yet another early World Cup exit - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS05QcVlnQ0I3MlVNSHlXd2VXWjkzdGhoZU1FampHcmhlN2ZuYlhOSXRkMVNTWG5td01HQVliUGdfTjR6dWd4RkZzM05VdWxSLVJXWXBsVEVJVjJmczIxbXV2YVdQc3dZdlVrR2FPM0Q3dnpYQW5MQ3NSVnM4R1BnQm5zeTFXSkxlYTM2b3dCbDdQVEctZENHaEVFcHd1dHkyQnJqREFIZTRpaXR5akpxNg?oc=5",
-        "source": "Reuters",
-        "published": "2026-07-06T05:58:30-06:00",
-        "summary": "Brazil tries to come to terms with yet another early World Cup exit &nbsp;&nbsp; Reuters"
-      },
-      {
-        "title": "Neymar says after World Cup elimination he is done playing for Brazil - AP News",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGZsUWF4RHNSUmlfNEgtTURjWlhGQzl2ZVB2ME5oMUc4aUxvMEhJWG5mT1FtRlNwamNtNUg4Z3JmSDZvblprTDU0R0lKSkNDOHZRWll6NF9sQmlyMF8wdXQ4dy1DS2NLeHV1YWlyQWk0SFd0bC1GQTY3OThXamlwWFA4MmRBandjOVhCRFdZLUc4UXpjXzZGMDR1QQ?oc=5",
+        "title": "After his suspension was lifted in scrutinized move, Balogun has little impact in US World Cup loss - AP News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUF9BM1RGeldvc054N0tKTDVLalhIc3RHQVJqWEVaRnVzWFRaYXJxZTZZU3VVaTk0eEowTzZUTmdWQk1uLVVGd0NCa2lFMVVlLUFiSFZ3X0xNdVNTYTI4TFotc2QwSFNQU1NxbDdGZmVLZjhlT2ItZmNsYkRkRHVwajlBakRIZ25wNVZFR1JJaDN4OUVJR3h3MkMtLTJ6bnZS?oc=5",
         "source": "AP News",
-        "published": "2026-07-05T18:34:00-06:00",
-        "summary": "Neymar says after World Cup elimination he is done playing for Brazil &nbsp;&nbsp; AP News"
+        "published": "2026-07-06T23:26:00-06:00",
+        "summary": "After his suspension was lifted in scrutinized move, Balogun has little impact in US World Cup loss &nbsp;&nbsp; AP News"
+      },
+      {
+        "title": "Ronaldo says his last World Cup is over but Portugal decision can wait - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOXzU3QVFFeTgyU3ZjVFF4bWoxTTd5QXNJbk40YUtBcmdYYzlQTDNuWFN5UzJsclFlTzRBYjJUbl9wRWhaMmVIMjlaNXYtRjNZWDdvU2xWRGNvVk5HS2RjMDV4VTh1M1VIajlEem5jT1JHRWtfZGl3NjdxcXlELWgxVks0NE1jNXFNbnRuM2R1UGhmZ1k4RURQVW9EMF80SHdQbUNTQTFTR2wyMXN2V3BxNk0yRlg4UGM?oc=5",
+        "source": "Reuters",
+        "published": "2026-07-06T17:04:09-06:00",
+        "summary": "Ronaldo says his last World Cup is over but Portugal decision can wait &nbsp;&nbsp; Reuters"
       }
     ],
     "auto_industry": [
       {
-        "title": "MSU\u2019s link to automotive heritage showcased in community exhibit - Michigan State University",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2xUVDRPQXdiTkZGVjhIby1aVFUwNzN5S1JVaFpLWHBEY1BoRFNjS2xaQnJkSkVrLTNBRFJKUzR2YzdFSEJBUzZCMGZhb2Y5anI4S0ZJeEZaVVJIdnNnYUhJNkhEQ1h2Z2piSzkycGh5OWdQQ0trRGpEWExjMXYwVmg0N1FZaVRuaFE?oc=5",
-        "source": "Michigan State University",
-        "published": "2026-07-06T07:02:00-06:00",
-        "summary": "MSU\u2019s link to automotive heritage showcased in community exhibit &nbsp;&nbsp; Michigan State University"
+        "title": "Millions of Jobs at Risk as EU Auto Industry Faces Mounting Pressure - Hungarian Conservative",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEJuLUI5NC1jQnpuX0I3YlJ1bXBfNEoxRVdvcFRUcm1oVS1kQi1tZENsNUkwcU5XTVVpV3RibWd3NHlmeVF3NUlLZmVfcE1ENGhKQlZzV3o2eEdHZm5DT2VCWGZwRW1sOGpIY0I5bExxaVNSMW1GYzFqTnlmV0dMLUtfZ3Z1WUgzRTFXQXFYbjRsZHVONnRYdnJ3?oc=5",
+        "source": "Hungarian Conservative",
+        "published": "2026-07-07T04:39:16-06:00",
+        "summary": "Millions of Jobs at Risk as EU Auto Industry Faces Mounting Pressure &nbsp;&nbsp; Hungarian Conservative"
       },
       {
-        "title": "North American Car, Truck, Utility awards just made 2 major changes - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3Vkc3NENm1oZzUzOW1VbnprdFhhQ1lZUmNCcUlBdTVxVWJXbGZpMHJwc0lDcEJRWE91STJqbjNpbGVJX0s3ZlZ6X3hQRWJUN2ZGLXJndUtMX1Y1dGVZc2RmR2tBTXhCckNILVZ6T242SmYwV29ieHJDMHZmbVhWeGU0a3ZTVjJ4M3pIekJQXzJKa0lQX2RuQTlQY3ViM1Q0RjZ3Rk53c0NGeWtiel82RmJoRU9PeURRdVE0ZmhhRjZ1S2dYeGVzNzg1d013TzZXRHpyYVJPd3FZdw?oc=5",
-        "source": "Detroit Free Press",
-        "published": "2026-07-06T05:01:00-06:00",
-        "summary": "North American Car, Truck, Utility awards just made 2 major changes &nbsp;&nbsp; Detroit Free Press"
+        "title": "Let\u2019s not pour cold water on the EU car industry\u2019s EV momentum - transportenvironment.org",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVBFdUtGMVFaYlBudWFPcHlYTF9qWXBTT2xRQXpxRExELUJCZUZYSFBYa1BfTVVXbmZoeWJ2d2pJalJaZ0lJWmt2TTJ1RmdrLVpfUEFYTkJTck5tMnlZanVzRlVmRFdzSFZUMEtPM3ZTaGpzNDYzdUkyYVZPXzhvVWlpSXcybDdrQUw4RjA2a3J1QV8wZWRyRjZ3cGVfQnlGWk1GV001ZkxldkFv?oc=5",
+        "source": "transportenvironment.org",
+        "published": "2026-07-07T04:25:47-06:00",
+        "summary": "Let\u2019s not pour cold water on the EU car industry\u2019s EV momentum &nbsp;&nbsp; transportenvironment.org"
       },
       {
-        "title": "UK new car sales hit best June since 2019 as EV sales grow, SMMT data shows - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY3dpY2Vlcks0VXBOOWVJS2txMkdxTTN5RV9oUHlEOWk5UGVmZU5IRXJFM1NRckc4R1ZOeVZvMURxS2FrdkYxU3pHdFlNelVibDVyZ3J1RFVmbDFJT0J1eWZzVVN4TjJvNGp5MmN1S2dpRFFTVjk0QXo1aUc1T0hjUGw3SExNd3BlM1FudTdDR1AxTGN3eXI3dERDaUpfdw?oc=5",
-        "source": "Reuters",
-        "published": "2026-07-06T03:33:32-06:00",
-        "summary": "UK new car sales hit best June since 2019 as EV sales grow, SMMT data shows &nbsp;&nbsp; Reuters"
+        "title": "The European automotive industry is proposing to postpone the expansion of the CBAM - GMK Center",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWtVOFJUQzBpeWRvalBrN0taQXlnTDl1X1dQM2JXc29OcTN2RENVOGMtUnpQSUN0VDhFSm1PeUprM0JTcjNQX1NCTy1wb0JqNlVNZmJiR2lnWUpCLXBiNXFrblRxZzZ4eXpMOXRWZDVaMzVoSHFjOHNvMGMyODBPU0NmWFhPU0hnZ24zbUE3Z0xHbGxPLTRJdDZ2RlBxa1IxUC1wenY5UlNuN2M1b0ZDa9IBtgFBVV95cUxNaU9WdVhCeEFBQnRWZnRyeTBfcWJKMkFNajU1d3BOWmR3cGxEMjRNWnZScFVjU24yYy1QQ2YwQnhqV1I0UjZwRElKLWY5V0NndkZld2NSVFlFLUJFaFhSTVJQZjFXaUN2TGxGenZaLWRwT2ltdGxvdWVadHNLMFlTT0xWY2I3WWdUNEZTWTFuN3g5dU1zZjRlaE00bUtXTmxRcEhPRmhIeGVFR0YtajRTa1RIck1Idw?oc=5",
+        "source": "GMK Center",
+        "published": "2026-07-07T04:04:34-06:00",
+        "summary": "The European automotive industry is proposing to postpone the expansion of the CBAM &nbsp;&nbsp; GMK Center"
       },
       {
-        "title": "Study Argues That America's New Vehicle Affordability Crisis Isn't Only About Prices - autoevolution",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZGlYMy1Zb3dyOF9zSXQ4YjQtc2NsbE9KQUYzQTdzVWlJMGV6WEJHeHIwTXJ4NkY2bDduQ0FrY21wOUpBalhJeVJHMmJaYUU3YllzdWk2Y2R5NmRqQ1dHeUtPY3lneURsdUJhVWNCS0ZhVmplcUdYclV3S0dVYk92b1lIVmRxOTJtQlhVSFY2YTZyT3QzSHRHamR2dGJfS1lVVVM1Q012Y0haRTRFUGVDM09DZWhiQWI1OU1MUmM2Y2N2Tmt3N2dyR2RtX21ycC12NzYteQ?oc=5",
-        "source": "autoevolution",
-        "published": "2026-07-06T06:12:29-06:00",
-        "summary": "Study Argues That America's New Vehicle Affordability Crisis Isn't Only About Prices &nbsp;&nbsp; autoevolution"
+        "title": "Vehicle Affordability in America: The Car Is Not the Villain - Cox Automotive Inc.",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3NsODZydTBnc0ZESGNlVmtJRWhHdWVUdU83QXJ1VVRwcTVPV1VFekZobFhHU3hiYTRodHRoMUJidkkzSTlWMEc3bXNjR3dNdUE4dVVSX2ZIOW9va2w2VG0yQWtPOXExU3NNTlk3Qzl1MWgwV0liem1rOWptTmdsSTBSbXlMTlhJc1E0Q1o2UmdWcTIyUTI3aHdtdjQ?oc=5",
+        "source": "Cox Automotive Inc.",
+        "published": "2026-07-06T20:05:57-06:00",
+        "summary": "Vehicle Affordability in America: The Car Is Not the Villain &nbsp;&nbsp; Cox Automotive Inc."
       },
       {
-        "title": "Auto industry total retail sales rise 21.83% at 25,57,234 units in June: FADA - Deccan Herald",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnBSMXRmUm51c0ZMcXBSMHJLS1FTQ19TZF9oc1VsYnBVaWMyV2padGVETlRqMmo1MFBEMDRPOHBIdmpCUE94VnRlcG11NGRJdXRIT2x5VXREazlNa0J3MWFXYTV3WEZkalpta2VYbkxPaDZyamxfY2w1eXNHNEVlYXpGVTYzdHVxTkx3VEFrQ3pXemFCTllMUXJSTExjTE9adjdtd3BhdmZZU2pQb25LZHhkQUluV1otX0E?oc=5",
-        "source": "Deccan Herald",
-        "published": "2026-07-06T00:32:19-06:00",
-        "summary": "Auto industry total retail sales rise 21.83% at 25,57,234 units in June: FADA &nbsp;&nbsp; Deccan Herald"
+        "title": "Automotive Industry News, Self-Driving Cars And EV Stocks To Watch - Investor's Business Daily",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXZqbG10WUxlNUg2dGNUY19pNFVMTlloQ3FzQlhxNktxanRZaU5VZnZ0cGVPS29IdGlMVGxJZmJOYVZNSWpaNHJPMDl0REVTcjdac0l6QTkwNGFnOHBMS0lqR2d1WHNNemlsb0pzSHlnMExNdHkxM3BKTkhmZGhkeXNURVBSUmdnZzV6TEZwLUhuZFBWSVdNb2Z3?oc=5",
+        "source": "Investor's Business Daily",
+        "published": "2026-07-06T10:14:00-06:00",
+        "summary": "Automotive Industry News, Self-Driving Cars And EV Stocks To Watch &nbsp;&nbsp; Investor's Business Daily"
       }
     ],
     "auto_software": [
       {
-        "title": "Auto Market Weekly Summary - Cox Automotive Inc.",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlNzFVbkZDNllYbTRjdmVQOE5xOFoxNHM1MjRkNERRNS1BTGZDcEVsLVdlQmRWcEJka3BmM3A4ekllLVkxS05WVnU3TzlZZXpRSFl3YXItTmZvbWpLd3lMeXRCNHU5X1dEUzhvTGZMNk5BREl4YW43dUgzc1M?oc=5",
-        "source": "Cox Automotive Inc.",
-        "published": "2026-07-06T08:07:51-06:00",
-        "summary": "Auto Market Weekly Summary &nbsp;&nbsp; Cox Automotive Inc."
-      },
-      {
-        "title": "AirCurve 10 VAuto from ResMed Inc. - bilevel device quietly anchors sleep-apnea revenue - AD HOC NEWS",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNkVqaWFQSjJvUWFIYTlDMmw4ZjJNVHV0NVBxcjlvVG5oUWRYSzJRQ1gySU9uRWhta0Voa3ZWRGk5ZGFCS3c0cUxFWTVzOExmNl9yUUhSbnVkTWx3MDZXbFc3emtDQkZSTjRjMUNnNlNKVXlaYWhHeEo1U0JfUV9ub2s2UlY5a3o0dVNOYTlaelNlV2VrNThoUlc4QTlBYy1PS2E0NEZrWHpvdGJmMDVxSzV5aExTaWZyeUxIZGlWOG0?oc=5",
-        "source": "AD HOC NEWS",
-        "published": "2026-07-05T18:45:55-06:00",
-        "summary": "AirCurve 10 VAuto from ResMed Inc. - bilevel device quietly anchors sleep-apnea revenue &nbsp;&nbsp; AD HOC NEWS"
-      },
-      {
-        "title": "Manheim Highlights Opportunity in Sub-$10,000 Inventory as Independent Dealers Face Tight Supply - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNEpTWHlER3MwSzBkT3Qzc2xaM2VWbU10Q0RWSjVPWFhoX0FucFIybWJ0RThMMXNmTWJDcnBleHBsSlZ6T19Ld0dhdG5FQzZVTjVTazV1MVlHaGZ2VHlKMUpETm9TbTNkS3l6MlQ4SW5uSHdpX0N4UzVJLTBfX0UxTW92YnBPeXhLdXJUekRQTmotMlh2Y1lDZVROTjk2ejlyZmdueC0tMzBKRWlhSTVpWHpUcy11VlZETFd4ZlB0MFdxU0Y0SjZqbHBDMG1feF9sWXUtV3hjajZ2OFRrQ2lXSEwwRnZIQQ?oc=5",
-        "source": "PR Newswire",
-        "published": "2026-07-06T07:40:00-06:00",
-        "summary": "Manheim Highlights Opportunity in Sub-$10,000 Inventory as Independent Dealers Face Tight Supply &nbsp;&nbsp; PR Newswire"
-      },
-      {
-        "title": "DealerAssist Launches Standalone Dealership Website Platform Built for Inventory Accuracy and Lead Control - The National Law Review",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWUVuSDNiRXNQYW5TdHRWWjVqLWF5S25mdk9WVkdoOTJGYUdWTG5MUy1Ec01VNHB0bXQ2NWFueG9ucjlKYzlqMXlwd1hoalVQZUlieUhvVUZ5YldWNHA1UTdqMlBWY3B6LWpYd0tJeHR1OUVBRFFwOHQwU0Fla0dWN09VUGlVYThqVS1wQ1g4Nkx3MU1tNjZ3ZUJKekhxNXFNYjV0aWdHRnVyV21FY3dhbW80b1lvakE?oc=5",
-        "source": "The National Law Review",
-        "published": "2026-07-05T09:16:21-06:00",
-        "summary": "DealerAssist Launches Standalone Dealership Website Platform Built for Inventory Accuracy and Lead Control &nbsp;&nbsp; The National Law Review"
-      },
-      {
-        "title": "Keyloop: Leading provider of automotive retail solutions - arabnews.jp",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zQkpQWC1Ga293X1NLMGt6RGs1SUFHaDI2WW9OZVV3RlRtMzRxMWx3RDNEQnc5VW5IMms4M0l4a3dHdE9hekQxSXIydjRkSlpySVJPd2l2Z2pfM0JkbktqSg?oc=5",
-        "source": "arabnews.jp",
-        "published": "2026-07-06T04:07:18-06:00",
-        "summary": "Keyloop: Leading provider of automotive retail solutions &nbsp;&nbsp; arabnews.jp"
+        "title": "Jay Vijayan, Tekion CEO: A Fortt Knox Conversation - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXRPekxURVJmeWN5TFRwN1FEVkFRVkY5aVhiQkJIcWtYRWFubEg0YW5zQzRwakF4S3k1eUpkckdlS2xocHpBdmtzUHJtd2k3aWUwSnpFRDJROGQ5TVdiaE9mYW9uM2M5S0RoTmZPUExaWjRSY1lLNU4zc29aNmNubVFNY1NjWm9UTXoxZ28xRV9zX1dSWGc?oc=5",
+        "source": "CNBC",
+        "published": "2026-07-06T15:09:45-06:00",
+        "summary": "Jay Vijayan, Tekion CEO: A Fortt Knox Conversation &nbsp;&nbsp; CNBC"
       }
     ]
   },
@@ -351,9 +323,9 @@
     "auto_software": {
       "label": "Automotive SaaS / Dealer Software",
       "status": "ok",
-      "candidate_count": 13,
+      "candidate_count": 11,
       "target_count": 5,
-      "count": 5,
+      "count": 1,
       "queries": [
         "vAuto OR DealersLink OR \"Cox Automotive\" when:1d",
         "\"CDK Global\" OR Tekion OR DealerSocket OR Dealertrack when:1d",
@@ -362,7 +334,7 @@
         "\"digital retailing\" dealership automotive when:1d",
         "\"inventory management\" dealership automotive software when:1d"
       ],
-      "relevance_filtered_count": 8
+      "relevance_filtered_count": 9
     }
   },
   "failures": [],
@@ -371,7 +343,7 @@
     "us_news": 5,
     "world_news": 5,
     "auto_industry": 5,
-    "auto_software": 5,
+    "auto_software": 1,
     "sports": {
       "Broncos": 3,
       "Avalanche": 3,
@@ -384,152 +356,152 @@
     "dropped": [
       {
         "section": "sports.Avalanche",
-        "title": "Avalanche sign Christian Wolanin to one-year deal - MSN",
-        "source": "MSN",
+        "title": "NHL Game 4 Highlights | Wild Vs Avalanche - May 11, 2026 Nll Playoffs (L8UR8H3aOy) - Mshale",
+        "source": "Mshale",
         "duplicate_of": {
           "section": "sports.Avalanche",
-          "title": "Avalanche sign Christian Wolanin to one-year contract - Daily Faceoff",
-          "source": "Daily Faceoff"
+          "title": "REACTING To AVALANCHE Vs WILD GAME 3 | FULL NHL PLAYOFFS HIGHLIGHTS | MAY 9, 2026 Fbi (YxaL8GWhnR) - Mshale",
+          "source": "Mshale"
         },
         "reason": "summary-overlap",
-        "score": 0.771
+        "score": 0.6
       },
       {
-        "section": "sports.Nuggets",
-        "title": "Peyton Watson's Future With Nuggets Could Take Surprising Turn - Sports Illustrated",
-        "source": "Sports Illustrated",
+        "section": "sports.Avalanche",
+        "title": "NHL Game 1 Highlights | Wild Vs. Avalanche - May 3, 2026 Harrison Ford (TJNW7HaHE3) - Mshale",
+        "source": "Mshale",
         "duplicate_of": {
-          "section": "sports.Nuggets",
-          "title": "Peyton Watson\u2019s Nuggets Future Takes Unexpected Turn - heavy.com",
-          "source": "heavy.com"
+          "section": "sports.Avalanche",
+          "title": "REACTING To AVALANCHE Vs WILD GAME 3 | FULL NHL PLAYOFFS HIGHLIGHTS | MAY 9, 2026 Fbi (YxaL8GWhnR) - Mshale",
+          "source": "Mshale"
         },
         "reason": "summary-overlap",
-        "score": 0.643
+        "score": 0.6
       },
       {
-        "section": "us_news",
-        "title": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium - Reuters",
-        "source": "Reuters",
+        "section": "sports.Avalanche",
+        "title": "NHL Highlights | Kings Vs. Avalanche - December 29, 2025 Canada Weather Pattern Shift (8dOwbN578M) - Mshale",
+        "source": "Mshale",
         "duplicate_of": {
-          "section": "us_news",
-          "title": "Trump intervention causes World Cup storm as FIFA clears US striker Balogun to face Belgium - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "near-title",
-        "score": 0.818
-      },
-      {
-        "section": "world_news",
-        "title": "Reaction to FIFA suspending Balogun red-card ban after Trump intervention - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Reaction to FIFA suspending Balogun red-card ban after Trump intervention - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "Trump intervention causes World Cup storm as FIFA clears US striker Balogun to face Belgium - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Trump intervention causes World Cup storm as FIFA clears US striker Balogun to face Belgium - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "Neymar signals Brazil farewell after shock World Cup exit to Norway - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Neymar signals Brazil farewell after shock World Cup exit to Norway - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "Belgian federation to challenge FIFA's decision to let Folarin Balogun play in World Cup match - AP News",
-        "source": "AP News",
-        "duplicate_of": {
-          "section": "world_news",
-          "title": "Historic World Cup furor at \u2018incomprehensible\u2019 FIFA decision to let U.S. forward Balogun play - AP News",
-          "source": "AP News"
+          "section": "sports.Avalanche",
+          "title": "NHL Highlights | Jets Vs. Avalanche - December 19, 2025 Liverpool Weather (5zDcnlQfmI) - Mshale",
+          "source": "Mshale"
         },
         "reason": "summary-overlap",
-        "score": 0.573
+        "score": 0.54
       },
       {
-        "section": "world_news",
-        "title": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium - Reuters",
-        "source": "Reuters",
+        "section": "sports.Rockies",
+        "title": "Colorado Rockies vs. Los Angeles Dodgers: Game Highlights - ESPN",
+        "source": "ESPN",
         "duplicate_of": {
-          "section": "us_news",
-          "title": "Trump intervention causes World Cup storm as FIFA clears US striker Balogun to face Belgium - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "near-title",
-        "score": 0.818
-      },
-      {
-        "section": "auto_industry",
-        "title": "Auto industry total retail sales rise 21.83% - Rediff",
-        "source": "Rediff",
-        "duplicate_of": {
-          "section": "auto_industry",
-          "title": "Auto industry total retail sales rise 21.83% at 25,57,234 units in June: FADA - Deccan Herald",
-          "source": "Deccan Herald"
+          "section": "sports.Rockies",
+          "title": "Colorado Rockies at Los Angeles Dodgers Game Story, Scores/Highlights - 07/06/2026 - MLB.com",
+          "source": "MLB.com"
         },
         "reason": "near-title",
         "score": 0.9
       },
       {
+        "section": "us_news",
+        "title": "Belgium gets \u2018justice\u2019 for Balogun playing with 4-1 win over US to reach World Cup quarterfinals - AP News",
+        "source": "AP News",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Belgium beats US 4-1 to reach World Cup quarterfinals, taking advantage of defensive lapses - AP News",
+          "source": "AP News"
+        },
+        "reason": "summary-overlap",
+        "score": 0.525
+      },
+      {
+        "section": "world_news",
+        "title": "Balogun is quiet on pitch after kicking up an international storm - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Balogun is quiet on pitch after kicking up an international storm - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "Belgium end US World Cup dreams with 4-1 rout amid Balogun row - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Belgium end US World Cup dreams with 4-1 rout amid Balogun row - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "Belgium beats US 4-1 to reach World Cup quarterfinals, taking advantage of defensive lapses - AP News",
+        "source": "AP News",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Belgium beats US 4-1 to reach World Cup quarterfinals, taking advantage of defensive lapses - AP News",
+          "source": "AP News"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "'Accidental American' Balogun at crossroads of US, soccer politics at World Cup - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "'Accidental American' Balogun at crossroads of US, soccer politics at World Cup - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "FIFA rejects Belgium challenge over US striker Balogun's eligibility for World Cup clash - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "FIFA rejects Belgium challenge over US striker Balogun's eligibility for World Cup clash - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
         "section": "auto_industry",
-        "title": "Auto Industry Total Retail Sales Rise 21.83% At 25,57,234 Units in June: FADA - HDFC Sky",
-        "source": "HDFC Sky",
+        "title": "German industry grows more than expected on auto sector - The Business Times",
+        "source": "The Business Times",
         "duplicate_of": {
           "section": "auto_industry",
-          "title": "Auto industry total retail sales rise 21.83% at 25,57,234 units in June: FADA - Deccan Herald",
-          "source": "Deccan Herald"
+          "title": "German Industry Grows More Than Expected on Auto Sector - Bloomberg.com",
+          "source": "Bloomberg.com"
         },
         "reason": "title",
         "score": 1.0
       },
       {
-        "section": "auto_industry",
-        "title": "Bosch Works Council Calls for Auto Industry Task Force - Tekedia",
-        "source": "Tekedia",
+        "section": "auto_software",
+        "title": "Vehicle Affordability in America: The Car Is Not the Villain - Cox Automotive Inc.",
+        "source": "Cox Automotive Inc.",
         "duplicate_of": {
           "section": "auto_industry",
-          "title": "Report: Bosch works council calls for auto industry task force - Yahoo",
-          "source": "Yahoo"
+          "title": "Vehicle Affordability in America: The Car Is Not the Villain - Cox Automotive Inc.",
+          "source": "Cox Automotive Inc."
         },
-        "reason": "title",
+        "reason": "url",
         "score": 1.0
       }
     ]
   },
   "curation": {
-    "trimmed_count": 69,
+    "trimmed_count": 70,
     "trimmed": [
       {
         "section": "sports.Broncos",
@@ -539,17 +511,17 @@
       {
         "section": "sports.Avalanche",
         "target_count": 3,
-        "trimmed_count": 8
+        "trimmed_count": 6
       },
       {
         "section": "sports.Nuggets",
         "target_count": 3,
-        "trimmed_count": 8
+        "trimmed_count": 9
       },
       {
         "section": "sports.Rockies",
         "target_count": 3,
-        "trimmed_count": 9
+        "trimmed_count": 8
       },
       {
         "section": "us_news",
@@ -559,12 +531,12 @@
       {
         "section": "world_news",
         "target_count": 5,
-        "trimmed_count": 9
+        "trimmed_count": 10
       },
       {
         "section": "auto_industry",
         "target_count": 5,
-        "trimmed_count": 12
+        "trimmed_count": 14
       }
     ]
   },
@@ -597,7 +569,7 @@
       "items": [
         {
           "label": "DealersLink / auto retail SaaS",
-          "signal": "Auto Market Weekly Summary - Cox Automotive Inc.",
+          "signal": "Jay Vijayan, Tekion CEO: A Fortt Knox Conversation - CNBC",
           "application": "Translate vendor/product movement into a question: what dealer task is still manual, slow, or poorly measured, and can DealersLink make that workflow simpler?"
         },
         {
@@ -607,7 +579,7 @@
         },
         {
           "label": "Future AI business",
-          "signal": "Trump intervention causes World Cup storm as FIFA clears US striker Balogun to face Belgium - Reuters",
+          "signal": "Meta says US states are seeking $1.4 trillion in penalties in August youth safety trial - Reuters",
           "application": "Favor narrow, paid workflow wedges: a recurring report, an agent that saves a team 30 minutes daily, or an integration that turns messy inbox/CRM data into decisions."
         },
         {
