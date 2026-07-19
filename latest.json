@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "generated_at": "2026-07-18T08:10:24.064481-06:00",
-  "date": "2026-07-18",
+  "generated_at": "2026-07-19T08:10:22.970734-06:00",
+  "date": "2026-07-19",
   "news_window_hours": 24,
   "weather": {
     "headline": "Sunny",
-    "detail": "Sunny, with a high near 95. North northeast wind 3 to 7 mph.",
+    "detail": "Sunny, with a high near 98. North northwest wind 2 to 6 mph.",
     "tonight": "Mostly Clear",
-    "high": 94,
-    "low": 71,
+    "high": 98,
+    "low": 72,
     "source": "https://api.weather.gov/gridpoints/BOU/63,62/forecast"
   },
   "calendar": [],
@@ -18,25 +18,25 @@
     "sports": {
       "Broncos": [
         {
-          "title": "Which Denver Broncos rookies are you most excited to see in training camp? - Mile High Report",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbmZxaUhobE84OEZtRXVzclVmdy1SSnYwWFpldklIRnduSG1tZUx2VDdTeHh6Ym5UOWRhNjlnbmo5TTdYYURiNGFBb2F2Nkt2eEhkbmFOb1VwdnEyLXFodXJZZllxbktrMW1NbkZkWUVjN2diWlVyZF9ZNUZ6YXhfdzIyaFVIeTlSZ3lEOExDTF9aenJzSVZRZ1plVW1QWW5BUjBzMVp3Q1pkQk14YXVLWW9DVHVycEF5anM0LQ?oc=5",
-          "source": "Mile High Report",
-          "published": "2026-07-18T04:00:00-06:00",
-          "summary": "Which Denver Broncos rookies are you most excited to see in training camp? &nbsp;&nbsp; Mile High Report"
-        },
-        {
-          "title": "Broncos select 320-pound defensive tackle in 2027 NFL mock draft - Broncos Wire",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3ZjRFBJOEp1Z1FKOWNfNm9WSk96WDR0TE1RODNSVWlUY3pCQ2o2R3VGVF9ocFhfZDc3TkdMaC03Xzd6MVEtYnVHLWZJZHQxT19sOFdFYUp1V2xGd2ZrM2kwTTZKc3A2VTBpVUJ1Zy02enRwQ2tSckVROWtUSFM2TWtBNWYzdzFjRDFXV0xVRXlCUGdidGppNzExbU5sRWlfVVJtcjhBazFhMFMtaVJmSUxNWEVZcjZWSUQ0NldRUmludnM2VUE?oc=5",
-          "source": "Broncos Wire",
-          "published": "2026-07-18T08:00:00-06:00",
-          "summary": "Broncos select 320-pound defensive tackle in 2027 NFL mock draft &nbsp;&nbsp; Broncos Wire"
-        },
-        {
-          "title": "Broncos offensive two-deep projection: Who will be Bo Nix\u2019s backup? - The Denver Post",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxcmhqbkVVSXhabnFvWkc2bG5mU3BfQ3E1dFBhckZ6Yk8yOGRtTHB0bFNfLS13bFVrd3EtYmUxNVQxdmViZ193RVlRUHFFQ1hCdWhFUGRFdm93djNhOGNjZ1dMUV9EY2xldXY5Nnh6VzcyUUF5TkFiUVhrM0RKaFE?oc=5",
+          "title": "How much are Denver Broncos worth after Seahawks\u2019 reported $9.6 billion sale? - The Denver Post",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84Y3U1cmhXRndGU0FxWGlEaGV5SzhFd0x5aHlacWhZcXctVlIxU1JnV2VVRzdjRzU3NWhtU210YU0tLWhPdndzTGx3dlhxTTM3MDBtcXRQRVJZUlExd2xXenZKSkNQMlhudFlHTm1nMmp4QnNCalNqLUxB?oc=5",
           "source": "The Denver Post",
-          "published": "2026-07-18T05:00:07-06:00",
-          "summary": "Broncos offensive two-deep projection: Who will be Bo Nix\u2019s backup? &nbsp;&nbsp; The Denver Post"
+          "published": "2026-07-19T04:00:18-06:00",
+          "summary": "How much are Denver Broncos worth after Seahawks\u2019 reported $9.6 billion sale? &nbsp;&nbsp; The Denver Post"
+        },
+        {
+          "title": "Broncos TE Evan Engram 'doing well' going into 2nd season with club - Broncos Wire",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcDRFSjc5TDFTUzZNSTJ2MXdwcWpBaHlpakd4dWlMbTFNeDNhUVpReXJJQXlDa05mSlNZLTNfQnI4T1hpSTRXLVI5VGdPYWFRTnVIZktaS3JzRk14eUxCYWN0RkZReF9IMXpZT0EzN19ZZWlCNEVGSnVpTTgyT2huZ1dsUHNaem8yNEo5RG5kU0hTUlp6bEhtcmJFcXAzckFkRVVscEpPdkxhajU2US10N0lWSUxmRFpBaWJZUjl3NA?oc=5",
+          "source": "Broncos Wire",
+          "published": "2026-07-19T08:00:00-06:00",
+          "summary": "Broncos TE Evan Engram 'doing well' going into 2nd season with club &nbsp;&nbsp; Broncos Wire"
+        },
+        {
+          "title": "Broncos Depth Chart Entering Camp: Starters, Battles, and Bubble Players - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOExzVnBOb3I5UmJvSk9rWEVRY0lUeGpBWjRXdjBaMnRBNjNveW9Jc011NHVLVE9JSGJCOVpRU1RxNFpjbG9MdU94UkxINGhxLVJSb3pESkI0Tkg0SG5QSEx4Mzd5ek1mU3JyUkhMdF9LWUpSMlV0ZlpnWlp6eEowWm10eUYzRUNBSDNqalFraFM1TVFjeVhyX3NjbWgwei1WTmxXOHIwa2k?oc=5",
+          "source": "Sports Illustrated",
+          "published": "2026-07-19T07:00:06-06:00",
+          "summary": "Broncos Depth Chart Entering Camp: Starters, Battles, and Bubble Players &nbsp;&nbsp; Sports Illustrated"
         }
       ],
       "Avalanche": [
@@ -44,22 +44,22 @@
           "title": "NHL Draft: Best/Worst Fits for Colorado Avalanche - DNVR",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmdDZUlnOUlvcVRydUNBbkZPUTZuUTBPR0VRVGU1OGJnTXlibjVod04wU2s4MUlHbEg2ZzA3TlhnTGlMemhPUDhDaWg4WjU0VG8yN3d4VFNiUlpVaEs5eHEtSzBPRU5qN21wMEZTRnFBNGFWYlhJS0NYMXcwZm5iMVdxNTA?oc=5",
           "source": "DNVR",
-          "published": "2026-07-17T23:47:51-06:00",
+          "published": "2026-07-18T11:49:11-06:00",
           "summary": "NHL Draft: Best/Worst Fits for Colorado Avalanche &nbsp;&nbsp; DNVR"
         },
         {
-          "title": "Winnipeg Jets at Colorado Avalanche - NHL Game Summary - Mar 27, 2027 - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uSS1VUXluY2tPSW5fdFlIbzgyczhDMTYyRmVXYl9SS1loUnhIS09pLVFjZm9aWThJV0NWWENGWEFLMW9YWi13dFlOTXRWa2V5a3NadDVlR0FkMC1EeXRxX0NETlpNNUx3YlE?oc=5",
-          "source": "USA Today",
-          "published": "2026-07-18T00:02:22-06:00",
-          "summary": "Winnipeg Jets at Colorado Avalanche - NHL Game Summary - Mar 27, 2027 &nbsp;&nbsp; USA Today"
+          "title": "The Avalanche May Have Found Their Biggest Draft Steal In Years With Egor Shilov - The Hockey News",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSmxaR0NVaGU0LUdxOEhqSzE5Nlc2c21PMldZUFo5V1dqSWZGQ09wNWl3TUhZQWZiSlM3a3RIZTZJdDJvUGNtTXozd2hoYmZTSV9EU2lDWjZRM1pQTEVVTkNnSW9NZG9JQWlINncyQUI0NUM1ME1TdTUzQWwyX0VaTmtnNGg1N1hSZzFFWkI5TkpxTDA5eS05alNxX1VfUkprVnVWZUZYRU42ellSUzk5LW1WMmhhUnBjT2JodmNUUm9nbXo1VWMyRmxTVklWcndwbGY4cXlKTGs?oc=5",
+          "source": "The Hockey News",
+          "published": "2026-07-19T06:14:29-06:00",
+          "summary": "The Avalanche May Have Found Their Biggest Draft Steal In Years With Egor Shilov &nbsp;&nbsp; The Hockey News"
         },
         {
-          "title": "Colorado Avalanche vs Nashville Predators Box Score - October 25, 2026 - The Athletic - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTlc4R3RfSTZ5RDYyYUtwWGU4V3hDZDd2ZldhdHRXZjg2TEhiZ1FxREYwbmxiMkpjNTdHalNFVVZUa2R3NFpuOGJxQXR5RDZucHN4R3ppdjVCdHpEOWs4eUk0QXowVHB5LUlyY0tUOGZqa1NGOGZfOEM2M1NzWk1SSGU1a1JkUS1NQ1RjNkRiU3NGMEpodmdUc3N0QmdIUy16NWFB?oc=5",
-          "source": "The New York Times",
-          "published": "2026-07-18T00:01:30-06:00",
-          "summary": "Colorado Avalanche vs Nashville Predators Box Score - October 25, 2026 - The Athletic &nbsp;&nbsp; The New York Times"
+          "title": "Avalanche Bests and Blursts: 2015-2020 - Mile High Hockey",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0NlaEdtREdpNkVGa3FlQWdLVHFhOWp3VWRzekg2NTdld0gzei1JcXhCLVB6RHJBbkJhekFKU243MHFOckdHUFV2NFhnZjVmbHRKZTgtTHREQlFhdHhnQ3RJbXlPZXd4ODdtSVJqZm1DbDZwRW4xdUJPX1FTLUswX2kxYnhSR0RVYkNtZ3VobkFxUVdCbEhEc0Nuc282T1lqTWdaZzE4dEl6OHFsdkE?oc=5",
+          "source": "Mile High Hockey",
+          "published": "2026-07-18T10:00:58-06:00",
+          "summary": "Avalanche Bests and Blursts: 2015-2020 &nbsp;&nbsp; Mile High Hockey"
         }
       ],
       "Nuggets": [
@@ -67,157 +67,157 @@
           "title": "Denver Nuggets vs Toronto Raptors Jul 19, 2026 Game Summary - NBA.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44SW1wR3RvLWNUUUZQbjBBUWcwSnRaRjM5am9PZGZ5U3lTX2NzSERjLUVVRGtZRVU2ckZhV2ViYVpaaDYxYVZvMUhFTllvRWpIUzBBMzItQ3Y2dw?oc=5",
           "source": "NBA.com",
-          "published": "2026-07-18T06:19:07-06:00",
+          "published": "2026-07-19T06:19:08-06:00",
           "summary": "Denver Nuggets vs Toronto Raptors Jul 19, 2026 Game Summary &nbsp;&nbsp; NBA.com"
         },
         {
-          "title": "Keeler: Nuggets\u2019 Trevon Brazile looked like next Michael Porter Jr. at NBA Summer League - The Denver Post",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vYmdwWEpYaHh2RkEycjhmQ2pZNFNBRDhSZ29qM3VCU0pBeXNNTHp2TGtrYTNKZ3ZnWG9tMXk4QjNoYWZ2MURRb2t2TzNsN2haYWtmR2pId0c3YmZ1NDNUbzBFLTZQSlcyNGI4SlFKVHlQV19NcFI3U1JRa2Y?oc=5",
-          "source": "The Denver Post",
-          "published": "2026-07-18T05:00:18-06:00",
-          "summary": "Keeler: Nuggets\u2019 Trevon Brazile looked like next Michael Porter Jr. at NBA Summer League &nbsp;&nbsp; The Denver Post"
+          "title": "Nuggets Emerging as Landing Spot for Former NBA Head Coach - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0dxdjBvZ3dGbzZlZVVQSkFfZWNGVGVDdzlVRmNrOTI1TTRqY2RHVjFRay04ZmpDLWhpbGxTbS0tSC1kaHAzb2hkY29IWUhBZEtyNldRSXE1ZVVsRV9QT2VmQ2tpb3JTekt5YlhtMmt5ZzQ0bzhoeXpRSnY5aEFnTDFLdTJYdmNmQ3JVWS1fUF9scjlSS0l5WHV3?oc=5",
+          "source": "Sports Illustrated",
+          "published": "2026-07-18T18:08:47-06:00",
+          "summary": "Nuggets Emerging as Landing Spot for Former NBA Head Coach &nbsp;&nbsp; Sports Illustrated"
         },
         {
-          "title": "Zach Bye is concerned about Nuggets 2nd round pick Trevon Brazile \u2014 he's a freak athlete but... - Denver Sports 104.3 The Fan",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZ0F4T0lrTWlHbTVVLUNSZktfeHR3MW82RDVwZVE1dUE0Uk1zNS1wUDg0d1RpQzVTZElvdGJPSVlUYXJrVEcxQlpiQUdKUTljdHNYcGsxODZuTXdHU2U0Rll6U0dYMGJmYUhUSmNZZ3lqWXVSdnFwRGdhNWozamZ3ZlRFN01iTWJLOGcya0RISFBjdE10bF9fMWJBbGFrV3dOTTZ5WHc4eU5TOTlKdUgwT0U4VTk2WnAwNFFHNXZGM09Wd21ZcXpqNzRXWDFPUWNfRXJhQjNaalB5QThHY0hiVmtwdFdja3h5bnN2TW4zMEZlaXFFTmRj?oc=5",
-          "source": "Denver Sports 104.3 The Fan",
-          "published": "2026-07-17T19:00:09-06:00",
-          "summary": "Zach Bye is concerned about Nuggets 2nd round pick Trevon Brazile \u2014 he's a freak athlete but... &nbsp;&nbsp; Denver Sports 104.3 The Fan"
+          "title": "Latest Nuggets Report on Peyton Watson Should Ease Fans' Fears - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1lJT1U4M1MyOEtSSUU5T3R1aXFWaHJYLUJpbjN1dk8tWjRDWk8wY1Z3alNzUnF0Z3N6ZWJGRGx1YTh3Nzc4R1pRZERiVkZrVHVPaFRBT0lfSTZpLTE2WUZWSkxrU0FXXzNaR1JVYk5nanlEdjQyZVU5WkdnSzZDUldJT0lxWHRIOHlBcw?oc=5",
+          "source": "Yahoo Sports",
+          "published": "2026-07-18T17:01:58-06:00",
+          "summary": "Latest Nuggets Report on Peyton Watson Should Ease Fans' Fears &nbsp;&nbsp; Yahoo Sports"
         }
       ],
       "Rockies": [
         {
-          "title": "Mid-Season State of the Position, 2026: First base - Purple Row",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOHdwUWk2Qml5X21QeDRaNVdMN29sUTFaZGpyN1BiMXRpN1R4QWV3OEpScVVrbEZvajViendjY1VzTUxCeVFCN05XN01VOHJCQ3BJeFp1ZFRfTkV2bkJEQmNYeGVGd1lqZURGc0xyWFVPX0lBSHZETmRDYzE4WU1DRUtCSi1McW0xUVNHREFzNEh2U2NxNXJiWXdaNEFmVG9uUmxxS2NzbTBXdExTcXdyaUs3clB5OUpqQ1ozcDZ4SzBkZw?oc=5",
-          "source": "Purple Row",
-          "published": "2026-07-18T06:00:00-06:00",
-          "summary": "Mid-Season State of the Position, 2026: First base &nbsp;&nbsp; Purple Row"
-        },
-        {
-          "title": "Cincinnati Reds at Colorado Rockies Game Story, Scores/Highlights - 07/17/2026 - MLB.com",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aQm1DUEJURFZtTmxBOW1rR28xa200Sk45WkYzc1dtZXJEYmgweGxMQ3NXM0dydFFrZzFRLTlLeEYwSVNETnlnYkQxejFzRXJ10gFQQVVfeXFMTVpCbUNQQlREVm1ObEE5bWtHbzFrbTRKTjlaRjNzV21lckRiaDB4bExDc1czR3J0UWtnMVEtOUt4RjBJU0ROeWdiRDF6MXNFcnU?oc=5",
-          "source": "MLB.com",
-          "published": "2026-07-17T19:24:55-06:00",
-          "summary": "Cincinnati Reds at Colorado Rockies Game Story, Scores/Highlights - 07/17/2026 &nbsp;&nbsp; MLB.com"
-        },
-        {
-          "title": "Colorado Rockies vs. Cincinnati Reds game discussion: Brady Singer vs. Gabriel Hughes - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMV9XU0pNcGs1UmszYWs5R0tJbHkzTDJGdWRjejNFRTh2MUpPWExHd2pfVVprVkRUb0xITGlMakM0VVN3SWhKTkxNdmxaMDduUERaS0RyTFF6R0ZfaUZFSFh5SFRqdWdSdEI0QTdib1gteWh4Vld1c0xVWHdld2NuWDkwUE1XN20tQTU2Mw?oc=5",
+          "title": "This Week in Purple: Colorado Rockies injury repot \u2014 July 19, 2026 - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3Nxd0lkSHZOS2EyNmdkbXNDWFI3dlctdWQ4RGlJVVpRMVd2a0IzajZEU0RFVUVYX1NDZkVleXhTX0xuY0NoVlJGZDk1ejhiTWtsREZXaHgzYXpEbmc4aWExczlqUlZlcGVHZjBTdjJ6SEVnTkdJZGZmdDhkTHp6YUh1dTI4akZVRDNLeg?oc=5",
           "source": "Yahoo Sports",
-          "published": "2026-07-17T17:40:00-06:00",
-          "summary": "Colorado Rockies vs. Cincinnati Reds game discussion: Brady Singer vs. Gabriel Hughes &nbsp;&nbsp; Yahoo Sports"
+          "published": "2026-07-19T06:00:00-06:00",
+          "summary": "This Week in Purple: Colorado Rockies injury repot \u2014 July 19, 2026 &nbsp;&nbsp; Yahoo Sports"
+        },
+        {
+          "title": "Cincinnati Reds at Colorado Rockies Game Story, Scores/Highlights - 07/18/2026 - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZUQ4QUszYzREZFlqUmlZQmRwaEowRU5xemYyYnpoWUZ6b1A3aFg2aFNyZWZrSERnQmVabnFVUjJUal9HNDUzOXo1dWdfQThhVkFJTEtnT1RXMmRSaHNWZ0tNUnlSWE9WU1NadW55Zm84a2RGdTI5QlE5ZEI5bWEzN0RCXzB3TGttM0xNTWxPMms2Nk1nOWd2SkNNT0RBNkIyQWk0bGtUblhHOF91bzlJWUJzMTFwNVN4M2FYclF4cVRORi1ZZ3BfeVVLcjFmMDNHYWtZQWlJOWYyLUdKZmtLQXhSVGpjYXc3SFY1Vm92ZlZkTXEtNnFsa1JqMnYySVXSAf8BQVVfeXFMTmVEOEFLM2M0RGRZalJpWUJkcGhKMEVOcXpmMmJ6aFlGem9QN2hYNmhTcmVma0hEZ0JlWm5xVVIyVGpfRzQ1Mzl6NXVnX0E4YVZBSUxLZ09UVzJkUmhzVmdLTVJ5UlhPVlNTWnVueWZvOGtkRnUyOUJROWRCOW1hMzdEQl8wd0xrbTNMTU1sTzJrNjZNZzlndkpDTU9EQTZCMkFpNGxrVG5YRzhfdW85SVlCczExcDVTeDNhWHJReHFUTkYtWWdwX3lVS3IxZjAzR2FrWUFpSTlmMi1HSmZrS0F4UlRqY2F3N0hWNVZvdmZWZE1xLTZxbGtSajJ2MklV?oc=5",
+          "source": "MLB.com",
+          "published": "2026-07-18T21:45:00-06:00",
+          "summary": "Cincinnati Reds at Colorado Rockies Game Story, Scores/Highlights - 07/18/2026 &nbsp;&nbsp; MLB.com"
+        },
+        {
+          "title": "Colorado Rockies Players Talk Second-Half Predictions - Just Baseball",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFBvZjJtdUNuY3BiZnl5ZmY5Y1hxbzZ1QWZycG1VR24ydEthMTgzX3BIb0VSUGhRRTc3bVZBZVpMVjcwZW0yQm95WVRtWGJEUVZPb0pDVXVfSlAwSHZfRm9Uc3NlN0d6cmlQNEp6elJ6Y1dxOXhNQzVIYW5BSXNHNElfQlFjbHBvVmVqSERrVHV3dEpfYTljVlhaYw?oc=5",
+          "source": "Just Baseball",
+          "published": "2026-07-19T04:00:00-06:00",
+          "summary": "Colorado Rockies Players Talk Second-Half Predictions &nbsp;&nbsp; Just Baseball"
         }
       ]
     },
     "us_news": [
       {
-        "title": "Iran renews attacks on Gulf states after another night of US strikes - Reuters",
+        "title": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
         "source": "Reuters",
-        "published": "2026-07-18T05:39:29-06:00",
-        "summary": "Iran renews attacks on Gulf states after another night of US strikes &nbsp;&nbsp; Reuters"
+        "published": "2026-07-18T15:30:29-06:00",
+        "summary": "US says two military personnel killed by Iranian attack in Jordan &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "DHS threatens states with fines, charges over election measures - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEo1V2hWN3dnd0ZxQ1VZQTNJUHNTWVJXSTRseVFDUTJnRWhoNnhNZllCZzVQUGZqMFJMSF9pMDZNOHp2OTdQdUJzUFZ4aXBMOWwyUDcwM2I5NklRRnlMT0pBeEVVcFRvSGNpNVk1MVlDNDdMNDRPMTMwZ2F3UjJVRVBod1prUHFjZ2NGRDZ5SWZMdGZYaWpmR3RfRkZlWVB2UnhRU0tQd3F6Nmh3Mzl1VmM4UQ?oc=5",
-        "source": "Reuters",
-        "published": "2026-07-17T16:30:23-06:00",
-        "summary": "DHS threatens states with fines, charges over election measures &nbsp;&nbsp; Reuters"
-      },
-      {
-        "title": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXUtel94MS1EWVNOZU1tWW12N1lUWjBTSVBmSTk3bnNGWUd5ellVbVBYZ09LdmozUjVxT0dWbUZkTXU1UEpucm5kblpRd1JQX1Q0NDhEbDZ0dFJUazhCcjlJemk2RHUtMU1PTkdpSHRyZmVJZ01ZTFNyZ1REQkpFc1JLcTUzM2VaaVJqSDdZblNuWjBJTV9tQnZnVG9NSTRHXzJFUHJB?oc=5",
-        "source": "Reuters",
-        "published": "2026-07-17T10:11:00-06:00",
-        "summary": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs &nbsp;&nbsp; Reuters"
-      },
-      {
-        "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite - AP News",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGRkT2laLXQ4SXI1cjFYeDBkOC04RmVieUZZVHljejdCM3RVWFBCSFJFU0Eya0REWjFMczBKT21RTUlEa3hVZkg2cDVrTmg4UEZOaVIyQlNPYUZmaFBrQWlYRFJUZk5KZmJYVUFfNHBKaDZyRHZCU3NaS0t3LVVMNGl6ZW8tSUR5LUY4VXN4VkIzVy1oRVRLQjUzMjI?oc=5",
+        "title": "Taylor Farms recalls lettuce shipped to 27 states over cyclospora risk - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPakZ4ckZETnFzYzROSFpIZmRrZHdPeTl6Mmo4ZVFjYmhJVTl3ZHNjcFRLZmotODlGYVZ5Y2hIdjJxa3NvZUFQb0M0SXRuZGJ5Vi1kMGE2N2RNa0RGMTZLRWYzTmZYME10WVBoRlFsN2tpRUtFY2M2cnlRME90S0dUQWdXRkdUUXJWem43b2dIOWd4YW5GczZPY0w5eF83UVZBOWNoVVJzUlo4SEdh?oc=5",
         "source": "AP News",
-        "published": "2026-07-17T14:58:00-06:00",
-        "summary": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite &nbsp;&nbsp; AP News"
+        "published": "2026-07-18T17:02:00-06:00",
+        "summary": "Taylor Farms recalls lettuce shipped to 27 states over cyclospora risk &nbsp;&nbsp; AP News"
       },
       {
-        "title": "US lifts some Hong Kong sanctions imposed by Trump, autonomy status unchanged - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcE5TTHFxWVMyd3J4OFpPSHRzblN3bzk1YXVjRUl2S1ZBbVJha1Y1TmpWbzVfbE15VzIxUVJ0VDRkNnk1ZnJmX0xmT1l5N0pZNlNfZWllRmJQY1V5QTRUTWpWZTBjWGZYNjhxMjhFTEdhaHZGdC1KdklCaXNIbHpCd0RnOFNTNHhwTWxoYUZGa2lLVFdOT2JLYU9Nbjh2T3liZXJyOHcwOXREaklJVnNsWA?oc=5",
+        "title": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwclQ1N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5",
         "source": "Reuters",
-        "published": "2026-07-17T17:07:43-06:00",
-        "summary": "US lifts some Hong Kong sanctions imposed by Trump, autonomy status unchanged &nbsp;&nbsp; Reuters"
+        "published": "2026-07-18T17:35:18-06:00",
+        "summary": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' &nbsp;&nbsp; Reuters"
+      },
+      {
+        "title": "Andrew, Tristan Tate arrested in US on new charges of rape, trafficking - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWVrU0l3eHVCZkRkTjBUdmF1LW5OdTRDTl9wWHZEV1ZGQm9Ha0VsQVVzM2NnY1RZbzh4QUVrT3lVMmlHZjBEWFZYQllmeWVKWm5TVnRJNTVqVDJvOGJRMURxaEVSYzlLMVNTd3FtRDZZSVFUeWFWNFhmV1EyaFRyNWp1RHdXdzNIWWxneTJsZlY3M2oxZWI1MzlVSDhtQlliS1NoeUZZU0p6bWhPNHU4RzBFLUVvZU03ODllRg?oc=5",
+        "source": "Reuters",
+        "published": "2026-07-19T05:04:09-06:00",
+        "summary": "Andrew, Tristan Tate arrested in US on new charges of rape, trafficking &nbsp;&nbsp; Reuters"
+      },
+      {
+        "title": "Trump says Republicans should add Iran to Russian bill - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMnFZbzUwRlM5eW5NN1JqbnNQcHdUdEsxRk11OEdEeEJ4RnltcERZSkl0dlVneU5mYlhURlN4R2F1TUliWjZ2dVZUX3dJS3JucHBEUG5hY04yUUgzWnF3SHVaNTBwb3o3cUdqNEVLWGttNjdqZ2lzSDJWQy1LeW1saG9xSjZxaXpzSFg1QzNWeG50MmtDRnpVb2NsNFlpRENJSjJ4ZTlfby0?oc=5",
+        "source": "Reuters",
+        "published": "2026-07-19T06:11:49-06:00",
+        "summary": "Trump says Republicans should add Iran to Russian bill &nbsp;&nbsp; Reuters"
       }
     ],
     "world_news": [
       {
-        "title": "Mount Olympus, home of the ancient Greek gods, is a candidate for the UNESCO World Heritage List - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWptNmRfVEgwcmhic0c5SWFuQnI3MEVORVVOeEN6VDZsN2hlMXJHeWs2S0ZvdWlWYWdldWR1dmxPM1pfeW5hazg3U1VjdFNBTjg5ZzNPSE91QjFuMVFETkVLT1Fjek5JSXUzcHFaVzl4THEyYmpSejdOeU8xbVBkLWlLZFFEWU51eVZlZk9PbjFmTElDSDNHVFQwZFhkamstaEFjNW1reEtaWF9H?oc=5",
+        "title": "The biggest takeaways from the 2026 World Cup - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTG45T0ZaXzVrTjdEaDBIT010bmFkclUtOGh1NHVyR3NIaFJ2RmV0RHRHTTllR29hWktPczZIN2tiRGJJS3QzWUZCWTlJZ1JCSHp4U0UzVnQ5UkYtb2oyMjBzZ3RndlZYRWVEUzlCS3RWTVNYMS1uM2l6emI5c0dUbzlEREJTN3RxNkItMjV5MGNxcUxMVHc?oc=5",
         "source": "AP News",
-        "published": "2026-07-17T23:26:00-06:00",
-        "summary": "Mount Olympus, home of the ancient Greek gods, is a candidate for the UNESCO World Heritage List &nbsp;&nbsp; AP News"
+        "published": "2026-07-19T01:39:00-06:00",
+        "summary": "The biggest takeaways from the 2026 World Cup &nbsp;&nbsp; AP News"
       },
       {
-        "title": "Disappointed France and England meet for third place in the World Cup - AP News",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTd3Tm5ETWpuMTd5ZWpwQ1JMYUtlUjZ2WnAyS3V0LVJZZGtRTDFJQXZmZEJhRkNFTW9tMWlENm9TN1RueWtGWDRUR2N5cE1IZkxLdXJlZEdFcUlDWUNidld3dl9wTHVlNDRnQ0U4dHQxZkxvWGR1cEhkdUIyTzZBQ3FzdE82TlFyZFhONEVzR1Z4aTloQ1BqVjNYcUg4d203VHFMenRB?oc=5",
+        "title": "Trump celebrates the World Cup as a US victory as he prepares to present trophy to the winning team - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzFYUG91TzJuN0RjbWhPdVlwako3eUtzNEswNkRZZC02UHprUzFNQ2JrUnJldGotMXhTSEVTbXRRT1BBV0cweHFJN291WFR2T3NuZFJiQ3Eya1h1d2tYWlB2VVRaZjFSYmd0WGY0cHhnaVdDMERaSzJWeFNyQTVKbEc1YVdXYVJN?oc=5",
         "source": "AP News",
-        "published": "2026-07-17T19:18:00-06:00",
-        "summary": "Disappointed France and England meet for third place in the World Cup &nbsp;&nbsp; AP News"
+        "published": "2026-07-18T22:01:00-06:00",
+        "summary": "Trump celebrates the World Cup as a US victory as he prepares to present trophy to the winning team &nbsp;&nbsp; AP News"
       },
       {
-        "title": "Trump back in World Cup spotlight after starring role in tournament's controversies - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1pkdk1wVUlqbU1wUk9aNExpUGVrc2RpVmRZNG9pM0NnQUlabkgtTjdWejhyYVFYT2lUOUU2dzhxeEJZbS1RQzJRZ2NGTExoc0h4YUFpZmw5LUxfbThCdi1uNS03a1lQTnlPV3NzY3NJdlo1TW1nOHdUTGxraFV6b1loZTkyRVhCbjdBdi10MWtMcHZvTzVXS0VUSzd4ZDk2eTQ3UjJYbGtneE5OMTJYRU4zM0JRUkFrdWIyd0hvdEh1REVp?oc=5",
+        "title": "The World Cup final is here, with Argentina taking on Spain in soccer\u2019s showdown - AP News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMk9mUjZkMnBxaV9HTjEtWmI3WjdyMzBZVlVGa1BHWlgzZ2UteEo2djEzQVJfa2U4OXdwdk5zSGUzbXNHNS1jcktrRS16LTZBMzFQVU1mN0hQbWZKZHptWi0zdHBMZ3h2bjBwSExObm9xTjRGN3hqblltcUhNYy0xYlc0RWtndllzNDdjOGx5ei11YXI2UXBvZWtnTzBzdXJZYlBFTWpn?oc=5",
+        "source": "AP News",
+        "published": "2026-07-19T04:00:00-06:00",
+        "summary": "The World Cup final is here, with Argentina taking on Spain in soccer\u2019s showdown &nbsp;&nbsp; AP News"
+      },
+      {
+        "title": "France's Mbappe becomes World Cup's all-time top scorer - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0NEamEwUjFTWnpwN2pmbFBEcDB5MUZJU3Vxek5CS0lOOWItZTR5WEs0QVJHbklnWkd1eG0zdG1JY0ZRU2t0OUZvZndBeGxoenZ0SlZzazUtRDRRanJ6OEUwQUNGV0phaDY3TlQtU3laT1RoTFZSTDZMWjdfR1JSQ1RHRnZnVGtrSFFBNFJaNF8xZ3hXY0VFS0Q2QjhIUS1HUU5PUw?oc=5",
         "source": "Reuters",
-        "published": "2026-07-17T16:55:00-06:00",
-        "summary": "Trump back in World Cup spotlight after starring role in tournament's controversies &nbsp;&nbsp; Reuters"
+        "published": "2026-07-18T16:37:00-06:00",
+        "summary": "France's Mbappe becomes World Cup's all-time top scorer &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Lionel Messi speaks in advance of World Cup final, says Argentina \u2018will give it our all\u2019 - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU1NyaFA2YmFjazZUQm8yVHM4UkQ5Tmc5TzdkM19EWTFlem0yR3EyRlM1WUYwN2hnZDc3QjJKak1FT2JzdFYzdEk0S2xkaW9qaVlHcTFyc1ZmcXppa1kyMnhrVkJuMHJJaE5rT2ZnSG41MEUxQmV2d0U4XzAtRUJpQXRSZ0xLVXRxVWRlWjNlSU0zTlM0aUE?oc=5",
-        "source": "AP News",
-        "published": "2026-07-17T18:32:00-06:00",
-        "summary": "Lionel Messi speaks in advance of World Cup final, says Argentina \u2018will give it our all\u2019 &nbsp;&nbsp; AP News"
-      },
-      {
-        "title": "Trump, Infantino give World Cup high praise, calling tournament a success - AP News",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXJvYXFydWI5LW9HdExWMklVSk52UlJqN3F6dEx2cGpFZms1amx4bGdicFJRV3FUNjFna2pBX2w2WVkyNlItaUgwTzJTSHJLNzBzcHdXRzZwYUdxaFEyUVZTd3I1WkdfN1FvNXlZNXBnNlpHU1kzT1J2ZGtvV3piQW5Fdkt4eFpXWXdPcU9JLTNyd3FUd3c?oc=5",
-        "source": "AP News",
-        "published": "2026-07-17T16:39:00-06:00",
-        "summary": "Trump, Infantino give World Cup high praise, calling tournament a success &nbsp;&nbsp; AP News"
+        "title": "England take World Cup third place with 6-4 win against France - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOERnX0syUUdGclo1NXl3bUdKMVUyZE9lTGxGWU9kRERJdExXZjEyeUJYNzlxT19vMTE0QVFLczgxMEY1bGZ3ZmxFUmNpbWFTNlYxa1hOMGRvLVNNZzZGMmx3cWtiYUpra0F6TzdLTVp0cUJnTkpMSzRyczQ1OUdSa0NzOGVYOTI0d3FDak5aQlN3d1UxWHloREFHam53QzhkVE5ELVFqZ1VCSFNLelEzTVhR?oc=5",
+        "source": "Reuters",
+        "published": "2026-07-18T17:13:43-06:00",
+        "summary": "England take World Cup third place with 6-4 win against France &nbsp;&nbsp; Reuters"
       }
     ],
     "auto_industry": [
       {
-        "title": "Endgame: The Decline & Fall of the Western Automotive Industry - CleanTechnica",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSjlrMkhhVmR1M1FOcmlyMzFKWW8yRkx1WUUzVGRxVnpjRGJMamZRaXdvZmtRQ19nY3R6TElORE0zRmcySHZ0aFQxeDdtRzJFc1lWMk83OHhfUVFRd0o1OE02YTVNNVB6dW9RU0p2Z01OaDU3UXRraG55R2YwcVBVWkVtcHVFa3FIclhvSzRNTUVnMm1CQ012RzBLQWtMUQ?oc=5",
-        "source": "CleanTechnica",
-        "published": "2026-07-17T21:19:47-06:00",
-        "summary": "Endgame: The Decline & Fall of the Western Automotive Industry &nbsp;&nbsp; CleanTechnica"
+        "title": "America's EV graveyard grows: The electric cars axed by automakers this year - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54N25WbEpoQml2NTk2WEV4WUFCNjIwYmdSZ0k5OW1vUnFnTW1MSWlUT050cTNVTmczckg0blBjMDdtNERGUWxxUm03ZTNadUl5bW9kZkNsbWNxU19FbzFvU0V2YkNORy1zbzBwaG1mcUZBNmpJaks4?oc=5",
+        "source": "Business Insider",
+        "published": "2026-07-19T03:03:11-06:00",
+        "summary": "America's EV graveyard grows: The electric cars axed by automakers this year &nbsp;&nbsp; Business Insider"
       },
       {
-        "title": "XPeng L03 has the auto industry worried - and for a good reason - ArenaEV - ArenaEV",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjJId1pBeWlDaW9PZU96cnEtbDdieXptV2FqVzdJWkxRM0I3eUxLR0ZDU1czTm0xOElTZEtKN3dTVHhWaks4Y0luV3dQS041WUdDZy1GbGFsN1pDZVNjSlV4RzE0M0toVGdZbVc1cl9lYzBURlJndGtxa1gzMXFHd25UM0hoZ3JsblhsRS03djhtakdsNGt3ZGFKV1hwNjlva1HSAZ4BQVVfeXFMTTVxbU1ZenRXVFNKVVY2a3c4Qm5CSlg2aU1Lc1F2TWtqaHB4Y1FPVFF5dlRRMks4RUljb21oUXZMVXRsTnlpZTZSb205OGZTSGpPMmd1cHNHZHdpcER6S3NyWVBhcC00cDNBNmVseW1xdWVtQWRBbW9aaTZXNXNlQ3RZak0yemFZYlMyUm03NGJsUjFGalFPcGt6d3FlMUE?oc=5",
-        "source": "ArenaEV",
-        "published": "2026-07-18T01:39:56-06:00",
-        "summary": "XPeng L03 has the auto industry worried - and for a good reason - ArenaEV &nbsp;&nbsp; ArenaEV"
+        "title": "What the Auto Industry\u2019s \u201cDemographic Cliff\u201d Really Means for Dealers - Traction News",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEZGYVVJb1RvRy00N3FLbE1VVlVCQ0d6ak1BVDYtbjhHWHdZMF9yMTl4NU4wTTE2eF9UeUZac1NmMTdVX3hVQTAtYnVDYmRHR0g4SEF3bGVkQnZMYXByRjJJX3pvSUZrZE94WG1CUEQtODgzQWQzVmVBRlZwVUVyWmt2LWQ4QWNpSTlLUFppeFllLWNDSHdKSnNFdE3SAaQBQVVfeXFMTXNWZTRlSE4xNjRYVjNhb3V2dUppdjRQRVVaVXJLX1NlMWUxM1p0bHdzZDJwTEJURnd2NDJxdVNoRTVWMzg0SlNkQkdpM3ZZeUhsQldubHgtY1lHaXhsNkN4bTRrNkNHT3BDblNmLVFkSXlHSDJYRFFZQW1KTmc2WTdKaEh6X2ozM042UGQ1WE1SRU1VWkIwN1ctcXRjbjBPWXk2c0Q?oc=5",
+        "source": "Traction News",
+        "published": "2026-07-18T21:18:20-06:00",
+        "summary": "What the Auto Industry\u2019s \u201cDemographic Cliff\u201d Really Means for Dealers &nbsp;&nbsp; Traction News"
       },
       {
-        "title": "How VW's crisis could reshape the global car industry - DW.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzRlazBhVXd4RnFmSXZtNmtseXFRUFEwLVNFTXZMUUM1bm1ucklWejg0N20wcFd2VTFodm9faUl4WDk0bWVLc1pHUTBGSEtBdmFsanlFYkk2cUhOU0VwWGstSkJXc283ZzJFYlN4TE5zWG93SlRDUWZNU0JYY3Y1eUdfd1cwTGVJOUJoTkEwNFhTMGM?oc=5",
-        "source": "DW.com",
-        "published": "2026-07-18T02:36:35-06:00",
-        "summary": "How VW's crisis could reshape the global car industry &nbsp;&nbsp; DW.com"
+        "title": "'Right to repair' is coming to cars, but there's still this big blind spot as consumers demand more autonomy - Fortune",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMjFkNFJGQ0hJRG5lTkphS3BKUXlkUGd6bVBCanNWMElkOWlUclplYjY3dHlmUm53OTZTcERPdzlEUERIVko1Z0N3ZE1VV3JSWEw4cXBBVW9rVDkxSV95Nk1wNnkyeXRzSm9uQ1NNWElQOEw4M293VzBQU2FPam1WMDlPS0xnVDJlOXVqdkRMMlRPUk0?oc=5",
+        "source": "Fortune",
+        "published": "2026-07-19T02:00:00-06:00",
+        "summary": "'Right to repair' is coming to cars, but there's still this big blind spot as consumers demand more autonomy &nbsp;&nbsp; Fortune"
       },
       {
-        "title": "Ford (F) Warns US Auto Industry To Get Ready For Chinese EV Rivals - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT2h1bWs2V2VKdDhRNnNTd1ZHNnVWSEdHVHdrbWlnb09hZmFMSXJsYmI4V3N0WWdBMTdBVWVHMXNNWnVWSVc1cmwzQWhoOXZsOTl3UzFNUkZyTFkxcGpQOXpRM0dFU2Y4Qm1GcUV3X29TVHp3elV0LTNiX013Zy1WaFJ5VXNzdlJidGdnZzZLLTZ4Y29ieWRBRHgxcFduTUEzX0l5d0UtbjJOaktmV2lSWkhudjVlVjBqYVZnb0pwMHVscWF0YklDRTNTNNIBywFBVV95cUxOT2h1bWs2V2VKdDhRNnNTd1ZHNnVWSEdHVHdrbWlnb09hZmFMSXJsYmI4V3N0WWdBMTdBVWVHMXNNWnVWSVc1cmwzQWhoOXZsOTl3UzFNUkZyTFkxcGpQOXpRM0dFU2Y4Qm1GcUV3X29TVHp3elV0LTNiX013Zy1WaFJ5VXNzdlJidGdnZzZLLTZ4Y29ieWRBRHgxcFduTUEzX0l5d0UtbjJOaktmV2lSWkhudjVlVjBqYVZnb0pwMHVscWF0YklDRTNTNA?oc=5",
-        "source": "simplywall.st",
-        "published": "2026-07-18T03:36:23-06:00",
-        "summary": "Ford (F) Warns US Auto Industry To Get Ready For Chinese EV Rivals &nbsp;&nbsp; simplywall.st"
+        "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY25LZ041MENtbWVpNE1nSERsRzR4QUp1Skt0YWo5cHBPZ1p2ajdlQ2lTM3JseXhLMkdpc1A0ZFRtUTVHcU1tZU01ajN0MUpUSHozNmpNTktUZjNzemtPdmpMMDB5TXl3N1RWU0syc29RWjJRRlhXZ281X21JeWo1UUtEODA0MVdQcG14eGRPNzNGekQtUnVR0gGcAUFVX3lxTE9NX0Z4bUJkM3ljOUZscHdpU1U2SVFWdWhWSFFMSGdBRGJkVHRpN2c5WmNUSHc0X04ybGxDQWpVZEdpS2dTNmZ3dUE3N2IyVU9LM05oSG5RTDA2WkR3N19QSWpFMXJBUVRHQUp0c3pvTnRJSXNkejZMYkthQzdqNlFyNlZUdEVRcGRaS0k3eHlnRExPQzlreTB3Y3Q5Rw?oc=5",
+        "source": "CNBC",
+        "published": "2026-07-18T17:01:01-06:00",
+        "summary": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned &nbsp;&nbsp; CNBC"
       },
       {
-        "title": "Automotive Industry News, Self-Driving Cars And EV Stocks To Watch - Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXZqbG10WUxlNUg2dGNUY19pNFVMTlloQ3FzQlhxNktxanRZaU5VZnZ0cGVPS29IdGlMVGxJZmJOYVZNSWpaNHJPMDl0REVTcjdac0l6QTkwNGFnOHBMS0lqR2d1WHNNemlsb0pzSHlnMExNdHkxM3BKTkhmZGhkeXNURVBSUmdnZzV6TEZwLUhuZFBWSVdNb2Z3?oc=5",
-        "source": "Investor's Business Daily",
-        "published": "2026-07-17T10:37:00-06:00",
-        "summary": "Automotive Industry News, Self-Driving Cars And EV Stocks To Watch &nbsp;&nbsp; Investor's Business Daily"
+        "title": "China's electric vehicle manufacturing surges, reshaping auto industry - trend.az",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oNDNVNU5iaTlwLTdSQkNST08tR3hmaUZrLUdUZ0xuazFsendUYmFDN0wzcTByMmRlTTJvYU96RENtYVpGeWdOV3ZHQk90SWhoWlFlcQ?oc=5",
+        "source": "trend.az",
+        "published": "2026-07-18T23:08:00-06:00",
+        "summary": "China's electric vehicle manufacturing surges, reshaping auto industry &nbsp;&nbsp; trend.az"
       }
     ],
     "auto_software": []
@@ -315,7 +315,7 @@
     "auto_software": {
       "label": "Automotive SaaS / Dealer Software",
       "status": "ok",
-      "candidate_count": 8,
+      "candidate_count": 5,
       "target_count": 5,
       "count": 0,
       "queries": [
@@ -326,7 +326,7 @@
         "\"digital retailing\" dealership automotive when:1d",
         "\"inventory management\" dealership automotive software when:1d"
       ],
-      "relevance_filtered_count": 8
+      "relevance_filtered_count": 5
     }
   },
   "failures": [],
@@ -344,108 +344,96 @@
     }
   },
   "deduplication": {
-    "duplicate_count": 8,
+    "duplicate_count": 7,
     "dropped": [
       {
         "section": "sports.Rockies",
-        "title": "Cincinnati Reds vs Colorado Rockies \u2013 July 17, 2026 - Redleg Nation",
-        "source": "Redleg Nation",
-        "duplicate_of": {
-          "section": "sports.Rockies",
-          "title": "Cincinnati Reds at Colorado Rockies Game Story, Scores/Highlights - 07/17/2026 - MLB.com",
-          "source": "MLB.com"
-        },
-        "reason": "summary-overlap",
-        "score": 0.771
-      },
-      {
-        "section": "sports.Rockies",
-        "title": "Cincinnati Reds vs. Colorado Rockies: Game Highlights - ESPN",
-        "source": "ESPN",
-        "duplicate_of": {
-          "section": "sports.Rockies",
-          "title": "Cincinnati Reds at Colorado Rockies Game Story, Scores/Highlights - 07/17/2026 - MLB.com",
-          "source": "MLB.com"
-        },
-        "reason": "near-title",
-        "score": 0.9
-      },
-      {
-        "section": "sports.Rockies",
-        "title": "Statcast Game Preview: Cincinnati Reds at Colorado Rockies - 2026-07-18 - Baseball Savant",
+        "title": "Statcast Game Preview: Cincinnati Reds at Colorado Rockies - 2026-07-19 - Baseball Savant",
         "source": "Baseball Savant",
         "duplicate_of": {
           "section": "sports.Rockies",
-          "title": "Cincinnati Reds at Colorado Rockies Game Story, Scores/Highlights - 07/17/2026 - MLB.com",
+          "title": "Cincinnati Reds at Colorado Rockies Game Story, Scores/Highlights - 07/18/2026 - MLB.com",
           "source": "MLB.com"
         },
         "reason": "summary-overlap",
         "score": 0.63
       },
       {
-        "section": "sports.Rockies",
-        "title": "Cincinnati Reds vs. Colorado Rockies \u2013 Brady Singer vs. Gabriel Hughes - Yahoo Sports",
-        "source": "Yahoo Sports",
+        "section": "us_news",
+        "title": "US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters",
+        "source": "Reuters",
         "duplicate_of": {
-          "section": "sports.Rockies",
-          "title": "Colorado Rockies vs. Cincinnati Reds game discussion: Brady Singer vs. Gabriel Hughes - Yahoo Sports",
-          "source": "Yahoo Sports"
+          "section": "us_news",
+          "title": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
+          "source": "Reuters"
         },
-        "reason": "near-title",
-        "score": 0.9
+        "reason": "summary-overlap",
+        "score": 0.771
       },
       {
         "section": "us_news",
-        "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
+        "title": "Two US service members in Jordan killed in Iranian attack, US says - Reuters",
         "source": "Reuters",
         "duplicate_of": {
           "section": "us_news",
-          "title": "Iran renews attacks on Gulf states after another night of US strikes - Reuters",
+          "title": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
           "source": "Reuters"
         },
-        "reason": "same-event",
-        "score": 0.45
+        "reason": "summary-overlap",
+        "score": 0.643
       },
       {
         "section": "world_news",
-        "title": "International visitors came to the United States for soccer. Some saw beyond the clich\u00e9s, too - AP News",
+        "title": "England survive France fightback and secure third place in World Cup goalfest - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "world_news",
+          "title": "England take World Cup third place with 6-4 win against France - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "summary-overlap",
+        "score": 0.54
+      },
+      {
+        "section": "world_news",
+        "title": "Saka\u2019s hat trick lifts England past Mbapp\u00e9 and France 6-4 in wild World Cup third-place game - AP News",
         "source": "AP News",
         "duplicate_of": {
-          "section": "us_news",
-          "title": "International visitors came to the United States for soccer. Some saw beyond the clich\u00e9s, too - AP News",
-          "source": "AP News"
+          "section": "world_news",
+          "title": "England take World Cup third place with 6-4 win against France - Reuters",
+          "source": "Reuters"
         },
-        "reason": "url",
-        "score": 1.0
+        "reason": "summary-overlap",
+        "score": 0.72
       },
       {
         "section": "world_news",
-        "title": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs - Reuters",
+        "title": "Thunderstorms disrupt Spain and Argentina World Cup final training plans - Reuters",
         "source": "Reuters",
         "duplicate_of": {
-          "section": "us_news",
-          "title": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs - Reuters",
-          "source": "Reuters"
+          "section": "world_news",
+          "title": "The World Cup final is here, with Argentina taking on Spain in soccer\u2019s showdown - AP News",
+          "source": "AP News"
         },
-        "reason": "url",
-        "score": 1.0
+        "reason": "summary-overlap",
+        "score": 0.562
       },
       {
-        "section": "auto_industry",
-        "title": "Auto Giants, Regulators Back Nigeria Auto Industry Summit on EV, CNG Transition - THISDAYLIVE",
-        "source": "THISDAYLIVE",
+        "section": "world_news",
+        "title": "Spain vs. Argentina World Cup final a very high-priced ticket to watch Messi and Yamal - AP News",
+        "source": "AP News",
         "duplicate_of": {
-          "section": "auto_industry",
-          "title": "Auto giants, regulators rally behind Nigeria Auto Industry Summit on EV, CNG transition - Vanguard News",
-          "source": "Vanguard News"
+          "section": "world_news",
+          "title": "The World Cup final is here, with Argentina taking on Spain in soccer\u2019s showdown - AP News",
+          "source": "AP News"
         },
-        "reason": "near-title",
-        "score": 0.81
+        "reason": "summary-overlap",
+        "score": 0.562
       }
     ]
   },
   "curation": {
-    "trimmed_count": 73,
+    "trimmed_count": 74,
     "trimmed": [
       {
         "section": "sports.Broncos",
@@ -465,22 +453,22 @@
       {
         "section": "sports.Rockies",
         "target_count": 3,
-        "trimmed_count": 5
+        "trimmed_count": 8
       },
       {
         "section": "us_news",
         "target_count": 5,
-        "trimmed_count": 14
+        "trimmed_count": 13
       },
       {
         "section": "world_news",
         "target_count": 5,
-        "trimmed_count": 13
+        "trimmed_count": 11
       },
       {
         "section": "auto_industry",
         "target_count": 5,
-        "trimmed_count": 14
+        "trimmed_count": 15
       }
     ]
   },
@@ -513,7 +501,7 @@
       "items": [
         {
           "label": "DealersLink / auto retail SaaS",
-          "signal": "Endgame: The Decline & Fall of the Western Automotive Industry - CleanTechnica",
+          "signal": "America's EV graveyard grows: The electric cars axed by automakers this year - Business Insider",
           "application": "Translate vendor/product movement into a question: what dealer task is still manual, slow, or poorly measured, and can DealersLink make that workflow simpler?"
         },
         {
@@ -523,7 +511,7 @@
         },
         {
           "label": "Future AI business",
-          "signal": "Iran renews attacks on Gulf states after another night of US strikes - Reuters",
+          "signal": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
           "application": "Favor narrow, paid workflow wedges: a recurring report, an agent that saves a team 30 minutes daily, or an integration that turns messy inbox/CRM data into decisions."
         },
         {
