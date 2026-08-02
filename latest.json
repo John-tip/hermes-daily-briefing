@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "generated_at": "2026-08-01T08:10:36.573761-06:00",
-  "date": "2026-08-01",
+  "generated_at": "2026-08-02T08:10:40.743155-06:00",
+  "date": "2026-08-02",
   "news_window_hours": 24,
   "weather": {
     "headline": "Sunny",
-    "detail": "Sunny, with a high near 95. North wind 2 to 7 mph.",
-    "tonight": "Mostly Clear",
-    "high": 94,
-    "low": 68,
+    "detail": "Sunny. High near 101, with temperatures falling to around 99 in the afternoon. East southeast wind 2 to 8 mph.",
+    "tonight": "Partly Cloudy",
+    "high": 101,
+    "low": 69,
     "source": "https://api.weather.gov/gridpoints/BOU/63,62/forecast"
   },
   "calendar": [],
@@ -18,217 +18,209 @@
     "sports": {
       "Broncos": [
         {
-          "title": "2026 Denver Broncos training camp: Latest intel, updates - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3BZYmpJSEpvRTNTeUxqMXkzemtCbXVrbzdZaThraTRSdzUwVWJFWmtKc0dzSmd5RjRvMmMxYkc0OVJkQ0J0QTlCRXhxdjdDRXR1T2dIYTdrSWttVWdJU3ZiTnZndlJzUVRDbllRcmIzVzF2YVVOdXp1LUlmd2N5bE80LXUwbFhMMmlZdHBIbWRKazhqZHlZ?oc=5",
-          "source": "ESPN",
-          "published": "2026-07-31T14:27:00-06:00",
-          "summary": "2026 Denver Broncos training camp: Latest intel, updates &nbsp;&nbsp; ESPN"
+          "title": "Denver Broncos roster review: Tight end Adam Trautman - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHVWZndCU1VNd3ZVTmt5N1lnMmVVZzZvM3NNZVNfOUc2b2UxSS14dUVZQmRBWHJ6Sno0cW45N3dTdGViaFRZNVhzZWt6MHAyaC1IQVVyTWljSDVPWm1ScDZfNy1RNzF2cFBESzNOekVHbTA1aFhBRHZGNFJpeU12NjFTbWdZMkJuRDBv?oc=5",
+          "source": "Yahoo Sports",
+          "published": "2026-08-02T05:00:00-06:00",
+          "summary": "Denver Broncos roster review: Tight end Adam Trautman &nbsp;&nbsp; Yahoo Sports"
         },
         {
-          "title": "5 takeaways from Day 1 of Broncos training camp - Broncos Wire",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd19ralAyWVpvOHRtRHc3amQwVGZNazFWSmZYWFZLNEQxY1Y4eXdEWUpkcVhQOU4zWjlmNDlERWtKVlY2LUQ2Z3BOUEtLMEFCLVZMRjVndmNOMzRkQ0IwT1N3U2N1bE4xMHNXbGY4ek5jb3VXNlBZeE1veDB3eTdqeDhycnUySDNFYl9GemM4M05tQ1lqUG82UTAwUkx5cHpwZHF4Y0ZuU0prNkV6ZlpiS3hUaWdnRTg2cnRNWEdweXdGU2dz?oc=5",
-          "source": "Broncos Wire",
-          "published": "2026-07-31T17:35:00-06:00",
-          "summary": "5 takeaways from Day 1 of Broncos training camp &nbsp;&nbsp; Broncos Wire"
+          "title": "Denver Broncos Training Camp Notebook: Bo Nix makes big plays but defense wins the day - DNVR Sports",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0I0VDNqRzJ6QUowMi1aVEdWYUZZeWRjenpKT24tSFc5OW5KOWxMYkpXVVgySkZ3UVFqdUFCdEdqZTlMQjBQb0txcU8wbDZUWUxfYk5HbnZrYVo4QS0tWGM1UkpMdFNlMEpOcm5UWXFxZGdWbXhtTE1jdHBJYzRoLWdrQnQ0WXFRUExrRGlGbERBNGZVREpueVliaGNPT05VdlFENjdwUzQwYmpSWXlhZXZvcUg?oc=5",
+          "source": "DNVR Sports",
+          "published": "2026-08-01T13:42:20-06:00",
+          "summary": "Denver Broncos Training Camp Notebook: Bo Nix makes big plays but defense wins the day &nbsp;&nbsp; DNVR Sports"
         },
         {
           "title": "LIVE: Press conference - Denver Broncos",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UkpsSjN6Q0dNMGpJY3VmV0tBdFRtS2J4NUZmV3FVcnE0NTVtVjZOZXZIQ2IzcXhPNTQwTFAzd3dISzZLdnRoUGZPM2xCQ0NGSU1IV2pFVmFld2t1cGlHS3IyWVQ4ek9N?oc=5",
           "source": "Denver Broncos",
-          "published": "2026-07-31T12:04:35-06:00",
+          "published": "2026-08-01T12:20:01-06:00",
           "summary": "LIVE: Press conference &nbsp;&nbsp; Denver Broncos"
         }
       ],
       "Avalanche": [
         {
-          "title": "Minnesota Wild vs Colorado Avalanche | May 4, 2026 | NHL Matchup - theScore",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02ekwzTWw3LVl1eDNqYjdhMU9YQ3JxUU5BMmgtWS1wY0ZMRnpXbnBfeFp6VEdJWXhYVE0wMzhwbWJjOGpsbVpPWU1seEJIM19WR3c?oc=5",
-          "source": "theScore",
-          "published": "2026-08-01T04:00:28-06:00",
-          "summary": "Minnesota Wild vs Colorado Avalanche | May 4, 2026 | NHL Matchup &nbsp;&nbsp; theScore"
+          "title": "Weekly Cupcakes: Is Justus Annunen a rising star? - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlJZVnBnVGJFWGZZUTFVbjFRMlI2RmR1VXROaV9HN2ZmQ3ZncUw3TUQxNkpzQ0ZxNWxFVVZRV095dnRLV3lvdjg5b0pzRTF6ZWVHWGEzOVhGM041S0F2LTZUc3FFVUdBVTNhNHI2N01lRTN2d1hmZ2trZlNjd2lWeldVTEJURGNfVFNYMWxwRQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "2026-08-02T06:00:00-06:00",
+          "summary": "Weekly Cupcakes: Is Justus Annunen a rising star? &nbsp;&nbsp; Yahoo Sports"
         },
         {
-          "title": "Avalanche Players With the Most to Prove & Joe Sakic Deserves Credit - thehockeywriters.substack.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GQjlOSm9sT194ZS1zSjFnWnZISE5tN3pRblZsSTBNa09LdUE0ajJGSEg1TkNndjB5Y3J6RnNrc0FiMEFNaVJTbEk0UmlXY0lrcGJLWUJwS3hTeE1EV2QzdGJxUmg3elctN0JXQWpsaUFHM1ItOHQxcWdvX01lSDA?oc=5",
-          "source": "thehockeywriters.substack.com",
-          "published": "2026-08-01T04:33:53-06:00",
-          "summary": "Avalanche Players With the Most to Prove & Joe Sakic Deserves Credit &nbsp;&nbsp; thehockeywriters.substack.com"
-        },
-        {
-          "title": "The Scariest Moment Of The Avalanche\u2019s Season Came When Nobody Knew If Gabriel Landeskog Was OK - The Hockey News",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeTNiYzQ2ZG9wTW5iVHViYXQ0dWVrTlR2OEhJbkVTNXlBa0lDbDRXclBHRU0wWDRIUmxyMXJ0MzZCUERWQllKQ0VtWnFsdmhyWWFXYmRoVFNLMy1SNjF3V295aS0tSUVPUk11UlhSb3hzUTY2ZFotZmtld29oRjBPc2pCdm1TeE8wR09DVGllYk5VbHp3aFpBSEpGcGRRUXc5ZTAyTi1XOUZjbWZ3ZGFDeDJwaFdLQmtHWExtMjEyOEtaVF9lWlNrejJOWGNlM2tYMnZJX2hZbnFGUzlDNkhoUXdTMDNOUExjemhkMw?oc=5",
+          "title": "Avalanche Should Stay Far Away From This Risky Free-Agent Option - The Hockey News",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3FtRnVPV2h4QlAxYW55bGQ3ZkVSenB1UkZKdGlGOXFsSWhHa2pTWmNRSW1WeUsyU2VYV3hkUFhJVk5wbm9teXp4dkNpUDQyYWM2SlZva20ydWpjX2kzRXNPMGVLbDF1NlBnVFNjdXdnMUtDTlhxdnpHcE1PVXFsalRlUTBwWmJFUmZXUkxJdzhPYkJETlhGU29uM3NnUkZwQnFvc1N6a2lKeVJxeHppNGhyX0ZqZVM4QVkyU1dVVjllaFE?oc=5",
           "source": "The Hockey News",
-          "published": "2026-08-01T01:16:01-06:00",
-          "summary": "The Scariest Moment Of The Avalanche\u2019s Season Came When Nobody Knew If Gabriel Landeskog Was OK &nbsp;&nbsp; The Hockey News"
+          "published": "2026-08-02T05:02:58-06:00",
+          "summary": "Avalanche Should Stay Far Away From This Risky Free-Agent Option &nbsp;&nbsp; The Hockey News"
+        },
+        {
+          "title": "Jared Bednar Earns Top-Five Spot in Latest NHL Coach Rankings - Colorado Hockey Now",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOC1pWHdTUmlqV3p3ekxqbUlWRWN1YkhhVGFEbUNYTF9yWS1aMnJDeUM5NVVZV0lLazh2VHJ3cVFsVVlpOTRtcFA0RjI0TW9UTzFmMHdrQkRESUFNNWJ2Z0Vxd2Z4NFdvRlNvaE5lN3gtUGRGeTlFR3dZM2FwV1BTVlVpT1VaUHBRNG8zOVQ1RlJfSWZ0WjIw?oc=5",
+          "source": "Colorado Hockey Now",
+          "published": "2026-08-01T23:10:45-06:00",
+          "summary": "Jared Bednar Earns Top-Five Spot in Latest NHL Coach Rankings &nbsp;&nbsp; Colorado Hockey Now"
         }
       ],
       "Nuggets": [
         {
-          "title": "Marvin Bagley's Arrival Could Cost These Nuggets Players Minutes - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjM1MXFsMkhFM0dxanllTEdqWGQ4M3BlZmRVcHVsNmcwRzJ0NGtXUGpjOTlabEtGbU8xREVXUGZIVm5QdDBkbEhlMVRmSFVLUDg0MGF5OUNCUlpPMzBldTBuck9iVnQyWEZzaWktNzFOT0RzVzgwNk01ZzJZYzBJdXZNM0JUTXlUdGhIWktsMFdSV0ZEZktHb0JXdldYeWo4N1E?oc=5",
+          "title": "Rival NBA GM Admits Nuggets Are Still a Threat, Despite Quiet Offseason - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWUzbEYwNlNXemdpcFBrWnI5VHBFOF9rVEpCTFBuYXdnX3N1SFRuMFkwUzI5TGhwb0lQaHNKXzBueG8wREx0cUNFX0hxMTNrSWJxUEFaWEJabjNmSllMckJZTmttVnJaTGhoZVpsRXNPTHE0NS03Y2NkUEE1dlEwVlVmUFkxMHhmWFpDdUtpYXpWOGc3WVZvSjNxQmZRUTQ0dlFDcW1YMEoxdw?oc=5",
           "source": "Sports Illustrated",
-          "published": "2026-08-01T07:00:03-06:00",
-          "summary": "Marvin Bagley's Arrival Could Cost These Nuggets Players Minutes &nbsp;&nbsp; Sports Illustrated"
+          "published": "2026-08-02T07:37:19-06:00",
+          "summary": "Rival NBA GM Admits Nuggets Are Still a Threat, Despite Quiet Offseason &nbsp;&nbsp; Sports Illustrated"
         },
         {
-          "title": "Cavaliers\u2019 interest in Peyton Watson points Nuggets toward the perfect replacement - Nugg Love",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU3lXcGNGOUJqdzl4MVlCV3RTUGh1MlJxVUdONkNUVlNLODBIYjlzdUktcFc4M0F5enpsbTJpNHN3Ql9oQWNxMk55Qk0ycjdyWHdqY09ISXlWb04tTy0zSWxvUy1DblB0TVI2Um5qejlqcENwY1ZlZ25jdlVYR0REOWNGamUtdjJhVlhnc3JyOWFCdjh3U2VGV3AyOA?oc=5",
+          "title": "Nuggets receive rude awakening from Peyton Watson trade suitors - Nugg Love",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3dIVDV6amtxdGttSnpoOHNDVkpTZzJEYlZCNS11dHJiWkFGTFNva1U2OTBNcjZhazlGZXppS2xhNWRycnFwS09SVDFuUG5SUDRzc0lsQUJLcXZ1SktjTDhwRVBWelVxTlhhcFV2ei1Ia1dmNVI3b1R4TC01Y2hyMDMwV2REVUFlM1pPMQ?oc=5",
           "source": "Nugg Love",
-          "published": "2026-07-31T12:05:00-06:00",
-          "summary": "Cavaliers\u2019 interest in Peyton Watson points Nuggets toward the perfect replacement &nbsp;&nbsp; Nugg Love"
+          "published": "2026-08-01T16:00:00-06:00",
+          "summary": "Nuggets receive rude awakening from Peyton Watson trade suitors &nbsp;&nbsp; Nugg Love"
         },
         {
-          "title": "UNSERIOUS: Denver Nuggets Reject Weak Trade Offers for Peyton Watson, DEMAND a First-Round Pick | Denver Nuggets Podcast - 12newsnow.com",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQWmhjYmpRQUdZVXpVUzM4Yk5QTXB6YTVsYXNSeUZuaEhJWHRobkJnY2dGYkhielhFLWh4VzhocEF1b2ZCdmxRU0tHR3FJclpQRmJrbE53bnlNMDhRbm1yZlRMVGtiUTVkcjVjNjlRbXRzckNyUVJyZ0w1Mkg2NklqVkMzMjZad3pFZGRpWFI4cHRnaXlWci1BWHkxOEl1Y1MtTDVFSFA0RV9rRjJxUG13b2xNdE9sQ1JjWC1jVTd6clRWUTRiRUxVOG9MbmJYOUJiTExJdFJQam5DMXFIVWFUQ1lLUkFQOEpkenpUZUhJbW9qWHFlaVdpZE1RdTA4OElfSGc1SjBhWEQ1TFo4OWRwQzZqQzk3c0tfWVpXTThGYV9oMURLY2t6aWd5OG1aSmVUb1M5RHAtWWgwdzg0RU1zQVluay15RjhPczl2OGJHUFBWTk15VC1r?oc=5",
-          "source": "12newsnow.com",
-          "published": "2026-07-31T15:55:00-06:00",
-          "summary": "UNSERIOUS: Denver Nuggets Reject Weak Trade Offers for Peyton Watson, DEMAND a First-Round Pick | Denver Nuggets Podcast &nbsp;&nbsp; 12newsnow.com"
+          "title": "Denver Nuggets Executive Makes Peyton Watson Statement Amid Free Agency - heavy.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazY4TTVySGxVZ1pCbGlGQ2dhRDVlX0dLQnpBenYwcmV0eEJmbFpZcmNyZU1jcUVMWlBoV3VZWWRrZHV6ZHR5V3JXR3pESGZhbEY2LXlucno1NjFDWE52amZWcGVxRzhwNl9tU1FRN05PVjFkeVF2UGl2aWtqQ2RaUl9HZWg5UldwM05QU3ZmdF9MRHhC?oc=5",
+          "source": "heavy.com",
+          "published": "2026-08-01T08:28:49-06:00",
+          "summary": "Denver Nuggets Executive Makes Peyton Watson Statement Amid Free Agency &nbsp;&nbsp; heavy.com"
         }
       ],
       "Rockies": [
         {
-          "title": "Kansas City Royals at Colorado Rockies Game Story, Scores/Highlights - 07/31/2026 - MLB.com",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LNlRaUDdrU1V1LVpPbFVoS3FvTlFGS0JRNWdnTWJYbkFVVDF3SWtxNjF6eVZxMTFCS2RqQXowQURYRVQwWnI3QUNlWjBuSDR10gFQQVVfeXFMTUs2VFpQN2tTVXUtWk9sVWhLcW9OUUZLQlE1Z2dNYlhuQVVUMXdJa3E2MXp5VnExMUJLZGpBejBBRFhFVDBacjdBQ2VaMG5INHU?oc=5",
-          "source": "MLB.com",
-          "published": "2026-07-31T20:00:36-06:00",
-          "summary": "Kansas City Royals at Colorado Rockies Game Story, Scores/Highlights - 07/31/2026 &nbsp;&nbsp; MLB.com"
-        },
-        {
-          "title": "Royals @ Rockies Weather Delay Updates \u2014 Game will begin at 7:40 pm - Purple Row",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVFmUFIyYUh3bEZrdk5aRHZvOUtfeW03MlZFSm53bE5odUVBbjJuOGtFcUtBa2dEaEZRcGdIQWtTb1dnQkFjV0ZacGczNk5HblJXSmM5dHlhY1V4Q3BvSlZGckRwTzFmZUFvVTF4MDdTa1FQd1BIMmpaTVA1M2xEbmZnUHNUdGh2VVFEdTdJeS0yMG1aRXZKaw?oc=5",
+          "title": "This Week in Purple: Fans think the Rockies will be active at the 2026 trade deadline - Purple Row",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYi1lTkVfblJwRkVaSFN5N3lNX2RpcUg5eHV1RHBpT0VNMzRMSzQzMEZtcmxCUUprVE5zVTVfamswRkVSUHlpcHVIekxtR0dFdllTNkZzVnlBQlNxdy1UWDU0QjJ2VnRqdnN6eXpCSlRJcm16a09GZHJBZ195eDB2dXB1WndRSTFKZ2FtcFJxWDB2eXZvRWdneVRtS0FzTGVKZWRDcEpXeC1Ja0U1VWx5dGRoZFRrNUxlYmc?oc=5",
           "source": "Purple Row",
-          "published": "2026-07-31T18:21:00-06:00",
-          "summary": "Royals @ Rockies Weather Delay Updates \u2014 Game will begin at 7:40 pm &nbsp;&nbsp; Purple Row"
+          "published": "2026-08-02T07:26:07-06:00",
+          "summary": "This Week in Purple: Fans think the Rockies will be active at the 2026 trade deadline &nbsp;&nbsp; Purple Row"
         },
         {
-          "title": "Royals vs. Rockies (Aug 1, 2026) Pregame - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5samxSb25MWjllQzVlMDl4SHcwSnVENUpZc3dsMUtqV090V0VJcGhPbWhybXltdkJobG9fVk42djNkdV9yOEFPMk90RzFhdFRaUFFtZk1DTl9SRzFJ?oc=5",
-          "source": "ESPN",
-          "published": "2026-08-01T02:04:52-06:00",
-          "summary": "Royals vs. Rockies (Aug 1, 2026) Pregame &nbsp;&nbsp; ESPN"
+          "title": "Resumen Rockies @ Cerveceros, Resultados/Jugadas destacadas - 26/07/2026 - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50SUE4UzdmdDdLaXQxTjdHWFYyN2haTFFpQTFYMldabHNzOEF4aWo3YTN5NHNETkhXb3ZZSU5jakFhcXM4eDUyT01VY2U2S0ZGNFEzONIBVEFVX3lxTE50SUE4UzdmdDdLaXQxTjdHWFYyN2haTFFpQTFYMldabHNzOEF4aWo3YTN5NHNETkhXb3ZZSU5jakFhcXM4eDUyT01VY2U2S0ZGNFEzOA?oc=5",
+          "source": "MLB.com",
+          "published": "2026-08-02T04:03:07-06:00",
+          "summary": "Resumen Rockies @ Cerveceros, Resultados/Jugadas destacadas - 26/07/2026 &nbsp;&nbsp; MLB.com"
+        },
+        {
+          "title": "Colorado Rockies vs. Kansas City Royals OVERFLOW THREAD - Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3VNekpkLWpSSEdqZkpvX1pjbVBZM29uNC00WHB3N09fbXUzbHFYVjkwbm9hbXJ1RlB6dFM2N0tUZWVRd0pzdTFleEgteGVBdHlHckJESlBQUzBpYjludTRRNDBFWXRBV1lhMk5ad3VIYm5hQUhXUVFBLVlTMkF0V05RUHlSaTg?oc=5",
+          "source": "Yahoo Sports",
+          "published": "2026-08-01T20:06:00-06:00",
+          "summary": "Colorado Rockies vs. Kansas City Royals OVERFLOW THREAD &nbsp;&nbsp; Yahoo Sports"
         }
       ]
     },
     "us_news": [
       {
-        "title": "US Treasury intervenes to support yen after Japan steps in, FT reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0lVZ3FOWEp0MkVGaWc4UkprSmVwZlZMSzBQRlBuQ3UzOEVuN09za080MDFQTHFfOVFGU1hsOUF3THBnbGc0Tk4zdi1sR0xBdHhJV3FiOTNmaEZkbWNWQ0VMRjROZXJUQ1VwX1BrS3NvdWRDYThPSWVhdnhZUmxHWHNsVEFRYTZFXy1CeTJVdW13SVpqcl9wdTBoRjdINnV6R0tEcTI3Qnpjc3RpLWxQOVVB?oc=5",
+        "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUlFSGZMX01QYlFDclh0cnJFeWx4RC1kdU40aUFyLTVUcHhXY0pSY1I0VUNlaXZOOWc2eFBXY014bmhnWGlYXy1lN3hBMGhYMVpEQ3haZnQ2LURWdnlocFlmTjhVdjJQdkhNbWdrakQxN2dGWUhkdTlmcFc0WkQzNkNTbl9EcU1yVEJzY1N4dmZCQmJwRkRoT2ZyUXdqOWtxWDZSMzlFTkJOcmVrTi1tRGlBRDFtRGdjQkF1TF9wN3c0VW9tZDlEUzVsaS11QQ?oc=5",
         "source": "Reuters",
-        "published": "2026-07-31T18:28:00-06:00",
-        "summary": "US Treasury intervenes to support yen after Japan steps in, FT reports &nbsp;&nbsp; Reuters"
+        "published": "2026-08-01T17:16:27-06:00",
+        "summary": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Pictures of the month: July - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzNDRvNlNXTk1RS3FUbUxzQnJOOGowU0Iwblo4SDVYRjNNanNtV1dQcmJTa3pILWg4RVl5TURNVXJCcWdMTWFXSjFpTGx2UzVXUDdHWk1mRkxSLTdpYzBpOVNXNGFHTl9iY3FLU2FvbWhNZw?oc=5",
+        "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
         "source": "Reuters",
-        "published": "2026-07-31T11:38:00-06:00",
-        "summary": "Pictures of the month: July &nbsp;&nbsp; Reuters"
+        "published": "2026-08-01T19:12:00-06:00",
+        "summary": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Trump says US has not agreed to Ukraine building Patriot missiles - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXNqSU9WRVUwMm1rWkFyY0ZVdXpoQ3RudWlwQmI5aGh1VmJITWJuWkpjc3NJQ2VfQU1PZlFwZkhfYTZvYWNxZ1NvM1FseWMxU1J2SDZkN2N3SW5HYmJUTWozTlpwWTBNYmEzQ1Y0N1lPYUotUllyTW5PZ0xQUmo0b3NSNzdsV1QzNzJGNk1ZWVhIam9FNXpUMUVSOGxVaGVCWGJmR0VnV2x3bUZ1Nzh2OHY2TkRyd0dCdGlpYWRhVWhNcVU?oc=5",
+        "title": "Trump disputes his own Justice Department's findings on Reflecting Pool - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTJLYjliLXp5dE9RQjA0U2xYY1FkYVNxaWJoWWdfNzFKQXlCQ2pxbFhRVlZhX25ES042NnJSTE4zcTZhZkpiUm5oci1vSy0tbWktNGlZSXhhaE16eVhSWWE2NktvcjZDaFdVQThRM0U2MEV2QXM1MUZtMFY2eGtBS1k5ZW42enZWbGpKamx5UzFLQmNkVEY4aGVOYUVzWGNRZExMaVRJTFkxX3B0TUczVURn?oc=5",
         "source": "Reuters",
-        "published": "2026-07-31T16:35:51-06:00",
-        "summary": "Trump says US has not agreed to Ukraine building Patriot missiles &nbsp;&nbsp; Reuters"
+        "published": "2026-08-01T11:37:43-06:00",
+        "summary": "Trump disputes his own Justice Department's findings on Reflecting Pool &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "US to make visa bond program permanent for people from dozens of countries - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzlLSWZRazMxRDYzOEoyR2s4TUd2czgtdkt3ejMydU5tOWRWZU5VanB3WDF1SmpWNGt1M0pJcGJqUGNTU2o4a0hrX2Ftdmp2MnJPeXdVVkh0a0tLbVhscWhHZ1JQczZHT3pvZmZNUjViekVqYnIwWHNPaVNKYjZvTmhET05TUUxuR3FKbkZmcjRLWnRYMWRVeXF0cXg3NXluUDVEOE5GTQ?oc=5",
+        "title": "Clayton will take over as US intelligence chief on Monday, Pulte says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnhFRV80dDgtMzlhakpfcjVCUndqeFNCaWFqUlNTVzJ0Um5ubWdKS3dMWE5nU21rLUNiQkZ3UzAxb3RxYjRSbXdQbDlLSXlqc2JlMEdtUHB4UW9lNy1DOE1JcHk5Q3dRWFR1cW9xVlBzVUdQUDdhdFkxS2dUVTRpdEQtOTZyN0YxVmZNYWZzb09NOC00U3VGRUUxMA?oc=5",
         "source": "Reuters",
-        "published": "2026-07-31T21:16:09-06:00",
-        "summary": "US to make visa bond program permanent for people from dozens of countries &nbsp;&nbsp; Reuters"
+        "published": "2026-08-01T11:41:56-06:00",
+        "summary": "Clayton will take over as US intelligence chief on Monday, Pulte says &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "US Justice Department says 'flawed' work led to Reflecting Pool peeling - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTR5LTJldEVKcS0xZlI3MTh0VGVfQkFkclBwOFBqUHlzME5ETVA0V0pLNVRyWVFmUWtlV1FXTWNtYUpUT19LU19kdmFJZmtvbGdCYnd3dGp1a1ppSDAzcUVqZmxMblllSHlvUUloZGhtQUxzcDdQS2VRWWtOWHNNTEl1N2hzY3VXQVUxSGtLalVXdU1DUFk5OFBaNk9KUmVzN3doMmpTYm91dFpRQVlObmdyOXI?oc=5",
-        "source": "Reuters",
-        "published": "2026-07-31T16:12:00-06:00",
-        "summary": "US Justice Department says 'flawed' work led to Reflecting Pool peeling &nbsp;&nbsp; Reuters"
+        "title": "Wind-driven wildfire prompts evacuations in eastern Washington - AP News",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmpxLWw0WF91MFowZkpGc2JmRXdPMHM2cHRyd0V5S1NRZHlDQXhRYzVJYnhlUEhwblVVVUNlNm1vMW9FN3V1MFR6WWsxVUZlbkRMUDZHTl9pQlYzbW41d24ySWRQeUlPSDR5M2hPWXRYTVUtZDBPSVkxX3pWYVdpejVsbjh1TWNaOVdoS0ZPcS1QcmJLWm9EMHlFSV8xNEJMRkJoZ1Q3QmFSRC1H?oc=5",
+        "source": "AP News",
+        "published": "2026-08-01T20:31:00-06:00",
+        "summary": "Wind-driven wildfire prompts evacuations in eastern Washington &nbsp;&nbsp; AP News"
       }
     ],
     "world_news": [
       {
-        "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback - apnews.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEpDcHVOTlpQTHlKczVBamNkUWFHcUtOT2VlS1pSVlZ2VWg1QTZfLXFJZDA4VEl1eDB6c3FGbU5USlNZbjFDMXlaX0xRZHlSbmpmckh4WjF5RTZrWEFEOHh6SDVmSC0zWW9RQ2Zxd2hLajhkV1lVaTgwb3F1aC1tNWhxdUgxYlU1bVRyQnphemhPck95Mkh1bjR3?oc=5",
-        "source": "apnews.com",
-        "published": "2026-08-01T01:37:00-06:00",
-        "summary": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback &nbsp;&nbsp; apnews.com"
+        "title": "Top dogs ride waves at annual World Dog Surfing Championships - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVZDOEdCSUN2eG0tY2ZfSE9kWkw4bjFRYzNoUURhRTQxMmIwYjZnUkxlbUFSZ2F3YXBiZWFsMks4Mmk3bHdkSEY4cWtuTHFRMmFReVgtXzNrSzJTWnIxVmJDdF85YWpQc290Y214MklZWFpfUjFvMGpidUk3cHBlczhSQkQxOGlXV1JyeE9jRnc0M1pV?oc=5",
+        "source": "AP News",
+        "published": "2026-08-01T14:46:00-06:00",
+        "summary": "Top dogs ride waves at annual World Dog Surfing Championships &nbsp;&nbsp; AP News"
       },
       {
-        "title": "UEFA says it has lost confidence in Infantino as FIFA faces calls for transparency - Reuters",
+        "title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan - AP News",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ29OWVVpM1NLQVJBSk9XYTI5a3ZwYUpob2JRMFg0b2J4ME9TcjBwMHU4R2lBZ1lEWklJRnVqcTJRWUt5UF9LZkl3MzgwOVlqWnNUYmU3YmltRERyZVpIbDEyMW1pMzI1bEkyTHFBM3ZPRVJNUlRkM1paWVFya1BDYnN4d3Y0Zw?oc=5",
+        "source": "AP News",
+        "published": "2026-08-01T13:07:00-06:00",
+        "summary": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan &nbsp;&nbsp; AP News"
+      },
+      {
+        "title": "WestJet flight attendants go on strike after talks fall through, grounding flights - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhNTDVZU3dqTmw4d252dTlOaS1pdnFEcU5ZTjdobll4RnNJYXdVVkszRExqOHRLRGFYbG5XNVE3a0h0TUp3UzZocVNic3l1dXdPMzNGaDljWWZmS2kwUF90RVlfcG02TVc0LVJTS0dqbUV2QWhLZlhEVTloNHUxUjZJLXdwb0FRUk8td1FDaHdUdC1SalhBTWlJVEJ5cDBiaGlmeWtLNHBycWJlVFU0VTlFYThLamVfMGNB?oc=5",
+        "source": "Reuters",
+        "published": "2026-08-02T00:16:00-06:00",
+        "summary": "WestJet flight attendants go on strike after talks fall through, grounding flights &nbsp;&nbsp; Reuters"
+      },
+      {
+        "title": "Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXRXNWJWSDNJWk9BVFdoMVlpX0lCVURrSmtnQXRVUVE1TjJqVG1sNXU2QkZZUjZ3cHhVWk1pajNteWtJRmllQjBVSFMybFlyQ00tVjBLQ3ktS2dRVjdLRkRNa3lIU1pZcWNYVjlOb0VhNDRaYkhIa2Ewd09pOTE4ZVUydjNkNzVhd2JETW44Sy1EUjBmbnFUWlRlZVg2eVpONlFzNTg1Nk14NWtJaFJNbm9NM3RrLW5VU19nXzZhazg?oc=5",
         "source": "Reuters",
-        "published": "2026-08-01T05:44:04-06:00",
-        "summary": "UEFA says it has lost confidence in Infantino as FIFA faces calls for transparency &nbsp;&nbsp; Reuters"
+        "published": "2026-08-01T16:13:39-06:00",
+        "summary": "Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "FIFA has scrapped $20 billion World Cup sell-off plan, New York Post reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXdUU2FsekNqTWc1TWdVd09xUXpTTXNScnVjczNNcGVzbERTWmVwOWNGMGlOd2J2dWQwem4yOU4yb0Y0VThodnEzcWJTRjRBZjI2RUhsNDdNXzNtMmVCa2tBNVp2U3lraTE2ZjFObG9WYThxaGJBWVpTSjE2YV9TTnAwNWVXT0d0MjVTcWJlRUs2bjN5bUJzVEU0bG5NNlZ0X1pwSUZPRTF3TjN2QjNWWDRGeWR6SzhTd1pn?oc=5",
-        "source": "Reuters",
-        "published": "2026-07-31T16:25:15-06:00",
-        "summary": "FIFA has scrapped $20 billion World Cup sell-off plan, New York Post reports &nbsp;&nbsp; Reuters"
-      },
-      {
-        "title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan - apnews.com",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ29OWVVpM1NLQVJBSk9XYTI5a3ZwYUpob2JRMFg0b2J4ME9TcjBwMHU4R2lBZ1lEWklJRnVqcTJRWUt5UF9LZkl3MzgwOVlqWnNUYmU3YmltRERyZVpIbDEyMW1pMzI1bEkyTHFBM3ZPRVJNUlRkM1paWVFya1BDYnN4d3Y0Zw?oc=5",
-        "source": "apnews.com",
-        "published": "2026-08-01T07:15:00-06:00",
-        "summary": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan &nbsp;&nbsp; apnews.com"
-      },
-      {
-        "title": "'The Malvinas are Argentine\u2019: A World Cup banner makes the Falkland Islands a cultural obsession - apnews.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeklSeW9hdERxZTJmY0phVnA1RXBYY0VWbVgzLTlfLUZSX3kxSV9BcnlFRkYyaXBKcGxXaTIyZGRYOGtzODlqOWRybUEzdkU4NTBSdmRiWVU2WjVjY184eHFSaDM4YzRicDJ4RnpRYVNJelNpaV90dEc3ejF4bGZtNWZQN2VRenZrVWRrZFE4akVzb3VlMEhsVVAtWEMzU19OT180aDJGOU05Z29Mbzh3?oc=5",
-        "source": "apnews.com",
-        "published": "2026-07-31T13:22:00-06:00",
-        "summary": "'The Malvinas are Argentine\u2019: A World Cup banner makes the Falkland Islands a cultural obsession &nbsp;&nbsp; apnews.com"
+        "title": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight - AP News",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLWZkRTh0SXlFdnZSX2hqRGRvNzI4cXIzOEg2MFIyWGpMVWs4cVNhYkJPbjBHZHR0aUpZSzVXWnVuQmtkaDFueGwxUldON0YwWElNNnFlWDFGR0Q3NmVDRENQMEdzN1VYcjJfLTJySUkwZWZZUWlIbFhMOEFzTlF5Y05B?oc=5",
+        "source": "AP News",
+        "published": "2026-08-01T19:54:00-06:00",
+        "summary": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight &nbsp;&nbsp; AP News"
       }
     ],
     "auto_industry": [
       {
-        "title": "Moreno, Slotkin Win Broad Support to Defend American Auto Industry from CCP-Linked Vehicles - moreno.senate.gov",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZHNoWW5tU1kzNHR5emVZeFUwNEgwMU5tOXg0eEdOTXAzcl9QalpETGd0di0zWGlDeDRlcF9mUF9JNmxWNjB0ampjLVo5Z1V2N3pTNHlDVjZySVZTXzVsUGozV24zMjkxbUI3YXo4MnN1eUJpdkJZOTdoOUxVcGpvcy1MNnJmSVBiQ0VqbjBaeTNDc1VpTm96NjFYR2tnaU9NcHo5MzRGR3hsVktzN010LWc2ekxxZEl2eVlUZHBQcVozOVYtZVd0cmRmcTlENUdHUTNVMzJDb2V2OUFmYWc?oc=5",
-        "source": "moreno.senate.gov",
-        "published": "2026-07-31T16:35:10-06:00",
-        "summary": "Moreno, Slotkin Win Broad Support to Defend American Auto Industry from CCP-Linked Vehicles &nbsp;&nbsp; moreno.senate.gov"
+        "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFN0bURUWGhYSEdPSWtYVE93S2t2UTFRTFRNaWVMdFd5ajhEWjBCblUwMVJKZGJzb2lpc1FwUnlHa1VqVkREREFhRFVXNWRrTDVxR0JUWk1qcUhYLTByemRXUHk2SmdXa2V1TTE5NWk4bmdVX0dITmkwcXV0bkdfU2JwVDRvS0U?oc=5",
+        "source": "The New York Times",
+        "published": "2026-08-01T18:58:00-06:00",
+        "summary": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling &nbsp;&nbsp; The New York Times"
       },
       {
-        "title": "Trump Boasts Auto Comeback. Michigan Data Says He's Wrong - Motor1.com",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YQTJkWnNQa1lvQWZnanA2TU9Ub01sWU1vOC02T2VNR2pFV3RsV0VEaUhURHlUSlFvaUhKQW1Db3RSbF95cTdITzN5N3BJY1UtSzVsY1lBMVJmblh1bV9CZ0JJNmxhUWN6aDMwNmplS0RNeFJ1ckI0UnZR?oc=5",
-        "source": "Motor1.com",
-        "published": "2026-07-31T22:32:12-06:00",
-        "summary": "Trump Boasts Auto Comeback. Michigan Data Says He's Wrong &nbsp;&nbsp; Motor1.com"
+        "title": "Chinese auto suppliers crack top 100 rankings as CATL jumps to No. 3 - Automotive News",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVR6Q0NhNG5UaG1DeGxKUkdWbGJzS2hCRGRodDc5TFhDbGUwc0ZLRUR5YmZwNk82TlIxYlBGWVFtYmpxcVJXbV9UWFJXRGJFUHR4ZlhaOS1IWk9oODlra09TVndMcDlTY0x1X3MwRWw3bGR5d3R1U2JHQzFYQ0F4SnN0enZWSDJ0UVg1cVpBWjI0Vl9jMjdnUGZxSnR5bVBR?oc=5",
+        "source": "Automotive News",
+        "published": "2026-08-02T05:00:00-06:00",
+        "summary": "Chinese auto suppliers crack top 100 rankings as CATL jumps to No. 3 &nbsp;&nbsp; Automotive News"
       },
       {
-        "title": "The auto industry is building for a past that\u2019s never coming back - WardsAuto",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGdnQjhxM2otVkV0NTAwT1Y2TWdkU0M3WXg2ZnV4QkE0SVZ5MDFSQU9KME5kTXFPanVRVTdxTWFrODNZSlB0RjM0cTVwUnRWZnBwcVB2enAyd0dzQmtBZTJBSml6V2tFTkNUZy1rMDRqUEl3aVVUOV95ejVLUDVDNXQ2OC04TmJHOGV1Q0dwaFBIOXZVZmNCOE5HU0tJY0dEV2dreTlR?oc=5",
-        "source": "WardsAuto",
-        "published": "2026-07-31T09:03:50-06:00",
-        "summary": "The auto industry is building for a past that\u2019s never coming back &nbsp;&nbsp; WardsAuto"
+        "title": "Opinion | Trump is driving electric vehicle innovations into a ditch - The Cap Times",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVEZtUlpsUVRpdnZlZEFRLXdBeHpGT0UtcFRCR2hQQlR3am45UFdzejNlRmFHaERLUkQ4TFNQMG9VUTlrbVZhd1FuTUxaRFBjN0E0RkZEa05ObzI4V0VOVkJJMGwtWUV3S2JpaUE4TXhZdkhreVMwVHExanJaLXI2TVk5ME1OYXo4ZWdCc3pRd1BPUHltcWVITzRmOElSeW5xVG1XMUJIbVJDaDhNSDdpS1d4VDNNeUwzV1loZ2tva05JMy1XVkZKMmdJV1ZIWGZqaG9lZW9yOXFYOG40MmJVZWZVNnlxZUdTSjhPU0ROVQ?oc=5",
+        "source": "The Cap Times",
+        "published": "2026-08-02T04:00:00-06:00",
+        "summary": "Opinion | Trump is driving electric vehicle innovations into a ditch &nbsp;&nbsp; The Cap Times"
       },
       {
-        "title": "French new car registrations up 9% year/year in July, industry body says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTm9GWGxuZFN6RG54YXVzWHR2R3ZnOFBDaEdlSXltbVRyUzd2UnRiTy1iYmU2MjAwSVJUQjR4VG5rZWdzckRvZzE0T1pKYVhjdTRoVDBJUm51b1hNdGJOZ0p1NzVteUlOR05xNE5ESUduTm54eUgwa3BjMHFxV2VYOU9wRWR2eGt6bXRUUmtqOWxmRU5QWnY5bUNrenQ1aFlQODE2MFdoMHVlM0QyNUN0cA?oc=5",
-        "source": "Reuters",
-        "published": "2026-08-01T03:07:43-06:00",
-        "summary": "French new car registrations up 9% year/year in July, industry body says &nbsp;&nbsp; Reuters"
+        "title": "EV maker Polestar's SC expansion plan is in flux - Post and Courier",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOejRKcTZaWm1Vc2RPTm1xdXV0ZEd6WTR1Y21HZEZIYnItdWZJbUtScUNsaGtFMGF4VjhLRlN5SDBLZFpNODd6VGtfdkNiUzctWkExN1o4VFZCb1FXRzZOdnBES2UtTkMwTTY2QTk2NEFpV3JJXzFfWmtMYVhVc1NFYXlyRjlqYk9uWXVlMWFpcW4tOXlkamNIRy15dkNSVnowVHVZY3RXd3psQUloSXpuMmdRazA4Zm9nN2JNVVNBcFQ0UDdvN0RXOWE3emZwNTJMZS1BWFZUVQ?oc=5",
+        "source": "Post and Courier",
+        "published": "2026-08-02T03:00:00-06:00",
+        "summary": "EV maker Polestar's SC expansion plan is in flux &nbsp;&nbsp; Post and Courier"
       },
       {
-        "title": "Automotive Industry News, Self-Driving Cars And EV Stocks To Watch - Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXZqbG10WUxlNUg2dGNUY19pNFVMTlloQ3FzQlhxNktxanRZaU5VZnZ0cGVPS29IdGlMVGxJZmJOYVZNSWpaNHJPMDl0REVTcjdac0l6QTkwNGFnOHBMS0lqR2d1WHNNemlsb0pzSHlnMExNdHkxM3BKTkhmZGhkeXNURVBSUmdnZzV6TEZwLUhuZFBWSVdNb2Z3?oc=5",
-        "source": "Investor's Business Daily",
-        "published": "2026-07-31T09:38:00-06:00",
-        "summary": "Automotive Industry News, Self-Driving Cars And EV Stocks To Watch &nbsp;&nbsp; Investor's Business Daily"
+        "title": "VinFast Auto (VFS) Could Be 49% Undervalued On 96% Q2 EV Delivery Growth - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMnBzbzJtYkgwUWJJSGE0T3NsWWRfaENYUWhuV2xTRU1LMkdFOUpDZV9EaTRid0VwNXMzSnQ1NVJyUEFreEFhQnlyX0I1YjRNdHpJNkIxdFVROWFxLVBJUWg4ZE1JTTFGb0dqamxFWXBIMkZIMHY3Q0dfRUY5ZzVURGZtUjBrMEdOdDc2MW9UOVo0Y0JkeVNjcHREV01VTjBTbXI2cmtPZlQwLVBYQjVNcnlHelJaaWpJN3J4SEhpSTNSdGtBcWZ5TVJ3d3NpQdIB0wFBVV95cUxOc09UZjVKZml1LWlNaVpiNGNRVGZLSWZxRGp2UzRNTkZCMWVLTFdnTVExYUItQ2F5NnMzb05mRXBoQnUyelFtb0dTdFRVVXJkenZCYmdsRzFHakxqb0RlWklNNS00ekx6aWxaWFA2MkVHWEVwNnd1RnN5NU45X19BUVQ0X1h3Y05yTVo2dERlU0tTMVZYSDJBUlJIeldFNDI2WHQ5Wm9GUTB5OE93bTRoQnFITmRvdG1BWHFaMXV6a0hEc19MRXROUnFPMnpFeFlYN3I4?oc=5",
+        "source": "simplywall.st",
+        "published": "2026-08-02T05:28:54-06:00",
+        "summary": "VinFast Auto (VFS) Could Be 49% Undervalued On 96% Q2 EV Delivery Growth &nbsp;&nbsp; simplywall.st"
       }
     ],
-    "auto_software": [
-      {
-        "title": "Asbury Automotive\u2019s big DMS switch hits the home stretch - WardsAuto",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE16Vy1waFNlQUNMVnBrOUw0Y296TE5MZE5jOE51SkQxdUtBTy1lOXVTYk5zVzZDWnNTa3lYaVR2YXJ4YWJVdUhxR1RiMnVOU244LW5kY1JOaFZDLW56UW5PSnZjWGc5MDlnUnF5a001aVQtMzRMWUljRENkY0ItckdhVzN0REVJbEZ5UUt4emxyMFdObnhvdjd3?oc=5",
-        "source": "WardsAuto",
-        "published": "2026-07-31T10:03:22-06:00",
-        "summary": "Asbury Automotive\u2019s big DMS switch hits the home stretch &nbsp;&nbsp; WardsAuto"
-      }
-    ]
+    "auto_software": []
   },
   "component_status": {
     "weather": {
@@ -323,9 +315,9 @@
     "auto_software": {
       "label": "Automotive SaaS / Dealer Software",
       "status": "ok",
-      "candidate_count": 9,
+      "candidate_count": 2,
       "target_count": 5,
-      "count": 1,
+      "count": 0,
       "queries": [
         "vAuto OR DealersLink OR \"Cox Automotive\" when:1d",
         "\"CDK Global\" OR Tekion OR DealerSocket OR Dealertrack when:1d",
@@ -334,7 +326,7 @@
         "\"digital retailing\" dealership automotive when:1d",
         "\"inventory management\" dealership automotive software when:1d"
       ],
-      "relevance_filtered_count": 8
+      "relevance_filtered_count": 2
     }
   },
   "failures": [],
@@ -343,7 +335,7 @@
     "us_news": 5,
     "world_news": 5,
     "auto_industry": 5,
-    "auto_software": 1,
+    "auto_software": 0,
     "sports": {
       "Broncos": 3,
       "Avalanche": 3,
@@ -352,147 +344,159 @@
     }
   },
   "deduplication": {
-    "duplicate_count": 10,
+    "duplicate_count": 11,
     "dropped": [
       {
-        "section": "sports.Rockies",
-        "title": "MLB: Kansas City Royals at Colorado Rockies - The Daily News | Texas' Oldest Newspaper",
-        "source": "The Daily News | Texas' Oldest Newspaper",
+        "section": "sports.Broncos",
+        "title": "How the Denver Broncos\u2019 defense bounced back on Day 2 of training camp - DNVR Sports",
+        "source": "DNVR Sports",
         "duplicate_of": {
-          "section": "sports.Rockies",
-          "title": "Kansas City Royals at Colorado Rockies Game Story, Scores/Highlights - 07/31/2026 - MLB.com",
-          "source": "MLB.com"
-        },
-        "reason": "summary-overlap",
-        "score": 0.75
-      },
-      {
-        "section": "us_news",
-        "title": "US proposes deep Colorado River water cuts for Arizona, California, Nevada - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Arizona, California and Nevada would share cuts under federal proposal to manage the Colorado River - apnews.com",
-          "source": "apnews.com"
+          "section": "sports.Broncos",
+          "title": "Denver Broncos Training Camp Notebook: Bo Nix makes big plays but defense wins the day - DNVR Sports",
+          "source": "DNVR Sports"
         },
         "reason": "summary-overlap",
         "score": 0.6
       },
       {
-        "section": "world_news",
-        "title": "Senior FIFA executive says staff were deceived over Infantino\u2019s World Cup sell-off plan - apnews.com",
-        "source": "apnews.com",
+        "section": "sports.Avalanche",
+        "title": "Weekly Cupcakes: Is Justus Annunen a rising star? - Mile High Hockey",
+        "source": "Mile High Hockey",
         "duplicate_of": {
-          "section": "world_news",
-          "title": "FIFA has scrapped $20 billion World Cup sell-off plan, New York Post reports - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "same-event",
-        "score": 0.45
-      },
-      {
-        "section": "world_news",
-        "title": "FIFA scraps World Cup sell off plans, Infantino says - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "world_news",
-          "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback - apnews.com",
-          "source": "apnews.com"
-        },
-        "reason": "same-event",
-        "score": 0.643
-      },
-      {
-        "section": "world_news",
-        "title": "Trump says ICC campaign aimed at defending Netanyahu, not himself - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Trump says ICC campaign aimed at defending Netanyahu, not himself - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "Infantino abandoned his World Cup equity plan after seismic FIFA backlash. Here's what to know - apnews.com",
-        "source": "apnews.com",
-        "duplicate_of": {
-          "section": "world_news",
-          "title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan - apnews.com",
-          "source": "apnews.com"
-        },
-        "reason": "summary-overlap",
-        "score": 0.45
-      },
-      {
-        "section": "world_news",
-        "title": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "US Treasury intervenes to support yen after Japan steps in, FT reports - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "US Treasury intervenes to support yen after Japan steps in, FT reports - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "Pictures of the month: July - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Pictures of the month: July - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "auto_industry",
-        "title": "French new car registrations up 9% year/year in July, industry body says - marketscreener.com",
-        "source": "marketscreener.com",
-        "duplicate_of": {
-          "section": "auto_industry",
-          "title": "French new car registrations up 9% year/year in July, industry body says - Reuters",
-          "source": "Reuters"
+          "section": "sports.Avalanche",
+          "title": "Weekly Cupcakes: Is Justus Annunen a rising star? - Yahoo Sports",
+          "source": "Yahoo Sports"
         },
         "reason": "title",
         "score": 1.0
+      },
+      {
+        "section": "sports.Nuggets",
+        "title": "Nuggets Executive Stays Optimistic About Peyton Watson's Free Agency - Sports Illustrated",
+        "source": "Sports Illustrated",
+        "duplicate_of": {
+          "section": "sports.Nuggets",
+          "title": "Denver Nuggets Executive Makes Peyton Watson Statement Amid Free Agency - heavy.com",
+          "source": "heavy.com"
+        },
+        "reason": "summary-overlap",
+        "score": 0.675
+      },
+      {
+        "section": "sports.Rockies",
+        "title": "Colorado Rockies vs. Kansas City Royals OVERFLOW THREAD - Purple Row",
+        "source": "Purple Row",
+        "duplicate_of": {
+          "section": "sports.Rockies",
+          "title": "Colorado Rockies vs. Kansas City Royals OVERFLOW THREAD - Yahoo Sports",
+          "source": "Yahoo Sports"
+        },
+        "reason": "title",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "Female bomber kills at least three, injures 21 near Moscow restaurant, authorities say - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Female bomber kills at least three, injures 21 near Moscow restaurant, authorities say - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "Trump disputes his own Justice Department's findings on Reflecting Pool - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Trump disputes his own Justice Department's findings on Reflecting Pool - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "Three dead in Idaho shopping center shooting - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Three dead in Idaho shopping center shooting - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "Flight attendants at Canada\u2019s WestJet go on strike in dispute over pay - AP News",
+        "source": "AP News",
+        "duplicate_of": {
+          "section": "world_news",
+          "title": "WestJet flight attendants go on strike after talks fall through, grounding flights - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "same-event",
+        "score": 0.514
       }
     ]
   },
   "curation": {
-    "trimmed_count": 71,
+    "trimmed_count": 70,
     "trimmed": [
       {
         "section": "sports.Broncos",
         "target_count": 3,
-        "trimmed_count": 9
+        "trimmed_count": 8
       },
       {
         "section": "sports.Avalanche",
         "target_count": 3,
-        "trimmed_count": 9
+        "trimmed_count": 8
       },
       {
         "section": "sports.Nuggets",
         "target_count": 3,
-        "trimmed_count": 9
+        "trimmed_count": 8
       },
       {
         "section": "sports.Rockies",
@@ -502,7 +506,7 @@
       {
         "section": "us_news",
         "target_count": 5,
-        "trimmed_count": 14
+        "trimmed_count": 15
       },
       {
         "section": "world_news",
@@ -512,7 +516,7 @@
       {
         "section": "auto_industry",
         "target_count": 5,
-        "trimmed_count": 14
+        "trimmed_count": 15
       }
     ]
   },
@@ -545,7 +549,7 @@
       "items": [
         {
           "label": "DealersLink / auto retail SaaS",
-          "signal": "Asbury Automotive\u2019s big DMS switch hits the home stretch - WardsAuto",
+          "signal": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling - The New York Times",
           "application": "Translate vendor/product movement into a question: what dealer task is still manual, slow, or poorly measured, and can DealersLink make that workflow simpler?"
         },
         {
@@ -555,7 +559,7 @@
         },
         {
           "label": "Future AI business",
-          "signal": "US Treasury intervenes to support yen after Japan steps in, FT reports - Reuters",
+          "signal": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says - Reuters",
           "application": "Favor narrow, paid workflow wedges: a recurring report, an agent that saves a team 30 minutes daily, or an integration that turns messy inbox/CRM data into decisions."
         },
         {
