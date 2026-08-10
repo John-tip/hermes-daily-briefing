@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "generated_at": "2026-08-09T08:10:24.820239-06:00",
-  "date": "2026-08-09",
+  "generated_at": "2026-08-10T08:10:40.458430-06:00",
+  "date": "2026-08-10",
   "news_window_hours": 24,
   "weather": {
-    "headline": "Areas Of Smoke",
-    "detail": "Areas of smoke before 3pm, then areas of smoke and a slight chance of showers and thunderstorms. Mostly sunny. High near 97, with temperatures falling to around 92 in the afternoon. North northwest wind 3 to 13 mph, with gusts as high as 21 mph. Chance of precipitation is 20%.",
-    "tonight": "Areas Of Smoke",
-    "high": 96,
-    "low": 70,
+    "headline": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+    "detail": "A slight chance of showers and thunderstorms after 2pm. Mostly sunny. High near 98, with temperatures falling to around 94 in the afternoon. Northwest wind 5 to 12 mph, with gusts as high as 17 mph. Chance of precipitation is 20%.",
+    "tonight": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
+    "high": 97,
+    "low": 74,
     "source": "https://api.weather.gov/gridpoints/BOU/63,62/forecast"
   },
   "calendar": [],
@@ -18,209 +18,224 @@
     "sports": {
       "Broncos": [
         {
-          "title": "Broncos DL lands on season-ending IR; team made 4 roster moves - Broncos Wire",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOE5yQ09zWHlEMzJ3RnBQb2Q5U3pxSVdpd0pSM2x1VTN1dW04cGh1aEc5YjJINjBvTi00X0ZvTFBvamIzazgzMExTUTJmYTJTeWlQRkM5UEJjMWRXUmlmbXQ1QTdvaWM5cUFkbDBUazVBMlQ5OHFRaHhDVXFjc2xCSkdWZ0NlcVZrdjRiUzRuOS1Nd0tMaE1FNUR0WnNlbzlHeXltYWtoNWl3c2JKNTdtUDV4R0s3NU4xbnc?oc=5",
+          "title": "Denver Broncos preseason schedule: Dates, times and TV info - Broncos Wire",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYnp4MUZYVUJObUo5eFJVWVI3UDhhMEhVM3Y2dThDQ2RrNmIwWlR1UF9mYnBqbDBGZ3NTakFyMmJ5ZndlQzlqODNGOHBlT3RLQ3BLV0RicWw5d1dvdkJhbERaUGRac3oyYTFSOWtxdEZNZ0RmSDZ2dlltWHNMa1NNeURXUjFYZ0otclltXzdJWlVQVUVpSFo3MHRRRFZhWi1uS19ZdXBma0JUMGl6c1FWN1VneHFtS2pUcC1DaEZ1aTJJZnVvOUhJQWtB?oc=5",
           "source": "Broncos Wire",
-          "published": "2026-08-08T18:35:00-06:00",
-          "summary": "Broncos DL lands on season-ending IR; team made 4 roster moves &nbsp;&nbsp; Broncos Wire"
+          "published": "2026-08-10T07:01:00-06:00",
+          "summary": "Denver Broncos preseason schedule: Dates, times and TV info &nbsp;&nbsp; Broncos Wire"
         },
         {
-          "title": "Broncos Camp Observations: As 'back and forth' camp continues, Denver's defense responds in scrimmage setting on Day 8 - denverbroncos.com",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU0hLQTg5TC1EN3ZwbUpISF9VMHdWc19yZmc0bHlIQ1pFR2hxQ3NnMVBuRExON2toMzFzcHZtREJEUWZoVDZHUTJKaHJhWUJkODltbG9QV19oM2o2WkZ1RjRual95b2FEZWxESVoteFI3bktYcGw1R0N4MkZwMjBLM2xTNC1lX0ZiR3czbFdmZGlPNjNzdkY5Wk1Sb3lUX0VkdlZDN2IzNnVKZGdKS1RKcjBWNFlVNVhBRExSYnlKMVRGa0NXbkFGUlJxc2RIMU9sYzhONTZNZzU2cG5XY3F6MmhwMA?oc=5",
-          "source": "denverbroncos.com",
-          "published": "2026-08-08T17:11:24-06:00",
-          "summary": "Broncos Camp Observations: As 'back and forth' camp continues, Denver's defense responds in scrimmage setting on Day 8 &nbsp;&nbsp; denverbroncos.com"
+          "title": "Denver Broncos wide receiver Courtland Sutton compliments Jaylen Waddle's game | 'Inside Training Camp' - NFL.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclpfVnBvbk5mNEo5MFlPT0hyaFFYdXIwWHJQU1FIVmxVc1daRWpaZ2NvWUVJV2xIWEV4T2NOOXNlOXRzVXJsYXVhT2VMMllsMFhpTmd4ZDBfd1lWczBCQ05uYUxockVTM0ZUb3B3MkVVc0hEdkpUb0pZdUgwZFJDcFhPLXU4UFdmcG9zU0hReUF4VHF1RlZJbWpaU0VrQQ?oc=5",
+          "source": "NFL.com",
+          "published": "2026-08-10T01:11:41-06:00",
+          "summary": "Denver Broncos wide receiver Courtland Sutton compliments Jaylen Waddle's game | 'Inside Training Camp' &nbsp;&nbsp; NFL.com"
         },
         {
-          "title": "Will Jonah Coleman\u2019s standout camp force Broncos to play three RBs? \u2018It\u2019s a good problem to have.\u2019 - The Denver Post",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0liQlRQRTlaSlFIRmY1dllRVkdXclpzZGcyRjlwOVFpT20yOW4wbl9KUHpyMWZaR01OZnlYbTFMRW13X1NsQXFob3lnVDdGN1JkaHFVMmVfaFlJRE0zWkJKaERzclR3VVhWTklKT1RaUElNLU40eTJ6UkI5YjlVT0R4QmRTTmw1UGg2Mk5waDF5eDV3cjJ3Vm1oWHN6eE9aSE1uQWhyeklYNldjZmlKRks2ZWd6dnM1TXFNblBzcnZIR05kVjdRRnN3WQ?oc=5",
-          "source": "The Denver Post",
-          "published": "2026-08-09T04:00:42-06:00",
-          "summary": "Will Jonah Coleman\u2019s standout camp force Broncos to play three RBs? \u2018It\u2019s a good problem to have.\u2019 &nbsp;&nbsp; The Denver Post"
+          "title": "Why the Broncos' Real Trade Window Hasn't Opened Yet - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWpYSDF6cEdjZkw0eDlVbFBwNUM3U2tjU2lYbGh3b0JxRGIycnNQbHJLU0tqODB4cENEV1Rfay1fR1Vnd3luQmJybXdlYTlrSk14V09PWXZocFQtazBCVUFpRktZUnMxdWFWU0VHeHROOTlnVndKQnBOeXlsSVFPMmpxWE5RLWpZZEZ0S0ZXNA?oc=5",
+          "source": "Sports Illustrated",
+          "published": "2026-08-10T07:00:05-06:00",
+          "summary": "Why the Broncos' Real Trade Window Hasn't Opened Yet &nbsp;&nbsp; Sports Illustrated"
         }
       ],
       "Avalanche": [
         {
-          "title": "Weekly Cupcakes: Avalanche-DU alumni roster has been announced - Mile High Hockey",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFpNSnlJRW1uTkJaay15TXdSWWV2cTJsTUZZMmswTThHTURtTk11MlExbm5sRWNRTHpubUx4bk5SZU9BVU8yaEx2d1FmV3ZuS25PZlNtc2dadnZhSXlyYnpmZ25YREx1Y2tyVWt6LV9qSW45V0tkVmZNT0dGd01DSUMwOHN1QlNMRW1uY2NkSkE2QUdxekZIbHBpWjZSUl8wSE8wRXduUGlCTE5lSldwTnR1bw?oc=5",
-          "source": "Mile High Hockey",
-          "published": "2026-08-09T06:00:00-06:00",
-          "summary": "Weekly Cupcakes: Avalanche-DU alumni roster has been announced &nbsp;&nbsp; Mile High Hockey"
+          "title": "Cale Makar Negotiations With Avalanche Reportedly Nearing Completion - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVdKS1oxOU5OMXB2dnlmYWZ3OHltODhHaDFoaHlPOC1zeHJocGRUUXg1Wkl0RDhfbTUzZE5BclBHUGNsNzVueUFRZG1VeFl4LWx0NWxWaUZrQzR6NnZTMTlabzhOanUwY0JwMEotaVc0WDQzS3BUaWowWTN4REhLMWEyMDQ4MUhRS3E3aW9tMzFLUGpDMHUtRWlmcTdoVnMzcnBMdEJoQzd4ZHdfNnJKQw?oc=5",
+          "source": "Sports Illustrated",
+          "published": "2026-08-09T18:00:01-06:00",
+          "summary": "Cale Makar Negotiations With Avalanche Reportedly Nearing Completion &nbsp;&nbsp; Sports Illustrated"
         },
         {
-          "title": "Dallas Stars fantasy projections for 2026-27 - NHL.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHZMSUJ0UnpNV1JlWl80bDhIcngweUFFcDRMMjR1ZVFJRlZGVnQ4LTR6SHpjeFdtQVEzNWtTRXFEWGxxaU1qSm5xTUI3UURNTWsxeVE4QUsyYWlTNWQtSmFlNUs5RE1RMVRiZnhNRzhwbGJwMFZMdk1vOG9VbWFWOVdxNldYT25Bc3prU19tbVNWT2lDODFYdVJNU05CNnEzbXc?oc=5",
-          "source": "NHL.com",
-          "published": "2026-08-08T20:32:02-06:00",
-          "summary": "Dallas Stars fantasy projections for 2026-27 &nbsp;&nbsp; NHL.com"
+          "title": "Avalanche\u2019s $54 Million Star Gets Encouraging Contract Update Ahead of Deadline - heavy.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1BJNWFmR3BvSjZ5MTRsZktmbEpHUnVaaWV2bEQ0cDBJZkZmQXVGeWNWU2ZDdUZpR19FMDhnLWZSS0RNdE1ZNzEtNVFnbTNKcU16Q3BBaGNLZ1ZiUVdKT1N0cHpMR3JJUDJVYWR0UDRFY1lfZ0VXNUZNdFNvc2JtUFhVSWhUcU1Eem16N3BMRFNXblRlU253c1lZWTdKMTVMQ05oOQ?oc=5",
+          "source": "heavy.com",
+          "published": "2026-08-10T06:26:46-06:00",
+          "summary": "Avalanche\u2019s $54 Million Star Gets Encouraging Contract Update Ahead of Deadline &nbsp;&nbsp; heavy.com"
         },
         {
-          "title": "A Few Drinks Sparked This Wild Nathan MacKinnon-Canadiens Trade Idea - Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbDBXbi1UTjdneTZtaGk3N0hCT1FxQ1libjI4bGV3VTFDbGd0Nm5FdmdGQlhvMDV6U3MzT1JYeExqWGRBbEY2YTVheW1oUzVfYldibkR3U3ZXSzZhS01IY0tYREU0aURRWmlQMHZYMkl3Qy1hUzJLQlNQNnJqcGFrWDA4SnpRQQ?oc=5",
-          "source": "Yahoo Sports",
-          "published": "2026-08-08T14:52:03-06:00",
-          "summary": "A Few Drinks Sparked This Wild Nathan MacKinnon-Canadiens Trade Idea &nbsp;&nbsp; Yahoo Sports"
+          "title": "Toews Opens NHL Network\u2019s Top 20 Defensemen Ranking - Colorado Hockey Now",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeU1tYkVjSkFTS0VFeThmcXJNbWZyMTFFOXdVWTlCWGJRbXhMaHVhOHRFMjNFblpNU25Ecjc4MTM0VkxQMWZfUW1IY0FwVGVvNkt6T1FHZ3VPZkwxSWdzTmVsU1hoT3JRWnVaUWc1dmlrcXVxbjEwZFYycW5FdGIzcDhYOENSZ3hz?oc=5",
+          "source": "Colorado Hockey Now",
+          "published": "2026-08-10T01:02:59-06:00",
+          "summary": "Toews Opens NHL Network\u2019s Top 20 Defensemen Ranking &nbsp;&nbsp; Colorado Hockey Now"
         }
       ],
       "Nuggets": [
         {
-          "title": "Nikola Jokic might not be acting in the Denver Nuggets\u2019 best interest - Basketball Network",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSWdhODR3bEJDT0NMYTA5MmNEVlA0M1Y0aHJvLU5kYWxvWjJnUk9fMW1JUC03cU1lZktucGphRUFhRnd1ejdicWFtRXZtWHNlWVptdkN0OF92el90cXlzQU5uUVZBVGZkRDVBQmxmWi1TblZzLVU4dUt5b1dEc1gyTWJxNmpPd1NVVDVBcDBkcy1JZVlidTdvQ0dyUU5IM3A0MGd5RnRncVRBWEdxQVNmYnZUYWd4SnRHZDZqZzgtVXNQcEZvdVVBc19yYVJTUQ?oc=5",
-          "source": "Basketball Network",
-          "published": "2026-08-09T05:52:10-06:00",
-          "summary": "Nikola Jokic might not be acting in the Denver Nuggets\u2019 best interest &nbsp;&nbsp; Basketball Network"
+          "title": "Apr 30, 2026; Minneapolis, Minnesota, USA; Denver Nuggets center Nikola Jokic (15) seats on the bench before the second half begins against the Minnesota Timberwolves during game six of the first round of the 2026 NBA Playoffs at Target Center. Mandato - The Lufkin Daily News",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNaHB4bGQyUFZ3dDZJM3NFanBwY25ZZHlybUFYNHBaandjYUllRkdBVmJTbFAtcnQ0THIxNHdSdjdHa243QU1CLUpiV013WU94RW5UdHpOOWpLSTRrSlFmQ19CWkxjYzhaZ1BERTFGbHUxTU91QUdfV2ZicDRuUE5oT3Btc1JPdTNlNVhGY2Zhdmpxbk90QUZpZ3g3VGZpbVc3YmR6VzBQOU0tWEhfWXZSb2lZRGJTZDl5Z0RGb2wxOWFYeUpXVWctMXl6SUJvZzBUcl81YmZhak9YOTE3eWs0TnlrbFlmbENyVXhOcVpqM2U2WENWRHlpYXhYcUpuVnhZdDJ5MlB4ajliY3RCUW1zU09mUTc?oc=5",
+          "source": "The Lufkin Daily News",
+          "published": "2026-08-10T04:41:41-06:00",
+          "summary": "Apr 30, 2026; Minneapolis, Minnesota, USA; Denver Nuggets center Nikola Jokic (15) seats on the bench before the second half begins against the Minnesota Timberwolves during game six of the first round of the 2026 NBA Playoffs at Target Center. Mandato &nbsp;&nbsp; The Lufkin Daily News"
         },
         {
-          "title": "Nuggets' Top Three Trade Candidates If They Re-Sign Peyton Watson - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSS1WNFpvREwyRkNkR2gzOUozMmRvWEZWcTFBa2U0M2JvZVQyN1ZXMDJUR3B1ZWs1VWdia05IMExleldqUXN6dXBPZm42dGhEQUJjZHk4bXU4c0RzN1ZlMmIxeUY2aWhmLWNEVUE5YVFpWEVYSkQ5TDVqeXhqN1BtWnR2VDdycWx2V0lpWlJOeVN0MHM2OEFsb0xVcmZweElYTWc?oc=5",
+          "title": "Nuggets Could Benefit From Taking Chance on Ben Simmons - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHo2eVBZTFFUZWFkQjNMX0Y5dy1uQ2RmNmRqSExLd2g3bmlxLU5BZ0xzeHc4YURnUjZBVkdTb0V2Tm9wMEtIcmhuSi1ENjBnVk1EQmdTeG9jWUNWODBUMlZCUVVFcnZXSXdrb2tiMGRUTHQ0a2lLRjdhUEw4YlVDdUtTdVBhVHR3U0tBamN4ZG5oWkV3TEE?oc=5",
           "source": "Sports Illustrated",
-          "published": "2026-08-09T08:06:28-06:00",
-          "summary": "Nuggets' Top Three Trade Candidates If They Re-Sign Peyton Watson &nbsp;&nbsp; Sports Illustrated"
+          "published": "2026-08-10T07:00:02-06:00",
+          "summary": "Nuggets Could Benefit From Taking Chance on Ben Simmons &nbsp;&nbsp; Sports Illustrated"
         },
         {
-          "title": "Keeler: Nuggets\u2019 Nikola Jokic really needs to stop being Mr. Nice Guy to Josh Kroenke - The Denver Post",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQXQwUkpyR1JLVDl6dGIwa2xIU2JzbkVmWjdXTGNqMHBzZGFueU9iakdub0dvNzhiYTloQWgzUE41RGFkc04yY3Bfa0tVTE5WRWZsTENEMTR4OFQtZmw3US1pZ2tyYURKLVRuQ2ZFS19jNXU2Z1Y5R1d6d05NLVJZWjAxV0ZpYlk?oc=5",
-          "source": "The Denver Post",
-          "published": "2026-08-09T04:00:09-06:00",
-          "summary": "Keeler: Nuggets\u2019 Nikola Jokic really needs to stop being Mr. Nice Guy to Josh Kroenke &nbsp;&nbsp; The Denver Post"
+          "title": "URGENCY: Are the Denver Nuggets and Nikola Jokic DOING Enough to Address Offseason Uncertainty? - thv11.com",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSVdjeE9NRTBlVThLbGJObzRndm9jVkhKc3lhcl9Qb1B2MHgzUGJFdzlTOF9BTUZxWWlfcGo5Wm1MZ2JOUTRqRDdOZklmRlMtQm9yNGRBd01tY1pndmk1Sms3aGljTFJkZFpuWUJNWEVJZm9QTFJIWjlNTVJRWkdPT2EtM3gxNDJaTV9pbzZYd2VkblJiVTJXdWhGOVNHaGVaUVRFdWtyV092cnJ6OFRKWXE5RXI0YWYxN01xVzYxLVNfNEVsWjJrX0NvYjBWcWthYzNuWlFhUFVjeXYtbVhaVU9lOGg2MzF2Y0piNElzUUxTUTRfM1g2WmVrcE5VOHgxaldGTEJfX1ZScVZ5Z09QR3p6cUxHelNRQ3NCR3A2dGRSQWY4RHlWc0Jud0lET3ZIQ2U0?oc=5",
+          "source": "thv11.com",
+          "published": "2026-08-09T22:18:00-06:00",
+          "summary": "URGENCY: Are the Denver Nuggets and Nikola Jokic DOING Enough to Address Offseason Uncertainty? &nbsp;&nbsp; thv11.com"
         }
       ],
       "Rockies": [
         {
-          "title": "Colorado Rockies at St. Louis Cardinals Game Story, Scores/Highlights - 08/08/2026 - MLB.com",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWalpxWS1obkVCcVkzRFJ3OXF2YnVxSUZUSnpNNDh6X25YT0Z4YUZXUVJWOFpycGdfaVJzREhuT210NVdPWUloOWhheVp6MTlZ0gFQQVVfeXFMUFZqWnFZLWhuRUJxWTNEUnc5cXZidXFJRlRKek00OHpfblhPRnhhRldRUlY4WnJwZ19pUnNESG5PbXQ1V09ZSWg5aGF5WnoxOVk?oc=5",
+          "title": "Colorado Rockies at St. Louis Cardinals Game Story, Scores/Highlights - 08/09/2026 - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BXzM1ZFozUHdtRjd4QldvUFU5cy1iN0VNY0Q5d0ZJN0t1VHY5aHZ6ckpVc1hvd1RfNTNuR0pnR0RjandzbFA5Vm1vNGFCRjhI0gFQQVVfeXFMT0FfMzVkWjNQd21GN3hCV29QVTlzLWI3RU1jRDl3Rkk3S3VUdjlodnpySlVzWG93VF81M25HSmdHRGNqd3NsUDlWbW80YUJGOEg?oc=5",
           "source": "MLB.com",
-          "published": "2026-08-08T17:45:26-06:00",
-          "summary": "Colorado Rockies at St. Louis Cardinals Game Story, Scores/Highlights - 08/08/2026 &nbsp;&nbsp; MLB.com"
+          "published": "2026-08-09T15:18:53-06:00",
+          "summary": "Colorado Rockies at St. Louis Cardinals Game Story, Scores/Highlights - 08/09/2026 &nbsp;&nbsp; MLB.com"
         },
         {
-          "title": "Where to watch Colorado Rockies vs St. Louis Cardinals: TV channel, start time, streaming for Aug. 9 - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYUhKTWVEbmJ4OVVaSlN1VzQ5b3M3UGxfTTRpeG10dmdQeVlVNGE5VHRvNHhFZkU1ZFYySnlLeEpyb2VBaDdJMmM1NjUxd09OOUw0NTVqQTNjSjR5dlNlZWxqY0x6TEY4NndUS3lnUlAtaDZMbWFWNE9JT2RuMV80TUtoY044UTVLaVJJY05FLS02NDN0Vm9Bb09DOGlhX2JFUlVTOW5aN2JrOUVoT1VoNlprVFdqbmlWdERoMGNxcjlCX1VhM1NlUkQyelhULUZqSXc?oc=5",
+          "title": "Monday Rockpile: How Rockies TV set up Jordan Romano\u2019s closer entrance - purplerow.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ05JeE50ZEZqYlNENW1VZHR3STJxV3lHTnFmU0Yxb2x1N09BYy16MjJEcm5xbGU3SE1tRkRCb0U1Y3ZVeDQzLUVUdzBXNldObWxpRFMwdkp6eUlhRTA4bG9RdUd0cE04WWxldlhjbXdiaWdEMXpEdmNvTmd5V3lQa09yTjk2YUhaMEluR24yNnVCNnMtT1phYUNFQzBmRDJKMEF3S1A4WW9EclhfN0llMHhZS1c?oc=5",
+          "source": "purplerow.com",
+          "published": "2026-08-10T06:00:00-06:00",
+          "summary": "Monday Rockpile: How Rockies TV set up Jordan Romano\u2019s closer entrance &nbsp;&nbsp; purplerow.com"
+        },
+        {
+          "title": "Where to watch Colorado Rockies vs Arizona Diamondbacks: TV channel, start time, streaming for Aug. 10 - USA Today",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbmZXR3M3eThDbzN5Wmw3bHZvZWt2b20tT1ROVWtkTUVSRnZLQTdZNm56VjFDY3Q2cTN2U21RVWVKbTAzVjdWcVNQRXdka19HdkNFWm9WRzgwOVZXdXNqS1JMMTJQakVQaXk3X042cm1fMFRxeG1zdEl3U1lCR1ZnM1NIeTI3QXBhX1FYTV9nSDFWQmZDNE9TbjU3NDctZUhJcm5NZ1lLRTVYYllqMnBzQ0RUOVhGbjNvQ2JuRWhGSENfb1RnUVpReTFEVGpUYjZMQ2oycQ?oc=5",
           "source": "USA Today",
-          "published": "2026-08-09T04:13:00-06:00",
-          "summary": "Where to watch Colorado Rockies vs St. Louis Cardinals: TV channel, start time, streaming for Aug. 9 &nbsp;&nbsp; USA Today"
-        },
-        {
-          "title": "How to watch Rockies vs. Cardinals: TV channel and streaming options for August 8 - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ2ZpQnF2cHRsV2dsamJJXzBhNE1veVBQOXlxVjJ4aXpOdmZyZW16MFZnOUlJa0hya0duUTF3OHQwVGlzVlp4V3RVSzZrSmZVZHBPY3oyeWlKS25FdDNqbzg4cGN2bDcxdmNlTDNpQjdpb1p3Zk1hZFpSd0FXYXZROERFUWdhWW5iU3JPVFE4THpKUngySzRVTlo2WTNrM19lVVBjSWhmaXhNZlRwaUFXOGZIYWUzVXdLblRyVy02cVZ2dUZWZUdlM2pyZHI?oc=5",
-          "source": "The New York Times",
-          "published": "2026-08-08T17:19:43-06:00",
-          "summary": "How to watch Rockies vs. Cardinals: TV channel and streaming options for August 8 &nbsp;&nbsp; The New York Times"
+          "published": "2026-08-10T04:38:00-06:00",
+          "summary": "Where to watch Colorado Rockies vs Arizona Diamondbacks: TV channel, start time, streaming for Aug. 10 &nbsp;&nbsp; USA Today"
         }
       ]
     },
     "us_news": [
       {
-        "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
+        "title": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazVhN1R5WHRFQTBvX1BRNWoyT1F4WGlKVXBncE5ad1h2TVZqM0ZPLWdEYy1OVkdDYnE2THh4Z2twaGtiRXBMdVY3V3NBT01UeGxuVlljODZHUVptY3NqNnVldHNDOEIzYndQQi0zUExFbExpVGdQbS0zS2ppeGpMbWlvVnZsNS10aVBLaXR1ZDA4Q0piT09XVHR4bjRNSk5qaDQtOGwzWm1seTB0UXlVUl9uN3FIRlVCWUdNS0lNX2xWUWR2ZHdTNnVqdS1sdw?oc=5",
         "source": "Reuters",
-        "published": "2026-08-09T06:16:34-06:00",
-        "summary": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz &nbsp;&nbsp; Reuters"
+        "published": "2026-08-09T11:19:59-06:00",
+        "summary": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5",
+        "title": "US not disengaging from Asia, seeks 'partners, not protectorates,' says Pentagon official - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSUZmem1DNlcya1hrNUx5cnp0b3V2Y1doOVNEMEhabGNFeVQxa3BoSGJlZ282alY2RTIxR2ZibVlObmF6Mkp0cExTTmFLMUVYMUl2YjJfT2pDSFNXemNfQ3ItY0FHaFhDX051cGNMUFQ2TUl4MS1DQzdPRlZsQUVLM0FhNDJweUdWM3g0Um1oQ0RsX0lPUTBabGljX1hqbTVSNWV2SzIxWmJzTmpKMEhRaHJJaVJ0U3o5S19uZlMwR3hscGdvN3Rfa1JZZ3I0T2c?oc=5",
         "source": "Reuters",
-        "published": "2026-08-08T14:24:41-06:00",
-        "summary": "US Senate advances landmark crypto bill before heading on August recess &nbsp;&nbsp; Reuters"
+        "published": "2026-08-10T01:49:43-06:00",
+        "summary": "US not disengaging from Asia, seeks 'partners, not protectorates,' says Pentagon official &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Talks with US won't happen while interim deal is breached, Iranian minister says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5",
+        "title": "Iran ties Hormuz reopening to US concessions on several demands - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmFvNGYwRDFRdHZrdWhBOWR0ZmVCdkZTSzRROXVNMG1UX1Azb04xa3ZCbEtYNkl4eFhSZG16b0xYeHNyd2tTdHhGWXFUTXJ6WFNVRjg3bmZYOEhEeHNaNHh4NU9qN0RQYXY3ZG13Qzh6Mk1LNG9jaGZraUZwRHVKY0hMZlFWUTdMOEpoaTRuemlPWEFJZUhsYk5TaUpNdWFqR1dId3NCM0xvYS1SNlNBMg?oc=5",
         "source": "Reuters",
-        "published": "2026-08-09T04:52:29-06:00",
-        "summary": "Talks with US won't happen while interim deal is breached, Iranian minister says &nbsp;&nbsp; Reuters"
+        "published": "2026-08-09T17:03:00-06:00",
+        "summary": "Iran ties Hormuz reopening to US concessions on several demands &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWFNbERCMmMwUUxzaXVsbzJyQTZoM2tqY21scnllSUJBZWhlZzlyRmdqZXJjRDdIYmU1ZTZOaVBON3loSVR1NGhIWGpXMTFYa1B0Q3JVV0tSZTV6TWhHU29nYUdsaFBnVFJ2eUt5WkJKekVlRWVlUzZiVmtqRjFkUU1pbTNwYUpWSFY3UHhjdVIxOWRCd2lrXzU1TGRTS3FRb1VFMjg3Z0Jna255b2I4?oc=5",
+        "title": "South Korea, US to conduct military drills amid evolving North Korea threats - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGVUcUxFVnozbGQzbUFJeTV2am9vY3lPQ0N5VU9NS1d0bUVTbU9qcGFGZEMwX0REUTBWa0h1WlBGdm5wY3pweERFRWNqUGZUb0NRNDBHRm5NaTZRdFY1VUt3ZFE0TkFtVnFOZ0o2a3lNSXhTSHZTblgyeGVkTEFqcTgxcDJid3lkbE1OMXhLSDQydnUwSUlCeGtOMXp0UjNtc1BHd2J5ejdCS0Izd1hvVjlJc3lRYXFWQVkyS1JwX05CWm5LVEE?oc=5",
         "source": "Reuters",
-        "published": "2026-08-09T07:31:14-06:00",
-        "summary": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds &nbsp;&nbsp; Reuters"
+        "published": "2026-08-10T02:08:44-06:00",
+        "summary": "South Korea, US to conduct military drills amid evolving North Korea threats &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHdGT2JicUc2MmpyR1JUOE1jNGgxT1V2ZDlzdG9Fd2tzeWdVSWJkWDdIbmJZWjhkUVQzZUxGeFg1RlR5X0pMOXdmclBpbmlwOGhjYkdhRWJOUUdUemdZaEc4M2tUV2tZOXJISDFiTlhsdnVxdWJ3b0o0SktBSk5fNE9VekdGNHlyNU9wRUFkTkRYTkhFaG53TGNmTUZxZmNwYTJhWFRDb1BTWXJpY25TZg?oc=5",
+        "title": "Netanyahu says Trump's new Gaza plan is unacceptable - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
         "source": "Reuters",
-        "published": "2026-08-08T13:35:00-06:00",
-        "summary": "Ex-President Joe Biden's cancer has spread, is very painful, son says &nbsp;&nbsp; Reuters"
+        "published": "2026-08-09T13:24:40-06:00",
+        "summary": "Netanyahu says Trump's new Gaza plan is unacceptable &nbsp;&nbsp; Reuters"
       }
     ],
     "world_news": [
       {
-        "title": "FIFA defends Infantino against allegations tied to his time at UEFA - AP News",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRHZWdENHOFlLNEdUbFU0T3dGWklNRG1qOXdLaHZUN0x5MzNkSExOd3M4cFNEZFhQMENUTHhRQXlsQVBIdks2WkN0aG4tMkE3SVFXVFdrcmdkVjU3WGNTYTBROGFtNGk0SnhrSUlqWFROZllIa1Jqc3hrZjZ5aktVU0I4SUZkcVlKejlqclZqcXhoenc?oc=5",
-        "source": "AP News",
-        "published": "2026-08-08T19:14:00-06:00",
-        "summary": "FIFA defends Infantino against allegations tied to his time at UEFA &nbsp;&nbsp; AP News"
-      },
-      {
-        "title": "As the world rediscovers \u2018The Odyssey,\u2019 disabled actors in Greece explore the pain of war - AP News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTnE3eUU2V1pueXY5QUl3ZmNVX0lfLWpIYkNEQU9WNnlLVXNJWE0yRzZtSk5kR1J3VEEydWZkcUlpMHRac2l3cnJHeFhWUEVlZ25nZXZSYXk0WDVwWE1ScWZXTXpIdVEzblVPcWYwdU9saGg3WUhMXzlYbldoZmNZdkNKVGh0Xzk4aWx0WlVodjNfNkN4OGt5T2ZkdnpxZDZGTVZ5T2tlZXpUNnhFUUVn?oc=5",
-        "source": "AP News",
-        "published": "2026-08-08T22:08:00-06:00",
-        "summary": "As the world rediscovers \u2018The Odyssey,\u2019 disabled actors in Greece explore the pain of war &nbsp;&nbsp; AP News"
-      },
-      {
-        "title": "Russia says it hit fuel storage facilities in Ukrainian ports overnight - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmJnek5pZHJ3UUNSeXFwWXg1cXd0WWpIZUd5a2lHVTBnVE0tZDNmLVU4a2NzbEd0NGsteXFZYW93RXJwci1tSjhYNzdKQi1UcGJ6VnpxWjZZaUYzOUxHX3Utd2dGdUdnT0dHVTZna3hxMkVxSGM4Q29JMlpwZjVucmwxcHRSZ3ZZd3gzWnhjRmxaZUhteFZNR3ZjVmdkbnBCbk4yR0FqcC1xQ2t5MlFz?oc=5",
+        "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3k1MmQ0NXQ1SXJLbTdKbVM4blFGTDh1MUNPZHB0M0dzcGhSYUZ2YkljeTZNM05tYlhJczdGaEs5anljMDc1SlkxWEphZVdWTVViV1A3dGFtXzdyUkxZNzI3VWpXZ3VfMkV3QXIzUFlMdFZfcnJIM1ZFWnFtSmFkZWVxV3Nld18zZVRJLUd4MHRxWDc0eTA1U1RyOWlaNC12X01rWWxmOXJKNVBZcS1TUw?oc=5",
         "source": "Reuters",
-        "published": "2026-08-09T00:56:00-06:00",
-        "summary": "Russia says it hit fuel storage facilities in Ukrainian ports overnight &nbsp;&nbsp; Reuters"
+        "published": "2026-08-10T04:29:27-06:00",
+        "summary": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup stake sale &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "PODCAST: Todd Blanche, Lisa Cook, Typhoon Dolphin and Pet tarot - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnZaV1QyTXNyLU4xNUI5NmVMMHVfT2Q4LVlfQjlNakhpRmZoRlpCa0hMZmRtb0tsYVRsTkFGTVAyR2VPV210bEJPQjRXYnBfNDg4QXctU1BGVm03ZVd3cmdLWUJrTGI4Mno1UjJFYnpZQXBrUC1HeVNfYmZHU3hnRnJyaDk5S041aW1DOHZlREdJS0RzdFFiQg?oc=5",
+        "title": "Millions of burnt books show how 'war of endurance' is hurting Ukraine - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHFPcnh2dmV3Z2ZzV0FIT0wtajFaY1FLdjNTY0pjUEdrM2FXX05tQ3AxelV2QWJEMWpNRHROUzlRM2RQRDBPNWVScEJZbnItdHFlRTlqb2JSZ3h4emNKRERlM19ydzk0bk0zai1jTlZvVENuclV2aF9aZ1BUNVY3ZDNZbGlQYU5uVmtXZ3RhcDBoV1JCOFZrbFU0RHBNN1RORURTd0dfUQ?oc=5",
         "source": "Reuters",
-        "published": "2026-08-08T09:21:52-06:00",
-        "summary": "PODCAST: Todd Blanche, Lisa Cook, Typhoon Dolphin and Pet tarot &nbsp;&nbsp; Reuters"
+        "published": "2026-08-10T00:01:00-06:00",
+        "summary": "Millions of burnt books show how 'war of endurance' is hurting Ukraine &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Algeria, Morocco seal Women\u2019s World Cup qualification - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlU4NUQ3MGh4MUN4SktKUWJ6c2pqOG1odWVYYnhYcXEwdlUxbUh3cVFQcmJBOXI1Q1VjeWV4ZXBvd3lOeWlpTUtIUlVtN1VsUHd5R1dES0ZybjdKZElpRHVhWi1qWlpnT2dudnZrTmp3QnFxenY1Y2V6dmRBTGM4WVlDdTJxd2NOQ1ZsVzdLS09PM2FXZFdGZzJiY3BhelNybVE?oc=5",
+        "title": "Gold inches down from seven-week high, US inflation data in focus - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEF0Uk1tb1JuQWhENTdaLVRfN2ZtbExLM3RoUFVJZ0IzNkhCYlZuc3R2dTY5ZHJxWVJBZVpQbHBES0NybEFsRVkxUFRmT0lVSVMxeUFxOEJKb2ZMWUFDSDh5WHh6S2NscTc1dE5uUFJTalpGLUltVllCX085a2lUbndIeDRVU0NvUmVINTRjU1BnZm9oREFxbUFPeVhTSllrc1h2d29vN0E?oc=5",
         "source": "Reuters",
-        "published": "2026-08-08T16:39:33-06:00",
-        "summary": "Algeria, Morocco seal Women\u2019s World Cup qualification &nbsp;&nbsp; Reuters"
+        "published": "2026-08-09T20:22:00-06:00",
+        "summary": "Gold inches down from seven-week high, US inflation data in focus &nbsp;&nbsp; Reuters"
+      },
+      {
+        "title": "Explainer: What is Unitree and why are China\u2019s humanoid robot makers racing to list? - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5",
+        "source": "Reuters",
+        "published": "2026-08-09T20:36:00-06:00",
+        "summary": "Explainer: What is Unitree and why are China\u2019s humanoid robot makers racing to list? &nbsp;&nbsp; Reuters"
+      },
+      {
+        "title": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGs5LVJQSnlqLXhUVEdVN1h2OTdZaXlLVzVnaW9xVk50VGdvM004MWpQNXIyLUVxMjV1aGhoSXhVcmhlMmZqNVltVUhyblg2MmtIbjBpZldLSmRLLWxCX0xvVGhmVFJKbk81S1NQQnM0TTYzM0tTLUotcC1DQ1JGVGx6dG8xVktZOHJydHNnODNvXzhKWDhXVENkX2RWRnJBM1Aw?oc=5",
+        "source": "Reuters",
+        "published": "2026-08-09T09:28:24-06:00",
+        "summary": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift &nbsp;&nbsp; Reuters"
       }
     ],
     "auto_industry": [
       {
-        "title": "From joint ventures to joint innovation: Why global autos look to China - Global Times",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51VGxnQUh3RTQ0bGJqVjNZQXZaZzNKenlhbFJObUJubWpOeDZCMTRZdnFWWXlLYWpWRFowdnl4My1ieXdNV1pNV0FhMlBSaVYwRnRTLTBqdzU0Zm56UG5tQ3Vn?oc=5",
-        "source": "Global Times",
-        "published": "2026-08-09T07:09:00-06:00",
-        "summary": "From joint ventures to joint innovation: Why global autos look to China &nbsp;&nbsp; Global Times"
+        "title": "BMW to Volkswagen: How deep is Germany's auto industry cull? - dw.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkhzNDRrMDZXMnd2dVNzNEVkcHVkSDJrZjVkT0VNWGh4QWppN2ZrdnV3WWNQOUJqNkhyWjZTczl3TzR5ejVFTVUwaVhoUUNiS2p6R3lzSWYyWlNubm00ZTI2T0hGM19ERndGNTJrY0ZmVHdBQVRSNDN0RjNpT3dBQk1ZMGx3bmhweUdUOGZsc2lPQkxtRFY1bF9nRnJSV3JMSWM1MzFDaWpPdUtNNFdqWGJPQkVibGdK0gG4AUFVX3lxTE5wWUF0Qjg0TnF0UmljREVydHp1VFlKXzFKT1JpSmt3WXBxQ3l3NjdRNTlnbFlseVBDX2E0N3ByZlpZY0pMVG5lbXU5eVY2c0FtdXFheXd2Q0llUVAxTGVreTdEWllFdG9LbXR3d1hRcUZoY0J1clJXQk1FLXhwekc3di1XS1doZ3NlbWpuUUNLQmVGX3h2dzJHOGZ6aWxsMW9Cb3NSbzZQaVU3VDlkUkIxM1ZmUGFVXzI?oc=5",
+        "source": "dw.com",
+        "published": "2026-08-10T00:48:43-06:00",
+        "summary": "BMW to Volkswagen: How deep is Germany's auto industry cull? &nbsp;&nbsp; dw.com"
       },
       {
-        "title": "Repossessions are becoming more common, with costs to industry and consumers - Automotive News",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd25VMHY1ZFBjOE9mNmowVWhSZ2dyLWZ1Ql9uVlRib0VfRkltR29hclVDek00amhCYXdYdTVuVHRXQWYzdFBIWjdDaXJpQzMtZk9ONzR6d1pPM3lPR0hTYmFvOGxORV9JdTFPTWpBeWlkLVpNd3pZam1RZGJXTDlNOENnZw?oc=5",
+        "title": "Why Japanese automakers are betting on U.S. expansion beyond tariffs - Automotive News",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUNjZDejNEUVAydEpFVmFmdGF2eFFWUkdTcENZVDJ3VTg2ZTE1MWxVbkdPSDFEdG9zRmZQRWdHRllpYWVLMmlhb1ZJQ3NQUV9PMnNUOEVwNzgwV0MyX3NvYi00Znd6akpXUkNjdXl6Sm1Vdw?oc=5",
         "source": "Automotive News",
-        "published": "2026-08-09T05:00:00-06:00",
-        "summary": "Repossessions are becoming more common, with costs to industry and consumers &nbsp;&nbsp; Automotive News"
+        "published": "2026-08-10T05:00:00-06:00",
+        "summary": "Why Japanese automakers are betting on U.S. expansion beyond tariffs &nbsp;&nbsp; Automotive News"
       },
       {
-        "title": "China's EV Companies Aren't Just Making Great Cars. They're Making Money - InsideEVs",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KWF8yTTBfNEdBdjk5VmFsSXQyenpzV2xKZjVNakNHbWxNUjF6MXY1VFZJb3hLQnNueXNrbGVWZncyXzBON3h4TTByUGJYMWs5M1ZVZURnN2dOUVJzMVEwTmpUV1NrOVl6NTY3ZEoxSEoxUU11ejJiSGYzaXA?oc=5",
-        "source": "InsideEVs",
-        "published": "2026-08-08T17:28:22-06:00",
-        "summary": "China's EV Companies Aren't Just Making Great Cars. They're Making Money &nbsp;&nbsp; InsideEVs"
+        "title": "\u00dcberraschende ifo-Zahlen: Steht die deutsche Autoindustrie vor dem Comeback? - Xpert.Digital - Konrad Wolfenstein",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdDhpdWpJSGY2Z3VyeURvaHNRT3VWMlgyNTY2bGFtWGd3RWNSUmRDSWdEbEdlWmNzcHI0TnRmX3JKUlZzMU9OT3RjOTNZa3J0TGlNd0lUV0R5SFpBM204c3lPNjVrZjNEVTktTkg1RGVqQW5PeEhmNHpkQjkzOG50azNWNEpULXhlQnfSAZIBQVVfeXFMTjJ0Q05VSnJORDZVTVl0SjNNbUd3NGVZclVjZ0xzUEZPX0VlQmVJdUNNNTE1bGltZV9ubUx4RHo2aGdDT0pSUHJUN3YtTmJGTFVwc0dqTi1fdEdCQ0VrSmRQUVRhSEpveF9Yd291dFVUTVJJQjgtZERJaC1vM3d4ZU1qVnU1NWR5eEhDVS1ZUDUtY1E?oc=5",
+        "source": "Xpert.Digital - Konrad Wolfenstein",
+        "published": "2026-08-10T04:55:13-06:00",
+        "summary": "\u00dcberraschende ifo-Zahlen: Steht die deutsche Autoindustrie vor dem Comeback? &nbsp;&nbsp; Xpert.Digital - Konrad Wolfenstein"
       },
       {
-        "title": "Vance says \u2018crazy\u2019 el Sayed would hurt middle class and auto industry - Washington Examiner",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHE1ZVRoRHlJSmp3X2FfbmJvUEQ3V0RMcGF5MHZocVRLbDNtOGtlUHVCRTZrby1uaFM5NXZiNlBSamNkU2lpaWtTWWhWUmlicjhFVk9KVXFEOVFoakRoTW9HazlERXRiN0poUjNtZGtvdzloUkdqWXV2YUhaekJhcFdSU2Rha2RuaDkzRmFKeUlLWEdIcy1jQw?oc=5",
-        "source": "Washington Examiner",
-        "published": "2026-08-08T10:47:00-06:00",
-        "summary": "Vance says \u2018crazy\u2019 el Sayed would hurt middle class and auto industry &nbsp;&nbsp; Washington Examiner"
+        "title": "UK Government backs auto industry with DRIVE35 investment - Machinery Market",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMS1zVnZhbUhoa3VoM2xuNUJraG5KV1g0eG1GYUVDMjV3R2w4aExWSHpWYmtIeGhlYmRnQURLdjFQb3U3VU9DX202c3J6a3NweWZZNHlpX1JzZ1ZUdWRQNXRSSDFIa3JLY3VwNnd4bmp5QjlseGQ2YmlrWjRYMV92OHlXTTRZdXU3S1otaTlQXzVhcjFDM1pkdmRUMFN2THFsXzEwS19B?oc=5",
+        "source": "Machinery Market",
+        "published": "2026-08-10T03:45:25-06:00",
+        "summary": "UK Government backs auto industry with DRIVE35 investment &nbsp;&nbsp; Machinery Market"
       },
       {
-        "title": "Maruti chair urges faster reforms as auto industry sees growth - Indian Television Dot Com",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVViOVlwZWZ6S2lFdHJrSUN2Nk85WS1uLVQ4MktTekxJN0FxVVAxYjhFRzdybThqVW1PeVVKMnpRdzBLX0x3VDE3WURDVXJTWWdGMmFhb1lHTW5hYWxENDh5d3E5SC1EUW94aFk5a2V1bXhJR1B6RjJ1NUF0Y2ZnR29xRkstRUdHc0hubXlrT2JkZDA0RnVab2RiTXM?oc=5",
-        "source": "Indian Television Dot Com",
-        "published": "2026-08-09T06:35:57-06:00",
-        "summary": "Maruti chair urges faster reforms as auto industry sees growth &nbsp;&nbsp; Indian Television Dot Com"
+        "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny - theguardian.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1hRTHY0dDMyZmxsbXhPUmhMTUZESVNoSlFhdjZLbVdDaWlkTmw0UmNrakJudzh0NEplS0ZRV0xrdWZ3M2poU2FJenRlR0pqc2NjNFJmVU50Tkpwdy1ZRkxtR2g5aU84c1VxMXJmME5xWjNnaHdNYTM0SXRxZW5nazRBSHd3bWU4RF8ycEZndWM3S3dSeFJPak1ZT1ZyaFNzVWl3QnRobXBrS1lu?oc=5",
+        "source": "theguardian.com",
+        "published": "2026-08-09T09:15:00-06:00",
+        "summary": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny &nbsp;&nbsp; theguardian.com"
       }
     ],
-    "auto_software": []
+    "auto_software": [
+      {
+        "title": "Auto Market Weekly Summary - Cox Automotive Inc.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yWXFJVUVFTG1fRm5RbzZzSXVnb3BwTUlGYTM0ZExwWUdhcnVKQy13ODJaVm5lZmhUd0F4OFU0bTR5SXZWYzFGYmVqSjhXSzduUUduV3hBRHQxbUtwaERjUkVCU191Ry1qZmF2RFI5eHZscGtvc2tkYnRTaDY?oc=5",
+        "source": "Cox Automotive Inc.",
+        "published": "2026-08-10T07:09:05-06:00",
+        "summary": "Auto Market Weekly Summary &nbsp;&nbsp; Cox Automotive Inc."
+      },
+      {
+        "title": "AION appoints DHL to provide parts logistics for dealers and workshops - motortradenews.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTgzV1JlaHQya2NDbEpwdU0yUG9uRzlXa2szMkJWbXdiNnNYTF9vdWJPMFhqNjdITkc0LVRnNFZnaUw4N3RvblNOUEYzdnkxZWtyaUVfUGt5SDJpY3RuR3JjVXhweUk2eFQxc1l0UU1SNXpSTW5obHBsZTM5RzNUaFN0Ul93UldscDJkZzMzdWpyQXRYRk5KX2wtaGFWN2ZDS2NmemRmRVdmMC0yWGJ2endjNUVJZlE5MjE5NWt5cXA?oc=5",
+        "source": "motortradenews.com",
+        "published": "2026-08-10T03:37:15-06:00",
+        "summary": "AION appoints DHL to provide parts logistics for dealers and workshops &nbsp;&nbsp; motortradenews.com"
+      }
+    ]
   },
   "component_status": {
     "weather": {
@@ -305,7 +320,7 @@
     "auto_industry": {
       "label": "Auto Industry",
       "status": "ok",
-      "candidate_count": 18,
+      "candidate_count": 20,
       "target_count": 5,
       "count": 5,
       "queries": [
@@ -315,9 +330,9 @@
     "auto_software": {
       "label": "Automotive SaaS / Dealer Software",
       "status": "ok",
-      "candidate_count": 2,
+      "candidate_count": 8,
       "target_count": 5,
-      "count": 0,
+      "count": 2,
       "queries": [
         "vAuto OR DealersLink OR \"Cox Automotive\" when:1d",
         "\"CDK Global\" OR Tekion OR DealerSocket OR Dealertrack when:1d",
@@ -326,7 +341,7 @@
         "\"digital retailing\" dealership automotive when:1d",
         "\"inventory management\" dealership automotive software when:1d"
       ],
-      "relevance_filtered_count": 2
+      "relevance_filtered_count": 6
     }
   },
   "failures": [],
@@ -335,7 +350,7 @@
     "us_news": 5,
     "world_news": 5,
     "auto_industry": 5,
-    "auto_software": 0,
+    "auto_software": 2,
     "sports": {
       "Broncos": 3,
       "Avalanche": 3,
@@ -344,156 +359,72 @@
     }
   },
   "deduplication": {
-    "duplicate_count": 12,
+    "duplicate_count": 5,
     "dropped": [
       {
         "section": "sports.Avalanche",
-        "title": "NHL EDGE stats 2026-27 season outlook for Dallas Stars - NHL.com",
-        "source": "NHL.com",
+        "title": "Cale Makar Again Tops NHL Network\u2019s Top 20 Defensemen - Colorado Hockey Now",
+        "source": "Colorado Hockey Now",
         "duplicate_of": {
           "section": "sports.Avalanche",
-          "title": "Dallas Stars fantasy projections for 2026-27 - NHL.com",
-          "source": "NHL.com"
+          "title": "Toews Opens NHL Network\u2019s Top 20 Defensemen Ranking - Colorado Hockey Now",
+          "source": "Colorado Hockey Now"
         },
         "reason": "summary-overlap",
-        "score": 0.6
+        "score": 0.562
       },
       {
-        "section": "sports.Rockies",
-        "title": "Colorado Rockies vs. St. Louis Cardinals: Game Highlights - ESPN",
-        "source": "ESPN",
+        "section": "world_news",
+        "title": "Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role? - Reuters",
+        "source": "Reuters",
         "duplicate_of": {
-          "section": "sports.Rockies",
-          "title": "Colorado Rockies at St. Louis Cardinals Game Story, Scores/Highlights - 08/08/2026 - MLB.com",
-          "source": "MLB.com"
+          "section": "us_news",
+          "title": "Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role? - Reuters",
+          "source": "Reuters"
         },
-        "reason": "near-title",
-        "score": 0.9
+        "reason": "url",
+        "score": 1.0
       },
       {
-        "section": "sports.Rockies",
-        "title": "Warren Schaeffer discusses the Rockies' 8-6 win - MLB.com",
-        "source": "MLB.com",
+        "section": "world_news",
+        "title": "Netanyahu says Trump's new Gaza plan is unacceptable - Reuters",
+        "source": "Reuters",
         "duplicate_of": {
-          "section": "sports.Rockies",
-          "title": "Jake McCarthy, Cole Carrigg fuel Rockies\u2019 8-6 win - MLB.com",
-          "source": "MLB.com"
+          "section": "us_news",
+          "title": "Netanyahu says Trump's new Gaza plan is unacceptable - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "Mohsen Rezaei appointed as secretary of Iran's top security body - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role? - Reuters",
+          "source": "Reuters"
         },
         "reason": "summary-overlap",
-        "score": 0.514
-      },
-      {
-        "section": "us_news",
-        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "same-event",
-        "score": 0.45
+        "score": 0.562
       },
       {
         "section": "world_news",
-        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters",
+        "title": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview - Reuters",
         "source": "Reuters",
         "duplicate_of": {
           "section": "us_news",
-          "title": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "same-event",
-        "score": 0.45
-      },
-      {
-        "section": "world_news",
-        "title": "Israel rejects Trump's 15-point plan for Gaza, PM Netanyahu says - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Israel rejects Trump's 15-point plan for Gaza, PM Netanyahu says - Reuters",
+          "title": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview - Reuters",
           "source": "Reuters"
         },
         "reason": "url",
         "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "Talks with US won't happen while interim deal is breached, Iranian minister says - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Talks with US won't happen while interim deal is breached, Iranian minister says - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "Russia says it struck vessels and military facilities supporting Ukraine in Odesa, Mykolaiv - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Russia says it struck vessels and military facilities supporting Ukraine in Odesa, Mykolaiv - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds - Reuters",
-        "source": "Reuters",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds - Reuters",
-          "source": "Reuters"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "world_news",
-        "title": "Iran\u2019s leaders think they have Trump cornered, but their strategy carries great risks - AP News",
-        "source": "AP News",
-        "duplicate_of": {
-          "section": "us_news",
-          "title": "Iran\u2019s leaders think they have Trump cornered, but their strategy carries great risks - AP News",
-          "source": "AP News"
-        },
-        "reason": "url",
-        "score": 1.0
-      },
-      {
-        "section": "auto_industry",
-        "title": "Car industry to hit 6.3 million units by FY31, with small cars growing faster: Maruti Suzuki Chairman RC Bhargava - BusinessLine",
-        "source": "BusinessLine",
-        "duplicate_of": {
-          "section": "auto_industry",
-          "title": "Indian car industry likely to reach 6.1-6.3 million units by FY31: Maruti Suzuki India Chairman - MorungExpress",
-          "source": "MorungExpress"
-        },
-        "reason": "summary-overlap",
-        "score": 0.6
       }
     ]
   },
   "curation": {
-    "trimmed_count": 67,
+    "trimmed_count": 76,
     "trimmed": [
       {
         "section": "sports.Broncos",
@@ -513,22 +444,22 @@
       {
         "section": "sports.Rockies",
         "target_count": 3,
-        "trimmed_count": 7
+        "trimmed_count": 9
       },
       {
         "section": "us_news",
         "target_count": 5,
-        "trimmed_count": 14
+        "trimmed_count": 15
       },
       {
         "section": "world_news",
         "target_count": 5,
-        "trimmed_count": 8
+        "trimmed_count": 11
       },
       {
         "section": "auto_industry",
         "target_count": 5,
-        "trimmed_count": 12
+        "trimmed_count": 15
       }
     ]
   },
@@ -561,7 +492,7 @@
       "items": [
         {
           "label": "DealersLink / auto retail SaaS",
-          "signal": "From joint ventures to joint innovation: Why global autos look to China - Global Times",
+          "signal": "Auto Market Weekly Summary - Cox Automotive Inc.",
           "application": "Translate vendor/product movement into a question: what dealer task is still manual, slow, or poorly measured, and can DealersLink make that workflow simpler?"
         },
         {
@@ -571,7 +502,7 @@
         },
         {
           "label": "Future AI business",
-          "signal": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
+          "signal": "Trump says U.S. is 'low-keying it' with Iran, stresses economic pain, according to Axios interview - Reuters",
           "application": "Favor narrow, paid workflow wedges: a recurring report, an agent that saves a team 30 minutes daily, or an integration that turns messy inbox/CRM data into decisions."
         },
         {
