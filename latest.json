@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "generated_at": "2026-08-14T08:10:52.445712-06:00",
-  "date": "2026-08-14",
+  "generated_at": "2026-08-15T08:10:17.109733-06:00",
+  "date": "2026-08-15",
   "news_window_hours": 24,
   "weather": {
-    "headline": "Partly Sunny then Showers And Thunderstorms Likely",
-    "detail": "Showers and thunderstorms likely after 1pm. Partly sunny. High near 84, with temperatures falling to around 79 in the afternoon. South wind 2 to 8 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible.",
-    "tonight": "Chance Showers And Thunderstorms then Mostly Cloudy",
-    "high": 83,
-    "low": 64,
+    "headline": "Patchy Fog then Chance Showers And Thunderstorms",
+    "detail": "Patchy fog before 9am, then a chance of showers and thunderstorms between noon and 2pm, then showers and thunderstorms likely. Partly sunny. High near 82, with temperatures falling to around 79 in the afternoon. North wind 3 to 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.",
+    "tonight": "Chance Showers And Thunderstorms",
+    "high": 81,
+    "low": 63,
     "source": "https://api.weather.gov/gridpoints/BOU/63,62/forecast"
   },
   "calendar": [],
@@ -18,222 +18,222 @@
     "sports": {
       "Broncos": [
         {
-          "title": "Game preview: Broncos' starters to see action, rookies poised for debut vs. Falcons - Denver Broncos",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHRMWlRJQXZHNDRRVnJGNkRUS3d5STBZa2U2S3Vwei02U2RTUl9POXZxdHowVlFCb0lfbXJSdWxCS0wydkVOeXp6TDhNdUVYOXlmQlRmZG5GRHNUUkExWG9hNTBkcThDM2ZZSTUycURQVXg3Z2t2dnVPT2dGakJ5YkQ3UU9SZmo0aEZDbWN3VlFxek9UcFJHR0x4QlZpSTY1S1FNanBPanRKX2NrMU5QR3d6LXc?oc=5",
-          "source": "Denver Broncos",
-          "published": "2026-08-14T08:05:29-06:00",
-          "summary": "Game preview: Broncos' starters to see action, rookies poised for debut vs. Falcons &nbsp;&nbsp; Denver Broncos"
+          "title": "Broncos stock watch: Risers and fallers from first preseason game - Broncos Wire",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbzFNeXRFLS10U3hQd0doRjdQSGtNYkkxbUZhUWhOWnBPbFdYQU1LNDQ1bmpKZTdOT0FYdEktaWc5OXZzZGNFVDhSV25ESHMzWTFOclVnSjVJekJacWItMkduQkNUR3VqQU1WRkhkd182M0t6Y2NBR1FuQzdwMmlNN2hlRnNfVWxoV3JNVEtwLUVWREd5U1E0VHV0Zng4aVRSUV9BbFVQODBaTXlZQ0lxSVRMOVdBaEtMQ2pQYkJBOExscHpIY0JfMkhaZkJqWmM?oc=5",
+          "source": "Broncos Wire",
+          "published": "2026-08-15T07:01:00-06:00",
+          "summary": "Broncos stock watch: Risers and fallers from first preseason game &nbsp;&nbsp; Broncos Wire"
         },
         {
-          "title": "Broncos vs. Falcons preseason: How to watch, game time, TV schedule, game preview and more - Mile High Report",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXZxZ1lzbkhPejZlcGZsYkkwY1g5RDRWekg1Q3dPaVBibHFoZGlscG1TT19fMHFKUWdzc2NMXzZEem1pNDZRYkxGMWhpQnJkX1RFdkdQcUZSTDRDVE56ZkdSdnpkcHFGN3JtYWZEbjBqaUhtNjR5NU5CbWl2MmxhU2I2ZXBCX2lpMXRXalpFOEk2V01Bd2NkRmNTY2JoLU9vaENvNkRMU2tvUVdZMGlMQnhPSF9nalVaQ0RwOQ?oc=5",
-          "source": "Mile High Report",
-          "published": "2026-08-14T05:00:00-06:00",
-          "summary": "Broncos vs. Falcons preseason: How to watch, game time, TV schedule, game preview and more &nbsp;&nbsp; Mile High Report"
+          "title": "Game Breakdown: What happened in Falcons' preseason game vs. Denver Broncos - Atlanta Falcons",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0I5Vmo0OHZKMXVyLUF3NTJCN0VPb3ZQQzlfWnZid2dVRm5ITExuMThWdmlRUmZYUDI0eGhJbF9ydGp2Qk1zUVJNanp0VjlVSThkTm5GZnhDdzY2ZVpSMXBhWExxeGZ3Q0l1YW5XeHpfT014SWUxRDE2cjRoRm93cjhwWFY4MHhRNGY3T3l6cnNJODJjZS1mUkpTVF95dy02dkU0?oc=5",
+          "source": "Atlanta Falcons",
+          "published": "2026-08-14T20:24:12-06:00",
+          "summary": "Game Breakdown: What happened in Falcons' preseason game vs. Denver Broncos &nbsp;&nbsp; Atlanta Falcons"
         },
         {
-          "title": "How much does it cost to go to a Denver Broncos game in 2026? - The Coloradoan",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV1llTG5YZHotcFAtQUdGM2dhMXhBbnNPZVMyNjhwSnFjWVA2NFBBSzF0MEZQcERWNm1oMmx5QjJhRDV1RVZmWjUxUFFPVnRKS2JlTU44RzlPc0VNd1lEcVlhbndpZnhtdXM3SWhZSUxSRWQyVW93emdFMWFFLXRqYzJiUWNPMkotaWFXRnc5ZTcyNmJsSjFScGNXd2J5QkJ1SXZBSVBUdjl1alBqa2tVR1JGTTFDVDNXZUxOaXRxZ3k5TWhUZk9LeXVBUGlKTnNzQ0E?oc=5",
-          "source": "The Coloradoan",
-          "published": "2026-08-14T05:01:00-06:00",
-          "summary": "How much does it cost to go to a Denver Broncos game in 2026? &nbsp;&nbsp; The Coloradoan"
+          "title": "10 Bite-Sized Takeaways From Broncos' 27-7 Rout of Falcons - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3VCX0duUW5XQzRfRTZOTTU1Nl9lNkk1Yzg5QzZYN1EwMlNvbVkyU1U2T29KSmx1eEJzNnY0c0hNeDd1V1FrLW5zTUhYUjk2R2MzOHZQX3ZCZWVzSGdNN1gzajk1cGx0b2xJRzhaOWo4dVV4LXpfdUJ6dmI4SzQ3cmMteG1lWjNrMG1tMGNaZTNiZUY1cGNoUQ?oc=5",
+          "source": "Sports Illustrated",
+          "published": "2026-08-15T07:00:02-06:00",
+          "summary": "10 Bite-Sized Takeaways From Broncos' 27-7 Rout of Falcons &nbsp;&nbsp; Sports Illustrated"
         }
       ],
       "Avalanche": [
         {
-          "title": "Brock Nelson Believes The Avalanche Are Hungrier Than Ever - thehockeynews.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWElFRHYyWUNTZ0JUTTBZenNxdXE3OHdJVkJ0WF9SeGF5NVg1Z1F4dXZUejNZY25QWXRaUWhCTWVLeTJlWlZsd19TS1F6V1JPcS15cF9ybUdoOVV2MjhaeEJlT29uTGM5VzctT25pTTR4N0gzWklFdVVMRV9EdEtmd3pxWkc0ajlKa25QVXZXN0RhcnozaUFXRVBPdjloRXE1UTNyVlByY0FNSHpLLTdaaHVQS2JRXzFIYWxB?oc=5",
-          "source": "thehockeynews.com",
-          "published": "2026-08-13T16:18:05-06:00",
-          "summary": "Brock Nelson Believes The Avalanche Are Hungrier Than Ever &nbsp;&nbsp; thehockeynews.com"
-        },
-        {
-          "title": "Avalanche Have Weapon No Other NHL Team Could Match Last Season - Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHFmY0JUeG0zLWo0aWJKV1ZEOWlkd055MmlCQTNhdHBSZUFPXzRXdFkwaWhPZ2RtU1lyNzFUQjlDeHo1SzZaampxa3Z3SkVmQ2VGTW9CUzdFaUU3aHBRVWZJS0c2WjhBcGwtNWhvRl9KYl92bTk3SzNIUGxRRFZMWUF4cnpQejBYZWZRNUxYa19LTkt5ZEdQTzJwUjBCdkpzd19kUVctTEFxUQ?oc=5",
+          "title": "Avalanche Legend Joe Sakic Is Putting the Skates Back On - Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0p2WmsycXhqWjJENFpySkhOOHJQTjlpNUstWWY5ODU1QWtiSTNfWmxmbXJhNzdoVmRScDlWYUhfUV9VYXRscFVHTWx5TWp1R0l0Zk5nb1JBcW9nWjJFblN1M3JUMlVvS1Qxc1lGVkF2dVdZcGJTajAyRlBNYmxGWnlhMlBCTHd6YXpPaDJNQi1WQ3pza3Rr?oc=5",
           "source": "Sports Illustrated",
-          "published": "2026-08-13T09:55:45-06:00",
-          "summary": "Avalanche Have Weapon No Other NHL Team Could Match Last Season &nbsp;&nbsp; Sports Illustrated"
+          "published": "2026-08-14T19:38:13-06:00",
+          "summary": "Avalanche Legend Joe Sakic Is Putting the Skates Back On &nbsp;&nbsp; Sports Illustrated"
         },
         {
-          "title": "NHL announces 2026 preseason schedule - 9News",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTnBQSVdYVFJsV0M4U0Zuc29icHgxQUpHYUFwTHJHdDNnVzItVlVkWElXSm41WGNRanBYVkJWTWhoTnBEd1hsdVJZZ0RKZ1Bzcm5felE1bElfVVFOTGg0YkxKNEh0MllWWUFWeHMtRGlWeC03akl4c083YmVVRlB6eEpDTlVNUl9Bd0tWUHVQMVVHaUpuZWJQTGpkWkh6SnNpTVR5RTFJdHp1NWlRMDZOekp3eWdoaEp1bFpnUE1iaFlxRkVYNTNmdzdsaXZUQQ?oc=5",
-          "source": "9News",
-          "published": "2026-08-13T11:28:00-06:00",
-          "summary": "NHL announces 2026 preseason schedule &nbsp;&nbsp; 9News"
+          "title": "Avalanche Mailbag: How Will Colorado Handle Its AHL Goalie Competition? - Colorado Hockey Now",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2RIQmV5bUgzQlU5TmxxMlFnNXBnWWxySmRKQ2VEa2ZueVdVdFhWaVpvUGgzSFFmM2MxUjd1c0R2cnBWZUlncXpaTHFjR0hOVG9VZUZ1bjRJT3BFNEdwa0RuaWhmSFNnVjlwOEJSZUZwOEFmMW5XOGRPeHdkemE3Nm95Sy0zZ2xEQnFJWUlGY1hMWG4yZTFWWXNTakxFQmhYdWc?oc=5",
+          "source": "Colorado Hockey Now",
+          "published": "2026-08-14T11:11:00-06:00",
+          "summary": "Avalanche Mailbag: How Will Colorado Handle Its AHL Goalie Competition? &nbsp;&nbsp; Colorado Hockey Now"
+        },
+        {
+          "title": "Avalanche Alumni Game Features Star-Studded Roster - NHL.com",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Dd1B5T1A2ZFNqWlhrN3NBUUZESWpkOVVJZjBSS3FOS2tsa2RocHZ4azBvcUEwY2UwampqM0Y0WTRGRGRGd2piOXVHSFllMmluSS1MVGhzRUNwSFpDdXc4cW9BcHVsLW8?oc=5",
+          "source": "NHL.com",
+          "published": "2026-08-14T11:01:49-06:00",
+          "summary": "Avalanche Alumni Game Features Star-Studded Roster &nbsp;&nbsp; NHL.com"
         }
       ],
       "Nuggets": [
         {
-          "title": "Denver Nuggets - Minnesota Timberwolves - Flashscore.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWW91aGJwTWpsU1dudlU0MS15cnI1NHl5X2pPaEV3Nk9vZ3hQQ2laUVVmWGRyS3J2NmpGeF9FcEs1cUstbGhlMjdHR3YwRWdDNnlOYmdUelJVZkR5Nk1yR3BKMENGbkJDNkhZN1E2a1JGRnkyeEo0djFGdEJLa3hJVHJvQkU2ajR5ajBlSGNsYlBmYmdNWlFBRlAwdjRjTldkVHc?oc=5",
-          "source": "Flashscore.com",
-          "published": "2026-08-14T03:06:09-06:00",
-          "summary": "Denver Nuggets - Minnesota Timberwolves &nbsp;&nbsp; Flashscore.com"
+          "title": "Nikola Joki\u0107 - NBA.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1dGSnM3cDBGb3R4eVpkZmpkM3EwZ3Z1WmxOcTh3V0lkUE1VZkcwMHNSS0xtUGhZQi1mZ25lWGgxVDh0bUpZQnhQeWtJcU5lNm5SbG0yTEFJUEg5UWtrYjBWWkZFS2o5bVZRU3QxXzhqMnhDdVFWRk8taURnSEZETEt5NW5pTHU1MWs4ZVlSZjRlRWdRcUU3WDB2YjBZVFMzaEkwUTZ3RWdlWFNQeDYwNDZVME1mOUpPb0QtS05IRzI3d1hVb0tmWmRuWQ?oc=5",
+          "source": "NBA.com",
+          "published": "2026-08-15T05:08:16-06:00",
+          "summary": "Nikola Joki\u0107 &nbsp;&nbsp; NBA.com"
         },
         {
-          "title": "Los Angeles Lakers vs Denver Nuggets Dec 19, 2026 Game Details - NBA.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmtaZlNObktrdDJfTXc3Wi1DQ1lpRlJjMHl3a0pxRmZyb2twLXZUTkpwb0laMDc4QVN4bXI4Qlo0U1VWVUo0NHBmUnVSX005N19sRm4zZjNYckFqaGtNbTdqcklyLVBSRG8xdXRUeXFkQV9lb1Y1MUtxM3NEUEh5aWljUXBpVXJ3?oc=5",
-          "source": "NBA.com",
-          "published": "2026-08-14T04:29:34-06:00",
-          "summary": "Los Angeles Lakers vs Denver Nuggets Dec 19, 2026 Game Details &nbsp;&nbsp; NBA.com"
+          "title": "Why the Denver Nuggets\u2019 Schedule is More Favorable in 2026-27 - DNVR",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNaXpIaERWWGRkMFJuczhPQVU0YmxmZlJqMlNEX0RWbmxtbFpxa3RFNnFiaEx6dHNjd2ozQjRWaS1aLTJqa0FuNjY3UUJnSXplYUJGb0ZJS2tuMmhiYkNPMXd2TVhyNnFWS2tfOFU0SHVySGJVNEdrd3p3?oc=5",
+          "source": "DNVR",
+          "published": "2026-08-14T15:40:34-06:00",
+          "summary": "Why the Denver Nuggets\u2019 Schedule is More Favorable in 2026-27 &nbsp;&nbsp; DNVR"
         },
         {
-          "title": "Dallas Mavericks vs Denver Nuggets Feb 4, 2027 Game Summary - NBA.com",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUUFpaHpEWVJlZVU0aTAwUHdrQ2Nhb0xBSWtDb1FmbVdDbThnVkc5TUF4aFlSUWpnZ3dockZIS2Nqc0t3bnVvMDVmRQ?oc=5",
-          "source": "NBA.com",
-          "published": "2026-08-14T01:50:01-06:00",
-          "summary": "Dallas Mavericks vs Denver Nuggets Feb 4, 2027 Game Summary &nbsp;&nbsp; NBA.com"
+          "title": "Could the Denver Nuggets Land Kevin Durant? - lindyssports.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaam5ZZ2J2d1pHeC15eW5GbnhvNVBtTllVNklNSEZ0TXo1ZnZEdTd4OGVJNG95blNxa1VwTXczZk45UmllTV9vTndHWkxwYlNXOUhYRzhmbkFtUm05Sm1UdHd3YngxUXozbkgwdkIyaUNsZmp6MUFLcGhvdw?oc=5",
+          "source": "lindyssports.com",
+          "published": "2026-08-15T07:27:29-06:00",
+          "summary": "Could the Denver Nuggets Land Kevin Durant? &nbsp;&nbsp; lindyssports.com"
         }
       ],
       "Rockies": [
         {
-          "title": "Friday Rockpile: Lessons in organic chemistry: Meet Rockies performance dietitian Sam Hawkins - Purple Row",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTzhsb2JZQWpETTZxdnRqbGZLSE1QbE9ZNDFPang2bExZbzZpeGt1N3d3anR5YzBSLUczbnhMWXlxTXRMMnFSLTViWkZyeE9ySzhnLUVDVWZPRTJjeVZja2hvUG5kMUNTUUpzM2k0dFRodDNTNmFpWlhjc2VOa1piOGpSbjF0Vml4RHQ2bXFWYlBOQm8xeW92bmJRdzMyUGI2d0ltVzFCTjYyWXhOTEpnVVAyVmR0UjhGTXpWbXdHSnNOSVZCenBZYVRJZ0pwY210?oc=5",
-          "source": "Purple Row",
-          "published": "2026-08-14T06:00:00-06:00",
-          "summary": "Friday Rockpile: Lessons in organic chemistry: Meet Rockies performance dietitian Sam Hawkins &nbsp;&nbsp; Purple Row"
-        },
-        {
-          "title": "Lombard embracing little things as he begins to carve Yankees legacy - MLB.com",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVVoRHFwN0VUNm92UXZ6cEZVOV9hQnVrOFA4U2JqeHVuXzZZTnBsMno5QVczRTdyTTl6bTFPckN4T0tqcHNBc3pJQ2ZXTVZ3SmJTaHlqNDlHRVJ4bmdZcFNUbnZlblZ2N05JX3piczlMaWwtM2x6OWtLQ1RPRXFNYXowTmZyTTU3V1VCdTdZbUdRa1NqWTBkX1Q3SmFTLVdrTHRnOEN1RnZoaUhHLXFhZjduSkh1c3VhYldsMVZtUQ?oc=5",
+          "title": "Colorado Rockies at San Francisco Giants Game Story, Scores/Highlights - 08/14/2026 - MLB.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wWnVHTG1fcEhLM2liMmxqZjVYU0lteXItY0ZvQnAxS0ttdXdOR29TUURfYm05eEFLYzdiWFh1LWp0MTZfR0p0dmlXN1lFcmlm0gFQQVVfeXFMTjBadUdMbV9wSEszaWIybGpmNVhTSW15ci1jRm9CcDFLS211d05Hb1NRRF9ibTl4QUtjN2JYWHUtanQxNl9HSnR2aVc3WUVyaWY?oc=5",
           "source": "MLB.com",
-          "published": "2026-08-14T06:53:59-06:00",
-          "summary": "Lombard embracing little things as he begins to carve Yankees legacy &nbsp;&nbsp; MLB.com"
+          "published": "2026-08-14T20:32:18-06:00",
+          "summary": "Colorado Rockies at San Francisco Giants Game Story, Scores/Highlights - 08/14/2026 &nbsp;&nbsp; MLB.com"
         },
         {
-          "title": "Rockies vs. Giants (Aug 14, 2026) Pregame - ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJZDRpbWJpYXkyRlZ5ZVh0VUxQYmJvVE9XWXZ3OEN0cVIwUS1PZk8tbTBEMUMta1NTLVdYdlR3c3Y3QTNHMV96TVc4R2hGWklEMGRBSTBqZlIzMTBw?oc=5",
-          "source": "ESPN",
-          "published": "2026-08-14T02:05:17-06:00",
-          "summary": "Rockies vs. Giants (Aug 14, 2026) Pregame &nbsp;&nbsp; ESPN"
+          "title": "Saturday Rockpile: Connor Norby could raise the bar at second base - Purple Row",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkxXTGNHV1RPZDhMNXd5Sy05S05GVm41TzJkdXhiU3NMS3lWY2FLYzJaME9VdFNSQ0toblhuVXRZQy1RS0Z3MlNjdHQ2MFg5LURQTXlsbW4zM0tjeW9BX0VWWEJWeFpWaW96UzMwaFpIR0RkREZfRU5Sa1FsWjRSQWlaRzlUSmdaUVZjSXZ0VmlZLWsydGVOZ19WVHVKZU1BeUNmUQ?oc=5",
+          "source": "Purple Row",
+          "published": "2026-08-15T06:00:00-06:00",
+          "summary": "Saturday Rockpile: Connor Norby could raise the bar at second base &nbsp;&nbsp; Purple Row"
+        },
+        {
+          "title": "Riding high, Rockies try to take down Logan Webb, Giants - Field Level Media",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUFiUF9CTzNfRUFNRnJMYVJUZjNPR0VjUW9iOEs3NjI4a1puekNPX0dFWkhnLXlfMUhXNzVieW5WaE02N1k5TGJZbl8wWWJIcmFick5WOXhNSU4wSlVsQnBycG5oMk9Gb0tDMi0xeGlzZWtqM0pYckxaZ3c4bURjSGtGWVpjM3NrT1RKc2tjdlc?oc=5",
+          "source": "Field Level Media",
+          "published": "2026-08-15T06:07:34-06:00",
+          "summary": "Riding high, Rockies try to take down Logan Webb, Giants &nbsp;&nbsp; Field Level Media"
         }
       ]
     },
     "us_news": [
       {
-        "title": "US also wants trade deal before August 19 tariff deadline, Canadian source says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTI1M1RiLVl4cXJYa3NVRVBKaVFwTnptQU1KX1BaLVFaUE1iVGJTajd0OHhuQXl5bmtIWnBZYWdCVnFkNV9XVk9yM21ncGdhaU5RWDI1YU1QSmlZWFduUGc4TVFZdVdaMjhRMG43M2R6YjZWcmZGaFg1NnUxRi1OTVB6R0UzS1RkV21XdGVFVDIyNXdzMk80bG9tampEbG1TUTFkdFJyTW40OVR6ZlRYVDlhVjZCazlxVHc?oc=5",
+        "title": "Woman charged over vandalism of Washington's World War Two Memorial - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5",
         "source": "Reuters",
-        "published": "2026-08-13T17:16:43-06:00",
-        "summary": "US also wants trade deal before August 19 tariff deadline, Canadian source says &nbsp;&nbsp; Reuters"
+        "published": "2026-08-14T15:33:52-06:00",
+        "summary": "Woman charged over vandalism of Washington's World War Two Memorial &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "World War Two memorial in Washington vandalized with bubbles and graffiti - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDQxWXZNVFZOQVFVeTNWX2hPaXNnbjkxQ01KbGZhY0hCSVlsd2NSU1pPdkVPSTk4MnhsbFdOWkZpanhBbWV1MXY1elJYeHFMSjZybmpJNmNZWVJ0d0VXSkVvbTY2SzVwYWwzbG9CcTJ5WFlCbWcxQXVjY1lJM2RCZlJXWHdMcmp0Z29FVHBUcGNRMXlhNDZ6NGw4SURUeDhlamNSN1VocHpqQkNoaWlqSg?oc=5",
+        "title": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGowTHQxV1lGUC1MamNySDBPMHpVUWJFM0pMVUh1NGRJbEd4b2ZVenhuZ05zZVBwQ3k2UTdlSUotTjNzYTNlNWo5LUw4cXlHbHZqdVp6RzBQVHB6NWpyemwyVnU3VHJ1YXdublVtN053TVFTcGJoNkdabjR3cDc0ek5sNDh5Tl82YzAxZHhUQzFVT2k0bFR6Z1VJWkVNTTVaem1pZmZ4WUkyTGNIWkg3Q25CQm0ydVJVeEdr?oc=5",
         "source": "Reuters",
-        "published": "2026-08-13T16:28:00-06:00",
-        "summary": "World War Two memorial in Washington vandalized with bubbles and graffiti &nbsp;&nbsp; Reuters"
+        "published": "2026-08-14T12:23:56-06:00",
+        "summary": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
+        "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
         "source": "Reuters",
-        "published": "2026-08-13T10:43:12-06:00",
-        "summary": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says &nbsp;&nbsp; Reuters"
+        "published": "2026-08-14T16:36:06-06:00",
+        "summary": "Hormuz traffic slows further after US threatens more economic pressure on Iran &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Fitch keeps United States at 'AA+', cites economic resilience amid fiscal risks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3VHdVVTclhhTEEtVG1sWVVUTEpEcVBfakt3V0lmdmxhRWVMNnhaMnpNQWZaaXhUc0MxcE1JNVdhYUVfSGhvMndwZ0dlamtBOW8tanZvdlVwem10MWpxVHQ4Vm5FRUtBRnpqbnlTOTFhZFNHeXE4cDRjTnFJb3NTYjBydXo5Qkk?oc=5",
+        "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
         "source": "Reuters",
-        "published": "2026-08-13T15:45:26-06:00",
-        "summary": "Fitch keeps United States at 'AA+', cites economic resilience amid fiscal risks &nbsp;&nbsp; Reuters"
+        "published": "2026-08-14T15:53:39-06:00",
+        "summary": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamFTRDhha2lGLW5hTU1KdDZnVjlxd2hEY1lqX3Zfd2NmVlRXZjVWbDNHMXdJem1SX1hsNUpoaF9lWHhYUVFmUWJ0SDBWRG5uOGMzYzI0MFh6ckthOWJNZXNtR0tJVFJFcEMtVjdwZVFpdURyczZ0NTkzMDh1dDJNRWxKQ2htMEpBQ3N2Q25OY19wRWxaYTVCTmJJRWprVFFSMWNITjl4QmUxQVN1MUFnNHRsRWJGYUpHZ1Ywb0Nn?oc=5",
+        "title": "Son of former Mexican president says US revoked his visa - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3Y1Vi1LUVJ3aWlaQVNWaEMtcUJ0YWowZ3dwSUVIZm05d2ZWbkk5OXUxU2Q0RkdodmR2a2xuamRwYXJWMjZWMVVpRV84YlhyVEg4Q0ZhOG1RY0xBSzVseXhzeTY4bkc3ZTRHMllZVDB2UU9EQm56TnpPck5WYmNNR1JkZnVCYkJwbUFZMkwtY0lPM2JIdERWa1VaLXRjYTh3OVNCN1lMOA?oc=5",
         "source": "Reuters",
-        "published": "2026-08-13T15:53:00-06:00",
-        "summary": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure &nbsp;&nbsp; Reuters"
+        "published": "2026-08-14T10:43:55-06:00",
+        "summary": "Son of former Mexican president says US revoked his visa &nbsp;&nbsp; Reuters"
       }
     ],
     "world_news": [
       {
-        "title": "Japan's record rains strand thousands at Narita airport; kill eight - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdWlMcU5OekxlSmtsekpRTVhsZG5hdWJzZm84WDlSVEVLVmlNSEpjdDBUZFl1SHVQNXRta2RtVkI4ZlBRY1l6SzdlOGZ3MGs0aEZGT3hZRVlRSkFPTkpsUGNDemdLN05MdTV4QUZGVHVkZzJuTFNsNlRTTEVseWRkVG5BbGFRZFRFbUswb2FOb0Nhc0JpbWVHaXNXNXpMM0hHNXpDUmxNY3lSWGx4eGVadFc0SUFXZG1jU3RVdWZzTkVFdw?oc=5",
+        "title": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHAzWlJUdUZ3VndvNDNVbU1vRjMwalBSZUxCVHVwWFBaWnJuend3SXZVMDI3YjA0c2F6SWh2emFEM2lPRWtOWV85MmRRTlYxUWxBbkE4S0dha0toS2xnVXh5UmVNcGxzWWxOQzlrRGRGLW03UGxSa2ZLLUk5SjRlX041LWFWdEV0cDJwLUlKZGlVU1FEbWV5SFYwZ0w1bGVOeW9HWTRtV1pvbkZ6TDNNZ183eXFTTWVmZ0E?oc=5",
         "source": "Reuters",
-        "published": "2026-08-13T19:09:00-06:00",
-        "summary": "Japan's record rains strand thousands at Narita airport; kill eight &nbsp;&nbsp; Reuters"
+        "published": "2026-08-14T16:06:05-06:00",
+        "summary": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Chinese chipmaker SMIC increases prices on strong AI demand - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckEwZzMtQ1lJZW1sR3ZnSmxxQ3BjM3phX21WczRwbWxWZ1UtY1kzTXJKcXJGVnBaOFF4XzFrSEJfZUtTTVFJMVNpU1pnVm1mb1dWb0RHN1FKSkNNWlF6eW12NmFBU1Vwazg5UzJMdlloUkFmaFhiYzdJOWZ0YXo2dFFqTGRlUXZqeVF3Z0VHdDVadU5xZkVFam1nZkxIbFZacXE4YXdTTQ?oc=5",
-        "source": "Reuters",
-        "published": "2026-08-13T21:09:00-06:00",
-        "summary": "Chinese chipmaker SMIC increases prices on strong AI demand &nbsp;&nbsp; Reuters"
+        "title": "Photos show the World\u2019s Ugliest Dog Contest in California - AP News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcngtVnUtREVpMDVKR1RTZUlHRDcxRGM5enJDWHphQVdsUElnbHNUZkFCMF8xZkprREhEYkJ0emp5cEJoT2dFdkU2cmFQNnZEWjMtUVBLbEhVMWlYVmJUeW1wMDA0bWdjMXBfMndvYkFXN0FwS3BzbmhtOWFwN0QxU2d6dnpXcEhUS3U1UnN5Wi1ncUxqV2Fv?oc=5",
+        "source": "AP News",
+        "published": "2026-08-14T23:07:38-06:00",
+        "summary": "Photos show the World\u2019s Ugliest Dog Contest in California &nbsp;&nbsp; AP News"
       },
       {
-        "title": "Air India A320 briefly lost key flight controls, Airbus analysis shows - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1dOT2VGU2hhRVpqX0JCTnRiR1VydTZMbkJ6Z2lkOVBSc3BncGhTbGpROVFXc0E1dkI5WWRaQ0tJLTJXNVZyY256U1Rmb1Q1SnBsN1lNTUswWlE5SF9ua2RGWGpTUlBQQ2llREpTNDlUQjV0UGRYcnVtbXI3QnRHZEZTWjBvWjdkdC1ETU12dXUzaTBsWWFQQlJmYnJISWxnN2R3QnJJUkZuMVZ0OUozc2liMlk4VVQzeXpZSFZ5UFM?oc=5",
+        "title": "World Bank says it disbursed $200 million to Colombia for quake response - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXl1Z1pBR3pMcThvc3JRNVlNblVoZU9OVk15ZUp4VG4zUS1GM2FGRkZzZ1M0eUhaMXh6SWt4a3VBX0NvbjcycVJOcnVOeWxoOWJ2QWJERlBoN0ZSWERTVTloTFRTZzZhbl9SWlNVMTRYa0Z6eXlNNEhzUGtXdzRpV1h1dUZwTmFfaFpUQkladGlQTDNKZmNJR3YtRzJwRjYwaU05X3lhTm02OW9nR3BzNXEzVUIxZlFMRUtDNTNB?oc=5",
         "source": "Reuters",
-        "published": "2026-08-13T22:54:00-06:00",
-        "summary": "Air India A320 briefly lost key flight controls, Airbus analysis shows &nbsp;&nbsp; Reuters"
+        "published": "2026-08-14T08:47:35-06:00",
+        "summary": "World Bank says it disbursed $200 million to Colombia for quake response &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",
+        "title": "France's top court blocks social media ban for under-15s - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV254M2ZlOFJMWGs3OWlkUzVERktNOU8wei1RUzFBN0xyRkZQSkhIQ0ZlR21BWkV6c1VJNjFVZ2dfLWk2MHVtMDM5MDZtLXJlN19JYVhDSzd5NlFzZjhrUVVfWm9VTUdPbWVVOXRzaUY1RzdjUlhmWm5aczVLTlR6SGlQYjhKVk5PQ1Z0SkZ6enE5ekFGa0FnaThGS0ZfVEtsWUVDeWRVOFdRZ1AxSkpN?oc=5",
         "source": "Reuters",
-        "published": "2026-08-13T15:21:16-06:00",
-        "summary": "Are global oil stocks big enough to weather another six months of US-Iran war? &nbsp;&nbsp; Reuters"
+        "published": "2026-08-14T10:58:29-06:00",
+        "summary": "France's top court blocks social media ban for under-15s &nbsp;&nbsp; Reuters"
       },
       {
-        "title": "Rate hike bets leave yen's post-intervention gains at BOJ's mercy - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjZNRUNjVFhMSjRuaXZCV2lWYTRuTUpKYWcxV2lvd1RSd2paanU4QjJxTHRpaGNGQUF5aU1MRzExdVFfTU1UMzFXYlNCT0d5aXdGMFhDUlM5a1ZnYWxLTXlLc0F1UkFjTE1vSk9xMUs1SE1HTnRMR3ZUNndBOVZoUTZBNmNKMWJnUXF0SW4xNHdXUWxDY19EX2hNblhhV21PY1ltdzFKV0FLQ3lLeGpqLTlEcHBpQQ?oc=5",
+        "title": "UN urges support for Afghan women amid tightening Taliban curbs - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGtNUWJianY2OGdyTkhfX1hwSkRXelM5U0R4a0FuT2xxR0ZCbV9NeTFBVE5aclNySDlCQkdaYlBuSkg5WElUTHVVeHpwRE56ZnJENUdlQ20wb3VyWlZENkxsMnpGR2tkRzhDWEc5Qk5TX3M1WEM4VklWeFlmQjVjSzNDWjFSckVNVDBHREQ5UE16RkNCQWpyR3VRdHN1eXZhUWVsei1UWGhBYzRvakZLSlJVM3k?oc=5",
         "source": "Reuters",
-        "published": "2026-08-13T16:00:23-06:00",
-        "summary": "Rate hike bets leave yen's post-intervention gains at BOJ's mercy &nbsp;&nbsp; Reuters"
+        "published": "2026-08-14T15:17:39-06:00",
+        "summary": "UN urges support for Afghan women amid tightening Taliban curbs &nbsp;&nbsp; Reuters"
       }
     ],
     "auto_industry": [
       {
-        "title": "German auto industry employment falls to lowest level since 2005 - Anadolu Ajans\u0131",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWhFSndpb1EtaUs5TjR6ZGt1d3pFYmFxYThtLThEMXgwSXpWVGI4eG9fQTB6a0ZRNnYxdXJMZ3NNSkhIclMxaXNKaTFUWXlCTXNhaDFKMk9ycGhuV1p4a0o2akp6Uk96b2d5cEFrOGx0NFlBSnJ4aXdRWUJLVmRwcjdoYVgtTFNVU2JCMXFWNGtaS2Uwa21CYnc3eUwxckllQVVFaGhvUDU?oc=5",
-        "source": "Anadolu Ajans\u0131",
-        "published": "2026-08-14T04:30:33-06:00",
-        "summary": "German auto industry employment falls to lowest level since 2005 &nbsp;&nbsp; Anadolu Ajans\u0131"
+        "title": "How long will software-defined cars last? The auto industry doesn't know yet - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ3NHNzU3V0ItX0FYelpHSmNMMzlWLWR6U0psWUVMVVRic09wRW9ITjd5NjJsdE5wcEE4cEEtaDV5aWZGMWVJNl9GN2RQU0dTTGJPQkhwY1c1QjBPbmFnWTRlaW9mUk13ZFhMRFNCeUg1ZHh6ZUdKNzloTktySFlSTtIBhgFBVV95cUxOeUhHZDBtMFBkd25wd0Fxc0JjTTFfMjB1REN0MkFCb2FYSU4xV2xoR3pDZ2tZWWhmSmotVjE1cDJQT3VzWmdfYW5sQnhtc1kyZi1IRDBpSGhuaG9NQmtLV3Q5cTBLYXd1czVMcTJ3Y1dnN3gzS1pNZU4yRWNLYUZxWUswLXBVZw?oc=5",
+        "source": "CNBC",
+        "published": "2026-08-15T06:00:01-06:00",
+        "summary": "How long will software-defined cars last? The auto industry doesn't know yet &nbsp;&nbsp; CNBC"
       },
       {
-        "title": "Vehicle Sales Hold Steady Amid Economic Uncertainty - PlasticsToday",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTnBtWlk0NUZqOFIxVmFISmpNWHh2Z253LXdVTk1TMkZIR0M2U0pZeUZkRGRJbGV5NHg2U2Ruc0pvZ0dkbWNrV1BEUHJReklFM2hzUDE0QllCQy1EODYxLXczVy1nb3NncmNub1ZINE9qNnRxR1RGQU92eVY2MWRraE44WFVtaHlfV0ZlRk8xTWRjUzQ3b05uUGJQWHBQZG9acXFGbi1KNA?oc=5",
-        "source": "PlasticsToday",
-        "published": "2026-08-14T08:01:37-06:00",
-        "summary": "Vehicle Sales Hold Steady Amid Economic Uncertainty &nbsp;&nbsp; PlasticsToday"
+        "title": "How This Forgotten FWD Oldsmobile Helped Revolutionize The Auto Industry - Yahoo Autos",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2RxYTktVlhLekotWVBfQ3pzaDVoajRFOTRteDhNLXVqdDNLUDdGNHNncGJwdGtKbWozSXI2czZXdkJIbWx5OGdNSjhMMTBheWhsMElkLTM2UGVzamNyVTJtUHN3dGpuQjc2eXJXemNjVHE4MndmNGxqdHlGTnBiSGpuU2ExZG94VFBoaGdHYVBGREhta1VMRDZjWUdlZHBhOFRNcXU4V2paN1FIWjZqX3MwN2VrQQ?oc=5",
+        "source": "Yahoo Autos",
+        "published": "2026-08-15T04:45:00-06:00",
+        "summary": "How This Forgotten FWD Oldsmobile Helped Revolutionize The Auto Industry &nbsp;&nbsp; Yahoo Autos"
       },
       {
-        "title": "How VW's crisis could reshape the global car industry - DW.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzRlazBhVXd4RnFmSXZtNmtseXFRUFEwLVNFTXZMUUM1bm1ucklWejg0N20wcFd2VTFodm9faUl4WDk0bWVLc1pHUTBGSEtBdmFsanlFYkk2cUhOU0VwWGstSkJXc283ZzJFYlN4TE5zWG93SlRDUWZNU0JYY3Y1eUdfd1cwTGVJOUJoTkEwNFhTMGM?oc=5",
-        "source": "DW.com",
-        "published": "2026-08-13T22:24:22-06:00",
-        "summary": "How VW's crisis could reshape the global car industry &nbsp;&nbsp; DW.com"
+        "title": "Germany news: Car industry hemorrhaging jobs - dw.com",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTkMySHZod1F6eDk0WFFFZFZFMU5PaDR2eml0aUJrcFV0R0RMLWJkY3NFenZuNU1EZWtqZVFCR3czTkE4dXRBRzNQNDNJVUVYZV9PTVNwTHFUWExVczRRU1dlM0tVWHJrazlXcDl2eWQxNm9yQzFsVk9MZ3NGZXZSLUc2eGYzZw?oc=5",
+        "source": "dw.com",
+        "published": "2026-08-14T21:54:14-06:00",
+        "summary": "Germany news: Car industry hemorrhaging jobs &nbsp;&nbsp; dw.com"
       },
       {
-        "title": "China\u2019s Booming Auto Exports Test Shipping Industry - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlQ1SldXVWVEU2tRV1FDYjVoV1lBOFJMSk8yZndld2ZaQ0dRbVlEUWV6MVdVUUZ2ejNMdFVYN3hZcXg1Z28wSlhYQVJzTWxGTzJfMmNYN1RRRHAyZDN5LWRXRldQMXp1VHJfbWxzWkpLLWRMQmg3aWVZUEpQVEZMc29wV21JeExYaHFVSUZJLTVjNkVHZG5tZHVqN0o?oc=5",
-        "source": "WSJ",
-        "published": "2026-08-14T04:54:00-06:00",
-        "summary": "China\u2019s Booming Auto Exports Test Shipping Industry &nbsp;&nbsp; WSJ"
+        "title": "From assembly to production: Azerbaijan\u2019s auto industry gears up - Analysis by Khazar Akhundov - Caliber.Az",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWZPbXRYS2lFRmJhdW5NTjVia20wVTZydWFzWFlfNWlLN2w4SkZVaVk5b2k5YVZabVl2OFRfTHFGYjk4U3R2ZndmLTg5SDR5V0dHd29zWjhFb0NpcFI1TmdTYVpOOWg5OF9EU0k2S0FwOUlaNmZ3dDIxdkpEc2VvT2RDR3ZyZlctUFpfanVwMnJaYjNv?oc=5",
+        "source": "Caliber.Az",
+        "published": "2026-08-15T01:15:08-06:00",
+        "summary": "From assembly to production: Azerbaijan\u2019s auto industry gears up - Analysis by Khazar Akhundov &nbsp;&nbsp; Caliber.Az"
       },
       {
-        "title": "German car industry sheds jobs at record pace - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGxUNkowTEVpeDdTT3NrWlBlZWZ1eEVxc01iUkhtMFVaY2JiUThON1hGZFBDZUJFU0Q5QVJLakhTQlgzZ2NXU1M5NGYwcm9TVkF2UWl5aV9RV0FZYWJ0Vk0waGlJMURVSVp4Vng0MDZOUmRnUTBLZEY2OXNabWFCcm9tWVJZOUVzb1YxUzg1czVXUQ?oc=5",
-        "source": "Yahoo Finance",
-        "published": "2026-08-14T01:48:38-06:00",
-        "summary": "German car industry sheds jobs at record pace &nbsp;&nbsp; Yahoo Finance"
+        "title": "42,300 Jobs Are Lost In The German Auto Industry - AUTOJOSH",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xSnQxTTdMRnNpaHZQenljUzZjRzZzWTBBTXVFdkZkcWRMQ1FzdmFZbURsLUZZU3EyWHpvQ1lKYXBhX3QxWml2b3gwbkRhWmxVLUl1R2NFOVFmOTR5amhHWmRIZ2FVSGc4aDBoeUZacUt2RDQ1M2xLYg?oc=5",
+        "source": "AUTOJOSH",
+        "published": "2026-08-14T15:09:45-06:00",
+        "summary": "42,300 Jobs Are Lost In The German Auto Industry &nbsp;&nbsp; AUTOJOSH"
       }
     ],
     "auto_software": [
       {
-        "title": "Cox Automotive report finds dealers use AI widely, results still lag expectations - CBT News",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XZXczZjlCWmlIVFN1eGVqaXN4RzlvRmNkSmNrdUJPOThuejFiOEdDQmlaaFVBT1ZSbHV1WVYyQnV0Z19zaEpPTzVlQWFpMjBBZGljX2VVLXlnOGRYeWFGWDYzQlFSQ3hFZHpEQTVzcV9ucV9Sb3c?oc=5",
-        "source": "CBT News",
-        "published": "2026-08-14T07:23:31-06:00",
-        "summary": "Cox Automotive report finds dealers use AI widely, results still lag expectations &nbsp;&nbsp; CBT News"
+        "title": "The Internet Changed Automotive Retail. Will AI Follow the Same Path? - Cox Automotive Inc.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzZXMmE2VTVTaXpMdy1DV3BvYU1jaUlSS2F4WmExcktDR0c3d1pJU1g4WGF6TFZNNkVBNERhMmFPRXlpeW9Sd0RSZWJrYk1hN3FINnEtdHJ5dUJLZ1c4a05OS1NvQXdSNkFmd2ZzX0VNYjZITUNFZjNJQkxzb0xsR3Ata0ZHZ1R5Q3E5aldaaXQ5X3pzZTJ3S0FZN08xWVVqNkxtRV9Vdw?oc=5",
+        "source": "Cox Automotive Inc.",
+        "published": "2026-08-14T13:32:13-06:00",
+        "summary": "The Internet Changed Automotive Retail. Will AI Follow the Same Path? &nbsp;&nbsp; Cox Automotive Inc."
       },
       {
-        "title": "Car Dealership Software Company Can\u2019t Amend Antitrust Complaint, Judge Says - Mealey's",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOXdzLWU0MWlYMzY3NDA0dXdDUU1zdFBOdEltREZhbUsybWJGTzRjVmtXbzFaa1BUQkQ3MGUyVHByeTFCR2lXZ3NKTlZ3X3dIbTlpanhCUkN1NUJVTU92dzBhcFQ4b25iVDNGdXBudkFyWW0yNjBWajNMczVqTGN3dEtmSkJXemw3T2NMSExlZ2VzRExCNUJlbnI2RTJ2T3I4VkRORHBGalRIaEZjSUJxX09SLUJnNnQwWUdLcXMtZlZFa0ItNDJVY3pmUEFsbWJRQS1CNzBrUG1SMUxLc2dRdkZkQTBGMC1W0gFiQVVfeXFMUFhiUTJlekE3WkplMURlSjYzc2lXWVdXRWpWMG9LYkVKcVhzOF85dHByOVV0QV94bmo0UFczNnNtTnM0aExwbGxONWFvbl9Ebkd1ZGN2X1JzZy1qa0loeGNQTlE?oc=5",
-        "source": "Mealey's",
-        "published": "2026-08-13T09:01:00-06:00",
-        "summary": "Car Dealership Software Company Can\u2019t Amend Antitrust Complaint, Judge Says &nbsp;&nbsp; Mealey's"
+        "title": "Tractable\u2019s LumaScanner Integrated Into Tekion Automotive Retail Cloud - TipRanks",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHVqVjZuOG5uMDZOOGVnMWViSXpCclpSbDdmTnEtdmVpWUROZFltTXk0a3BOQlRpenlmdnZSS056LVhwV2oxczIxUlFRRHY4dzJpV1YxVGJVbnEwZUFFZ2ZNNWZwbWVfc0xPenBHUDRXc092OEkxN0JqbFlFM1Brcms1T0pENkFuQVctS192X212OFFyYmQ3ZUpPdnUxUWxQeEJlRW54Y29aeHpmc3QzNnUtVVpPYi1o?oc=5",
+        "source": "TipRanks",
+        "published": "2026-08-14T18:26:28-06:00",
+        "summary": "Tractable\u2019s LumaScanner Integrated Into Tekion Automotive Retail Cloud &nbsp;&nbsp; TipRanks"
       }
     ]
   },
@@ -330,7 +330,7 @@
     "auto_software": {
       "label": "Automotive SaaS / Dealer Software",
       "status": "ok",
-      "candidate_count": 10,
+      "candidate_count": 7,
       "target_count": 5,
       "count": 2,
       "queries": [
@@ -341,7 +341,7 @@
         "\"digital retailing\" dealership automotive when:1d",
         "\"inventory management\" dealership automotive software when:1d"
       ],
-      "relevance_filtered_count": 6
+      "relevance_filtered_count": 5
     }
   },
   "failures": [],
@@ -359,147 +359,75 @@
     }
   },
   "deduplication": {
-    "duplicate_count": 17,
+    "duplicate_count": 12,
     "dropped": [
       {
-        "section": "sports.Broncos",
-        "title": "Where to watch Denver Broncos vs. Atlanta Falcons - Atlanta Falcons",
-        "source": "Atlanta Falcons",
-        "duplicate_of": {
-          "section": "sports.Broncos",
-          "title": "Denver Broncos vs. Atlanta Falcons - Live Score - August 14, 2026 - FOX Sports",
-          "source": "FOX Sports"
-        },
-        "reason": "summary-overlap",
-        "score": 0.9
-      },
-      {
         "section": "sports.Avalanche",
-        "title": "Colorado Avalanche 2026 Preseason Schedule Revealed: Dates, Opponents and Times - thehockeynews.com",
-        "source": "thehockeynews.com",
+        "title": "Video - Valeri Nichushkin Drops A Bombshell On The Avalanche: \u201cOne Of The Oldest Teams In The League\u201d - The Hockey News",
+        "source": "The Hockey News",
         "duplicate_of": {
           "section": "sports.Avalanche",
-          "title": "Colorado Avalanche 2026 Preseason Schedule Revealed: Dates, Opponents and Times - Yahoo Sports",
-          "source": "Yahoo Sports"
-        },
-        "reason": "title",
-        "score": 1.0
-      },
-      {
-        "section": "sports.Avalanche",
-        "title": "Video - Brock Nelson Believes The Avalanche Are Hungrier Than Ever - thehockeynews.com",
-        "source": "thehockeynews.com",
-        "duplicate_of": {
-          "section": "sports.Avalanche",
-          "title": "Brock Nelson Believes The Avalanche Are Hungrier Than Ever - thehockeynews.com",
-          "source": "thehockeynews.com"
+          "title": "Valeri Nichushkin Drops A Bombshell On The Avalanche: \u201cOne Of The Oldest Teams In The League\u201d - The Hockey News",
+          "source": "The Hockey News"
         },
         "reason": "title",
         "score": 1.0
       },
       {
         "section": "sports.Nuggets",
-        "title": "Denver Nuggets vs Los Angeles Lakers Feb 12, 2027 Game Details - NBA.com",
-        "source": "NBA.com",
+        "title": "One Big Reason Emerges Why Nuggets Might Not Re-Sign Peyton Watson - Sports Illustrated",
+        "source": "Sports Illustrated",
         "duplicate_of": {
           "section": "sports.Nuggets",
-          "title": "Los Angeles Lakers vs Denver Nuggets Dec 19, 2026 Game Details - NBA.com",
-          "source": "NBA.com"
+          "title": "Nuggets' Latest Contract Offer to Peyton Watson Emerges - Sports Illustrated",
+          "source": "Sports Illustrated"
         },
         "reason": "summary-overlap",
-        "score": 0.63
+        "score": 0.6
       },
       {
-        "section": "sports.Nuggets",
-        "title": "Denver Nuggets vs Los Angeles Lakers Dec 23, 2026 Game Details - NBA.com",
-        "source": "NBA.com",
+        "section": "sports.Rockies",
+        "title": "Statcast Game Preview: Colorado Rockies at San Francisco Giants - 2026-08-15 - Baseball Savant",
+        "source": "Baseball Savant",
         "duplicate_of": {
-          "section": "sports.Nuggets",
-          "title": "Los Angeles Lakers vs Denver Nuggets Dec 19, 2026 Game Details - NBA.com",
-          "source": "NBA.com"
-        },
-        "reason": "near-title",
-        "score": 0.846
-      },
-      {
-        "section": "sports.Nuggets",
-        "title": "Los Angeles Lakers vs Denver Nuggets Feb 26, 2027 Game Details - NBA.com",
-        "source": "NBA.com",
-        "duplicate_of": {
-          "section": "sports.Nuggets",
-          "title": "Los Angeles Lakers vs Denver Nuggets Dec 19, 2026 Game Details - NBA.com",
-          "source": "NBA.com"
+          "section": "sports.Rockies",
+          "title": "Colorado Rockies at San Francisco Giants Game Story, Scores/Highlights - 08/14/2026 - MLB.com",
+          "source": "MLB.com"
         },
         "reason": "summary-overlap",
-        "score": 0.63
-      },
-      {
-        "section": "sports.Nuggets",
-        "title": "Denver Nuggets vs Washington Wizards Mar 24, 2027 Game Details - NBA.com",
-        "source": "NBA.com",
-        "duplicate_of": {
-          "section": "sports.Nuggets",
-          "title": "Denver Nuggets vs Brooklyn Nets Mar 25, 2027 Game Charts - NBA.com",
-          "source": "NBA.com"
-        },
-        "reason": "summary-overlap",
-        "score": 0.5
-      },
-      {
-        "section": "sports.Nuggets",
-        "title": "Denver Nuggets vs Los Angeles Lakers Box Score - December 19, 2026 - The Athletic - The New York Times",
-        "source": "The New York Times",
-        "duplicate_of": {
-          "section": "sports.Nuggets",
-          "title": "Los Angeles Lakers vs Denver Nuggets Dec 19, 2026 Game Details - NBA.com",
-          "source": "NBA.com"
-        },
-        "reason": "summary-overlap",
-        "score": 0.63
-      },
-      {
-        "section": "sports.Nuggets",
-        "title": "Los Angeles Lakers vs Denver Nuggets Dec 19, 2026 Game Charts - NBA.com",
-        "source": "NBA.com",
-        "duplicate_of": {
-          "section": "sports.Nuggets",
-          "title": "Los Angeles Lakers vs Denver Nuggets Dec 19, 2026 Game Details - NBA.com",
-          "source": "NBA.com"
-        },
-        "reason": "near-title",
-        "score": 0.846
-      },
-      {
-        "section": "sports.Nuggets",
-        "title": "Denver Nuggets vs Miami Heat Mar 21, 2027 Game Details - NBA.com",
-        "source": "NBA.com",
-        "duplicate_of": {
-          "section": "sports.Nuggets",
-          "title": "Denver Nuggets vs Brooklyn Nets Mar 25, 2027 Game Charts - NBA.com",
-          "source": "NBA.com"
-        },
-        "reason": "summary-overlap",
-        "score": 0.5
+        "score": 0.655
       },
       {
         "section": "world_news",
-        "title": "World War II Memorial in Washington vandalized with bubbles and graffiti - AP News",
+        "title": "Woman charged over vandalism of Washington's World War Two Memorial - Reuters",
+        "source": "Reuters",
+        "duplicate_of": {
+          "section": "us_news",
+          "title": "Woman charged over vandalism of Washington's World War Two Memorial - Reuters",
+          "source": "Reuters"
+        },
+        "reason": "url",
+        "score": 1.0
+      },
+      {
+        "section": "world_news",
+        "title": "Arrest announced in vandalism of World War II Memorial - AP News",
         "source": "AP News",
         "duplicate_of": {
           "section": "us_news",
-          "title": "World War Two memorial in Washington vandalized with bubbles and graffiti - Reuters",
+          "title": "Woman charged over vandalism of Washington's World War Two Memorial - Reuters",
           "source": "Reuters"
         },
-        "reason": "near-title",
-        "score": 0.9
+        "reason": "summary-overlap",
+        "score": 0.6
       },
       {
         "section": "world_news",
-        "title": "World War Two memorial in Washington vandalized with bubbles and graffiti - Reuters",
+        "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - Reuters",
         "source": "Reuters",
         "duplicate_of": {
           "section": "us_news",
-          "title": "World War Two memorial in Washington vandalized with bubbles and graffiti - Reuters",
+          "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - Reuters",
           "source": "Reuters"
         },
         "reason": "url",
@@ -507,11 +435,11 @@
       },
       {
         "section": "world_news",
-        "title": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - Reuters",
+        "title": "Canadian minister says Canada, US far apart on draft trade deal, source says - Reuters",
         "source": "Reuters",
         "duplicate_of": {
           "section": "us_news",
-          "title": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - Reuters",
+          "title": "Canadian minister says Canada, US far apart on draft trade deal, source says - Reuters",
           "source": "Reuters"
         },
         "reason": "url",
@@ -519,11 +447,11 @@
       },
       {
         "section": "world_news",
-        "title": "Brazil opens reciprocity process against US over tariffs - Reuters",
+        "title": "Where the water once flowed: Rivers and lakes dry up as droughts take toll - Reuters",
         "source": "Reuters",
         "duplicate_of": {
           "section": "us_news",
-          "title": "Brazil opens reciprocity process against US over tariffs - Reuters",
+          "title": "Where the water once flowed: Rivers and lakes dry up as droughts take toll - Reuters",
           "source": "Reuters"
         },
         "reason": "url",
@@ -531,64 +459,76 @@
       },
       {
         "section": "world_news",
-        "title": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
+        "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices - Reuters",
         "source": "Reuters",
         "duplicate_of": {
           "section": "us_news",
-          "title": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
+          "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices - Reuters",
           "source": "Reuters"
         },
         "reason": "url",
         "score": 1.0
       },
       {
-        "section": "auto_software",
-        "title": "Car Dealership Software Company Can\u2019t Amend Antitrust Complaint, Judge Says - Mealey's",
-        "source": "Mealey's",
+        "section": "world_news",
+        "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+        "source": "Reuters",
         "duplicate_of": {
-          "section": "auto_software",
-          "title": "Car Dealership Software Company Can\u2019t Amend Antitrust Complaint, Judge Says - Mealey's",
-          "source": "Mealey's"
+          "section": "us_news",
+          "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+          "source": "Reuters"
         },
-        "reason": "title",
+        "reason": "url",
         "score": 1.0
       },
       {
-        "section": "auto_software",
-        "title": "Car Dealership Software Company Can\u2019t Amend Antitrust Complaint, Judge Says - Mealey's",
-        "source": "Mealey's",
+        "section": "world_news",
+        "title": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say - Reuters",
+        "source": "Reuters",
         "duplicate_of": {
-          "section": "auto_software",
-          "title": "Car Dealership Software Company Can\u2019t Amend Antitrust Complaint, Judge Says - Mealey's",
-          "source": "Mealey's"
+          "section": "us_news",
+          "title": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say - Reuters",
+          "source": "Reuters"
         },
-        "reason": "title",
+        "reason": "url",
         "score": 1.0
+      },
+      {
+        "section": "auto_industry",
+        "title": "Germany\u2019s Auto Industry Employment Falls to 2005 Low - UzDaily.uz",
+        "source": "UzDaily.uz",
+        "duplicate_of": {
+          "section": "auto_industry",
+          "title": "German auto industry employment falls to lowest level since 2005 - AZ\u018fRTAC",
+          "source": "AZ\u018fRTAC"
+        },
+        "reason": "summary-overlap",
+        "score": 0.643
       }
     ]
   },
   "curation": {
-    "trimmed_count": 66,
+    "trimmed_count": 69,
     "trimmed": [
       {
         "section": "sports.Broncos",
         "target_count": 3,
-        "trimmed_count": 8
+        "trimmed_count": 9
       },
       {
         "section": "sports.Avalanche",
         "target_count": 3,
-        "trimmed_count": 7
+        "trimmed_count": 8
       },
       {
         "section": "sports.Nuggets",
         "target_count": 3,
-        "trimmed_count": 2
+        "trimmed_count": 8
       },
       {
         "section": "sports.Rockies",
         "target_count": 3,
-        "trimmed_count": 9
+        "trimmed_count": 8
       },
       {
         "section": "us_news",
@@ -598,12 +538,12 @@
       {
         "section": "world_news",
         "target_count": 5,
-        "trimmed_count": 10
+        "trimmed_count": 7
       },
       {
         "section": "auto_industry",
         "target_count": 5,
-        "trimmed_count": 15
+        "trimmed_count": 14
       }
     ]
   },
@@ -636,7 +576,7 @@
       "items": [
         {
           "label": "DealersLink / auto retail SaaS",
-          "signal": "Cox Automotive report finds dealers use AI widely, results still lag expectations - CBT News",
+          "signal": "The Internet Changed Automotive Retail. Will AI Follow the Same Path? - Cox Automotive Inc.",
           "application": "Translate vendor/product movement into a question: what dealer task is still manual, slow, or poorly measured, and can DealersLink make that workflow simpler?"
         },
         {
@@ -646,7 +586,7 @@
         },
         {
           "label": "Future AI business",
-          "signal": "US also wants trade deal before August 19 tariff deadline, Canadian source says - Reuters",
+          "signal": "Woman charged over vandalism of Washington's World War Two Memorial - Reuters",
           "application": "Favor narrow, paid workflow wedges: a recurring report, an agent that saves a team 30 minutes daily, or an integration that turns messy inbox/CRM data into decisions."
         },
         {
